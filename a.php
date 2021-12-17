@@ -1,1202 +1,473 @@
 
 <!DOCTYPE html>
-<!--[if IE 8]>
-<html class="no-js g1-off-outside lt-ie10 lt-ie9" id="ie8" lang="id-ID"><![endif]-->
-<!--[if IE 9]>
-<html class="no-js g1-off-outside lt-ie10" id="ie9" lang="id-ID"><![endif]-->
-<!--[if !IE]><!-->
-<html class="no-js g1-off-outside" lang="id-ID"><!--<![endif]-->
+<html>
 <head>
-	<meta charset="UTF-8"/>
-	<link rel="profile" href="http://gmpg.org/xfn/11"/>
-	<link rel="pingback" href="https://sellers.gramedia.com/xmlrpc.php"/>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Panel Pedia - Auto Followers & Likes Instagram</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Free Panel Pedia menyediakan layanan auto followers, auto likes, dan auto view instagram gratis dan kamu bisa menambah followers gratis dengan aman">
+<meta name="author" content="PanelPedia.net">
+<meta name="keywords" content="auto followers instagram, auto likes instagram, auto komentar instagram, auto view instagram, autofollowers, himzi autolikes, igtools, auto view, Takipci Instagram, cara menambah like instagram, free instagram followers, free instagram likes, auto like gratis, auto followers gratis, cara menambah followers instagram, auto follower ig, penambah followers, followers, likes, instagram, auto followers, followers gratis, followers indonesia, Admin Panel, Panel Gratis, Regarstore, Tools Gratis, gogram, situs penambah like instagram, free like instagram no password, aplikasi tambah like">
+<meta name="language" content="ID">
+<meta name="coverage" content="worldwide">
+<meta name="distribution" content="global" />
+<meta name="rating" content="general" />
+<meta name="expires" content="0" />
+<meta name="googlebot" content="all,follow" />
+<meta name="audience" content="all" />
+<meta name="google-site-verification" content="ud4j8bXC2HvHiWnsrbYf9CHcKd8MkxHzK-kPDau0pic" />
+<link href="https://free.panelpedia.net/assets/fonts/icon-7-stroke/css/pe-icon-7-stroke.css" rel="stylesheet">
+<link href="https://free.panelpedia.net/assets/css/css-index.css" rel="stylesheet" media="screen">
+<link rel="preload" as="style" href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic&display=swap' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" href="https://free.panelpedia.net/assets/images/icon.ico" type="image/x-icon" />
+<style>
+/*!
+ * Bootstrap v3.1.0 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
 
-	<link rel='dns-prefetch' href='//cdnwpseller.gramedia.net' /><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-
-<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, height=device-height, width=device-width" />
-
-	<!-- This site is optimized with the Yoast SEO plugin v17.0 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>10 Cara Organik Meningkatkan Followers di Instagram</title>
-	<meta name="description" content="Followers IG kamu sedikit? Perhatikan 10 cara organik meningkatkan followers di Instagram tanpa biaya yang wajib Anda coba.." />
-	<link rel="canonical" href="https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/" />
-	<meta property="og:locale" content="id_ID" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="10 Cara Organik Meningkatkan Followers di Instagram" />
-	<meta property="og:description" content="Followers IG kamu sedikit? Perhatikan 10 cara organik meningkatkan followers di Instagram tanpa biaya yang wajib Anda coba.." />
-	<meta property="og:url" content="https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/" />
-	<meta property="og:site_name" content="Best Seller Gramedia" />
-	<meta property="article:published_time" content="2021-06-15T03:49:17+00:00" />
-	<meta property="og:image" content="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104526/cara-meningkatkan-followers-di-instagram.jpg" />
-	<meta property="og:image:width" content="1280" />
-	<meta property="og:image:height" content="853" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:label1" content="Ditulis oleh" />
-	<meta name="twitter:data1" content="Ahmad" />
-	<meta name="twitter:label2" content="Estimasi waktu membaca" />
-	<meta name="twitter:data2" content="10 menit" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.gramedia.com/best-seller/#website","url":"https://www.gramedia.com/best-seller/","name":"Best Seller Gramedia","description":"Inspiration Transformed","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.gramedia.com/best-seller/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"id-ID"},{"@type":"ImageObject","@id":"https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/#primaryimage","inLanguage":"id-ID","url":"https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104526/cara-meningkatkan-followers-di-instagram.jpg","contentUrl":"https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104526/cara-meningkatkan-followers-di-instagram.jpg","width":1280,"height":853,"caption":"cara meningkatkan followers di instagram"},{"@type":"WebPage","@id":"https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/#webpage","url":"https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/","name":"10 Cara Organik Meningkatkan Followers di Instagram","isPartOf":{"@id":"https://www.gramedia.com/best-seller/#website"},"primaryImageOfPage":{"@id":"https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/#primaryimage"},"datePublished":"2021-06-15T03:49:17+00:00","dateModified":"2021-06-15T03:49:17+00:00","author":{"@id":"https://www.gramedia.com/best-seller/#/schema/person/024a18e1fba69e46f711e0487d9106b4"},"description":"Followers IG kamu sedikit? Perhatikan 10 cara organik meningkatkan followers di Instagram tanpa biaya yang wajib Anda coba..","breadcrumb":{"@id":"https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/#breadcrumb"},"inLanguage":"id-ID","potentialAction":[{"@type":"ReadAction","target":["https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/"]}]},{"@type":"BreadcrumbList","@id":"https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.gramedia.com/best-seller/"},{"@type":"ListItem","position":2,"name":"10 Cara Organik Meningkatkan Followers di Instagram"}]},{"@type":"Person","@id":"https://www.gramedia.com/best-seller/#/schema/person/024a18e1fba69e46f711e0487d9106b4","name":"Ahmad","image":{"@type":"ImageObject","@id":"https://www.gramedia.com/best-seller/#personlogo","inLanguage":"id-ID","url":"https://secure.gravatar.com/avatar/afbbf4436c539f26bf1d6d05639ac8ce?s=96&d=identicon&r=g","contentUrl":"https://secure.gravatar.com/avatar/afbbf4436c539f26bf1d6d05639ac8ce?s=96&d=identicon&r=g","caption":"Ahmad"},"url":"https://www.gramedia.com/best-seller/author/rahmad/"}]}</script>
-	<!-- / Yoast SEO plugin. -->
-
-
-<link rel="amphtml" href="https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/amp/" /><meta name="generator" content="AMP for WP 1.0.77.22"/><link rel='dns-prefetch' href='//sellers.gramedia.com' />
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Best Seller Gramedia &raquo; Feed" href="https://www.gramedia.com/best-seller/feed/" />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sellers.gramedia.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
+/*! normalize.css v3.0.0 | MIT License | git.io/normalize */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background:0 0}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:700}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}@media print{*{text-shadow:none!important;color:#000!important;background:transparent!important;box-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}abbr[title]:after{content:" (" attr(title) ")"}a[href^="javascript:"]:after,a[href^="#"]:after{content:""}pre,blockquote{border:1px solid #999;page-break-inside:avoid}thead{display:table-header-group}tr,img{page-break-inside:avoid}img{max-width:100%!important}p,h2,h3{orphans:3;widows:3}h2,h3{page-break-after:avoid}select{background:#fff!important}.navbar{display:none}.table td,.table th{background-color:#fff!important}.btn>.caret,.dropup>.btn>.caret{border-top-color:#000!important}.label{border:1px solid #000}.table{border-collapse:collapse!important}.table-bordered th,.table-bordered td{border:1px solid #ddd!important}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:62.5%;-webkit-tap-highlight-color:rgba(0,0,0,0)}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.428571429;color:#333;background-color:#fff}input,button,select,textarea{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#428bca;text-decoration:none}a:hover,a:focus{color:#2a6496;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}figure{margin:0}img{vertical-align:middle}.img-responsive{display:block;max-width:100%;height:auto}.img-rounded{border-radius:6px}.img-thumbnail{padding:4px;line-height:1.428571429;background-color:#fff;border:1px solid #ddd;border-radius:4px;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;display:inline-block;max-width:100%;height:auto}.img-circle{border-radius:50%}hr{margin-top:20px;margin-bottom:20px;border:0;border-top:1px solid #eee}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1 small,h2 small,h3 small,h4 small,h5 small,h6 small,.h1 small,.h2 small,.h3 small,.h4 small,.h5 small,.h6 small,h1 .small,h2 .small,h3 .small,h4 .small,h5 .small,h6 .small,.h1 .small,.h2 .small,.h3 .small,.h4 .small,.h5 .small,.h6 .small{font-weight:400;line-height:1;color:#999}h1,.h1,h2,.h2,h3,.h3{margin-top:20px;margin-bottom:10px}h1 small,.h1 small,h2 small,.h2 small,h3 small,.h3 small,h1 .small,.h1 .small,h2 .small,.h2 .small,h3 .small,.h3 .small{font-size:65%}h4,.h4,h5,.h5,h6,.h6{margin-top:10px;margin-bottom:10px}h4 small,.h4 small,h5 small,.h5 small,h6 small,.h6 small,h4 .small,.h4 .small,h5 .small,.h5 .small,h6 .small,.h6 .small{font-size:75%}h1,.h1{font-size:36px}h2,.h2{font-size:30px}h3,.h3{font-size:24px}h4,.h4{font-size:18px}h5,.h5{font-size:14px}h6,.h6{font-size:12px}p{margin:0 0 10px}.lead{margin-bottom:20px;font-size:16px;font-weight:200;line-height:1.4}@media (min-width:768px){.lead{font-size:21px}}small,.small{font-size:85%}cite{font-style:normal}.text-left{text-align:left}.text-right{text-align:right}.text-center{text-align:center}.text-justify{text-align:justify}.text-muted{color:#999}.text-primary{color:#428bca}a.text-primary:hover{color:#3071a9}.text-success{color:#3c763d}a.text-success:hover{color:#2b542c}.text-info{color:#31708f}a.text-info:hover{color:#245269}.text-warning{color:#8a6d3b}a.text-warning:hover{color:#66512c}.text-danger{color:#a94442}a.text-danger:hover{color:#843534}.bg-primary{color:#fff;background-color:#428bca}a.bg-primary:hover{background-color:#3071a9}.bg-success{background-color:#dff0d8}a.bg-success:hover{background-color:#c1e2b3}.bg-info{background-color:#d9edf7}a.bg-info:hover{background-color:#afd9ee}.bg-warning{background-color:#fcf8e3}a.bg-warning:hover{background-color:#f7ecb5}.bg-danger{background-color:#f2dede}a.bg-danger:hover{background-color:#e4b9b9}.page-header{padding-bottom:9px;margin:40px 0 20px;border-bottom:1px solid #eee}ul,ol{margin-top:0;margin-bottom:10px}ul ul,ol ul,ul ol,ol ol{margin-bottom:0}.list-unstyled{padding-left:0;list-style:none}.list-inline{padding-left:0;list-style:none}.list-inline>li{display:inline-block;padding-left:5px;padding-right:5px}.list-inline>li:first-child{padding-left:0}dl{margin-top:0;margin-bottom:20px}dt,dd{line-height:1.428571429}dt{font-weight:700}dd{margin-left:0}@media (min-width:768px){.dl-horizontal dt{float:left;width:160px;clear:left;text-align:right;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.dl-horizontal dd{margin-left:180px}}abbr[title],abbr[data-original-title]{cursor:help;border-bottom:1px dotted #999}.initialism{font-size:90%;text-transform:uppercase}blockquote{padding:10px 20px;margin:0 0 20px;font-size:17.5px;border-left:5px solid #eee}blockquote p:last-child,blockquote ul:last-child,blockquote ol:last-child{margin-bottom:0}blockquote footer,blockquote small,blockquote .small{display:block;font-size:80%;line-height:1.428571429;color:#999}blockquote footer:before,blockquote small:before,blockquote .small:before{content:'\2014 \00A0'}.blockquote-reverse,blockquote.pull-right{padding-right:15px;padding-left:0;border-right:5px solid #eee;border-left:0;text-align:right}.blockquote-reverse footer:before,blockquote.pull-right footer:before,.blockquote-reverse small:before,blockquote.pull-right small:before,.blockquote-reverse .small:before,blockquote.pull-right .small:before{content:''}.blockquote-reverse footer:after,blockquote.pull-right footer:after,.blockquote-reverse small:after,blockquote.pull-right small:after,.blockquote-reverse .small:after,blockquote.pull-right .small:after{content:'\00A0 \2014'}blockquote:before,blockquote:after{content:""}address{margin-bottom:20px;font-style:normal;line-height:1.428571429}code,kbd,pre,samp{font-family:Menlo,Monaco,Consolas,"Courier New",monospace}code{padding:2px 4px;font-size:90%;color:#c7254e;background-color:#f9f2f4;white-space:nowrap;border-radius:4px}kbd{padding:2px 4px;font-size:90%;color:#fff;background-color:#333;border-radius:3px;box-shadow:inset 0 -1px 0 rgba(0,0,0,.25)}pre{display:block;padding:9.5px;margin:0 0 10px;font-size:13px;line-height:1.428571429;word-break:break-all;word-wrap:break-word;color:#333;background-color:#f5f5f5;border:1px solid #ccc;border-radius:4px}pre code{padding:0;font-size:inherit;color:inherit;white-space:pre-wrap;background-color:transparent;border-radius:0}.pre-scrollable{max-height:340px;overflow-y:scroll}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.row{margin-left:-15px;margin-right:-15px}.col-xs-1,.col-sm-1,.col-md-1,.col-lg-1,.col-xs-2,.col-sm-2,.col-md-2,.col-lg-2,.col-xs-3,.col-sm-3,.col-md-3,.col-lg-3,.col-xs-4,.col-sm-4,.col-md-4,.col-lg-4,.col-xs-5,.col-sm-5,.col-md-5,.col-lg-5,.col-xs-6,.col-sm-6,.col-md-6,.col-lg-6,.col-xs-7,.col-sm-7,.col-md-7,.col-lg-7,.col-xs-8,.col-sm-8,.col-md-8,.col-lg-8,.col-xs-9,.col-sm-9,.col-md-9,.col-lg-9,.col-xs-10,.col-sm-10,.col-md-10,.col-lg-10,.col-xs-11,.col-sm-11,.col-md-11,.col-lg-11,.col-xs-12,.col-sm-12,.col-md-12,.col-lg-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-1,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.col-xs-10,.col-xs-11,.col-xs-12{float:left}.col-xs-12{width:100%}.col-xs-11{width:91.66666666666666%}.col-xs-10{width:83.33333333333334%}.col-xs-9{width:75%}.col-xs-8{width:66.66666666666666%}.col-xs-7{width:58.333333333333336%}.col-xs-6{width:50%}.col-xs-5{width:41.66666666666667%}.col-xs-4{width:33.33333333333333%}.col-xs-3{width:25%}.col-xs-2{width:16.666666666666664%}.col-xs-1{width:8.333333333333332%}.col-xs-pull-12{right:100%}.col-xs-pull-11{right:91.66666666666666%}.col-xs-pull-10{right:83.33333333333334%}.col-xs-pull-9{right:75%}.col-xs-pull-8{right:66.66666666666666%}.col-xs-pull-7{right:58.333333333333336%}.col-xs-pull-6{right:50%}.col-xs-pull-5{right:41.66666666666667%}.col-xs-pull-4{right:33.33333333333333%}.col-xs-pull-3{right:25%}.col-xs-pull-2{right:16.666666666666664%}.col-xs-pull-1{right:8.333333333333332%}.col-xs-pull-0{right:0}.col-xs-push-12{left:100%}.col-xs-push-11{left:91.66666666666666%}.col-xs-push-10{left:83.33333333333334%}.col-xs-push-9{left:75%}.col-xs-push-8{left:66.66666666666666%}.col-xs-push-7{left:58.333333333333336%}.col-xs-push-6{left:50%}.col-xs-push-5{left:41.66666666666667%}.col-xs-push-4{left:33.33333333333333%}.col-xs-push-3{left:25%}.col-xs-push-2{left:16.666666666666664%}.col-xs-push-1{left:8.333333333333332%}.col-xs-push-0{left:0}.col-xs-offset-12{margin-left:100%}.col-xs-offset-11{margin-left:91.66666666666666%}.col-xs-offset-10{margin-left:83.33333333333334%}.col-xs-offset-9{margin-left:75%}.col-xs-offset-8{margin-left:66.66666666666666%}.col-xs-offset-7{margin-left:58.333333333333336%}.col-xs-offset-6{margin-left:50%}.col-xs-offset-5{margin-left:41.66666666666667%}.col-xs-offset-4{margin-left:33.33333333333333%}.col-xs-offset-3{margin-left:25%}.col-xs-offset-2{margin-left:16.666666666666664%}.col-xs-offset-1{margin-left:8.333333333333332%}.col-xs-offset-0{margin-left:0}@media (min-width:768px){.col-sm-1,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12{float:left}.col-sm-12{width:100%}.col-sm-11{width:91.66666666666666%}.col-sm-10{width:83.33333333333334%}.col-sm-9{width:75%}.col-sm-8{width:66.66666666666666%}.col-sm-7{width:58.333333333333336%}.col-sm-6{width:50%}.col-sm-5{width:41.66666666666667%}.col-sm-4{width:33.33333333333333%}.col-sm-3{width:25%}.col-sm-2{width:16.666666666666664%}.col-sm-1{width:8.333333333333332%}.col-sm-pull-12{right:100%}.col-sm-pull-11{right:91.66666666666666%}.col-sm-pull-10{right:83.33333333333334%}.col-sm-pull-9{right:75%}.col-sm-pull-8{right:66.66666666666666%}.col-sm-pull-7{right:58.333333333333336%}.col-sm-pull-6{right:50%}.col-sm-pull-5{right:41.66666666666667%}.col-sm-pull-4{right:33.33333333333333%}.col-sm-pull-3{right:25%}.col-sm-pull-2{right:16.666666666666664%}.col-sm-pull-1{right:8.333333333333332%}.col-sm-pull-0{right:0}.col-sm-push-12{left:100%}.col-sm-push-11{left:91.66666666666666%}.col-sm-push-10{left:83.33333333333334%}.col-sm-push-9{left:75%}.col-sm-push-8{left:66.66666666666666%}.col-sm-push-7{left:58.333333333333336%}.col-sm-push-6{left:50%}.col-sm-push-5{left:41.66666666666667%}.col-sm-push-4{left:33.33333333333333%}.col-sm-push-3{left:25%}.col-sm-push-2{left:16.666666666666664%}.col-sm-push-1{left:8.333333333333332%}.col-sm-push-0{left:0}.col-sm-offset-12{margin-left:100%}.col-sm-offset-11{margin-left:91.66666666666666%}.col-sm-offset-10{margin-left:83.33333333333334%}.col-sm-offset-9{margin-left:75%}.col-sm-offset-8{margin-left:66.66666666666666%}.col-sm-offset-7{margin-left:58.333333333333336%}.col-sm-offset-6{margin-left:50%}.col-sm-offset-5{margin-left:41.66666666666667%}.col-sm-offset-4{margin-left:33.33333333333333%}.col-sm-offset-3{margin-left:25%}.col-sm-offset-2{margin-left:16.666666666666664%}.col-sm-offset-1{margin-left:8.333333333333332%}.col-sm-offset-0{margin-left:0}}@media (min-width:992px){.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12{float:left}.col-md-12{width:100%}.col-md-11{width:91.66666666666666%}.col-md-10{width:83.33333333333334%}.col-md-9{width:75%}.col-md-8{width:66.66666666666666%}.col-md-7{width:58.333333333333336%}.col-md-6{width:50%}.col-md-5{width:41.66666666666667%}.col-md-4{width:33.33333333333333%}.col-md-3{width:25%}.col-md-2{width:16.666666666666664%}.col-md-1{width:8.333333333333332%}.col-md-pull-12{right:100%}.col-md-pull-11{right:91.66666666666666%}.col-md-pull-10{right:83.33333333333334%}.col-md-pull-9{right:75%}.col-md-pull-8{right:66.66666666666666%}.col-md-pull-7{right:58.333333333333336%}.col-md-pull-6{right:50%}.col-md-pull-5{right:41.66666666666667%}.col-md-pull-4{right:33.33333333333333%}.col-md-pull-3{right:25%}.col-md-pull-2{right:16.666666666666664%}.col-md-pull-1{right:8.333333333333332%}.col-md-pull-0{right:0}.col-md-push-12{left:100%}.col-md-push-11{left:91.66666666666666%}.col-md-push-10{left:83.33333333333334%}.col-md-push-9{left:75%}.col-md-push-8{left:66.66666666666666%}.col-md-push-7{left:58.333333333333336%}.col-md-push-6{left:50%}.col-md-push-5{left:41.66666666666667%}.col-md-push-4{left:33.33333333333333%}.col-md-push-3{left:25%}.col-md-push-2{left:16.666666666666664%}.col-md-push-1{left:8.333333333333332%}.col-md-push-0{left:0}.col-md-offset-12{margin-left:100%}.col-md-offset-11{margin-left:91.66666666666666%}.col-md-offset-10{margin-left:83.33333333333334%}.col-md-offset-9{margin-left:75%}.col-md-offset-8{margin-left:66.66666666666666%}.col-md-offset-7{margin-left:58.333333333333336%}.col-md-offset-6{margin-left:50%}.col-md-offset-5{margin-left:41.66666666666667%}.col-md-offset-4{margin-left:33.33333333333333%}.col-md-offset-3{margin-left:25%}.col-md-offset-2{margin-left:16.666666666666664%}.col-md-offset-1{margin-left:8.333333333333332%}.col-md-offset-0{margin-left:0}}@media (min-width:1200px){.col-lg-1,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,.col-lg-12{float:left}.col-lg-12{width:100%}.col-lg-11{width:91.66666666666666%}.col-lg-10{width:83.33333333333334%}.col-lg-9{width:75%}.col-lg-8{width:66.66666666666666%}.col-lg-7{width:58.333333333333336%}.col-lg-6{width:50%}.col-lg-5{width:41.66666666666667%}.col-lg-4{width:33.33333333333333%}.col-lg-3{width:25%}.col-lg-2{width:16.666666666666664%}.col-lg-1{width:8.333333333333332%}.col-lg-pull-12{right:100%}.col-lg-pull-11{right:91.66666666666666%}.col-lg-pull-10{right:83.33333333333334%}.col-lg-pull-9{right:75%}.col-lg-pull-8{right:66.66666666666666%}.col-lg-pull-7{right:58.333333333333336%}.col-lg-pull-6{right:50%}.col-lg-pull-5{right:41.66666666666667%}.col-lg-pull-4{right:33.33333333333333%}.col-lg-pull-3{right:25%}.col-lg-pull-2{right:16.666666666666664%}.col-lg-pull-1{right:8.333333333333332%}.col-lg-pull-0{right:0}.col-lg-push-12{left:100%}.col-lg-push-11{left:91.66666666666666%}.col-lg-push-10{left:83.33333333333334%}.col-lg-push-9{left:75%}.col-lg-push-8{left:66.66666666666666%}.col-lg-push-7{left:58.333333333333336%}.col-lg-push-6{left:50%}.col-lg-push-5{left:41.66666666666667%}.col-lg-push-4{left:33.33333333333333%}.col-lg-push-3{left:25%}.col-lg-push-2{left:16.666666666666664%}.col-lg-push-1{left:8.333333333333332%}.col-lg-push-0{left:0}.col-lg-offset-12{margin-left:100%}.col-lg-offset-11{margin-left:91.66666666666666%}.col-lg-offset-10{margin-left:83.33333333333334%}.col-lg-offset-9{margin-left:75%}.col-lg-offset-8{margin-left:66.66666666666666%}.col-lg-offset-7{margin-left:58.333333333333336%}.col-lg-offset-6{margin-left:50%}.col-lg-offset-5{margin-left:41.66666666666667%}.col-lg-offset-4{margin-left:33.33333333333333%}.col-lg-offset-3{margin-left:25%}.col-lg-offset-2{margin-left:16.666666666666664%}.col-lg-offset-1{margin-left:8.333333333333332%}.col-lg-offset-0{margin-left:0}}table{max-width:100%;background-color:transparent}th{text-align:left}.table{width:100%;margin-bottom:20px}.table>thead>tr>th,.table>tbody>tr>th,.table>tfoot>tr>th,.table>thead>tr>td,.table>tbody>tr>td,.table>tfoot>tr>td{padding:8px;line-height:1.428571429;vertical-align:top;border-top:1px solid #ddd}.table>thead>tr>th{vertical-align:bottom;border-bottom:2px solid #ddd}.table>caption+thead>tr:first-child>th,.table>colgroup+thead>tr:first-child>th,.table>thead:first-child>tr:first-child>th,.table>caption+thead>tr:first-child>td,.table>colgroup+thead>tr:first-child>td,.table>thead:first-child>tr:first-child>td{border-top:0}.table>tbody+tbody{border-top:2px solid #ddd}.table .table{background-color:#fff}.table-condensed>thead>tr>th,.table-condensed>tbody>tr>th,.table-condensed>tfoot>tr>th,.table-condensed>thead>tr>td,.table-condensed>tbody>tr>td,.table-condensed>tfoot>tr>td{padding:5px}.table-bordered{border:1px solid #ddd}.table-bordered>thead>tr>th,.table-bordered>tbody>tr>th,.table-bordered>tfoot>tr>th,.table-bordered>thead>tr>td,.table-bordered>tbody>tr>td,.table-bordered>tfoot>tr>td{border:1px solid #ddd}.table-bordered>thead>tr>th,.table-bordered>thead>tr>td{border-bottom-width:2px}.table-striped>tbody>tr:nth-child(odd)>td,.table-striped>tbody>tr:nth-child(odd)>th{background-color:#f9f9f9}.table-hover>tbody>tr:hover>td,.table-hover>tbody>tr:hover>th{background-color:#f5f5f5}table col[class*=col-]{position:static;float:none;display:table-column}table td[class*=col-],table th[class*=col-]{position:static;float:none;display:table-cell}.table>thead>tr>td.active,.table>tbody>tr>td.active,.table>tfoot>tr>td.active,.table>thead>tr>th.active,.table>tbody>tr>th.active,.table>tfoot>tr>th.active,.table>thead>tr.active>td,.table>tbody>tr.active>td,.table>tfoot>tr.active>td,.table>thead>tr.active>th,.table>tbody>tr.active>th,.table>tfoot>tr.active>th{background-color:#f5f5f5}.table-hover>tbody>tr>td.active:hover,.table-hover>tbody>tr>th.active:hover,.table-hover>tbody>tr.active:hover>td,.table-hover>tbody>tr.active:hover>th{background-color:#e8e8e8}.table>thead>tr>td.success,.table>tbody>tr>td.success,.table>tfoot>tr>td.success,.table>thead>tr>th.success,.table>tbody>tr>th.success,.table>tfoot>tr>th.success,.table>thead>tr.success>td,.table>tbody>tr.success>td,.table>tfoot>tr.success>td,.table>thead>tr.success>th,.table>tbody>tr.success>th,.table>tfoot>tr.success>th{background-color:#dff0d8}.table-hover>tbody>tr>td.success:hover,.table-hover>tbody>tr>th.success:hover,.table-hover>tbody>tr.success:hover>td,.table-hover>tbody>tr.success:hover>th{background-color:#d0e9c6}.table>thead>tr>td.info,.table>tbody>tr>td.info,.table>tfoot>tr>td.info,.table>thead>tr>th.info,.table>tbody>tr>th.info,.table>tfoot>tr>th.info,.table>thead>tr.info>td,.table>tbody>tr.info>td,.table>tfoot>tr.info>td,.table>thead>tr.info>th,.table>tbody>tr.info>th,.table>tfoot>tr.info>th{background-color:#d9edf7}.table-hover>tbody>tr>td.info:hover,.table-hover>tbody>tr>th.info:hover,.table-hover>tbody>tr.info:hover>td,.table-hover>tbody>tr.info:hover>th{background-color:#c4e3f3}.table>thead>tr>td.warning,.table>tbody>tr>td.warning,.table>tfoot>tr>td.warning,.table>thead>tr>th.warning,.table>tbody>tr>th.warning,.table>tfoot>tr>th.warning,.table>thead>tr.warning>td,.table>tbody>tr.warning>td,.table>tfoot>tr.warning>td,.table>thead>tr.warning>th,.table>tbody>tr.warning>th,.table>tfoot>tr.warning>th{background-color:#fcf8e3}.table-hover>tbody>tr>td.warning:hover,.table-hover>tbody>tr>th.warning:hover,.table-hover>tbody>tr.warning:hover>td,.table-hover>tbody>tr.warning:hover>th{background-color:#faf2cc}.table>thead>tr>td.danger,.table>tbody>tr>td.danger,.table>tfoot>tr>td.danger,.table>thead>tr>th.danger,.table>tbody>tr>th.danger,.table>tfoot>tr>th.danger,.table>thead>tr.danger>td,.table>tbody>tr.danger>td,.table>tfoot>tr.danger>td,.table>thead>tr.danger>th,.table>tbody>tr.danger>th,.table>tfoot>tr.danger>th{background-color:#f2dede}.table-hover>tbody>tr>td.danger:hover,.table-hover>tbody>tr>th.danger:hover,.table-hover>tbody>tr.danger:hover>td,.table-hover>tbody>tr.danger:hover>th{background-color:#ebcccc}@media (max-width:767px){.table-responsive{width:100%;margin-bottom:15px;overflow-y:hidden;overflow-x:scroll;-ms-overflow-style:-ms-autohiding-scrollbar;border:1px solid #ddd;-webkit-overflow-scrolling:touch}.table-responsive>.table{margin-bottom:0}.table-responsive>.table>thead>tr>th,.table-responsive>.table>tbody>tr>th,.table-responsive>.table>tfoot>tr>th,.table-responsive>.table>thead>tr>td,.table-responsive>.table>tbody>tr>td,.table-responsive>.table>tfoot>tr>td{white-space:nowrap}.table-responsive>.table-bordered{border:0}.table-responsive>.table-bordered>thead>tr>th:first-child,.table-responsive>.table-bordered>tbody>tr>th:first-child,.table-responsive>.table-bordered>tfoot>tr>th:first-child,.table-responsive>.table-bordered>thead>tr>td:first-child,.table-responsive>.table-bordered>tbody>tr>td:first-child,.table-responsive>.table-bordered>tfoot>tr>td:first-child{border-left:0}.table-responsive>.table-bordered>thead>tr>th:last-child,.table-responsive>.table-bordered>tbody>tr>th:last-child,.table-responsive>.table-bordered>tfoot>tr>th:last-child,.table-responsive>.table-bordered>thead>tr>td:last-child,.table-responsive>.table-bordered>tbody>tr>td:last-child,.table-responsive>.table-bordered>tfoot>tr>td:last-child{border-right:0}.table-responsive>.table-bordered>tbody>tr:last-child>th,.table-responsive>.table-bordered>tfoot>tr:last-child>th,.table-responsive>.table-bordered>tbody>tr:last-child>td,.table-responsive>.table-bordered>tfoot>tr:last-child>td{border-bottom:0}}fieldset{padding:0;margin:0;border:0;min-width:0}legend{display:block;width:100%;padding:0;margin-bottom:20px;font-size:21px;line-height:inherit;color:#333;border:0;border-bottom:1px solid #e5e5e5}label{display:inline-block;margin-bottom:5px;font-weight:700}input[type=search]{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}input[type=radio],input[type=checkbox]{margin:4px 0 0;margin-top:1px \9;line-height:normal}input[type=file]{display:block}input[type=range]{display:block;width:100%}select[multiple],select[size]{height:auto}input[type=file]:focus,input[type=radio]:focus,input[type=checkbox]:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}output{display:block;padding-top:7px;font-size:14px;line-height:1.428571429;color:#555}.form-control{display:block;width:100%;height:34px;padding:6px 12px;font-size:14px;line-height:1.428571429;color:#555;background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075);-webkit-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s}.form-control:focus{border-color:#66afe9;outline:0;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)}.form-control:-moz-placeholder{color:#999}.form-control::-moz-placeholder{color:#999;opacity:1}.form-control:-ms-input-placeholder{color:#999}.form-control::-webkit-input-placeholder{color:#999}.form-control[disabled],.form-control[readonly],fieldset[disabled] .form-control{cursor:not-allowed;background-color:#eee;opacity:1}textarea.form-control{height:auto}input[type=date]{line-height:34px}.form-group{margin-bottom:15px}.radio,.checkbox{display:block;min-height:20px;margin-top:10px;margin-bottom:10px;padding-left:20px}.radio label,.checkbox label{display:inline;font-weight:400;cursor:pointer}.radio input[type=radio],.radio-inline input[type=radio],.checkbox input[type=checkbox],.checkbox-inline input[type=checkbox]{float:left;margin-left:-20px}.radio+.radio,.checkbox+.checkbox{margin-top:-5px}.radio-inline,.checkbox-inline{display:inline-block;padding-left:20px;margin-bottom:0;vertical-align:middle;font-weight:400;cursor:pointer}.radio-inline+.radio-inline,.checkbox-inline+.checkbox-inline{margin-top:0;margin-left:10px}input[type=radio][disabled],input[type=checkbox][disabled],.radio[disabled],.radio-inline[disabled],.checkbox[disabled],.checkbox-inline[disabled],fieldset[disabled] input[type=radio],fieldset[disabled] input[type=checkbox],fieldset[disabled] .radio,fieldset[disabled] .radio-inline,fieldset[disabled] .checkbox,fieldset[disabled] .checkbox-inline{cursor:not-allowed}.input-sm{height:30px;padding:5px 10px;font-size:12px;line-height:1.5;border-radius:3px}select.input-sm{height:30px;line-height:30px}textarea.input-sm,select[multiple].input-sm{height:auto}.input-lg{height:46px;padding:10px 16px;font-size:18px;line-height:1.33;border-radius:6px}select.input-lg{height:46px;line-height:46px}textarea.input-lg,select[multiple].input-lg{height:auto}.has-feedback{position:relative}.has-feedback .form-control{padding-right:42.5px}.has-feedback .form-control-feedback{position:absolute;top:25px;right:0;display:block;width:34px;height:34px;line-height:34px;text-align:center}.has-success .help-block,.has-success .control-label,.has-success .radio,.has-success .checkbox,.has-success .radio-inline,.has-success .checkbox-inline{color:#3c763d}.has-success .form-control{border-color:#3c763d;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075)}.has-success .form-control:focus{border-color:#2b542c;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 6px #67b168;box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 6px #67b168}.has-success .input-group-addon{color:#3c763d;border-color:#3c763d;background-color:#dff0d8}.has-success .form-control-feedback{color:#3c763d}.has-warning .help-block,.has-warning .control-label,.has-warning .radio,.has-warning .checkbox,.has-warning .radio-inline,.has-warning .checkbox-inline{color:#8a6d3b}.has-warning .form-control{border-color:#8a6d3b;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075)}.has-warning .form-control:focus{border-color:#66512c;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 6px #c0a16b;box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 6px #c0a16b}.has-warning .input-group-addon{color:#8a6d3b;border-color:#8a6d3b;background-color:#fcf8e3}.has-warning .form-control-feedback{color:#8a6d3b}.has-error .help-block,.has-error .control-label,.has-error .radio,.has-error .checkbox,.has-error .radio-inline,.has-error .checkbox-inline{color:#a94442}.has-error .form-control{border-color:#a94442;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075)}.has-error .form-control:focus{border-color:#843534;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 6px #ce8483;box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 6px #ce8483}.has-error .input-group-addon{color:#a94442;border-color:#a94442;background-color:#f2dede}.has-error .form-control-feedback{color:#a94442}.form-control-static{margin-bottom:0}.help-block{display:block;margin-top:5px;margin-bottom:10px;color:#737373}@media (min-width:768px){.form-inline .form-group{display:inline-block;margin-bottom:0;vertical-align:middle}.form-inline .form-control{display:inline-block;width:auto;vertical-align:middle}.form-inline .control-label{margin-bottom:0;vertical-align:middle}.form-inline .radio,.form-inline .checkbox{display:inline-block;margin-top:0;margin-bottom:0;padding-left:0;vertical-align:middle}.form-inline .radio input[type=radio],.form-inline .checkbox input[type=checkbox]{float:none;margin-left:0}.form-inline .has-feedback .form-control-feedback{top:0}}.form-horizontal .control-label,.form-horizontal .radio,.form-horizontal .checkbox,.form-horizontal .radio-inline,.form-horizontal .checkbox-inline{margin-top:0;margin-bottom:0;padding-top:7px}.form-horizontal .radio,.form-horizontal .checkbox{min-height:27px}.form-horizontal .form-group{margin-left:-15px;margin-right:-15px}.form-horizontal .form-control-static{padding-top:7px}@media (min-width:768px){.form-horizontal .control-label{text-align:right}}.form-horizontal .has-feedback .form-control-feedback{top:0;right:15px}.btn{display:inline-block;margin-bottom:0;font-weight:400;text-align:center;vertical-align:middle;cursor:pointer;background-image:none;border:1px solid transparent;white-space:nowrap;padding:6px 12px;font-size:14px;line-height:1.428571429;border-radius:4px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none}.btn:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.btn:hover,.btn:focus{color:#333;text-decoration:none}.btn:active,.btn.active{outline:0;background-image:none;-webkit-box-shadow:inset 0 3px 5px rgba(0,0,0,.125);box-shadow:inset 0 3px 5px rgba(0,0,0,.125)}.btn.disabled,.btn[disabled],fieldset[disabled] .btn{cursor:not-allowed;pointer-events:none;opacity:.65;filter:alpha(opacity=65);-webkit-box-shadow:none;box-shadow:none}.btn-default{color:#333;background-color:#fff;border-color:#ccc}.btn-default:hover,.btn-default:focus,.btn-default:active,.btn-default.active,.open .dropdown-toggle.btn-default{color:#333;background-color:#ebebeb;border-color:#adadad}.btn-default:active,.btn-default.active,.open .dropdown-toggle.btn-default{background-image:none}.btn-default.disabled,.btn-default[disabled],fieldset[disabled] .btn-default,.btn-default.disabled:hover,.btn-default[disabled]:hover,fieldset[disabled] .btn-default:hover,.btn-default.disabled:focus,.btn-default[disabled]:focus,fieldset[disabled] .btn-default:focus,.btn-default.disabled:active,.btn-default[disabled]:active,fieldset[disabled] .btn-default:active,.btn-default.disabled.active,.btn-default[disabled].active,fieldset[disabled] .btn-default.active{background-color:#fff;border-color:#ccc}.btn-default .badge{color:#fff;background-color:#333}.btn-primary{color:#fff;background-color:#428bca;border-color:#357ebd}.btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{color:#fff;background-color:#3276b1;border-color:#285e8e}.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{background-image:none}.btn-primary.disabled,.btn-primary[disabled],fieldset[disabled] .btn-primary,.btn-primary.disabled:hover,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary:hover,.btn-primary.disabled:focus,.btn-primary[disabled]:focus,fieldset[disabled] .btn-primary:focus,.btn-primary.disabled:active,.btn-primary[disabled]:active,fieldset[disabled] .btn-primary:active,.btn-primary.disabled.active,.btn-primary[disabled].active,fieldset[disabled] .btn-primary.active{background-color:#428bca;border-color:#357ebd}.btn-primary .badge{color:#428bca;background-color:#fff}.btn-success{color:#fff;background-color:#5cb85c;border-color:#4cae4c}.btn-success:hover,.btn-success:focus,.btn-success:active,.btn-success.active,.open .dropdown-toggle.btn-success{color:#fff;background-color:#47a447;border-color:#398439}.btn-success:active,.btn-success.active,.open .dropdown-toggle.btn-success{background-image:none}.btn-success.disabled,.btn-success[disabled],fieldset[disabled] .btn-success,.btn-success.disabled:hover,.btn-success[disabled]:hover,fieldset[disabled] .btn-success:hover,.btn-success.disabled:focus,.btn-success[disabled]:focus,fieldset[disabled] .btn-success:focus,.btn-success.disabled:active,.btn-success[disabled]:active,fieldset[disabled] .btn-success:active,.btn-success.disabled.active,.btn-success[disabled].active,fieldset[disabled] .btn-success.active{background-color:#5cb85c;border-color:#4cae4c}.btn-success .badge{color:#5cb85c;background-color:#fff}.btn-info{color:#fff;background-color:#5bc0de;border-color:#46b8da}.btn-info:hover,.btn-info:focus,.btn-info:active,.btn-info.active,.open .dropdown-toggle.btn-info{color:#fff;background-color:#39b3d7;border-color:#269abc}.btn-info:active,.btn-info.active,.open .dropdown-toggle.btn-info{background-image:none}.btn-info.disabled,.btn-info[disabled],fieldset[disabled] .btn-info,.btn-info.disabled:hover,.btn-info[disabled]:hover,fieldset[disabled] .btn-info:hover,.btn-info.disabled:focus,.btn-info[disabled]:focus,fieldset[disabled] .btn-info:focus,.btn-info.disabled:active,.btn-info[disabled]:active,fieldset[disabled] .btn-info:active,.btn-info.disabled.active,.btn-info[disabled].active,fieldset[disabled] .btn-info.active{background-color:#5bc0de;border-color:#46b8da}.btn-info .badge{color:#5bc0de;background-color:#fff}.btn-warning{color:#fff;background-color:#f0ad4e;border-color:#eea236}.btn-warning:hover,.btn-warning:focus,.btn-warning:active,.btn-warning.active,.open .dropdown-toggle.btn-warning{color:#fff;background-color:#ed9c28;border-color:#d58512}.btn-warning:active,.btn-warning.active,.open .dropdown-toggle.btn-warning{background-image:none}.btn-warning.disabled,.btn-warning[disabled],fieldset[disabled] .btn-warning,.btn-warning.disabled:hover,.btn-warning[disabled]:hover,fieldset[disabled] .btn-warning:hover,.btn-warning.disabled:focus,.btn-warning[disabled]:focus,fieldset[disabled] .btn-warning:focus,.btn-warning.disabled:active,.btn-warning[disabled]:active,fieldset[disabled] .btn-warning:active,.btn-warning.disabled.active,.btn-warning[disabled].active,fieldset[disabled] .btn-warning.active{background-color:#f0ad4e;border-color:#eea236}.btn-warning .badge{color:#f0ad4e;background-color:#fff}.btn-danger{color:#fff;background-color:#d9534f;border-color:#d43f3a}.btn-danger:hover,.btn-danger:focus,.btn-danger:active,.btn-danger.active,.open .dropdown-toggle.btn-danger{color:#fff;background-color:#d2322d;border-color:#ac2925}.btn-danger:active,.btn-danger.active,.open .dropdown-toggle.btn-danger{background-image:none}.btn-danger.disabled,.btn-danger[disabled],fieldset[disabled] .btn-danger,.btn-danger.disabled:hover,.btn-danger[disabled]:hover,fieldset[disabled] .btn-danger:hover,.btn-danger.disabled:focus,.btn-danger[disabled]:focus,fieldset[disabled] .btn-danger:focus,.btn-danger.disabled:active,.btn-danger[disabled]:active,fieldset[disabled] .btn-danger:active,.btn-danger.disabled.active,.btn-danger[disabled].active,fieldset[disabled] .btn-danger.active{background-color:#d9534f;border-color:#d43f3a}.btn-danger .badge{color:#d9534f;background-color:#fff}.btn-link{color:#428bca;font-weight:400;cursor:pointer;border-radius:0}.btn-link,.btn-link:active,.btn-link[disabled],fieldset[disabled] .btn-link{background-color:transparent;-webkit-box-shadow:none;box-shadow:none}.btn-link,.btn-link:hover,.btn-link:focus,.btn-link:active{border-color:transparent}.btn-link:hover,.btn-link:focus{color:#2a6496;text-decoration:underline;background-color:transparent}.btn-link[disabled]:hover,fieldset[disabled] .btn-link:hover,.btn-link[disabled]:focus,fieldset[disabled] .btn-link:focus{color:#999;text-decoration:none}.btn-lg{padding:10px 16px;font-size:18px;line-height:1.33;border-radius:6px}.btn-sm{padding:5px 10px;font-size:12px;line-height:1.5;border-radius:3px}.btn-xs{padding:1px 5px;font-size:12px;line-height:1.5;border-radius:3px}.btn-block{display:block;width:100%;padding-left:0;padding-right:0}.btn-block+.btn-block{margin-top:5px}input[type=submit].btn-block,input[type=reset].btn-block,input[type=button].btn-block{width:100%}.fade{opacity:0;-webkit-transition:opacity .15s linear;transition:opacity .15s linear}.fade.in{opacity:1}.collapse{display:none}.collapse.in{display:block}.collapsing{position:relative;height:0;overflow:hidden;-webkit-transition:height .35s ease;transition:height .35s ease}@font-face{font-family:'Glyphicons Halflings';src:url(/assets/fonts/glyphicons-halflings-regular.eot);src:url(/assets/fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'),url(/assets/fonts/glyphicons-halflings-regular.woff) format('woff'),url(/assets/fonts/glyphicons-halflings-regular.ttf) format('truetype'),url(/assets/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')}.glyphicon{position:relative;top:1px;display:inline-block;font-family:'Glyphicons Halflings';font-style:normal;font-weight:400;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.glyphicon-asterisk:before{content:"\2a"}.glyphicon-plus:before{content:"\2b"}.glyphicon-euro:before{content:"\20ac"}.glyphicon-minus:before{content:"\2212"}.glyphicon-cloud:before{content:"\2601"}.glyphicon-envelope:before{content:"\2709"}.glyphicon-pencil:before{content:"\270f"}.glyphicon-glass:before{content:"\e001"}.glyphicon-music:before{content:"\e002"}.glyphicon-search:before{content:"\e003"}.glyphicon-heart:before{content:"\e005"}.glyphicon-star:before{content:"\e006"}.glyphicon-star-empty:before{content:"\e007"}.glyphicon-user:before{content:"\e008"}.glyphicon-film:before{content:"\e009"}.glyphicon-th-large:before{content:"\e010"}.glyphicon-th:before{content:"\e011"}.glyphicon-th-list:before{content:"\e012"}.glyphicon-ok:before{content:"\e013"}.glyphicon-remove:before{content:"\e014"}.glyphicon-zoom-in:before{content:"\e015"}.glyphicon-zoom-out:before{content:"\e016"}.glyphicon-off:before{content:"\e017"}.glyphicon-signal:before{content:"\e018"}.glyphicon-cog:before{content:"\e019"}.glyphicon-trash:before{content:"\e020"}.glyphicon-home:before{content:"\e021"}.glyphicon-file:before{content:"\e022"}.glyphicon-time:before{content:"\e023"}.glyphicon-road:before{content:"\e024"}.glyphicon-download-alt:before{content:"\e025"}.glyphicon-download:before{content:"\e026"}.glyphicon-upload:before{content:"\e027"}.glyphicon-inbox:before{content:"\e028"}.glyphicon-play-circle:before{content:"\e029"}.glyphicon-repeat:before{content:"\e030"}.glyphicon-refresh:before{content:"\e031"}.glyphicon-list-alt:before{content:"\e032"}.glyphicon-lock:before{content:"\e033"}.glyphicon-flag:before{content:"\e034"}.glyphicon-headphones:before{content:"\e035"}.glyphicon-volume-off:before{content:"\e036"}.glyphicon-volume-down:before{content:"\e037"}.glyphicon-volume-up:before{content:"\e038"}.glyphicon-qrcode:before{content:"\e039"}.glyphicon-barcode:before{content:"\e040"}.glyphicon-tag:before{content:"\e041"}.glyphicon-tags:before{content:"\e042"}.glyphicon-book:before{content:"\e043"}.glyphicon-bookmark:before{content:"\e044"}.glyphicon-print:before{content:"\e045"}.glyphicon-camera:before{content:"\e046"}.glyphicon-font:before{content:"\e047"}.glyphicon-bold:before{content:"\e048"}.glyphicon-italic:before{content:"\e049"}.glyphicon-text-height:before{content:"\e050"}.glyphicon-text-width:before{content:"\e051"}.glyphicon-align-left:before{content:"\e052"}.glyphicon-align-center:before{content:"\e053"}.glyphicon-align-right:before{content:"\e054"}.glyphicon-align-justify:before{content:"\e055"}.glyphicon-list:before{content:"\e056"}.glyphicon-indent-left:before{content:"\e057"}.glyphicon-indent-right:before{content:"\e058"}.glyphicon-facetime-video:before{content:"\e059"}.glyphicon-picture:before{content:"\e060"}.glyphicon-map-marker:before{content:"\e062"}.glyphicon-adjust:before{content:"\e063"}.glyphicon-tint:before{content:"\e064"}.glyphicon-edit:before{content:"\e065"}.glyphicon-share:before{content:"\e066"}.glyphicon-check:before{content:"\e067"}.glyphicon-move:before{content:"\e068"}.glyphicon-step-backward:before{content:"\e069"}.glyphicon-fast-backward:before{content:"\e070"}.glyphicon-backward:before{content:"\e071"}.glyphicon-play:before{content:"\e072"}.glyphicon-pause:before{content:"\e073"}.glyphicon-stop:before{content:"\e074"}.glyphicon-forward:before{content:"\e075"}.glyphicon-fast-forward:before{content:"\e076"}.glyphicon-step-forward:before{content:"\e077"}.glyphicon-eject:before{content:"\e078"}.glyphicon-chevron-left:before{content:"\e079"}.glyphicon-chevron-right:before{content:"\e080"}.glyphicon-plus-sign:before{content:"\e081"}.glyphicon-minus-sign:before{content:"\e082"}.glyphicon-remove-sign:before{content:"\e083"}.glyphicon-ok-sign:before{content:"\e084"}.glyphicon-question-sign:before{content:"\e085"}.glyphicon-info-sign:before{content:"\e086"}.glyphicon-screenshot:before{content:"\e087"}.glyphicon-remove-circle:before{content:"\e088"}.glyphicon-ok-circle:before{content:"\e089"}.glyphicon-ban-circle:before{content:"\e090"}.glyphicon-arrow-left:before{content:"\e091"}.glyphicon-arrow-right:before{content:"\e092"}.glyphicon-arrow-up:before{content:"\e093"}.glyphicon-arrow-down:before{content:"\e094"}.glyphicon-share-alt:before{content:"\e095"}.glyphicon-resize-full:before{content:"\e096"}.glyphicon-resize-small:before{content:"\e097"}.glyphicon-exclamation-sign:before{content:"\e101"}.glyphicon-gift:before{content:"\e102"}.glyphicon-leaf:before{content:"\e103"}.glyphicon-fire:before{content:"\e104"}.glyphicon-eye-open:before{content:"\e105"}.glyphicon-eye-close:before{content:"\e106"}.glyphicon-warning-sign:before{content:"\e107"}.glyphicon-plane:before{content:"\e108"}.glyphicon-calendar:before{content:"\e109"}.glyphicon-random:before{content:"\e110"}.glyphicon-comment:before{content:"\e111"}.glyphicon-magnet:before{content:"\e112"}.glyphicon-chevron-up:before{content:"\e113"}.glyphicon-chevron-down:before{content:"\e114"}.glyphicon-retweet:before{content:"\e115"}.glyphicon-shopping-cart:before{content:"\e116"}.glyphicon-folder-close:before{content:"\e117"}.glyphicon-folder-open:before{content:"\e118"}.glyphicon-resize-vertical:before{content:"\e119"}.glyphicon-resize-horizontal:before{content:"\e120"}.glyphicon-hdd:before{content:"\e121"}.glyphicon-bullhorn:before{content:"\e122"}.glyphicon-bell:before{content:"\e123"}.glyphicon-certificate:before{content:"\e124"}.glyphicon-thumbs-up:before{content:"\e125"}.glyphicon-thumbs-down:before{content:"\e126"}.glyphicon-hand-right:before{content:"\e127"}.glyphicon-hand-left:before{content:"\e128"}.glyphicon-hand-up:before{content:"\e129"}.glyphicon-hand-down:before{content:"\e130"}.glyphicon-circle-arrow-right:before{content:"\e131"}.glyphicon-circle-arrow-left:before{content:"\e132"}.glyphicon-circle-arrow-up:before{content:"\e133"}.glyphicon-circle-arrow-down:before{content:"\e134"}.glyphicon-globe:before{content:"\e135"}.glyphicon-wrench:before{content:"\e136"}.glyphicon-tasks:before{content:"\e137"}.glyphicon-filter:before{content:"\e138"}.glyphicon-briefcase:before{content:"\e139"}.glyphicon-fullscreen:before{content:"\e140"}.glyphicon-dashboard:before{content:"\e141"}.glyphicon-paperclip:before{content:"\e142"}.glyphicon-heart-empty:before{content:"\e143"}.glyphicon-link:before{content:"\e144"}.glyphicon-phone:before{content:"\e145"}.glyphicon-pushpin:before{content:"\e146"}.glyphicon-usd:before{content:"\e148"}.glyphicon-gbp:before{content:"\e149"}.glyphicon-sort:before{content:"\e150"}.glyphicon-sort-by-alphabet:before{content:"\e151"}.glyphicon-sort-by-alphabet-alt:before{content:"\e152"}.glyphicon-sort-by-order:before{content:"\e153"}.glyphicon-sort-by-order-alt:before{content:"\e154"}.glyphicon-sort-by-attributes:before{content:"\e155"}.glyphicon-sort-by-attributes-alt:before{content:"\e156"}.glyphicon-unchecked:before{content:"\e157"}.glyphicon-expand:before{content:"\e158"}.glyphicon-collapse-down:before{content:"\e159"}.glyphicon-collapse-up:before{content:"\e160"}.glyphicon-log-in:before{content:"\e161"}.glyphicon-flash:before{content:"\e162"}.glyphicon-log-out:before{content:"\e163"}.glyphicon-new-window:before{content:"\e164"}.glyphicon-record:before{content:"\e165"}.glyphicon-save:before{content:"\e166"}.glyphicon-open:before{content:"\e167"}.glyphicon-saved:before{content:"\e168"}.glyphicon-import:before{content:"\e169"}.glyphicon-export:before{content:"\e170"}.glyphicon-send:before{content:"\e171"}.glyphicon-floppy-disk:before{content:"\e172"}.glyphicon-floppy-saved:before{content:"\e173"}.glyphicon-floppy-remove:before{content:"\e174"}.glyphicon-floppy-save:before{content:"\e175"}.glyphicon-floppy-open:before{content:"\e176"}.glyphicon-credit-card:before{content:"\e177"}.glyphicon-transfer:before{content:"\e178"}.glyphicon-cutlery:before{content:"\e179"}.glyphicon-header:before{content:"\e180"}.glyphicon-compressed:before{content:"\e181"}.glyphicon-earphone:before{content:"\e182"}.glyphicon-phone-alt:before{content:"\e183"}.glyphicon-tower:before{content:"\e184"}.glyphicon-stats:before{content:"\e185"}.glyphicon-sd-video:before{content:"\e186"}.glyphicon-hd-video:before{content:"\e187"}.glyphicon-subtitles:before{content:"\e188"}.glyphicon-sound-stereo:before{content:"\e189"}.glyphicon-sound-dolby:before{content:"\e190"}.glyphicon-sound-5-1:before{content:"\e191"}.glyphicon-sound-6-1:before{content:"\e192"}.glyphicon-sound-7-1:before{content:"\e193"}.glyphicon-copyright-mark:before{content:"\e194"}.glyphicon-registration-mark:before{content:"\e195"}.glyphicon-cloud-download:before{content:"\e197"}.glyphicon-cloud-upload:before{content:"\e198"}.glyphicon-tree-conifer:before{content:"\e199"}.glyphicon-tree-deciduous:before{content:"\e200"}.caret{display:inline-block;width:0;height:0;margin-left:2px;vertical-align:middle;border-top:4px solid;border-right:4px solid transparent;border-left:4px solid transparent}.dropdown{position:relative}.dropdown-toggle:focus{outline:0}.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;display:none;float:left;min-width:160px;padding:5px 0;margin:2px 0 0;list-style:none;font-size:14px;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,.15);border-radius:4px;-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);box-shadow:0 6px 12px rgba(0,0,0,.175);background-clip:padding-box}.dropdown-menu.pull-right{right:0;left:auto}.dropdown-menu .divider{height:1px;margin:9px 0;overflow:hidden;background-color:#e5e5e5}.dropdown-menu>li>a{display:block;padding:3px 20px;clear:both;font-weight:400;line-height:1.428571429;color:#333;white-space:nowrap}.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus{text-decoration:none;color:#262626;background-color:#f5f5f5}.dropdown-menu>.active>a,.dropdown-menu>.active>a:hover,.dropdown-menu>.active>a:focus{color:#fff;text-decoration:none;outline:0;background-color:#428bca}.dropdown-menu>.disabled>a,.dropdown-menu>.disabled>a:hover,.dropdown-menu>.disabled>a:focus{color:#999}.dropdown-menu>.disabled>a:hover,.dropdown-menu>.disabled>a:focus{text-decoration:none;background-color:transparent;background-image:none;filter:progid:DXImageTransform.Microsoft.gradient(enabled=false);cursor:not-allowed}.open>.dropdown-menu{display:block}.open>a{outline:0}.dropdown-menu-right{left:auto;right:0}.dropdown-menu-left{left:0;right:auto}.dropdown-header{display:block;padding:3px 20px;font-size:12px;line-height:1.428571429;color:#999}.dropdown-backdrop{position:fixed;left:0;right:0;bottom:0;top:0;z-index:990}.pull-right>.dropdown-menu{right:0;left:auto}.dropup .caret,.navbar-fixed-bottom .dropdown .caret{border-top:0;border-bottom:4px solid;content:""}.dropup .dropdown-menu,.navbar-fixed-bottom .dropdown .dropdown-menu{top:auto;bottom:100%;margin-bottom:1px}@media (min-width:768px){.navbar-right .dropdown-menu{left:auto;right:0}.navbar-right .dropdown-menu-left{left:0;right:auto}}.btn-group,.btn-group-vertical{position:relative;display:inline-block;vertical-align:middle}.btn-group>.btn,.btn-group-vertical>.btn{position:relative;float:left}.btn-group>.btn:hover,.btn-group-vertical>.btn:hover,.btn-group>.btn:focus,.btn-group-vertical>.btn:focus,.btn-group>.btn:active,.btn-group-vertical>.btn:active,.btn-group>.btn.active,.btn-group-vertical>.btn.active{z-index:2}.btn-group>.btn:focus,.btn-group-vertical>.btn:focus{outline:0}.btn-group .btn+.btn,.btn-group .btn+.btn-group,.btn-group .btn-group+.btn,.btn-group .btn-group+.btn-group{margin-left:-1px}.btn-toolbar{margin-left:-5px}.btn-toolbar .btn-group,.btn-toolbar .input-group{float:left}.btn-toolbar>.btn,.btn-toolbar>.btn-group,.btn-toolbar>.input-group{margin-left:5px}.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle){border-radius:0}.btn-group>.btn:first-child{margin-left:0}.btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle){border-bottom-right-radius:0;border-top-right-radius:0}.btn-group>.btn:last-child:not(:first-child),.btn-group>.dropdown-toggle:not(:first-child){border-bottom-left-radius:0;border-top-left-radius:0}.btn-group>.btn-group{float:left}.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn{border-radius:0}.btn-group>.btn-group:first-child>.btn:last-child,.btn-group>.btn-group:first-child>.dropdown-toggle{border-bottom-right-radius:0;border-top-right-radius:0}.btn-group>.btn-group:last-child>.btn:first-child{border-bottom-left-radius:0;border-top-left-radius:0}.btn-group .dropdown-toggle:active,.btn-group.open .dropdown-toggle{outline:0}.btn-group-xs>.btn{padding:1px 5px;font-size:12px;line-height:1.5;border-radius:3px}.btn-group-sm>.btn{padding:5px 10px;font-size:12px;line-height:1.5;border-radius:3px}.btn-group-lg>.btn{padding:10px 16px;font-size:18px;line-height:1.33;border-radius:6px}.btn-group>.btn+.dropdown-toggle{padding-left:8px;padding-right:8px}.btn-group>.btn-lg+.dropdown-toggle{padding-left:12px;padding-right:12px}.btn-group.open .dropdown-toggle{-webkit-box-shadow:inset 0 3px 5px rgba(0,0,0,.125);box-shadow:inset 0 3px 5px rgba(0,0,0,.125)}.btn-group.open .dropdown-toggle.btn-link{-webkit-box-shadow:none;box-shadow:none}.btn .caret{margin-left:0}.btn-lg .caret{border-width:5px 5px 0;border-bottom-width:0}.dropup .btn-lg .caret{border-width:0 5px 5px}.btn-group-vertical>.btn,.btn-group-vertical>.btn-group,.btn-group-vertical>.btn-group>.btn{display:block;float:none;width:100%;max-width:100%}.btn-group-vertical>.btn-group>.btn{float:none}.btn-group-vertical>.btn+.btn,.btn-group-vertical>.btn+.btn-group,.btn-group-vertical>.btn-group+.btn,.btn-group-vertical>.btn-group+.btn-group{margin-top:-1px;margin-left:0}.btn-group-vertical>.btn:not(:first-child):not(:last-child){border-radius:0}.btn-group-vertical>.btn:first-child:not(:last-child){border-top-right-radius:4px;border-bottom-right-radius:0;border-bottom-left-radius:0}.btn-group-vertical>.btn:last-child:not(:first-child){border-bottom-left-radius:4px;border-top-right-radius:0;border-top-left-radius:0}.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn{border-radius:0}.btn-group-vertical>.btn-group:first-child:not(:last-child)>.btn:last-child,.btn-group-vertical>.btn-group:first-child:not(:last-child)>.dropdown-toggle{border-bottom-right-radius:0;border-bottom-left-radius:0}.btn-group-vertical>.btn-group:last-child:not(:first-child)>.btn:first-child{border-top-right-radius:0;border-top-left-radius:0}.btn-group-justified{display:table;width:100%;table-layout:fixed;border-collapse:separate}.btn-group-justified>.btn,.btn-group-justified>.btn-group{float:none;display:table-cell;width:1%}.btn-group-justified>.btn-group .btn{width:100%}[data-toggle=buttons]>.btn>input[type=radio],[data-toggle=buttons]>.btn>input[type=checkbox]{display:none}.input-group{position:relative;display:table;border-collapse:separate}.input-group[class*=col-]{float:none;padding-left:0;padding-right:0}.input-group .form-control{float:left;width:100%;margin-bottom:0}.input-group-lg>.form-control,.input-group-lg>.input-group-addon,.input-group-lg>.input-group-btn>.btn{height:46px;padding:10px 16px;font-size:18px;line-height:1.33;border-radius:6px}select.input-group-lg>.form-control,select.input-group-lg>.input-group-addon,select.input-group-lg>.input-group-btn>.btn{height:46px;line-height:46px}textarea.input-group-lg>.form-control,textarea.input-group-lg>.input-group-addon,textarea.input-group-lg>.input-group-btn>.btn,select[multiple].input-group-lg>.form-control,select[multiple].input-group-lg>.input-group-addon,select[multiple].input-group-lg>.input-group-btn>.btn{height:auto}.input-group-sm>.form-control,.input-group-sm>.input-group-addon,.input-group-sm>.input-group-btn>.btn{height:30px;padding:5px 10px;font-size:12px;line-height:1.5;border-radius:3px}select.input-group-sm>.form-control,select.input-group-sm>.input-group-addon,select.input-group-sm>.input-group-btn>.btn{height:30px;line-height:30px}textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon,textarea.input-group-sm>.input-group-btn>.btn,select[multiple].input-group-sm>.form-control,select[multiple].input-group-sm>.input-group-addon,select[multiple].input-group-sm>.input-group-btn>.btn{height:auto}.input-group-addon,.input-group-btn,.input-group .form-control{display:table-cell}.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group .form-control:not(:first-child):not(:last-child){border-radius:0}.input-group-addon,.input-group-btn{width:1%;white-space:nowrap;vertical-align:middle}.input-group-addon{padding:6px 12px;font-size:14px;font-weight:400;line-height:1;color:#555;text-align:center;background-color:#eee;border:1px solid #ccc;border-radius:4px}.input-group-addon.input-sm{padding:5px 10px;font-size:12px;border-radius:3px}.input-group-addon.input-lg{padding:10px 16px;font-size:18px;border-radius:6px}.input-group-addon input[type=radio],.input-group-addon input[type=checkbox]{margin-top:0}.input-group .form-control:first-child,.input-group-addon:first-child,.input-group-btn:first-child>.btn,.input-group-btn:first-child>.btn-group>.btn,.input-group-btn:first-child>.dropdown-toggle,.input-group-btn:last-child>.btn:not(:last-child):not(.dropdown-toggle),.input-group-btn:last-child>.btn-group:not(:last-child)>.btn{border-bottom-right-radius:0;border-top-right-radius:0}.input-group-addon:first-child{border-right:0}.input-group .form-control:last-child,.input-group-addon:last-child,.input-group-btn:last-child>.btn,.input-group-btn:last-child>.btn-group>.btn,.input-group-btn:last-child>.dropdown-toggle,.input-group-btn:first-child>.btn:not(:first-child),.input-group-btn:first-child>.btn-group:not(:first-child)>.btn{border-bottom-left-radius:0;border-top-left-radius:0}.input-group-addon:last-child{border-left:0}.input-group-btn{position:relative;font-size:0;white-space:nowrap}.input-group-btn>.btn{position:relative}.input-group-btn>.btn+.btn{margin-left:-1px}.input-group-btn>.btn:hover,.input-group-btn>.btn:focus,.input-group-btn>.btn:active{z-index:2}.input-group-btn:first-child>.btn,.input-group-btn:first-child>.btn-group{margin-right:-1px}.input-group-btn:last-child>.btn,.input-group-btn:last-child>.btn-group{margin-left:-1px}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:hover,.nav>li>a:focus{text-decoration:none;background-color:#eee}.nav>li.disabled>a{color:#999}.nav>li.disabled>a:hover,.nav>li.disabled>a:focus{color:#999;text-decoration:none;background-color:transparent;cursor:not-allowed}.nav .open>a,.nav .open>a:hover,.nav .open>a:focus{background-color:#eee;border-color:#428bca}.nav .nav-divider{height:1px;margin:9px 0;overflow:hidden;background-color:#e5e5e5}.nav>li>a>img{max-width:none}.nav-tabs{border-bottom:1px solid #ddd}.nav-tabs>li{float:left;margin-bottom:-1px}.nav-tabs>li>a{margin-right:2px;line-height:1.428571429;border:1px solid transparent;border-radius:4px 4px 0 0}.nav-tabs>li>a:hover{border-color:#eee #eee #ddd}.nav-tabs>li.active>a,.nav-tabs>li.active>a:hover,.nav-tabs>li.active>a:focus{color:#555;background-color:#fff;border:1px solid #ddd;border-bottom-color:transparent;cursor:default}.nav-tabs.nav-justified{width:100%;border-bottom:0}.nav-tabs.nav-justified>li{float:none}.nav-tabs.nav-justified>li>a{text-align:center;margin-bottom:5px}.nav-tabs.nav-justified>.dropdown .dropdown-menu{top:auto;left:auto}@media (min-width:768px){.nav-tabs.nav-justified>li{display:table-cell;width:1%}.nav-tabs.nav-justified>li>a{margin-bottom:0}}.nav-tabs.nav-justified>li>a{margin-right:0;border-radius:4px}.nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:hover,.nav-tabs.nav-justified>.active>a:focus{border:1px solid #ddd}@media (min-width:768px){.nav-tabs.nav-justified>li>a{border-bottom:1px solid #ddd;border-radius:4px 4px 0 0}.nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:hover,.nav-tabs.nav-justified>.active>a:focus{border-bottom-color:#fff}}.nav-pills>li{float:left}.nav-pills>li>a{border-radius:4px}.nav-pills>li+li{margin-left:2px}.nav-pills>li.active>a,.nav-pills>li.active>a:hover,.nav-pills>li.active>a:focus{color:#fff;background-color:#428bca}.nav-stacked>li{float:none}.nav-stacked>li+li{margin-top:2px;margin-left:0}.nav-justified{width:100%}.nav-justified>li{float:none}.nav-justified>li>a{text-align:center;margin-bottom:5px}.nav-justified>.dropdown .dropdown-menu{top:auto;left:auto}@media (min-width:768px){.nav-justified>li{display:table-cell;width:1%}.nav-justified>li>a{margin-bottom:0}}.nav-tabs-justified{border-bottom:0}.nav-tabs-justified>li>a{margin-right:0;border-radius:4px}.nav-tabs-justified>.active>a,.nav-tabs-justified>.active>a:hover,.nav-tabs-justified>.active>a:focus{border:1px solid #ddd}@media (min-width:768px){.nav-tabs-justified>li>a{border-bottom:1px solid #ddd;border-radius:4px 4px 0 0}.nav-tabs-justified>.active>a,.nav-tabs-justified>.active>a:hover,.nav-tabs-justified>.active>a:focus{border-bottom-color:#fff}}.tab-content>.tab-pane{display:none}.tab-content>.active{display:block}.nav-tabs .dropdown-menu{margin-top:-1px;border-top-right-radius:0;border-top-left-radius:0}.navbar{position:relative;min-height:50px;margin-bottom:20px;border:1px solid transparent}@media (min-width:768px){.navbar{border-radius:4px}}@media (min-width:768px){.navbar-header{float:left}}.navbar-collapse{max-height:340px;overflow-x:visible;padding-right:15px;padding-left:15px;border-top:1px solid transparent;box-shadow:inset 0 1px 0 rgba(255,255,255,.1);-webkit-overflow-scrolling:touch}.navbar-collapse.in{overflow-y:auto}@media (min-width:768px){.navbar-collapse{width:auto;border-top:0;box-shadow:none}.navbar-collapse.collapse{display:block!important;height:auto!important;padding-bottom:0;overflow:visible!important}.navbar-collapse.in{overflow-y:visible}.navbar-fixed-top .navbar-collapse,.navbar-static-top .navbar-collapse,.navbar-fixed-bottom .navbar-collapse{padding-left:0;padding-right:0}}.container>.navbar-header,.container-fluid>.navbar-header,.container>.navbar-collapse,.container-fluid>.navbar-collapse{margin-right:-15px;margin-left:-15px}@media (min-width:768px){.container>.navbar-header,.container-fluid>.navbar-header,.container>.navbar-collapse,.container-fluid>.navbar-collapse{margin-right:0;margin-left:0}}.navbar-static-top{z-index:1000;border-width:0 0 1px}@media (min-width:768px){.navbar-static-top{border-radius:0}}.navbar-fixed-top,.navbar-fixed-bottom{position:fixed;right:0;left:0;z-index:1030}@media (min-width:768px){.navbar-fixed-top,.navbar-fixed-bottom{border-radius:0}}.navbar-fixed-top{top:0;border-width:0 0 1px}.navbar-fixed-bottom{bottom:0;margin-bottom:0;border-width:1px 0 0}.navbar-brand{float:left;padding:15px;font-size:18px;line-height:20px;height:20px}.navbar-brand:hover,.navbar-brand:focus{text-decoration:none}@media (min-width:768px){.navbar>.container .navbar-brand,.navbar>.container-fluid .navbar-brand{margin-left:-15px}}.navbar-toggle{position:relative;float:right;margin-right:15px;padding:9px 10px;margin-top:8px;margin-bottom:8px;background-color:transparent;background-image:none;border:1px solid transparent;border-radius:4px}.navbar-toggle:focus{outline:0}.navbar-toggle .icon-bar{display:block;width:22px;height:2px;border-radius:1px}.navbar-toggle .icon-bar+.icon-bar{margin-top:4px}@media (min-width:768px){.navbar-toggle{display:none}}.navbar-nav{margin:7.5px -15px}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px;line-height:20px}@media (max-width:767px){.navbar-nav .open .dropdown-menu{position:static;float:none;width:auto;margin-top:0;background-color:transparent;border:0;box-shadow:none}.navbar-nav .open .dropdown-menu>li>a,.navbar-nav .open .dropdown-menu .dropdown-header{padding:5px 15px 5px 25px}.navbar-nav .open .dropdown-menu>li>a{line-height:20px}.navbar-nav .open .dropdown-menu>li>a:hover,.navbar-nav .open .dropdown-menu>li>a:focus{background-image:none}}@media (min-width:768px){.navbar-nav{float:left;margin:0}.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:15px;padding-bottom:15px}.navbar-nav.navbar-right:last-child{margin-right:-15px}}@media (min-width:768px){.navbar-left{float:left!important}.navbar-right{float:right!important}}.navbar-form{margin-left:-15px;margin-right:-15px;padding:10px 15px;border-top:1px solid transparent;border-bottom:1px solid transparent;-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,.1),0 1px 0 rgba(255,255,255,.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.1),0 1px 0 rgba(255,255,255,.1);margin-top:8px;margin-bottom:8px}@media (min-width:768px){.navbar-form .form-group{display:inline-block;margin-bottom:0;vertical-align:middle}.navbar-form .form-control{display:inline-block;width:auto;vertical-align:middle}.navbar-form .control-label{margin-bottom:0;vertical-align:middle}.navbar-form .radio,.navbar-form .checkbox{display:inline-block;margin-top:0;margin-bottom:0;padding-left:0;vertical-align:middle}.navbar-form .radio input[type=radio],.navbar-form .checkbox input[type=checkbox]{float:none;margin-left:0}.navbar-form .has-feedback .form-control-feedback{top:0}}@media (max-width:767px){.navbar-form .form-group{margin-bottom:5px}}@media (min-width:768px){.navbar-form{width:auto;border:0;margin-left:0;margin-right:0;padding-top:0;padding-bottom:0;-webkit-box-shadow:none;box-shadow:none}.navbar-form.navbar-right:last-child{margin-right:-15px}}.navbar-nav>li>.dropdown-menu{margin-top:0;border-top-right-radius:0;border-top-left-radius:0}.navbar-fixed-bottom .navbar-nav>li>.dropdown-menu{border-bottom-right-radius:0;border-bottom-left-radius:0}.navbar-btn{margin-top:8px;margin-bottom:8px}.navbar-btn.btn-sm{margin-top:10px;margin-bottom:10px}.navbar-btn.btn-xs{margin-top:14px;margin-bottom:14px}.navbar-text{margin-top:15px;margin-bottom:15px}@media (min-width:768px){.navbar-text{float:left;margin-left:15px;margin-right:15px}.navbar-text.navbar-right:last-child{margin-right:0}}.navbar-default{background-color:#f8f8f8;border-color:#e7e7e7}.navbar-default .navbar-brand{color:#777}.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus{color:#5e5e5e;background-color:transparent}.navbar-default .navbar-text{color:#777}.navbar-default .navbar-nav>li>a{color:#777}.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus{color:#333;background-color:transparent}.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{color:#555;background-color:#e7e7e7}.navbar-default .navbar-nav>.disabled>a,.navbar-default .navbar-nav>.disabled>a:hover,.navbar-default .navbar-nav>.disabled>a:focus{color:#ccc;background-color:transparent}.navbar-default .navbar-toggle{border-color:#ddd}.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus{background-color:#ddd}.navbar-default .navbar-toggle .icon-bar{background-color:#888}.navbar-default .navbar-collapse,.navbar-default .navbar-form{border-color:#e7e7e7}.navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:hover,.navbar-default .navbar-nav>.open>a:focus{background-color:#e7e7e7;color:#555}@media (max-width:767px){.navbar-default .navbar-nav .open .dropdown-menu>li>a{color:#777}.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus{color:#333;background-color:transparent}.navbar-default .navbar-nav .open .dropdown-menu>.active>a,.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus{color:#555;background-color:#e7e7e7}.navbar-default .navbar-nav .open .dropdown-menu>.disabled>a,.navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:hover,.navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:focus{color:#ccc;background-color:transparent}}.navbar-default .navbar-link{color:#777}.navbar-default .navbar-link:hover{color:#333}.navbar-inverse{background-color:#222;border-color:#080808}.navbar-inverse .navbar-brand{color:#999}.navbar-inverse .navbar-brand:hover,.navbar-inverse .navbar-brand:focus{color:#fff;background-color:transparent}.navbar-inverse .navbar-text{color:#999}.navbar-inverse .navbar-nav>li>a{color:#999}.navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>li>a:focus{color:#fff;background-color:transparent}.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.active>a:hover,.navbar-inverse .navbar-nav>.active>a:focus{color:#fff;background-color:#080808}.navbar-inverse .navbar-nav>.disabled>a,.navbar-inverse .navbar-nav>.disabled>a:hover,.navbar-inverse .navbar-nav>.disabled>a:focus{color:#444;background-color:transparent}.navbar-inverse .navbar-toggle{border-color:#333}.navbar-inverse .navbar-toggle:hover,.navbar-inverse .navbar-toggle:focus{background-color:#333}.navbar-inverse .navbar-toggle .icon-bar{background-color:#fff}.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form{border-color:#101010}.navbar-inverse .navbar-nav>.open>a,.navbar-inverse .navbar-nav>.open>a:hover,.navbar-inverse .navbar-nav>.open>a:focus{background-color:#080808;color:#fff}@media (max-width:767px){.navbar-inverse .navbar-nav .open .dropdown-menu>.dropdown-header{border-color:#080808}.navbar-inverse .navbar-nav .open .dropdown-menu .divider{background-color:#080808}.navbar-inverse .navbar-nav .open .dropdown-menu>li>a{color:#999}.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover,.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:focus{color:#fff;background-color:transparent}.navbar-inverse .navbar-nav .open .dropdown-menu>.active>a,.navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:hover,.navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:focus{color:#fff;background-color:#080808}.navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a,.navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a:hover,.navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a:focus{color:#444;background-color:transparent}}.navbar-inverse .navbar-link{color:#999}.navbar-inverse .navbar-link:hover{color:#fff}.breadcrumb{padding:8px 15px;margin-bottom:20px;list-style:none;background-color:#f5f5f5;border-radius:4px}.breadcrumb>li{display:inline-block}.breadcrumb>li+li:before{content:"/\00a0";padding:0 5px;color:#ccc}.breadcrumb>.active{color:#999}.pagination{display:inline-block;padding-left:0;margin:20px 0;border-radius:4px}.pagination>li{display:inline}.pagination>li>a,.pagination>li>span{position:relative;float:left;padding:6px 12px;line-height:1.428571429;text-decoration:none;color:#428bca;background-color:#fff;border:1px solid #ddd;margin-left:-1px}.pagination>li:first-child>a,.pagination>li:first-child>span{margin-left:0;border-bottom-left-radius:4px;border-top-left-radius:4px}.pagination>li:last-child>a,.pagination>li:last-child>span{border-bottom-right-radius:4px;border-top-right-radius:4px}.pagination>li>a:hover,.pagination>li>span:hover,.pagination>li>a:focus,.pagination>li>span:focus{color:#2a6496;background-color:#eee;border-color:#ddd}.pagination>.active>a,.pagination>.active>span,.pagination>.active>a:hover,.pagination>.active>span:hover,.pagination>.active>a:focus,.pagination>.active>span:focus{z-index:2;color:#fff;background-color:#428bca;border-color:#428bca;cursor:default}.pagination>.disabled>span,.pagination>.disabled>span:hover,.pagination>.disabled>span:focus,.pagination>.disabled>a,.pagination>.disabled>a:hover,.pagination>.disabled>a:focus{color:#999;background-color:#fff;border-color:#ddd;cursor:not-allowed}.pagination-lg>li>a,.pagination-lg>li>span{padding:10px 16px;font-size:18px}.pagination-lg>li:first-child>a,.pagination-lg>li:first-child>span{border-bottom-left-radius:6px;border-top-left-radius:6px}.pagination-lg>li:last-child>a,.pagination-lg>li:last-child>span{border-bottom-right-radius:6px;border-top-right-radius:6px}.pagination-sm>li>a,.pagination-sm>li>span{padding:5px 10px;font-size:12px}.pagination-sm>li:first-child>a,.pagination-sm>li:first-child>span{border-bottom-left-radius:3px;border-top-left-radius:3px}.pagination-sm>li:last-child>a,.pagination-sm>li:last-child>span{border-bottom-right-radius:3px;border-top-right-radius:3px}.pager{padding-left:0;margin:20px 0;list-style:none;text-align:center}.pager li{display:inline}.pager li>a,.pager li>span{display:inline-block;padding:5px 14px;background-color:#fff;border:1px solid #ddd;border-radius:15px}.pager li>a:hover,.pager li>a:focus{text-decoration:none;background-color:#eee}.pager .next>a,.pager .next>span{float:right}.pager .previous>a,.pager .previous>span{float:left}.pager .disabled>a,.pager .disabled>a:hover,.pager .disabled>a:focus,.pager .disabled>span{color:#999;background-color:#fff;cursor:not-allowed}.label{display:inline;padding:.2em .6em .3em;font-size:75%;font-weight:700;line-height:1;color:#fff;text-align:center;white-space:nowrap;vertical-align:baseline;border-radius:.25em}.label[href]:hover,.label[href]:focus{color:#fff;text-decoration:none;cursor:pointer}.label:empty{display:none}.btn .label{position:relative;top:-1px}.label-default{background-color:#999}.label-default[href]:hover,.label-default[href]:focus{background-color:gray}.label-primary{background-color:#428bca}.label-primary[href]:hover,.label-primary[href]:focus{background-color:#3071a9}.label-success{background-color:#5cb85c}.label-success[href]:hover,.label-success[href]:focus{background-color:#449d44}.label-info{background-color:#5bc0de}.label-info[href]:hover,.label-info[href]:focus{background-color:#31b0d5}.label-warning{background-color:#f0ad4e}.label-warning[href]:hover,.label-warning[href]:focus{background-color:#ec971f}.label-danger{background-color:#d9534f}.label-danger[href]:hover,.label-danger[href]:focus{background-color:#c9302c}.badge{display:inline-block;min-width:10px;padding:3px 7px;font-size:12px;font-weight:700;color:#fff;line-height:1;vertical-align:baseline;white-space:nowrap;text-align:center;background-color:#999;border-radius:10px}.badge:empty{display:none}.btn .badge{position:relative;top:-1px}.btn-xs .badge{top:0;padding:1px 5px}a.badge:hover,a.badge:focus{color:#fff;text-decoration:none;cursor:pointer}a.list-group-item.active>.badge,.nav-pills>.active>a>.badge{color:#428bca;background-color:#fff}.nav-pills>li>a>.badge{margin-left:3px}.jumbotron{padding:30px;margin-bottom:30px;color:inherit;background-color:#eee}.jumbotron h1,.jumbotron .h1{color:inherit}.jumbotron p{margin-bottom:15px;font-size:21px;font-weight:200}.container .jumbotron{border-radius:6px}.jumbotron .container{max-width:100%}@media screen and (min-width:768px){.jumbotron{padding-top:48px;padding-bottom:48px}.container .jumbotron{padding-left:60px;padding-right:60px}.jumbotron h1,.jumbotron .h1{font-size:63px}}.thumbnail{display:block;padding:4px;margin-bottom:20px;line-height:1.428571429;background-color:#fff;border:1px solid #ddd;border-radius:4px;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.thumbnail>img,.thumbnail a>img{display:block;max-width:100%;height:auto;margin-left:auto;margin-right:auto}a.thumbnail:hover,a.thumbnail:focus,a.thumbnail.active{border-color:#428bca}.thumbnail .caption{padding:9px;color:#333}.alert{padding:15px;margin-bottom:20px;border:1px solid transparent;border-radius:4px}.alert h4{margin-top:0;color:inherit}.alert .alert-link{font-weight:700}.alert>p,.alert>ul{margin-bottom:0}.alert>p+p{margin-top:5px}.alert-dismissable{padding-right:35px}.alert-dismissable .close{position:relative;top:-2px;right:-21px;color:inherit}.alert-success{background-color:#dff0d8;border-color:#d6e9c6;color:#3c763d}.alert-success hr{border-top-color:#c9e2b3}.alert-success .alert-link{color:#2b542c}.alert-info{background-color:#d9edf7;border-color:#bce8f1;color:#31708f}.alert-info hr{border-top-color:#a6e1ec}.alert-info .alert-link{color:#245269}.alert-warning{background-color:#fcf8e3;border-color:#faebcc;color:#8a6d3b}.alert-warning hr{border-top-color:#f7e1b5}.alert-warning .alert-link{color:#66512c}.alert-danger{background-color:#f2dede;border-color:#ebccd1;color:#a94442}.alert-danger hr{border-top-color:#e4b9c0}.alert-danger .alert-link{color:#843534}@-webkit-keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}@keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}.progress{overflow:hidden;height:20px;margin-bottom:20px;background-color:#f5f5f5;border-radius:4px;-webkit-box-shadow:inset 0 1px 2px rgba(0,0,0,.1);box-shadow:inset 0 1px 2px rgba(0,0,0,.1)}.progress-bar{float:left;width:0;height:100%;font-size:12px;line-height:20px;color:#fff;text-align:center;background-color:#428bca;-webkit-box-shadow:inset 0 -1px 0 rgba(0,0,0,.15);box-shadow:inset 0 -1px 0 rgba(0,0,0,.15);-webkit-transition:width .6s ease;transition:width .6s ease}.progress-striped .progress-bar{background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-size:40px 40px}.progress.active .progress-bar{-webkit-animation:progress-bar-stripes 2s linear infinite;animation:progress-bar-stripes 2s linear infinite}.progress-bar-success{background-color:#5cb85c}.progress-striped .progress-bar-success{background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent)}.progress-bar-info{background-color:#5bc0de}.progress-striped .progress-bar-info{background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent)}.progress-bar-warning{background-color:#f0ad4e}.progress-striped .progress-bar-warning{background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent)}.progress-bar-danger{background-color:#d9534f}.progress-striped .progress-bar-danger{background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent)}.media,.media-body{overflow:hidden;zoom:1}.media,.media .media{margin-top:15px}.media:first-child{margin-top:0}.media-object{display:block}.media-heading{margin:0 0 5px}.media>.pull-left{margin-right:10px}.media>.pull-right{margin-left:10px}.media-list{padding-left:0;list-style:none}.list-group{margin-bottom:20px;padding-left:0}.list-group-item{position:relative;display:block;padding:10px 15px;margin-bottom:-1px;background-color:#fff;border:1px solid #ddd}.list-group-item:first-child{border-top-right-radius:4px;border-top-left-radius:4px}.list-group-item:last-child{margin-bottom:0;border-bottom-right-radius:4px;border-bottom-left-radius:4px}.list-group-item>.badge{float:right}.list-group-item>.badge+.badge{margin-right:5px}a.list-group-item{color:#555}a.list-group-item .list-group-item-heading{color:#333}a.list-group-item:hover,a.list-group-item:focus{text-decoration:none;background-color:#f5f5f5}a.list-group-item.active,a.list-group-item.active:hover,a.list-group-item.active:focus{z-index:2;color:#fff;background-color:#428bca;border-color:#428bca}a.list-group-item.active .list-group-item-heading,a.list-group-item.active:hover .list-group-item-heading,a.list-group-item.active:focus .list-group-item-heading{color:inherit}a.list-group-item.active .list-group-item-text,a.list-group-item.active:hover .list-group-item-text,a.list-group-item.active:focus .list-group-item-text{color:#e1edf7}.list-group-item-success{color:#3c763d;background-color:#dff0d8}a.list-group-item-success{color:#3c763d}a.list-group-item-success .list-group-item-heading{color:inherit}a.list-group-item-success:hover,a.list-group-item-success:focus{color:#3c763d;background-color:#d0e9c6}a.list-group-item-success.active,a.list-group-item-success.active:hover,a.list-group-item-success.active:focus{color:#fff;background-color:#3c763d;border-color:#3c763d}.list-group-item-info{color:#31708f;background-color:#d9edf7}a.list-group-item-info{color:#31708f}a.list-group-item-info .list-group-item-heading{color:inherit}a.list-group-item-info:hover,a.list-group-item-info:focus{color:#31708f;background-color:#c4e3f3}a.list-group-item-info.active,a.list-group-item-info.active:hover,a.list-group-item-info.active:focus{color:#fff;background-color:#31708f;border-color:#31708f}.list-group-item-warning{color:#8a6d3b;background-color:#fcf8e3}a.list-group-item-warning{color:#8a6d3b}a.list-group-item-warning .list-group-item-heading{color:inherit}a.list-group-item-warning:hover,a.list-group-item-warning:focus{color:#8a6d3b;background-color:#faf2cc}a.list-group-item-warning.active,a.list-group-item-warning.active:hover,a.list-group-item-warning.active:focus{color:#fff;background-color:#8a6d3b;border-color:#8a6d3b}.list-group-item-danger{color:#a94442;background-color:#f2dede}a.list-group-item-danger{color:#a94442}a.list-group-item-danger .list-group-item-heading{color:inherit}a.list-group-item-danger:hover,a.list-group-item-danger:focus{color:#a94442;background-color:#ebcccc}a.list-group-item-danger.active,a.list-group-item-danger.active:hover,a.list-group-item-danger.active:focus{color:#fff;background-color:#a94442;border-color:#a94442}.list-group-item-heading{margin-top:0;margin-bottom:5px}.list-group-item-text{margin-bottom:0;line-height:1.3}.panel{margin-bottom:20px;background-color:#fff;border:1px solid transparent;border-radius:4px;-webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);box-shadow:0 1px 1px rgba(0,0,0,.05)}.panel-body{padding:15px}.panel>.list-group{margin-bottom:0}.panel>.list-group .list-group-item{border-width:1px 0;border-radius:0}.panel>.list-group .list-group-item:first-child{border-top:0}.panel>.list-group .list-group-item:last-child{border-bottom:0}.panel>.list-group:first-child .list-group-item:first-child{border-top-right-radius:3px;border-top-left-radius:3px}.panel>.list-group:last-child .list-group-item:last-child{border-bottom-right-radius:3px;border-bottom-left-radius:3px}.panel-heading+.list-group .list-group-item:first-child{border-top-width:0}.panel>.table,.panel>.table-responsive>.table{margin-bottom:0}.panel>.table:first-child>thead:first-child>tr:first-child td:first-child,.panel>.table-responsive:first-child>.table:first-child>thead:first-child>tr:first-child td:first-child,.panel>.table:first-child>tbody:first-child>tr:first-child td:first-child,.panel>.table-responsive:first-child>.table:first-child>tbody:first-child>tr:first-child td:first-child,.panel>.table:first-child>thead:first-child>tr:first-child th:first-child,.panel>.table-responsive:first-child>.table:first-child>thead:first-child>tr:first-child th:first-child,.panel>.table:first-child>tbody:first-child>tr:first-child th:first-child,.panel>.table-responsive:first-child>.table:first-child>tbody:first-child>tr:first-child th:first-child{border-top-left-radius:3px}.panel>.table:first-child>thead:first-child>tr:first-child td:last-child,.panel>.table-responsive:first-child>.table:first-child>thead:first-child>tr:first-child td:last-child,.panel>.table:first-child>tbody:first-child>tr:first-child td:last-child,.panel>.table-responsive:first-child>.table:first-child>tbody:first-child>tr:first-child td:last-child,.panel>.table:first-child>thead:first-child>tr:first-child th:last-child,.panel>.table-responsive:first-child>.table:first-child>thead:first-child>tr:first-child th:last-child,.panel>.table:first-child>tbody:first-child>tr:first-child th:last-child,.panel>.table-responsive:first-child>.table:first-child>tbody:first-child>tr:first-child th:last-child{border-top-right-radius:3px}.panel>.table:last-child>tbody:last-child>tr:last-child td:first-child,.panel>.table-responsive:last-child>.table:last-child>tbody:last-child>tr:last-child td:first-child,.panel>.table:last-child>tfoot:last-child>tr:last-child td:first-child,.panel>.table-responsive:last-child>.table:last-child>tfoot:last-child>tr:last-child td:first-child,.panel>.table:last-child>tbody:last-child>tr:last-child th:first-child,.panel>.table-responsive:last-child>.table:last-child>tbody:last-child>tr:last-child th:first-child,.panel>.table:last-child>tfoot:last-child>tr:last-child th:first-child,.panel>.table-responsive:last-child>.table:last-child>tfoot:last-child>tr:last-child th:first-child{border-bottom-left-radius:3px}.panel>.table:last-child>tbody:last-child>tr:last-child td:last-child,.panel>.table-responsive:last-child>.table:last-child>tbody:last-child>tr:last-child td:last-child,.panel>.table:last-child>tfoot:last-child>tr:last-child td:last-child,.panel>.table-responsive:last-child>.table:last-child>tfoot:last-child>tr:last-child td:last-child,.panel>.table:last-child>tbody:last-child>tr:last-child th:last-child,.panel>.table-responsive:last-child>.table:last-child>tbody:last-child>tr:last-child th:last-child,.panel>.table:last-child>tfoot:last-child>tr:last-child th:last-child,.panel>.table-responsive:last-child>.table:last-child>tfoot:last-child>tr:last-child th:last-child{border-bottom-right-radius:3px}.panel>.panel-body+.table,.panel>.panel-body+.table-responsive{border-top:1px solid #ddd}.panel>.table>tbody:first-child>tr:first-child th,.panel>.table>tbody:first-child>tr:first-child td{border-top:0}.panel>.table-bordered,.panel>.table-responsive>.table-bordered{border:0}.panel>.table-bordered>thead>tr>th:first-child,.panel>.table-responsive>.table-bordered>thead>tr>th:first-child,.panel>.table-bordered>tbody>tr>th:first-child,.panel>.table-responsive>.table-bordered>tbody>tr>th:first-child,.panel>.table-bordered>tfoot>tr>th:first-child,.panel>.table-responsive>.table-bordered>tfoot>tr>th:first-child,.panel>.table-bordered>thead>tr>td:first-child,.panel>.table-responsive>.table-bordered>thead>tr>td:first-child,.panel>.table-bordered>tbody>tr>td:first-child,.panel>.table-responsive>.table-bordered>tbody>tr>td:first-child,.panel>.table-bordered>tfoot>tr>td:first-child,.panel>.table-responsive>.table-bordered>tfoot>tr>td:first-child{border-left:0}.panel>.table-bordered>thead>tr>th:last-child,.panel>.table-responsive>.table-bordered>thead>tr>th:last-child,.panel>.table-bordered>tbody>tr>th:last-child,.panel>.table-responsive>.table-bordered>tbody>tr>th:last-child,.panel>.table-bordered>tfoot>tr>th:last-child,.panel>.table-responsive>.table-bordered>tfoot>tr>th:last-child,.panel>.table-bordered>thead>tr>td:last-child,.panel>.table-responsive>.table-bordered>thead>tr>td:last-child,.panel>.table-bordered>tbody>tr>td:last-child,.panel>.table-responsive>.table-bordered>tbody>tr>td:last-child,.panel>.table-bordered>tfoot>tr>td:last-child,.panel>.table-responsive>.table-bordered>tfoot>tr>td:last-child{border-right:0}.panel>.table-bordered>thead>tr:first-child>th,.panel>.table-responsive>.table-bordered>thead>tr:first-child>th,.panel>.table-bordered>tbody>tr:first-child>th,.panel>.table-responsive>.table-bordered>tbody>tr:first-child>th,.panel>.table-bordered>tfoot>tr:first-child>th,.panel>.table-responsive>.table-bordered>tfoot>tr:first-child>th,.panel>.table-bordered>thead>tr:first-child>td,.panel>.table-responsive>.table-bordered>thead>tr:first-child>td,.panel>.table-bordered>tbody>tr:first-child>td,.panel>.table-responsive>.table-bordered>tbody>tr:first-child>td,.panel>.table-bordered>tfoot>tr:first-child>td,.panel>.table-responsive>.table-bordered>tfoot>tr:first-child>td{border-top:0}.panel>.table-bordered>thead>tr:last-child>th,.panel>.table-responsive>.table-bordered>thead>tr:last-child>th,.panel>.table-bordered>tbody>tr:last-child>th,.panel>.table-responsive>.table-bordered>tbody>tr:last-child>th,.panel>.table-bordered>tfoot>tr:last-child>th,.panel>.table-responsive>.table-bordered>tfoot>tr:last-child>th,.panel>.table-bordered>thead>tr:last-child>td,.panel>.table-responsive>.table-bordered>thead>tr:last-child>td,.panel>.table-bordered>tbody>tr:last-child>td,.panel>.table-responsive>.table-bordered>tbody>tr:last-child>td,.panel>.table-bordered>tfoot>tr:last-child>td,.panel>.table-responsive>.table-bordered>tfoot>tr:last-child>td{border-bottom:0}.panel>.table-responsive{border:0;margin-bottom:0}.panel-heading{padding:10px 15px;border-bottom:1px solid transparent;border-top-right-radius:3px;border-top-left-radius:3px}.panel-heading>.dropdown .dropdown-toggle{color:inherit}.panel-title{margin-top:0;margin-bottom:0;font-size:16px;color:inherit}.panel-title>a{color:inherit}.panel-footer{padding:10px 15px;background-color:#f5f5f5;border-top:1px solid #ddd;border-bottom-right-radius:3px;border-bottom-left-radius:3px}.panel-group{margin-bottom:20px}.panel-group .panel{margin-bottom:0;border-radius:4px;overflow:hidden}.panel-group .panel+.panel{margin-top:5px}.panel-group .panel-heading{border-bottom:0}.panel-group .panel-heading+.panel-collapse .panel-body{border-top:1px solid #ddd}.panel-group .panel-footer{border-top:0}.panel-group .panel-footer+.panel-collapse .panel-body{border-bottom:1px solid #ddd}.panel-default{border-color:#ddd}.panel-default>.panel-heading{color:#333;background-color:#f5f5f5;border-color:#ddd}.panel-default>.panel-heading+.panel-collapse .panel-body{border-top-color:#ddd}.panel-default>.panel-footer+.panel-collapse .panel-body{border-bottom-color:#ddd}.panel-primary{border-color:#428bca}.panel-primary>.panel-heading{color:#fff;background-color:#428bca;border-color:#428bca}.panel-primary>.panel-heading+.panel-collapse .panel-body{border-top-color:#428bca}.panel-primary>.panel-footer+.panel-collapse .panel-body{border-bottom-color:#428bca}.panel-success{border-color:#d6e9c6}.panel-success>.panel-heading{color:#3c763d;background-color:#dff0d8;border-color:#d6e9c6}.panel-success>.panel-heading+.panel-collapse .panel-body{border-top-color:#d6e9c6}.panel-success>.panel-footer+.panel-collapse .panel-body{border-bottom-color:#d6e9c6}.panel-info{border-color:#bce8f1}.panel-info>.panel-heading{color:#31708f;background-color:#d9edf7;border-color:#bce8f1}.panel-info>.panel-heading+.panel-collapse .panel-body{border-top-color:#bce8f1}.panel-info>.panel-footer+.panel-collapse .panel-body{border-bottom-color:#bce8f1}.panel-warning{border-color:#faebcc}.panel-warning>.panel-heading{color:#8a6d3b;background-color:#fcf8e3;border-color:#faebcc}.panel-warning>.panel-heading+.panel-collapse .panel-body{border-top-color:#faebcc}.panel-warning>.panel-footer+.panel-collapse .panel-body{border-bottom-color:#faebcc}.panel-danger{border-color:#ebccd1}.panel-danger>.panel-heading{color:#a94442;background-color:#f2dede;border-color:#ebccd1}.panel-danger>.panel-heading+.panel-collapse .panel-body{border-top-color:#ebccd1}.panel-danger>.panel-footer+.panel-collapse .panel-body{border-bottom-color:#ebccd1}.well{min-height:20px;padding:19px;margin-bottom:20px;background-color:#f5f5f5;border:1px solid #e3e3e3;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.05);box-shadow:inset 0 1px 1px rgba(0,0,0,.05)}.well blockquote{border-color:#ddd;border-color:rgba(0,0,0,.15)}.well-lg{padding:24px;border-radius:6px}.well-sm{padding:9px;border-radius:3px}.close{float:right;font-size:21px;font-weight:700;line-height:1;color:#000;text-shadow:0 1px 0 #fff;opacity:.2;filter:alpha(opacity=20)}.close:hover,.close:focus{color:#000;text-decoration:none;cursor:pointer;opacity:.5;filter:alpha(opacity=50)}button.close{padding:0;cursor:pointer;background:0 0;border:0;-webkit-appearance:none}.modal-open{overflow:hidden}.modal{display:none;overflow:auto;overflow-y:scroll;position:fixed;top:0;right:0;bottom:0;left:0;z-index:1050;-webkit-overflow-scrolling:touch;outline:0}.modal.fade .modal-dialog{-webkit-transform:translate(0,-25%);-ms-transform:translate(0,-25%);transform:translate(0,-25%);-webkit-transition:-webkit-transform .3s ease-out;-moz-transition:-moz-transform .3s ease-out;-o-transition:-o-transform .3s ease-out;transition:transform .3s ease-out}.modal.in .modal-dialog{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0)}.modal-dialog{position:relative;width:auto;margin:10px}.modal-content{position:relative;background-color:#fff;border:1px solid #999;border:1px solid rgba(0,0,0,.2);border-radius:6px;-webkit-box-shadow:0 3px 9px rgba(0,0,0,.5);box-shadow:0 3px 9px rgba(0,0,0,.5);background-clip:padding-box;outline:0}.modal-backdrop{position:fixed;top:0;right:0;bottom:0;left:0;z-index:1040;background-color:#000}.modal-backdrop.fade{opacity:0;filter:alpha(opacity=0)}.modal-backdrop.in{opacity:.5;filter:alpha(opacity=50)}.modal-header{padding:15px;border-bottom:1px solid #e5e5e5;min-height:16.428571429px}.modal-header .close{margin-top:-2px}.modal-title{margin:0;line-height:1.428571429}.modal-body{position:relative;padding:20px}.modal-footer{margin-top:15px;padding:19px 20px 20px;text-align:right;border-top:1px solid #e5e5e5}.modal-footer .btn+.btn{margin-left:5px;margin-bottom:0}.modal-footer .btn-group .btn+.btn{margin-left:-1px}.modal-footer .btn-block+.btn-block{margin-left:0}@media (min-width:768px){.modal-dialog{width:600px;margin:30px auto}.modal-content{-webkit-box-shadow:0 5px 15px rgba(0,0,0,.5);box-shadow:0 5px 15px rgba(0,0,0,.5)}.modal-sm{width:300px}.modal-lg{width:900px}}.tooltip{position:absolute;z-index:1030;display:block;visibility:visible;font-size:12px;line-height:1.4;opacity:0;filter:alpha(opacity=0)}.tooltip.in{opacity:.9;filter:alpha(opacity=90)}.tooltip.top{margin-top:-3px;padding:5px 0}.tooltip.right{margin-left:3px;padding:0 5px}.tooltip.bottom{margin-top:3px;padding:5px 0}.tooltip.left{margin-left:-3px;padding:0 5px}.tooltip-inner{max-width:200px;padding:3px 8px;color:#fff;text-align:center;text-decoration:none;background-color:#000;border-radius:4px}.tooltip-arrow{position:absolute;width:0;height:0;border-color:transparent;border-style:solid}.tooltip.top .tooltip-arrow{bottom:0;left:50%;margin-left:-5px;border-width:5px 5px 0;border-top-color:#000}.tooltip.top-left .tooltip-arrow{bottom:0;left:5px;border-width:5px 5px 0;border-top-color:#000}.tooltip.top-right .tooltip-arrow{bottom:0;right:5px;border-width:5px 5px 0;border-top-color:#000}.tooltip.right .tooltip-arrow{top:50%;left:0;margin-top:-5px;border-width:5px 5px 5px 0;border-right-color:#000}.tooltip.left .tooltip-arrow{top:50%;right:0;margin-top:-5px;border-width:5px 0 5px 5px;border-left-color:#000}.tooltip.bottom .tooltip-arrow{top:0;left:50%;margin-left:-5px;border-width:0 5px 5px;border-bottom-color:#000}.tooltip.bottom-left .tooltip-arrow{top:0;left:5px;border-width:0 5px 5px;border-bottom-color:#000}.tooltip.bottom-right .tooltip-arrow{top:0;right:5px;border-width:0 5px 5px;border-bottom-color:#000}.popover{position:absolute;top:0;left:0;z-index:1010;display:none;max-width:276px;padding:1px;text-align:left;background-color:#fff;background-clip:padding-box;border:1px solid #ccc;border:1px solid rgba(0,0,0,.2);border-radius:6px;-webkit-box-shadow:0 5px 10px rgba(0,0,0,.2);box-shadow:0 5px 10px rgba(0,0,0,.2);white-space:normal}.popover.top{margin-top:-10px}.popover.right{margin-left:10px}.popover.bottom{margin-top:10px}.popover.left{margin-left:-10px}.popover-title{margin:0;padding:8px 14px;font-size:14px;font-weight:400;line-height:18px;background-color:#f7f7f7;border-bottom:1px solid #ebebeb;border-radius:5px 5px 0 0}.popover-content{padding:9px 14px}.popover .arrow,.popover .arrow:after{position:absolute;display:block;width:0;height:0;border-color:transparent;border-style:solid}.popover .arrow{border-width:11px}.popover .arrow:after{border-width:10px;content:""}.popover.top .arrow{left:50%;margin-left:-11px;border-bottom-width:0;border-top-color:#999;border-top-color:rgba(0,0,0,.25);bottom:-11px}.popover.top .arrow:after{content:" ";bottom:1px;margin-left:-10px;border-bottom-width:0;border-top-color:#fff}.popover.right .arrow{top:50%;left:-11px;margin-top:-11px;border-left-width:0;border-right-color:#999;border-right-color:rgba(0,0,0,.25)}.popover.right .arrow:after{content:" ";left:1px;bottom:-10px;border-left-width:0;border-right-color:#fff}.popover.bottom .arrow{left:50%;margin-left:-11px;border-top-width:0;border-bottom-color:#999;border-bottom-color:rgba(0,0,0,.25);top:-11px}.popover.bottom .arrow:after{content:" ";top:1px;margin-left:-10px;border-top-width:0;border-bottom-color:#fff}.popover.left .arrow{top:50%;right:-11px;margin-top:-11px;border-right-width:0;border-left-color:#999;border-left-color:rgba(0,0,0,.25)}.popover.left .arrow:after{content:" ";right:1px;border-right-width:0;border-left-color:#fff;bottom:-10px}.carousel{position:relative}.carousel-inner{position:relative;overflow:hidden;width:100%}.carousel-inner>.item{display:none;position:relative;-webkit-transition:.6s ease-in-out left;transition:.6s ease-in-out left}.carousel-inner>.item>img,.carousel-inner>.item>a>img{display:block;max-width:100%;height:auto;line-height:1}.carousel-inner>.active,.carousel-inner>.next,.carousel-inner>.prev{display:block}.carousel-inner>.active{left:0}.carousel-inner>.next,.carousel-inner>.prev{position:absolute;top:0;width:100%}.carousel-inner>.next{left:100%}.carousel-inner>.prev{left:-100%}.carousel-inner>.next.left,.carousel-inner>.prev.right{left:0}.carousel-inner>.active.left{left:-100%}.carousel-inner>.active.right{left:100%}.carousel-control{position:absolute;top:0;left:0;bottom:0;width:15%;opacity:.5;filter:alpha(opacity=50);font-size:20px;color:#fff;text-align:center;text-shadow:0 1px 2px rgba(0,0,0,.6)}.carousel-control.left{background-image:-webkit-linear-gradient(left,color-stop(rgba(0,0,0,.5) 0),color-stop(rgba(0,0,0,.0001) 100%));background-image:linear-gradient(to right,rgba(0,0,0,.5) 0,rgba(0,0,0,.0001) 100%);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1)}.carousel-control.right{left:auto;right:0;background-image:-webkit-linear-gradient(left,color-stop(rgba(0,0,0,.0001) 0),color-stop(rgba(0,0,0,.5) 100%));background-image:linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5) 100%);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1)}.carousel-control:hover,.carousel-control:focus{outline:0;color:#fff;text-decoration:none;opacity:.9;filter:alpha(opacity=90)}.carousel-control .icon-prev,.carousel-control .icon-next,.carousel-control .glyphicon-chevron-left,.carousel-control .glyphicon-chevron-right{position:absolute;top:50%;z-index:5;display:inline-block}.carousel-control .icon-prev,.carousel-control .glyphicon-chevron-left{left:50%}.carousel-control .icon-next,.carousel-control .glyphicon-chevron-right{right:50%}.carousel-control .icon-prev,.carousel-control .icon-next{width:20px;height:20px;margin-top:-10px;margin-left:-10px;font-family:serif}.carousel-control .icon-prev:before{content:'\2039'}.carousel-control .icon-next:before{content:'\203a'}.carousel-indicators{position:absolute;bottom:10px;left:50%;z-index:15;width:60%;margin-left:-30%;padding-left:0;list-style:none;text-align:center}.carousel-indicators li{display:inline-block;width:10px;height:10px;margin:1px;text-indent:-999px;border:1px solid #fff;border-radius:10px;cursor:pointer;background-color:#000 \9;background-color:rgba(0,0,0,0)}.carousel-indicators .active{margin:0;width:12px;height:12px;background-color:#fff}.carousel-caption{position:absolute;left:15%;right:15%;bottom:20px;z-index:10;padding-top:20px;padding-bottom:20px;color:#fff;text-align:center;text-shadow:0 1px 2px rgba(0,0,0,.6)}.carousel-caption .btn{text-shadow:none}@media screen and (min-width:768px){.carousel-control .glyphicons-chevron-left,.carousel-control .glyphicons-chevron-right,.carousel-control .icon-prev,.carousel-control .icon-next{width:30px;height:30px;margin-top:-15px;margin-left:-15px;font-size:30px}.carousel-caption{left:20%;right:20%;padding-bottom:30px}.carousel-indicators{bottom:20px}}.clearfix:before,.clearfix:after,.container:before,.container:after,.container-fluid:before,.container-fluid:after,.row:before,.row:after,.form-horizontal .form-group:before,.form-horizontal .form-group:after,.btn-toolbar:before,.btn-toolbar:after,.btn-group-vertical>.btn-group:before,.btn-group-vertical>.btn-group:after,.nav:before,.nav:after,.navbar:before,.navbar:after,.navbar-header:before,.navbar-header:after,.navbar-collapse:before,.navbar-collapse:after,.pager:before,.pager:after,.panel-body:before,.panel-body:after,.modal-footer:before,.modal-footer:after{content:" ";display:table}.clearfix:after,.container:after,.container-fluid:after,.row:after,.form-horizontal .form-group:after,.btn-toolbar:after,.btn-group-vertical>.btn-group:after,.nav:after,.navbar:after,.navbar-header:after,.navbar-collapse:after,.pager:after,.panel-body:after,.modal-footer:after{clear:both}.center-block{display:block;margin-left:auto;margin-right:auto}.pull-right{float:right!important}.pull-left{float:left!important}.hide{display:none!important}.show{display:block!important}.invisible{visibility:hidden}.text-hide{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0}.hidden{display:none!important;visibility:hidden!important}.affix{position:fixed}@-ms-viewport{width:device-width}.visible-xs,tr.visible-xs,th.visible-xs,td.visible-xs{display:none!important}@media (max-width:767px){.visible-xs{display:block!important}table.visible-xs{display:table}tr.visible-xs{display:table-row!important}th.visible-xs,td.visible-xs{display:table-cell!important}}.visible-sm,tr.visible-sm,th.visible-sm,td.visible-sm{display:none!important}@media (min-width:768px) and (max-width:991px){.visible-sm{display:block!important}table.visible-sm{display:table}tr.visible-sm{display:table-row!important}th.visible-sm,td.visible-sm{display:table-cell!important}}.visible-md,tr.visible-md,th.visible-md,td.visible-md{display:none!important}@media (min-width:992px) and (max-width:1199px){.visible-md{display:block!important}table.visible-md{display:table}tr.visible-md{display:table-row!important}th.visible-md,td.visible-md{display:table-cell!important}}.visible-lg,tr.visible-lg,th.visible-lg,td.visible-lg{display:none!important}@media (min-width:1200px){.visible-lg{display:block!important}table.visible-lg{display:table}tr.visible-lg{display:table-row!important}th.visible-lg,td.visible-lg{display:table-cell!important}}@media (max-width:767px){.hidden-xs,tr.hidden-xs,th.hidden-xs,td.hidden-xs{display:none!important}}@media (min-width:768px) and (max-width:991px){.hidden-sm,tr.hidden-sm,th.hidden-sm,td.hidden-sm{display:none!important}}@media (min-width:992px) and (max-width:1199px){.hidden-md,tr.hidden-md,th.hidden-md,td.hidden-md{display:none!important}}@media (min-width:1200px){.hidden-lg,tr.hidden-lg,th.hidden-lg,td.hidden-lg{display:none!important}}.visible-print,tr.visible-print,th.visible-print,td.visible-print{display:none!important}@media print{.visible-print{display:block!important}table.visible-print{display:table}tr.visible-print{display:table-row!important}th.visible-print,td.visible-print{display:table-cell!important}}@media print{.hidden-print,tr.hidden-print,th.hidden-print,td.hidden-print{display:none!important}}
+@font-face{font-family:pe-icon-7-stroke;src:url(/assets/fonts/Pe-icon-7-stroke.eot?-2irksn);src:url(/assets/fonts/Pe-icon-7-stroke.eot?#iefix-2irksn) format('embedded-opentype'),url(/assets/fonts/Pe-icon-7-stroke.svg?-2irksn#Pe-icon-7-stroke) format('svg');font-weight:400;font-style:normal}[class^=pe-7s-],[class*=" pe-7s-"]{display:inline-block;font-family:pe-icon-7-stroke;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.pe-7s-cloud-upload:before{content:"\e68a"}.pe-7s-cash:before{content:"\e68c"}.pe-7s-close:before{content:"\e680"}.pe-7s-bluetooth:before{content:"\e68d"}.pe-7s-cloud-download:before{content:"\e68b"}.pe-7s-way:before{content:"\e68e"}.pe-7s-close-circle:before{content:"\e681"}.pe-7s-id:before{content:"\e68f"}.pe-7s-angle-up:before{content:"\e682"}.pe-7s-wristwatch:before{content:"\e690"}.pe-7s-angle-up-circle:before{content:"\e683"}.pe-7s-world:before{content:"\e691"}.pe-7s-angle-right:before{content:"\e684"}.pe-7s-volume:before{content:"\e692"}.pe-7s-angle-right-circle:before{content:"\e685"}.pe-7s-users:before{content:"\e693"}.pe-7s-angle-left:before{content:"\e686"}.pe-7s-user-female:before{content:"\e694"}.pe-7s-angle-left-circle:before{content:"\e687"}.pe-7s-up-arrow:before{content:"\e695"}.pe-7s-angle-down:before{content:"\e688"}.pe-7s-switch:before{content:"\e696"}.pe-7s-angle-down-circle:before{content:"\e689"}.pe-7s-scissors:before{content:"\e697"}.pe-7s-wallet:before{content:"\e600"}.pe-7s-safe:before{content:"\e698"}.pe-7s-volume2:before{content:"\e601"}.pe-7s-volume1:before{content:"\e602"}.pe-7s-voicemail:before{content:"\e603"}.pe-7s-video:before{content:"\e604"}.pe-7s-user:before{content:"\e605"}.pe-7s-upload:before{content:"\e606"}.pe-7s-unlock:before{content:"\e607"}.pe-7s-umbrella:before{content:"\e608"}.pe-7s-trash:before{content:"\e609"}.pe-7s-tools:before{content:"\e60a"}.pe-7s-timer:before{content:"\e60b"}.pe-7s-ticket:before{content:"\e60c"}.pe-7s-target:before{content:"\e60d"}.pe-7s-sun:before{content:"\e60e"}.pe-7s-study:before{content:"\e60f"}.pe-7s-stopwatch:before{content:"\e610"}.pe-7s-star:before{content:"\e611"}.pe-7s-speaker:before{content:"\e612"}.pe-7s-signal:before{content:"\e613"}.pe-7s-shuffle:before{content:"\e614"}.pe-7s-shopbag:before{content:"\e615"}.pe-7s-share:before{content:"\e616"}.pe-7s-server:before{content:"\e617"}.pe-7s-search:before{content:"\e618"}.pe-7s-film:before{content:"\e6a5"}.pe-7s-science:before{content:"\e619"}.pe-7s-disk:before{content:"\e6a6"}.pe-7s-ribbon:before{content:"\e61a"}.pe-7s-repeat:before{content:"\e61b"}.pe-7s-refresh:before{content:"\e61c"}.pe-7s-add-user:before{content:"\e6a9"}.pe-7s-refresh-cloud:before{content:"\e61d"}.pe-7s-paperclip:before{content:"\e69c"}.pe-7s-radio:before{content:"\e61e"}.pe-7s-note2:before{content:"\e69d"}.pe-7s-print:before{content:"\e61f"}.pe-7s-network:before{content:"\e69e"}.pe-7s-prev:before{content:"\e620"}.pe-7s-mute:before{content:"\e69f"}.pe-7s-power:before{content:"\e621"}.pe-7s-medal:before{content:"\e6a0"}.pe-7s-portfolio:before{content:"\e622"}.pe-7s-like2:before{content:"\e6a1"}.pe-7s-plus:before{content:"\e623"}.pe-7s-left-arrow:before{content:"\e6a2"}.pe-7s-play:before{content:"\e624"}.pe-7s-key:before{content:"\e6a3"}.pe-7s-plane:before{content:"\e625"}.pe-7s-joy:before{content:"\e6a4"}.pe-7s-photo-gallery:before{content:"\e626"}.pe-7s-pin:before{content:"\e69b"}.pe-7s-phone:before{content:"\e627"}.pe-7s-plug:before{content:"\e69a"}.pe-7s-pen:before{content:"\e628"}.pe-7s-right-arrow:before{content:"\e699"}.pe-7s-paper-plane:before{content:"\e629"}.pe-7s-delete-user:before{content:"\e6a7"}.pe-7s-paint:before{content:"\e62a"}.pe-7s-bottom-arrow:before{content:"\e6a8"}.pe-7s-notebook:before{content:"\e62b"}.pe-7s-note:before{content:"\e62c"}.pe-7s-next:before{content:"\e62d"}.pe-7s-news-paper:before{content:"\e62e"}.pe-7s-musiclist:before{content:"\e62f"}.pe-7s-music:before{content:"\e630"}.pe-7s-mouse:before{content:"\e631"}.pe-7s-more:before{content:"\e632"}.pe-7s-moon:before{content:"\e633"}.pe-7s-monitor:before{content:"\e634"}.pe-7s-micro:before{content:"\e635"}.pe-7s-menu:before{content:"\e636"}.pe-7s-map:before{content:"\e637"}.pe-7s-map-marker:before{content:"\e638"}.pe-7s-mail:before{content:"\e639"}.pe-7s-mail-open:before{content:"\e63a"}.pe-7s-mail-open-file:before{content:"\e63b"}.pe-7s-magnet:before{content:"\e63c"}.pe-7s-loop:before{content:"\e63d"}.pe-7s-look:before{content:"\e63e"}.pe-7s-lock:before{content:"\e63f"}.pe-7s-lintern:before{content:"\e640"}.pe-7s-link:before{content:"\e641"}.pe-7s-like:before{content:"\e642"}.pe-7s-light:before{content:"\e643"}.pe-7s-less:before{content:"\e644"}.pe-7s-keypad:before{content:"\e645"}.pe-7s-junk:before{content:"\e646"}.pe-7s-info:before{content:"\e647"}.pe-7s-home:before{content:"\e648"}.pe-7s-help2:before{content:"\e649"}.pe-7s-help1:before{content:"\e64a"}.pe-7s-graph3:before{content:"\e64b"}.pe-7s-graph2:before{content:"\e64c"}.pe-7s-graph1:before{content:"\e64d"}.pe-7s-graph:before{content:"\e64e"}.pe-7s-global:before{content:"\e64f"}.pe-7s-gleam:before{content:"\e650"}.pe-7s-glasses:before{content:"\e651"}.pe-7s-gift:before{content:"\e652"}.pe-7s-folder:before{content:"\e653"}.pe-7s-flag:before{content:"\e654"}.pe-7s-filter:before{content:"\e655"}.pe-7s-file:before{content:"\e656"}.pe-7s-expand1:before{content:"\e657"}.pe-7s-exapnd2:before{content:"\e658"}.pe-7s-edit:before{content:"\e659"}.pe-7s-drop:before{content:"\e65a"}.pe-7s-drawer:before{content:"\e65b"}.pe-7s-download:before{content:"\e65c"}.pe-7s-display2:before{content:"\e65d"}.pe-7s-display1:before{content:"\e65e"}.pe-7s-diskette:before{content:"\e65f"}.pe-7s-date:before{content:"\e660"}.pe-7s-cup:before{content:"\e661"}.pe-7s-culture:before{content:"\e662"}.pe-7s-crop:before{content:"\e663"}.pe-7s-credit:before{content:"\e664"}.pe-7s-copy-file:before{content:"\e665"}.pe-7s-config:before{content:"\e666"}.pe-7s-compass:before{content:"\e667"}.pe-7s-comment:before{content:"\e668"}.pe-7s-coffee:before{content:"\e669"}.pe-7s-cloud:before{content:"\e66a"}.pe-7s-clock:before{content:"\e66b"}.pe-7s-check:before{content:"\e66c"}.pe-7s-chat:before{content:"\e66d"}.pe-7s-cart:before{content:"\e66e"}.pe-7s-camera:before{content:"\e66f"}.pe-7s-call:before{content:"\e670"}.pe-7s-calculator:before{content:"\e671"}.pe-7s-browser:before{content:"\e672"}.pe-7s-box2:before{content:"\e673"}.pe-7s-box1:before{content:"\e674"}.pe-7s-bookmarks:before{content:"\e675"}.pe-7s-bicycle:before{content:"\e676"}.pe-7s-bell:before{content:"\e677"}.pe-7s-battery:before{content:"\e678"}.pe-7s-ball:before{content:"\e679"}.pe-7s-back:before{content:"\e67a"}.pe-7s-attention:before{content:"\e67b"}.pe-7s-anchor:before{content:"\e67c"}.pe-7s-albums:before{content:"\e67d"}.pe-7s-alarm:before{content:"\e67e"}.pe-7s-airplay:before{content:"\e67f"}
+@charset "UTF-8";/*!Animate.css - http://daneden.me/animate
+Licensed under the MIT license - http://opensource.org/licenses/MIT
+Copyright (c) 2014 Daniel Eden*/.animated{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}.animated.infinite{-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}.animated.hinge{-webkit-animation-duration:2s;animation-duration:2s}@-webkit-keyframes bounce{0%,20%,53%,80%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1);-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}40%,43%{-webkit-transition-timing-function:cubic-bezier(.755,.05,.855,.06);transition-timing-function:cubic-bezier(.755,.05,.855,.06);-webkit-transform:translate3d(0,-30px,0);transform:translate3d(0,-30px,0)}70%{-webkit-transition-timing-function:cubic-bezier(.755,.05,.855,.06);transition-timing-function:cubic-bezier(.755,.05,.855,.06);-webkit-transform:translate3d(0,-15px,0);transform:translate3d(0,-15px,0)}90%{-webkit-transform:translate3d(0,-4px,0);transform:translate3d(0,-4px,0)}}@keyframes bounce{0%,20%,53%,80%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1);-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}40%,43%{-webkit-transition-timing-function:cubic-bezier(.755,.05,.855,.06);transition-timing-function:cubic-bezier(.755,.05,.855,.06);-webkit-transform:translate3d(0,-30px,0);transform:translate3d(0,-30px,0)}70%{-webkit-transition-timing-function:cubic-bezier(.755,.05,.855,.06);transition-timing-function:cubic-bezier(.755,.05,.855,.06);-webkit-transform:translate3d(0,-15px,0);transform:translate3d(0,-15px,0)}90%{-webkit-transform:translate3d(0,-4px,0);transform:translate3d(0,-4px,0)}}.bounce{-webkit-animation-name:bounce;animation-name:bounce;-webkit-transform-origin:center bottom;-ms-transform-origin:center bottom;transform-origin:center bottom}@-webkit-keyframes flash{0%,50%,100%{opacity:1}25%,75%{opacity:0}}@keyframes flash{0%,50%,100%{opacity:1}25%,75%{opacity:0}}.flash{-webkit-animation-name:flash;animation-name:flash}@-webkit-keyframes pulse{0%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}50%{-webkit-transform:scale3d(1.05,1.05,1.05);transform:scale3d(1.05,1.05,1.05)}100%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}@keyframes pulse{0%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}50%{-webkit-transform:scale3d(1.05,1.05,1.05);transform:scale3d(1.05,1.05,1.05)}100%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}.pulse{-webkit-animation-name:pulse;animation-name:pulse}@-webkit-keyframes rubberBand{0%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}30%{-webkit-transform:scale3d(1.25,.75,1);transform:scale3d(1.25,.75,1)}40%{-webkit-transform:scale3d(.75,1.25,1);transform:scale3d(.75,1.25,1)}50%{-webkit-transform:scale3d(1.15,.85,1);transform:scale3d(1.15,.85,1)}65%{-webkit-transform:scale3d(.95,1.05,1);transform:scale3d(.95,1.05,1)}75%{-webkit-transform:scale3d(1.05,.95,1);transform:scale3d(1.05,.95,1)}100%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}@keyframes rubberBand{0%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}30%{-webkit-transform:scale3d(1.25,.75,1);transform:scale3d(1.25,.75,1)}40%{-webkit-transform:scale3d(.75,1.25,1);transform:scale3d(.75,1.25,1)}50%{-webkit-transform:scale3d(1.15,.85,1);transform:scale3d(1.15,.85,1)}65%{-webkit-transform:scale3d(.95,1.05,1);transform:scale3d(.95,1.05,1)}75%{-webkit-transform:scale3d(1.05,.95,1);transform:scale3d(1.05,.95,1)}100%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}.rubberBand{-webkit-animation-name:rubberBand;animation-name:rubberBand}@-webkit-keyframes shake{0%,100%{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}10%,30%,50%,70%,90%{-webkit-transform:translate3d(-10px,0,0);transform:translate3d(-10px,0,0)}20%,40%,60%,80%{-webkit-transform:translate3d(10px,0,0);transform:translate3d(10px,0,0)}}@keyframes shake{0%,100%{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}10%,30%,50%,70%,90%{-webkit-transform:translate3d(-10px,0,0);transform:translate3d(-10px,0,0)}20%,40%,60%,80%{-webkit-transform:translate3d(10px,0,0);transform:translate3d(10px,0,0)}}.shake{-webkit-animation-name:shake;animation-name:shake}@-webkit-keyframes swing{20%{-webkit-transform:rotate3d(0,0,1,15deg);transform:rotate3d(0,0,1,15deg)}40%{-webkit-transform:rotate3d(0,0,1,-10deg);transform:rotate3d(0,0,1,-10deg)}60%{-webkit-transform:rotate3d(0,0,1,5deg);transform:rotate3d(0,0,1,5deg)}80%{-webkit-transform:rotate3d(0,0,1,-5deg);transform:rotate3d(0,0,1,-5deg)}100%{-webkit-transform:rotate3d(0,0,1,0deg);transform:rotate3d(0,0,1,0deg)}}@keyframes swing{20%{-webkit-transform:rotate3d(0,0,1,15deg);transform:rotate3d(0,0,1,15deg)}40%{-webkit-transform:rotate3d(0,0,1,-10deg);transform:rotate3d(0,0,1,-10deg)}60%{-webkit-transform:rotate3d(0,0,1,5deg);transform:rotate3d(0,0,1,5deg)}80%{-webkit-transform:rotate3d(0,0,1,-5deg);transform:rotate3d(0,0,1,-5deg)}100%{-webkit-transform:rotate3d(0,0,1,0deg);transform:rotate3d(0,0,1,0deg)}}.swing{-webkit-transform-origin:top center;-ms-transform-origin:top center;transform-origin:top center;-webkit-animation-name:swing;animation-name:swing}@-webkit-keyframes tada{0%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}10%,20%{-webkit-transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg);transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg)}30%,50%,70%,90%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg)}40%,60%,80%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg)}100%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}@keyframes tada{0%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}10%,20%{-webkit-transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg);transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg)}30%,50%,70%,90%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg)}40%,60%,80%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg)}100%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}.tada{-webkit-animation-name:tada;animation-name:tada}@-webkit-keyframes wobble{0%{-webkit-transform:none;transform:none}15%{-webkit-transform:translate3d(-25%,0,0) rotate3d(0,0,1,-5deg);transform:translate3d(-25%,0,0) rotate3d(0,0,1,-5deg)}30%{-webkit-transform:translate3d(20%,0,0) rotate3d(0,0,1,3deg);transform:translate3d(20%,0,0) rotate3d(0,0,1,3deg)}45%{-webkit-transform:translate3d(-15%,0,0) rotate3d(0,0,1,-3deg);transform:translate3d(-15%,0,0) rotate3d(0,0,1,-3deg)}60%{-webkit-transform:translate3d(10%,0,0) rotate3d(0,0,1,2deg);transform:translate3d(10%,0,0) rotate3d(0,0,1,2deg)}75%{-webkit-transform:translate3d(-5%,0,0) rotate3d(0,0,1,-1deg);transform:translate3d(-5%,0,0) rotate3d(0,0,1,-1deg)}100%{-webkit-transform:none;transform:none}}@keyframes wobble{0%{-webkit-transform:none;transform:none}15%{-webkit-transform:translate3d(-25%,0,0) rotate3d(0,0,1,-5deg);transform:translate3d(-25%,0,0) rotate3d(0,0,1,-5deg)}30%{-webkit-transform:translate3d(20%,0,0) rotate3d(0,0,1,3deg);transform:translate3d(20%,0,0) rotate3d(0,0,1,3deg)}45%{-webkit-transform:translate3d(-15%,0,0) rotate3d(0,0,1,-3deg);transform:translate3d(-15%,0,0) rotate3d(0,0,1,-3deg)}60%{-webkit-transform:translate3d(10%,0,0) rotate3d(0,0,1,2deg);transform:translate3d(10%,0,0) rotate3d(0,0,1,2deg)}75%{-webkit-transform:translate3d(-5%,0,0) rotate3d(0,0,1,-1deg);transform:translate3d(-5%,0,0) rotate3d(0,0,1,-1deg)}100%{-webkit-transform:none;transform:none}}.wobble{-webkit-animation-name:wobble;animation-name:wobble}@-webkit-keyframes bounceIn{0%,20%,40%,60%,80%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}20%{-webkit-transform:scale3d(1.1,1.1,1.1);transform:scale3d(1.1,1.1,1.1)}40%{-webkit-transform:scale3d(.9,.9,.9);transform:scale3d(.9,.9,.9)}60%{opacity:1;-webkit-transform:scale3d(1.03,1.03,1.03);transform:scale3d(1.03,1.03,1.03)}80%{-webkit-transform:scale3d(.97,.97,.97);transform:scale3d(.97,.97,.97)}100%{opacity:1;-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}@keyframes bounceIn{0%,20%,40%,60%,80%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}20%{-webkit-transform:scale3d(1.1,1.1,1.1);transform:scale3d(1.1,1.1,1.1)}40%{-webkit-transform:scale3d(.9,.9,.9);transform:scale3d(.9,.9,.9)}60%{opacity:1;-webkit-transform:scale3d(1.03,1.03,1.03);transform:scale3d(1.03,1.03,1.03)}80%{-webkit-transform:scale3d(.97,.97,.97);transform:scale3d(.97,.97,.97)}100%{opacity:1;-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}.bounceIn{-webkit-animation-name:bounceIn;animation-name:bounceIn;-webkit-animation-duration:.75s;animation-duration:.75s}@-webkit-keyframes bounceInDown{0%,60%,75%,90%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:translate3d(0,-3000px,0);transform:translate3d(0,-3000px,0)}60%{opacity:1;-webkit-transform:translate3d(0,25px,0);transform:translate3d(0,25px,0)}75%{-webkit-transform:translate3d(0,-10px,0);transform:translate3d(0,-10px,0)}90%{-webkit-transform:translate3d(0,5px,0);transform:translate3d(0,5px,0)}100%{-webkit-transform:none;transform:none}}@keyframes bounceInDown{0%,60%,75%,90%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:translate3d(0,-3000px,0);transform:translate3d(0,-3000px,0)}60%{opacity:1;-webkit-transform:translate3d(0,25px,0);transform:translate3d(0,25px,0)}75%{-webkit-transform:translate3d(0,-10px,0);transform:translate3d(0,-10px,0)}90%{-webkit-transform:translate3d(0,5px,0);transform:translate3d(0,5px,0)}100%{-webkit-transform:none;transform:none}}.bounceInDown{-webkit-animation-name:bounceInDown;animation-name:bounceInDown}@-webkit-keyframes bounceInLeft{0%,60%,75%,90%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:translate3d(-3000px,0,0);transform:translate3d(-3000px,0,0)}60%{opacity:1;-webkit-transform:translate3d(25px,0,0);transform:translate3d(25px,0,0)}75%{-webkit-transform:translate3d(-10px,0,0);transform:translate3d(-10px,0,0)}90%{-webkit-transform:translate3d(5px,0,0);transform:translate3d(5px,0,0)}100%{-webkit-transform:none;transform:none}}@keyframes bounceInLeft{0%,60%,75%,90%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:translate3d(-3000px,0,0);transform:translate3d(-3000px,0,0)}60%{opacity:1;-webkit-transform:translate3d(25px,0,0);transform:translate3d(25px,0,0)}75%{-webkit-transform:translate3d(-10px,0,0);transform:translate3d(-10px,0,0)}90%{-webkit-transform:translate3d(5px,0,0);transform:translate3d(5px,0,0)}100%{-webkit-transform:none;transform:none}}.bounceInLeft{-webkit-animation-name:bounceInLeft;animation-name:bounceInLeft}@-webkit-keyframes bounceInRight{0%,60%,75%,90%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:translate3d(3000px,0,0);transform:translate3d(3000px,0,0)}60%{opacity:1;-webkit-transform:translate3d(-25px,0,0);transform:translate3d(-25px,0,0)}75%{-webkit-transform:translate3d(10px,0,0);transform:translate3d(10px,0,0)}90%{-webkit-transform:translate3d(-5px,0,0);transform:translate3d(-5px,0,0)}100%{-webkit-transform:none;transform:none}}@keyframes bounceInRight{0%,60%,75%,90%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:translate3d(3000px,0,0);transform:translate3d(3000px,0,0)}60%{opacity:1;-webkit-transform:translate3d(-25px,0,0);transform:translate3d(-25px,0,0)}75%{-webkit-transform:translate3d(10px,0,0);transform:translate3d(10px,0,0)}90%{-webkit-transform:translate3d(-5px,0,0);transform:translate3d(-5px,0,0)}100%{-webkit-transform:none;transform:none}}.bounceInRight{-webkit-animation-name:bounceInRight;animation-name:bounceInRight}@-webkit-keyframes bounceInUp{0%,60%,75%,90%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:translate3d(0,3000px,0);transform:translate3d(0,3000px,0)}60%{opacity:1;-webkit-transform:translate3d(0,-20px,0);transform:translate3d(0,-20px,0)}75%{-webkit-transform:translate3d(0,10px,0);transform:translate3d(0,10px,0)}90%{-webkit-transform:translate3d(0,-5px,0);transform:translate3d(0,-5px,0)}100%{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}@keyframes bounceInUp{0%,60%,75%,90%,100%{-webkit-transition-timing-function:cubic-bezier(.215,.61,.355,1);transition-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;-webkit-transform:translate3d(0,3000px,0);transform:translate3d(0,3000px,0)}60%{opacity:1;-webkit-transform:translate3d(0,-20px,0);transform:translate3d(0,-20px,0)}75%{-webkit-transform:translate3d(0,10px,0);transform:translate3d(0,10px,0)}90%{-webkit-transform:translate3d(0,-5px,0);transform:translate3d(0,-5px,0)}100%{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}.bounceInUp{-webkit-animation-name:bounceInUp;animation-name:bounceInUp}@-webkit-keyframes bounceOut{20%{-webkit-transform:scale3d(.9,.9,.9);transform:scale3d(.9,.9,.9)}50%,55%{opacity:1;-webkit-transform:scale3d(1.1,1.1,1.1);transform:scale3d(1.1,1.1,1.1)}100%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}}@keyframes bounceOut{20%{-webkit-transform:scale3d(.9,.9,.9);transform:scale3d(.9,.9,.9)}50%,55%{opacity:1;-webkit-transform:scale3d(1.1,1.1,1.1);transform:scale3d(1.1,1.1,1.1)}100%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}}.bounceOut{-webkit-animation-name:bounceOut;animation-name:bounceOut;-webkit-animation-duration:.75s;animation-duration:.75s}@-webkit-keyframes bounceOutDown{20%{-webkit-transform:translate3d(0,10px,0);transform:translate3d(0,10px,0)}40%,45%{opacity:1;-webkit-transform:translate3d(0,-20px,0);transform:translate3d(0,-20px,0)}100%{opacity:0;-webkit-transform:translate3d(0,2000px,0);transform:translate3d(0,2000px,0)}}@keyframes bounceOutDown{20%{-webkit-transform:translate3d(0,10px,0);transform:translate3d(0,10px,0)}40%,45%{opacity:1;-webkit-transform:translate3d(0,-20px,0);transform:translate3d(0,-20px,0)}100%{opacity:0;-webkit-transform:translate3d(0,2000px,0);transform:translate3d(0,2000px,0)}}.bounceOutDown{-webkit-animation-name:bounceOutDown;animation-name:bounceOutDown}@-webkit-keyframes bounceOutLeft{20%{opacity:1;-webkit-transform:translate3d(20px,0,0);transform:translate3d(20px,0,0)}100%{opacity:0;-webkit-transform:translate3d(-2000px,0,0);transform:translate3d(-2000px,0,0)}}@keyframes bounceOutLeft{20%{opacity:1;-webkit-transform:translate3d(20px,0,0);transform:translate3d(20px,0,0)}100%{opacity:0;-webkit-transform:translate3d(-2000px,0,0);transform:translate3d(-2000px,0,0)}}.bounceOutLeft{-webkit-animation-name:bounceOutLeft;animation-name:bounceOutLeft}@-webkit-keyframes bounceOutRight{20%{opacity:1;-webkit-transform:translate3d(-20px,0,0);transform:translate3d(-20px,0,0)}100%{opacity:0;-webkit-transform:translate3d(2000px,0,0);transform:translate3d(2000px,0,0)}}@keyframes bounceOutRight{20%{opacity:1;-webkit-transform:translate3d(-20px,0,0);transform:translate3d(-20px,0,0)}100%{opacity:0;-webkit-transform:translate3d(2000px,0,0);transform:translate3d(2000px,0,0)}}.bounceOutRight{-webkit-animation-name:bounceOutRight;animation-name:bounceOutRight}@-webkit-keyframes bounceOutUp{20%{-webkit-transform:translate3d(0,-10px,0);transform:translate3d(0,-10px,0)}40%,45%{opacity:1;-webkit-transform:translate3d(0,20px,0);transform:translate3d(0,20px,0)}100%{opacity:0;-webkit-transform:translate3d(0,-2000px,0);transform:translate3d(0,-2000px,0)}}@keyframes bounceOutUp{20%{-webkit-transform:translate3d(0,-10px,0);transform:translate3d(0,-10px,0)}40%,45%{opacity:1;-webkit-transform:translate3d(0,20px,0);transform:translate3d(0,20px,0)}100%{opacity:0;-webkit-transform:translate3d(0,-2000px,0);transform:translate3d(0,-2000px,0)}}.bounceOutUp{-webkit-animation-name:bounceOutUp;animation-name:bounceOutUp}@-webkit-keyframes fadeIn{0%{opacity:0}100%{opacity:1}}@keyframes fadeIn{0%{opacity:0}100%{opacity:1}}.fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn}@-webkit-keyframes fadeInDown{0%{opacity:0;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInDown{0%{opacity:0;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}100%{opacity:1;-webkit-transform:none;transform:none}}.fadeInDown{-webkit-animation-name:fadeInDown;animation-name:fadeInDown}@-webkit-keyframes fadeInDownBig{0%{opacity:0;-webkit-transform:translate3d(0,-2000px,0);transform:translate3d(0,-2000px,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInDownBig{0%{opacity:0;-webkit-transform:translate3d(0,-2000px,0);transform:translate3d(0,-2000px,0)}100%{opacity:1;-webkit-transform:none;transform:none}}.fadeInDownBig{-webkit-animation-name:fadeInDownBig;animation-name:fadeInDownBig}@-webkit-keyframes fadeInLeft{0%{opacity:0;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInLeft{0%{opacity:0;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}.fadeInLeft{-webkit-animation-name:fadeInLeft;animation-name:fadeInLeft}@-webkit-keyframes fadeInLeftBig{0%{opacity:0;-webkit-transform:translate3d(-2000px,0,0);transform:translate3d(-2000px,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInLeftBig{0%{opacity:0;-webkit-transform:translate3d(-2000px,0,0);transform:translate3d(-2000px,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}.fadeInLeftBig{-webkit-animation-name:fadeInLeftBig;animation-name:fadeInLeftBig}@-webkit-keyframes fadeInRight{0%{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInRight{0%{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}.fadeInRight{-webkit-animation-name:fadeInRight;animation-name:fadeInRight}@-webkit-keyframes fadeInRightBig{0%{opacity:0;-webkit-transform:translate3d(2000px,0,0);transform:translate3d(2000px,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInRightBig{0%{opacity:0;-webkit-transform:translate3d(2000px,0,0);transform:translate3d(2000px,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}.fadeInRightBig{-webkit-animation-name:fadeInRightBig;animation-name:fadeInRightBig}@-webkit-keyframes fadeInUp{0%{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInUp{0%{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}100%{opacity:1;-webkit-transform:none;transform:none}}.fadeInUp{-webkit-animation-name:fadeInUp;animation-name:fadeInUp}@-webkit-keyframes fadeInUpBig{0%{opacity:0;-webkit-transform:translate3d(0,2000px,0);transform:translate3d(0,2000px,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInUpBig{0%{opacity:0;-webkit-transform:translate3d(0,2000px,0);transform:translate3d(0,2000px,0)}100%{opacity:1;-webkit-transform:none;transform:none}}.fadeInUpBig{-webkit-animation-name:fadeInUpBig;animation-name:fadeInUpBig}@-webkit-keyframes fadeOut{0%{opacity:1}100%{opacity:0}}@keyframes fadeOut{0%{opacity:1}100%{opacity:0}}.fadeOut{-webkit-animation-name:fadeOut;animation-name:fadeOut}@-webkit-keyframes fadeOutDown{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}}@keyframes fadeOutDown{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}}.fadeOutDown{-webkit-animation-name:fadeOutDown;animation-name:fadeOutDown}@-webkit-keyframes fadeOutDownBig{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(0,2000px,0);transform:translate3d(0,2000px,0)}}@keyframes fadeOutDownBig{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(0,2000px,0);transform:translate3d(0,2000px,0)}}.fadeOutDownBig{-webkit-animation-name:fadeOutDownBig;animation-name:fadeOutDownBig}@-webkit-keyframes fadeOutLeft{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}}@keyframes fadeOutLeft{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}}.fadeOutLeft{-webkit-animation-name:fadeOutLeft;animation-name:fadeOutLeft}@-webkit-keyframes fadeOutLeftBig{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(-2000px,0,0);transform:translate3d(-2000px,0,0)}}@keyframes fadeOutLeftBig{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(-2000px,0,0);transform:translate3d(-2000px,0,0)}}.fadeOutLeftBig{-webkit-animation-name:fadeOutLeftBig;animation-name:fadeOutLeftBig}@-webkit-keyframes fadeOutRight{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}}@keyframes fadeOutRight{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}}.fadeOutRight{-webkit-animation-name:fadeOutRight;animation-name:fadeOutRight}@-webkit-keyframes fadeOutRightBig{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(2000px,0,0);transform:translate3d(2000px,0,0)}}@keyframes fadeOutRightBig{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(2000px,0,0);transform:translate3d(2000px,0,0)}}.fadeOutRightBig{-webkit-animation-name:fadeOutRightBig;animation-name:fadeOutRightBig}@-webkit-keyframes fadeOutUp{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}}@keyframes fadeOutUp{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}}.fadeOutUp{-webkit-animation-name:fadeOutUp;animation-name:fadeOutUp}@-webkit-keyframes fadeOutUpBig{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(0,-2000px,0);transform:translate3d(0,-2000px,0)}}@keyframes fadeOutUpBig{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(0,-2000px,0);transform:translate3d(0,-2000px,0)}}.fadeOutUpBig{-webkit-animation-name:fadeOutUpBig;animation-name:fadeOutUpBig}@-webkit-keyframes flip{0%{-webkit-transform:perspective(400px) rotate3d(0,1,0,-360deg);transform:perspective(400px) rotate3d(0,1,0,-360deg);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}40%{-webkit-transform:perspective(400px) translate3d(0,0,150px) rotate3d(0,1,0,-190deg);transform:perspective(400px) translate3d(0,0,150px) rotate3d(0,1,0,-190deg);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}50%{-webkit-transform:perspective(400px) translate3d(0,0,150px) rotate3d(0,1,0,-170deg);transform:perspective(400px) translate3d(0,0,150px) rotate3d(0,1,0,-170deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}80%{-webkit-transform:perspective(400px) scale3d(.95,.95,.95);transform:perspective(400px) scale3d(.95,.95,.95);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}100%{-webkit-transform:perspective(400px);transform:perspective(400px);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}}@keyframes flip{0%{-webkit-transform:perspective(400px) rotate3d(0,1,0,-360deg);transform:perspective(400px) rotate3d(0,1,0,-360deg);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}40%{-webkit-transform:perspective(400px) translate3d(0,0,150px) rotate3d(0,1,0,-190deg);transform:perspective(400px) translate3d(0,0,150px) rotate3d(0,1,0,-190deg);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}50%{-webkit-transform:perspective(400px) translate3d(0,0,150px) rotate3d(0,1,0,-170deg);transform:perspective(400px) translate3d(0,0,150px) rotate3d(0,1,0,-170deg);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}80%{-webkit-transform:perspective(400px) scale3d(.95,.95,.95);transform:perspective(400px) scale3d(.95,.95,.95);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}100%{-webkit-transform:perspective(400px);transform:perspective(400px);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}}.animated.flip{-webkit-backface-visibility:visible;backface-visibility:visible;-webkit-animation-name:flip;animation-name:flip}@-webkit-keyframes flipInX{0%{-webkit-transform:perspective(400px) rotate3d(1,0,0,90deg);transform:perspective(400px) rotate3d(1,0,0,90deg);-webkit-transition-timing-function:ease-in;transition-timing-function:ease-in;opacity:0}40%{-webkit-transform:perspective(400px) rotate3d(1,0,0,-20deg);transform:perspective(400px) rotate3d(1,0,0,-20deg);-webkit-transition-timing-function:ease-in;transition-timing-function:ease-in}60%{-webkit-transform:perspective(400px) rotate3d(1,0,0,10deg);transform:perspective(400px) rotate3d(1,0,0,10deg);opacity:1}80%{-webkit-transform:perspective(400px) rotate3d(1,0,0,-5deg);transform:perspective(400px) rotate3d(1,0,0,-5deg)}100%{-webkit-transform:perspective(400px);transform:perspective(400px)}}@keyframes flipInX{0%{-webkit-transform:perspective(400px) rotate3d(1,0,0,90deg);transform:perspective(400px) rotate3d(1,0,0,90deg);-webkit-transition-timing-function:ease-in;transition-timing-function:ease-in;opacity:0}40%{-webkit-transform:perspective(400px) rotate3d(1,0,0,-20deg);transform:perspective(400px) rotate3d(1,0,0,-20deg);-webkit-transition-timing-function:ease-in;transition-timing-function:ease-in}60%{-webkit-transform:perspective(400px) rotate3d(1,0,0,10deg);transform:perspective(400px) rotate3d(1,0,0,10deg);opacity:1}80%{-webkit-transform:perspective(400px) rotate3d(1,0,0,-5deg);transform:perspective(400px) rotate3d(1,0,0,-5deg)}100%{-webkit-transform:perspective(400px);transform:perspective(400px)}}.flipInX{-webkit-backface-visibility:visible!important;backface-visibility:visible!important;-webkit-animation-name:flipInX;animation-name:flipInX}@-webkit-keyframes flipInY{0%{-webkit-transform:perspective(400px) rotate3d(0,1,0,90deg);transform:perspective(400px) rotate3d(0,1,0,90deg);-webkit-transition-timing-function:ease-in;transition-timing-function:ease-in;opacity:0}40%{-webkit-transform:perspective(400px) rotate3d(0,1,0,-20deg);transform:perspective(400px) rotate3d(0,1,0,-20deg);-webkit-transition-timing-function:ease-in;transition-timing-function:ease-in}60%{-webkit-transform:perspective(400px) rotate3d(0,1,0,10deg);transform:perspective(400px) rotate3d(0,1,0,10deg);opacity:1}80%{-webkit-transform:perspective(400px) rotate3d(0,1,0,-5deg);transform:perspective(400px) rotate3d(0,1,0,-5deg)}100%{-webkit-transform:perspective(400px);transform:perspective(400px)}}@keyframes flipInY{0%{-webkit-transform:perspective(400px) rotate3d(0,1,0,90deg);transform:perspective(400px) rotate3d(0,1,0,90deg);-webkit-transition-timing-function:ease-in;transition-timing-function:ease-in;opacity:0}40%{-webkit-transform:perspective(400px) rotate3d(0,1,0,-20deg);transform:perspective(400px) rotate3d(0,1,0,-20deg);-webkit-transition-timing-function:ease-in;transition-timing-function:ease-in}60%{-webkit-transform:perspective(400px) rotate3d(0,1,0,10deg);transform:perspective(400px) rotate3d(0,1,0,10deg);opacity:1}80%{-webkit-transform:perspective(400px) rotate3d(0,1,0,-5deg);transform:perspective(400px) rotate3d(0,1,0,-5deg)}100%{-webkit-transform:perspective(400px);transform:perspective(400px)}}.flipInY{-webkit-backface-visibility:visible!important;backface-visibility:visible!important;-webkit-animation-name:flipInY;animation-name:flipInY}@-webkit-keyframes flipOutX{0%{-webkit-transform:perspective(400px);transform:perspective(400px)}30%{-webkit-transform:perspective(400px) rotate3d(1,0,0,-20deg);transform:perspective(400px) rotate3d(1,0,0,-20deg);opacity:1}100%{-webkit-transform:perspective(400px) rotate3d(1,0,0,90deg);transform:perspective(400px) rotate3d(1,0,0,90deg);opacity:0}}@keyframes flipOutX{0%{-webkit-transform:perspective(400px);transform:perspective(400px)}30%{-webkit-transform:perspective(400px) rotate3d(1,0,0,-20deg);transform:perspective(400px) rotate3d(1,0,0,-20deg);opacity:1}100%{-webkit-transform:perspective(400px) rotate3d(1,0,0,90deg);transform:perspective(400px) rotate3d(1,0,0,90deg);opacity:0}}.flipOutX{-webkit-animation-name:flipOutX;animation-name:flipOutX;-webkit-animation-duration:.75s;animation-duration:.75s;-webkit-backface-visibility:visible!important;backface-visibility:visible!important}@-webkit-keyframes flipOutY{0%{-webkit-transform:perspective(400px);transform:perspective(400px)}30%{-webkit-transform:perspective(400px) rotate3d(0,1,0,-15deg);transform:perspective(400px) rotate3d(0,1,0,-15deg);opacity:1}100%{-webkit-transform:perspective(400px) rotate3d(0,1,0,90deg);transform:perspective(400px) rotate3d(0,1,0,90deg);opacity:0}}@keyframes flipOutY{0%{-webkit-transform:perspective(400px);transform:perspective(400px)}30%{-webkit-transform:perspective(400px) rotate3d(0,1,0,-15deg);transform:perspective(400px) rotate3d(0,1,0,-15deg);opacity:1}100%{-webkit-transform:perspective(400px) rotate3d(0,1,0,90deg);transform:perspective(400px) rotate3d(0,1,0,90deg);opacity:0}}.flipOutY{-webkit-backface-visibility:visible!important;backface-visibility:visible!important;-webkit-animation-name:flipOutY;animation-name:flipOutY;-webkit-animation-duration:.75s;animation-duration:.75s}@-webkit-keyframes lightSpeedIn{0%{-webkit-transform:translate3d(100%,0,0) skewX(-30deg);transform:translate3d(100%,0,0) skewX(-30deg);opacity:0}60%{-webkit-transform:skewX(20deg);transform:skewX(20deg);opacity:1}80%{-webkit-transform:skewX(-5deg);transform:skewX(-5deg);opacity:1}100%{-webkit-transform:none;transform:none;opacity:1}}@keyframes lightSpeedIn{0%{-webkit-transform:translate3d(100%,0,0) skewX(-30deg);transform:translate3d(100%,0,0) skewX(-30deg);opacity:0}60%{-webkit-transform:skewX(20deg);transform:skewX(20deg);opacity:1}80%{-webkit-transform:skewX(-5deg);transform:skewX(-5deg);opacity:1}100%{-webkit-transform:none;transform:none;opacity:1}}.lightSpeedIn{-webkit-animation-name:lightSpeedIn;animation-name:lightSpeedIn;-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}@-webkit-keyframes lightSpeedOut{0%{opacity:1}100%{-webkit-transform:translate3d(100%,0,0) skewX(30deg);transform:translate3d(100%,0,0) skewX(30deg);opacity:0}}@keyframes lightSpeedOut{0%{opacity:1}100%{-webkit-transform:translate3d(100%,0,0) skewX(30deg);transform:translate3d(100%,0,0) skewX(30deg);opacity:0}}.lightSpeedOut{-webkit-animation-name:lightSpeedOut;animation-name:lightSpeedOut;-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}@-webkit-keyframes rotateIn{0%{-webkit-transform-origin:center;transform-origin:center;-webkit-transform:rotate3d(0,0,1,-200deg);transform:rotate3d(0,0,1,-200deg);opacity:0}100%{-webkit-transform-origin:center;transform-origin:center;-webkit-transform:none;transform:none;opacity:1}}@keyframes rotateIn{0%{-webkit-transform-origin:center;transform-origin:center;-webkit-transform:rotate3d(0,0,1,-200deg);transform:rotate3d(0,0,1,-200deg);opacity:0}100%{-webkit-transform-origin:center;transform-origin:center;-webkit-transform:none;transform:none;opacity:1}}.rotateIn{-webkit-animation-name:rotateIn;animation-name:rotateIn}@-webkit-keyframes rotateInDownLeft{0%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:rotate3d(0,0,1,-45deg);transform:rotate3d(0,0,1,-45deg);opacity:0}100%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:none;transform:none;opacity:1}}@keyframes rotateInDownLeft{0%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:rotate3d(0,0,1,-45deg);transform:rotate3d(0,0,1,-45deg);opacity:0}100%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:none;transform:none;opacity:1}}.rotateInDownLeft{-webkit-animation-name:rotateInDownLeft;animation-name:rotateInDownLeft}@-webkit-keyframes rotateInDownRight{0%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:rotate3d(0,0,1,45deg);transform:rotate3d(0,0,1,45deg);opacity:0}100%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:none;transform:none;opacity:1}}@keyframes rotateInDownRight{0%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:rotate3d(0,0,1,45deg);transform:rotate3d(0,0,1,45deg);opacity:0}100%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:none;transform:none;opacity:1}}.rotateInDownRight{-webkit-animation-name:rotateInDownRight;animation-name:rotateInDownRight}@-webkit-keyframes rotateInUpLeft{0%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:rotate3d(0,0,1,45deg);transform:rotate3d(0,0,1,45deg);opacity:0}100%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:none;transform:none;opacity:1}}@keyframes rotateInUpLeft{0%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:rotate3d(0,0,1,45deg);transform:rotate3d(0,0,1,45deg);opacity:0}100%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:none;transform:none;opacity:1}}.rotateInUpLeft{-webkit-animation-name:rotateInUpLeft;animation-name:rotateInUpLeft}@-webkit-keyframes rotateInUpRight{0%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:rotate3d(0,0,1,-90deg);transform:rotate3d(0,0,1,-90deg);opacity:0}100%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:none;transform:none;opacity:1}}@keyframes rotateInUpRight{0%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:rotate3d(0,0,1,-90deg);transform:rotate3d(0,0,1,-90deg);opacity:0}100%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:none;transform:none;opacity:1}}.rotateInUpRight{-webkit-animation-name:rotateInUpRight;animation-name:rotateInUpRight}@-webkit-keyframes rotateOut{0%{-webkit-transform-origin:center;transform-origin:center;opacity:1}100%{-webkit-transform-origin:center;transform-origin:center;-webkit-transform:rotate3d(0,0,1,200deg);transform:rotate3d(0,0,1,200deg);opacity:0}}@keyframes rotateOut{0%{-webkit-transform-origin:center;transform-origin:center;opacity:1}100%{-webkit-transform-origin:center;transform-origin:center;-webkit-transform:rotate3d(0,0,1,200deg);transform:rotate3d(0,0,1,200deg);opacity:0}}.rotateOut{-webkit-animation-name:rotateOut;animation-name:rotateOut}@-webkit-keyframes rotateOutDownLeft{0%{-webkit-transform-origin:left bottom;transform-origin:left bottom;opacity:1}100%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:rotate3d(0,0,1,45deg);transform:rotate3d(0,0,1,45deg);opacity:0}}@keyframes rotateOutDownLeft{0%{-webkit-transform-origin:left bottom;transform-origin:left bottom;opacity:1}100%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:rotate3d(0,0,1,45deg);transform:rotate3d(0,0,1,45deg);opacity:0}}.rotateOutDownLeft{-webkit-animation-name:rotateOutDownLeft;animation-name:rotateOutDownLeft}@-webkit-keyframes rotateOutDownRight{0%{-webkit-transform-origin:right bottom;transform-origin:right bottom;opacity:1}100%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:rotate3d(0,0,1,-45deg);transform:rotate3d(0,0,1,-45deg);opacity:0}}@keyframes rotateOutDownRight{0%{-webkit-transform-origin:right bottom;transform-origin:right bottom;opacity:1}100%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:rotate3d(0,0,1,-45deg);transform:rotate3d(0,0,1,-45deg);opacity:0}}.rotateOutDownRight{-webkit-animation-name:rotateOutDownRight;animation-name:rotateOutDownRight}@-webkit-keyframes rotateOutUpLeft{0%{-webkit-transform-origin:left bottom;transform-origin:left bottom;opacity:1}100%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:rotate3d(0,0,1,-45deg);transform:rotate3d(0,0,1,-45deg);opacity:0}}@keyframes rotateOutUpLeft{0%{-webkit-transform-origin:left bottom;transform-origin:left bottom;opacity:1}100%{-webkit-transform-origin:left bottom;transform-origin:left bottom;-webkit-transform:rotate3d(0,0,1,-45deg);transform:rotate3d(0,0,1,-45deg);opacity:0}}.rotateOutUpLeft{-webkit-animation-name:rotateOutUpLeft;animation-name:rotateOutUpLeft}@-webkit-keyframes rotateOutUpRight{0%{-webkit-transform-origin:right bottom;transform-origin:right bottom;opacity:1}100%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:rotate3d(0,0,1,90deg);transform:rotate3d(0,0,1,90deg);opacity:0}}@keyframes rotateOutUpRight{0%{-webkit-transform-origin:right bottom;transform-origin:right bottom;opacity:1}100%{-webkit-transform-origin:right bottom;transform-origin:right bottom;-webkit-transform:rotate3d(0,0,1,90deg);transform:rotate3d(0,0,1,90deg);opacity:0}}.rotateOutUpRight{-webkit-animation-name:rotateOutUpRight;animation-name:rotateOutUpRight}@-webkit-keyframes hinge{0%{-webkit-transform-origin:top left;transform-origin:top left;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out}20%,60%{-webkit-transform:rotate3d(0,0,1,80deg);transform:rotate3d(0,0,1,80deg);-webkit-transform-origin:top left;transform-origin:top left;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out}40%,80%{-webkit-transform:rotate3d(0,0,1,60deg);transform:rotate3d(0,0,1,60deg);-webkit-transform-origin:top left;transform-origin:top left;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out;opacity:1}100%{-webkit-transform:translate3d(0,700px,0);transform:translate3d(0,700px,0);opacity:0}}@keyframes hinge{0%{-webkit-transform-origin:top left;transform-origin:top left;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out}20%,60%{-webkit-transform:rotate3d(0,0,1,80deg);transform:rotate3d(0,0,1,80deg);-webkit-transform-origin:top left;transform-origin:top left;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out}40%,80%{-webkit-transform:rotate3d(0,0,1,60deg);transform:rotate3d(0,0,1,60deg);-webkit-transform-origin:top left;transform-origin:top left;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out;opacity:1}100%{-webkit-transform:translate3d(0,700px,0);transform:translate3d(0,700px,0);opacity:0}}.hinge{-webkit-animation-name:hinge;animation-name:hinge}@-webkit-keyframes rollIn{0%{opacity:0;-webkit-transform:translate3d(-100%,0,0) rotate3d(0,0,1,-120deg);transform:translate3d(-100%,0,0) rotate3d(0,0,1,-120deg)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes rollIn{0%{opacity:0;-webkit-transform:translate3d(-100%,0,0) rotate3d(0,0,1,-120deg);transform:translate3d(-100%,0,0) rotate3d(0,0,1,-120deg)}100%{opacity:1;-webkit-transform:none;transform:none}}.rollIn{-webkit-animation-name:rollIn;animation-name:rollIn}@-webkit-keyframes rollOut{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(100%,0,0) rotate3d(0,0,1,120deg);transform:translate3d(100%,0,0) rotate3d(0,0,1,120deg)}}@keyframes rollOut{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(100%,0,0) rotate3d(0,0,1,120deg);transform:translate3d(100%,0,0) rotate3d(0,0,1,120deg)}}.rollOut{-webkit-animation-name:rollOut;animation-name:rollOut}@-webkit-keyframes zoomIn{0%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}50%{opacity:1}}@keyframes zoomIn{0%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}50%{opacity:1}}.zoomIn{-webkit-animation-name:zoomIn;animation-name:zoomIn}@-webkit-keyframes zoomInDown{0%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(0,-1000px,0);transform:scale3d(.1,.1,.1) translate3d(0,-1000px,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(0,60px,0);transform:scale3d(.475,.475,.475) translate3d(0,60px,0);-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}@keyframes zoomInDown{0%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(0,-1000px,0);transform:scale3d(.1,.1,.1) translate3d(0,-1000px,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(0,60px,0);transform:scale3d(.475,.475,.475) translate3d(0,60px,0);-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}.zoomInDown{-webkit-animation-name:zoomInDown;animation-name:zoomInDown}@-webkit-keyframes zoomInLeft{0%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(-1000px,0,0);transform:scale3d(.1,.1,.1) translate3d(-1000px,0,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(10px,0,0);transform:scale3d(.475,.475,.475) translate3d(10px,0,0);-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}@keyframes zoomInLeft{0%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(-1000px,0,0);transform:scale3d(.1,.1,.1) translate3d(-1000px,0,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(10px,0,0);transform:scale3d(.475,.475,.475) translate3d(10px,0,0);-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}.zoomInLeft{-webkit-animation-name:zoomInLeft;animation-name:zoomInLeft}@-webkit-keyframes zoomInRight{0%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(1000px,0,0);transform:scale3d(.1,.1,.1) translate3d(1000px,0,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(-10px,0,0);transform:scale3d(.475,.475,.475) translate3d(-10px,0,0);-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}@keyframes zoomInRight{0%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(1000px,0,0);transform:scale3d(.1,.1,.1) translate3d(1000px,0,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(-10px,0,0);transform:scale3d(.475,.475,.475) translate3d(-10px,0,0);-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}.zoomInRight{-webkit-animation-name:zoomInRight;animation-name:zoomInRight}@-webkit-keyframes zoomInUp{0%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(0,1000px,0);transform:scale3d(.1,.1,.1) translate3d(0,1000px,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(0,-60px,0);transform:scale3d(.475,.475,.475) translate3d(0,-60px,0);-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}@keyframes zoomInUp{0%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(0,1000px,0);transform:scale3d(.1,.1,.1) translate3d(0,1000px,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(0,-60px,0);transform:scale3d(.475,.475,.475) translate3d(0,-60px,0);-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}.zoomInUp{-webkit-animation-name:zoomInUp;animation-name:zoomInUp}@-webkit-keyframes zoomOut{0%{opacity:1}50%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}100%{opacity:0}}@keyframes zoomOut{0%{opacity:1}50%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}100%{opacity:0}}.zoomOut{-webkit-animation-name:zoomOut;animation-name:zoomOut}@-webkit-keyframes zoomOutDown{40%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(0,-60px,0);transform:scale3d(.475,.475,.475) translate3d(0,-60px,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}100%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(0,2000px,0);transform:scale3d(.1,.1,.1) translate3d(0,2000px,0);-webkit-transform-origin:center bottom;transform-origin:center bottom;-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}@keyframes zoomOutDown{40%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(0,-60px,0);transform:scale3d(.475,.475,.475) translate3d(0,-60px,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}100%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(0,2000px,0);transform:scale3d(.1,.1,.1) translate3d(0,2000px,0);-webkit-transform-origin:center bottom;transform-origin:center bottom;-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}.zoomOutDown{-webkit-animation-name:zoomOutDown;animation-name:zoomOutDown}@-webkit-keyframes zoomOutLeft{40%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(42px,0,0);transform:scale3d(.475,.475,.475) translate3d(42px,0,0)}100%{opacity:0;-webkit-transform:scale(.1) translate3d(-2000px,0,0);transform:scale(.1) translate3d(-2000px,0,0);-webkit-transform-origin:left center;transform-origin:left center}}@keyframes zoomOutLeft{40%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(42px,0,0);transform:scale3d(.475,.475,.475) translate3d(42px,0,0)}100%{opacity:0;-webkit-transform:scale(.1) translate3d(-2000px,0,0);transform:scale(.1) translate3d(-2000px,0,0);-webkit-transform-origin:left center;transform-origin:left center}}.zoomOutLeft{-webkit-animation-name:zoomOutLeft;animation-name:zoomOutLeft}@-webkit-keyframes zoomOutRight{40%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(-42px,0,0);transform:scale3d(.475,.475,.475) translate3d(-42px,0,0)}100%{opacity:0;-webkit-transform:scale(.1) translate3d(2000px,0,0);transform:scale(.1) translate3d(2000px,0,0);-webkit-transform-origin:right center;transform-origin:right center}}@keyframes zoomOutRight{40%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(-42px,0,0);transform:scale3d(.475,.475,.475) translate3d(-42px,0,0)}100%{opacity:0;-webkit-transform:scale(.1) translate3d(2000px,0,0);transform:scale(.1) translate3d(2000px,0,0);-webkit-transform-origin:right center;transform-origin:right center}}.zoomOutRight{-webkit-animation-name:zoomOutRight;animation-name:zoomOutRight}@-webkit-keyframes zoomOutUp{40%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(0,60px,0);transform:scale3d(.475,.475,.475) translate3d(0,60px,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}100%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(0,-2000px,0);transform:scale3d(.1,.1,.1) translate3d(0,-2000px,0);-webkit-transform-origin:center bottom;transform-origin:center bottom;-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}@keyframes zoomOutUp{40%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(0,60px,0);transform:scale3d(.475,.475,.475) translate3d(0,60px,0);-webkit-animation-timing-function:cubic-bezier(.55,.055,.675,.19);animation-timing-function:cubic-bezier(.55,.055,.675,.19)}100%{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(0,-2000px,0);transform:scale3d(.1,.1,.1) translate3d(0,-2000px,0);-webkit-transform-origin:center bottom;transform-origin:center bottom;-webkit-animation-timing-function:cubic-bezier(.175,.885,.32,1);animation-timing-function:cubic-bezier(.175,.885,.32,1)}}.zoomOutUp{-webkit-animation-name:zoomOutUp;animation-name:zoomOutUp}@-webkit-keyframes slideInDown{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%);visibility:visible}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes slideInDown{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%);visibility:visible}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.slideInDown{-webkit-animation-name:slideInDown;animation-name:slideInDown}@-webkit-keyframes slideInLeft{0%{-webkit-transform:translateX(-100%);transform:translateX(-100%);visibility:visible}100%{-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes slideInLeft{0%{-webkit-transform:translateX(-100%);transform:translateX(-100%);visibility:visible}100%{-webkit-transform:translateX(0);transform:translateX(0)}}.slideInLeft{-webkit-animation-name:slideInLeft;animation-name:slideInLeft}@-webkit-keyframes slideInRight{0%{-webkit-transform:translateX(100%);transform:translateX(100%);visibility:visible}100%{-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes slideInRight{0%{-webkit-transform:translateX(100%);transform:translateX(100%);visibility:visible}100%{-webkit-transform:translateX(0);transform:translateX(0)}}.slideInRight{-webkit-animation-name:slideInRight;animation-name:slideInRight}@-webkit-keyframes slideInUp{0%{-webkit-transform:translateY(100%);transform:translateY(100%);visibility:visible}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes slideInUp{0%{-webkit-transform:translateY(100%);transform:translateY(100%);visibility:visible}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.slideInUp{-webkit-animation-name:slideInUp;animation-name:slideInUp}@-webkit-keyframes slideOutDown{0%{-webkit-transform:translateY(0);transform:translateY(0)}100%{visibility:hidden;-webkit-transform:translateY(100%);transform:translateY(100%)}}@keyframes slideOutDown{0%{-webkit-transform:translateY(0);transform:translateY(0)}100%{visibility:hidden;-webkit-transform:translateY(100%);transform:translateY(100%)}}.slideOutDown{-webkit-animation-name:slideOutDown;animation-name:slideOutDown}@-webkit-keyframes slideOutLeft{0%{-webkit-transform:translateX(0);transform:translateX(0)}100%{visibility:hidden;-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@keyframes slideOutLeft{0%{-webkit-transform:translateX(0);transform:translateX(0)}100%{visibility:hidden;-webkit-transform:translateX(-100%);transform:translateX(-100%)}}.slideOutLeft{-webkit-animation-name:slideOutLeft;animation-name:slideOutLeft}@-webkit-keyframes slideOutRight{0%{-webkit-transform:translateX(0);transform:translateX(0)}100%{visibility:hidden;-webkit-transform:translateX(100%);transform:translateX(100%)}}@keyframes slideOutRight{0%{-webkit-transform:translateX(0);transform:translateX(0)}100%{visibility:hidden;-webkit-transform:translateX(100%);transform:translateX(100%)}}.slideOutRight{-webkit-animation-name:slideOutRight;animation-name:slideOutRight}@-webkit-keyframes slideOutUp{0%{-webkit-transform:translateY(0);transform:translateY(0)}100%{visibility:hidden;-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@keyframes slideOutUp{0%{-webkit-transform:translateY(0);transform:translateY(0)}100%{visibility:hidden;-webkit-transform:translateY(-100%);transform:translateY(-100%)}}.slideOutUp{-webkit-animation-name:slideOutUp;animation-name:slideOutUp}
+.owl-theme .owl-controls{margin-top:10px;text-align:center}.owl-theme .owl-controls .owl-buttons div{color:#fff;display:inline-block;zoom:1;*display:inline;margin:5px;padding:3px 10px;font-size:12px;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;background:#3eb0f7;filter:Alpha(Opacity=50);opacity:.5}.owl-theme .owl-controls.clickable .owl-buttons div:hover{filter:Alpha(Opacity=100);opacity:1;text-decoration:none}.owl-theme .owl-controls .owl-page{display:inline-block;zoom:1;*display:inline}.owl-theme .owl-controls .owl-page span{display:block;width:12px;height:12px;margin:5px 7px;filter:Alpha(Opacity=50);opacity:.5;-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;background:#dadada}.owl-theme .owl-controls .owl-page.active span,.owl-theme .owl-controls.clickable .owl-page:hover span{filter:Alpha(Opacity=100);opacity:1}.owl-theme .owl-controls .owl-page span.owl-numbers{height:auto;width:auto;color:#fff;padding:2px 10px;font-size:12px;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px}.owl-item.loading{min-height:150px;background:url(/assets/images/loading.gif) no-repeat center center}
+.owl-carousel .owl-wrapper:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.owl-carousel{display:none;position:relative;width:100%;-ms-touch-action:pan-y}.owl-carousel .owl-wrapper{display:none;position:relative;-webkit-transform:translate3d(0px,0px,0px)}.owl-carousel .owl-wrapper-outer{overflow:hidden;position:relative;width:100%}.owl-carousel .owl-wrapper-outer.autoHeight{-webkit-transition:height 500ms ease-in-out;-moz-transition:height 500ms ease-in-out;-ms-transition:height 500ms ease-in-out;-o-transition:height 500ms ease-in-out;transition:height 500ms ease-in-out}.owl-carousel .owl-item{float:left}.owl-controls .owl-page,.owl-controls .owl-buttons div{cursor:pointer}.owl-controls{-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent}.grabbing{cursor:url(grabbing.png) 8 8,move}.owl-carousel .owl-wrapper,.owl-carousel .owl-item{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}
+@font-face{font-family:'FontAwesome';src:url('/assets/fonts/fontawesome-webfont.eot?v=4.2.0');src:url('/assets/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'),url('/assets/fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'),url('/assets/fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'),url('/assets/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-lg{font-size:1.33333333em;line-height:.75em;vertical-align:-15%}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-fw{width:1.28571429em;text-align:center}.fa-ul{padding-left:0;margin-left:2.14285714em;list-style-type:none}.fa-ul>li{position:relative}.fa-li{position:absolute;left:-2.14285714em;width:2.14285714em;top:.14285714em;text-align:center}.fa-li.fa-lg{left:-1.85714286em}.fa-border{padding:.2em .25em .15em;border:solid .08em #eee;border-radius:.1em}.pull-right{float:right}.pull-left{float:left}.fa.pull-left{margin-right:.3em}.fa.pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}.fa-rotate-90{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2);-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=3);-webkit-transform:rotate(270deg);-ms-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);-webkit-transform:scale(-1, 1);-ms-transform:scale(-1, 1);transform:scale(-1, 1)}.fa-flip-vertical{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);-webkit-transform:scale(1, -1);-ms-transform:scale(1, -1);transform:scale(1, -1)}:root .fa-rotate-90,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-flip-horizontal,:root .fa-flip-vertical{filter:none}.fa-stack{position:relative;display:inline-block;width:2em;height:2em;line-height:2em;vertical-align:middle}.fa-stack-1x,.fa-stack-2x{position:absolute;left:0;width:100%;text-align:center}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-glass:before{content:"\f000"}.fa-music:before{content:"\f001"}.fa-search:before{content:"\f002"}.fa-envelope-o:before{content:"\f003"}.fa-heart:before{content:"\f004"}.fa-star:before{content:"\f005"}.fa-star-o:before{content:"\f006"}.fa-user:before{content:"\f007"}.fa-film:before{content:"\f008"}.fa-th-large:before{content:"\f009"}.fa-th:before{content:"\f00a"}.fa-th-list:before{content:"\f00b"}.fa-check:before{content:"\f00c"}.fa-remove:before,.fa-close:before,.fa-times:before{content:"\f00d"}.fa-search-plus:before{content:"\f00e"}.fa-search-minus:before{content:"\f010"}.fa-power-off:before{content:"\f011"}.fa-signal:before{content:"\f012"}.fa-gear:before,.fa-cog:before{content:"\f013"}.fa-trash-o:before{content:"\f014"}.fa-home:before{content:"\f015"}.fa-file-o:before{content:"\f016"}.fa-clock-o:before{content:"\f017"}.fa-road:before{content:"\f018"}.fa-download:before{content:"\f019"}.fa-arrow-circle-o-down:before{content:"\f01a"}.fa-arrow-circle-o-up:before{content:"\f01b"}.fa-inbox:before{content:"\f01c"}.fa-play-circle-o:before{content:"\f01d"}.fa-rotate-right:before,.fa-repeat:before{content:"\f01e"}.fa-refresh:before{content:"\f021"}.fa-list-alt:before{content:"\f022"}.fa-lock:before{content:"\f023"}.fa-flag:before{content:"\f024"}.fa-headphones:before{content:"\f025"}.fa-volume-off:before{content:"\f026"}.fa-volume-down:before{content:"\f027"}.fa-volume-up:before{content:"\f028"}.fa-qrcode:before{content:"\f029"}.fa-barcode:before{content:"\f02a"}.fa-tag:before{content:"\f02b"}.fa-tags:before{content:"\f02c"}.fa-book:before{content:"\f02d"}.fa-bookmark:before{content:"\f02e"}.fa-print:before{content:"\f02f"}.fa-camera:before{content:"\f030"}.fa-font:before{content:"\f031"}.fa-bold:before{content:"\f032"}.fa-italic:before{content:"\f033"}.fa-text-height:before{content:"\f034"}.fa-text-width:before{content:"\f035"}.fa-align-left:before{content:"\f036"}.fa-align-center:before{content:"\f037"}.fa-align-right:before{content:"\f038"}.fa-align-justify:before{content:"\f039"}.fa-list:before{content:"\f03a"}.fa-dedent:before,.fa-outdent:before{content:"\f03b"}.fa-indent:before{content:"\f03c"}.fa-video-camera:before{content:"\f03d"}.fa-photo:before,.fa-image:before,.fa-picture-o:before{content:"\f03e"}.fa-pencil:before{content:"\f040"}.fa-map-marker:before{content:"\f041"}.fa-adjust:before{content:"\f042"}.fa-tint:before{content:"\f043"}.fa-edit:before,.fa-pencil-square-o:before{content:"\f044"}.fa-share-square-o:before{content:"\f045"}.fa-check-square-o:before{content:"\f046"}.fa-arrows:before{content:"\f047"}.fa-step-backward:before{content:"\f048"}.fa-fast-backward:before{content:"\f049"}.fa-backward:before{content:"\f04a"}.fa-play:before{content:"\f04b"}.fa-pause:before{content:"\f04c"}.fa-stop:before{content:"\f04d"}.fa-forward:before{content:"\f04e"}.fa-fast-forward:before{content:"\f050"}.fa-step-forward:before{content:"\f051"}.fa-eject:before{content:"\f052"}.fa-chevron-left:before{content:"\f053"}.fa-chevron-right:before{content:"\f054"}.fa-plus-circle:before{content:"\f055"}.fa-minus-circle:before{content:"\f056"}.fa-times-circle:before{content:"\f057"}.fa-check-circle:before{content:"\f058"}.fa-question-circle:before{content:"\f059"}.fa-info-circle:before{content:"\f05a"}.fa-crosshairs:before{content:"\f05b"}.fa-times-circle-o:before{content:"\f05c"}.fa-check-circle-o:before{content:"\f05d"}.fa-ban:before{content:"\f05e"}.fa-arrow-left:before{content:"\f060"}.fa-arrow-right:before{content:"\f061"}.fa-arrow-up:before{content:"\f062"}.fa-arrow-down:before{content:"\f063"}.fa-mail-forward:before,.fa-share:before{content:"\f064"}.fa-expand:before{content:"\f065"}.fa-compress:before{content:"\f066"}.fa-plus:before{content:"\f067"}.fa-minus:before{content:"\f068"}.fa-asterisk:before{content:"\f069"}.fa-exclamation-circle:before{content:"\f06a"}.fa-gift:before{content:"\f06b"}.fa-leaf:before{content:"\f06c"}.fa-fire:before{content:"\f06d"}.fa-eye:before{content:"\f06e"}.fa-eye-slash:before{content:"\f070"}.fa-warning:before,.fa-exclamation-triangle:before{content:"\f071"}.fa-plane:before{content:"\f072"}.fa-calendar:before{content:"\f073"}.fa-random:before{content:"\f074"}.fa-comment:before{content:"\f075"}.fa-magnet:before{content:"\f076"}.fa-chevron-up:before{content:"\f077"}.fa-chevron-down:before{content:"\f078"}.fa-retweet:before{content:"\f079"}.fa-shopping-cart:before{content:"\f07a"}.fa-folder:before{content:"\f07b"}.fa-folder-open:before{content:"\f07c"}.fa-arrows-v:before{content:"\f07d"}.fa-arrows-h:before{content:"\f07e"}.fa-bar-chart-o:before,.fa-bar-chart:before{content:"\f080"}.fa-twitter-square:before{content:"\f081"}.fa-facebook-square:before{content:"\f082"}.fa-camera-retro:before{content:"\f083"}.fa-key:before{content:"\f084"}.fa-gears:before,.fa-cogs:before{content:"\f085"}.fa-comments:before{content:"\f086"}.fa-thumbs-o-up:before{content:"\f087"}.fa-thumbs-o-down:before{content:"\f088"}.fa-star-half:before{content:"\f089"}.fa-heart-o:before{content:"\f08a"}.fa-sign-out:before{content:"\f08b"}.fa-linkedin-square:before{content:"\f08c"}.fa-thumb-tack:before{content:"\f08d"}.fa-external-link:before{content:"\f08e"}.fa-sign-in:before{content:"\f090"}.fa-trophy:before{content:"\f091"}.fa-github-square:before{content:"\f092"}.fa-upload:before{content:"\f093"}.fa-lemon-o:before{content:"\f094"}.fa-phone:before{content:"\f095"}.fa-square-o:before{content:"\f096"}.fa-bookmark-o:before{content:"\f097"}.fa-phone-square:before{content:"\f098"}.fa-twitter:before{content:"\f099"}.fa-facebook:before{content:"\f09a"}.fa-github:before{content:"\f09b"}.fa-unlock:before{content:"\f09c"}.fa-credit-card:before{content:"\f09d"}.fa-rss:before{content:"\f09e"}.fa-hdd-o:before{content:"\f0a0"}.fa-bullhorn:before{content:"\f0a1"}.fa-bell:before{content:"\f0f3"}.fa-certificate:before{content:"\f0a3"}.fa-hand-o-right:before{content:"\f0a4"}.fa-hand-o-left:before{content:"\f0a5"}.fa-hand-o-up:before{content:"\f0a6"}.fa-hand-o-down:before{content:"\f0a7"}.fa-arrow-circle-left:before{content:"\f0a8"}.fa-arrow-circle-right:before{content:"\f0a9"}.fa-arrow-circle-up:before{content:"\f0aa"}.fa-arrow-circle-down:before{content:"\f0ab"}.fa-globe:before{content:"\f0ac"}.fa-wrench:before{content:"\f0ad"}.fa-tasks:before{content:"\f0ae"}.fa-filter:before{content:"\f0b0"}.fa-briefcase:before{content:"\f0b1"}.fa-arrows-alt:before{content:"\f0b2"}.fa-group:before,.fa-users:before{content:"\f0c0"}.fa-chain:before,.fa-link:before{content:"\f0c1"}.fa-cloud:before{content:"\f0c2"}.fa-flask:before{content:"\f0c3"}.fa-cut:before,.fa-scissors:before{content:"\f0c4"}.fa-copy:before,.fa-files-o:before{content:"\f0c5"}.fa-paperclip:before{content:"\f0c6"}.fa-save:before,.fa-floppy-o:before{content:"\f0c7"}.fa-square:before{content:"\f0c8"}.fa-navicon:before,.fa-reorder:before,.fa-bars:before{content:"\f0c9"}.fa-list-ul:before{content:"\f0ca"}.fa-list-ol:before{content:"\f0cb"}.fa-strikethrough:before{content:"\f0cc"}.fa-underline:before{content:"\f0cd"}.fa-table:before{content:"\f0ce"}.fa-magic:before{content:"\f0d0"}.fa-truck:before{content:"\f0d1"}.fa-pinterest:before{content:"\f0d2"}.fa-pinterest-square:before{content:"\f0d3"}.fa-google-plus-square:before{content:"\f0d4"}.fa-google-plus:before{content:"\f0d5"}.fa-money:before{content:"\f0d6"}.fa-caret-down:before{content:"\f0d7"}.fa-caret-up:before{content:"\f0d8"}.fa-caret-left:before{content:"\f0d9"}.fa-caret-right:before{content:"\f0da"}.fa-columns:before{content:"\f0db"}.fa-unsorted:before,.fa-sort:before{content:"\f0dc"}.fa-sort-down:before,.fa-sort-desc:before{content:"\f0dd"}.fa-sort-up:before,.fa-sort-asc:before{content:"\f0de"}.fa-envelope:before{content:"\f0e0"}.fa-linkedin:before{content:"\f0e1"}.fa-rotate-left:before,.fa-undo:before{content:"\f0e2"}.fa-legal:before,.fa-gavel:before{content:"\f0e3"}.fa-dashboard:before,.fa-tachometer:before{content:"\f0e4"}.fa-comment-o:before{content:"\f0e5"}.fa-comments-o:before{content:"\f0e6"}.fa-flash:before,.fa-bolt:before{content:"\f0e7"}.fa-sitemap:before{content:"\f0e8"}.fa-umbrella:before{content:"\f0e9"}.fa-paste:before,.fa-clipboard:before{content:"\f0ea"}.fa-lightbulb-o:before{content:"\f0eb"}.fa-exchange:before{content:"\f0ec"}.fa-cloud-download:before{content:"\f0ed"}.fa-cloud-upload:before{content:"\f0ee"}.fa-user-md:before{content:"\f0f0"}.fa-stethoscope:before{content:"\f0f1"}.fa-suitcase:before{content:"\f0f2"}.fa-bell-o:before{content:"\f0a2"}.fa-coffee:before{content:"\f0f4"}.fa-cutlery:before{content:"\f0f5"}.fa-file-text-o:before{content:"\f0f6"}.fa-building-o:before{content:"\f0f7"}.fa-hospital-o:before{content:"\f0f8"}.fa-ambulance:before{content:"\f0f9"}.fa-medkit:before{content:"\f0fa"}.fa-fighter-jet:before{content:"\f0fb"}.fa-beer:before{content:"\f0fc"}.fa-h-square:before{content:"\f0fd"}.fa-plus-square:before{content:"\f0fe"}.fa-angle-double-left:before{content:"\f100"}.fa-angle-double-right:before{content:"\f101"}.fa-angle-double-up:before{content:"\f102"}.fa-angle-double-down:before{content:"\f103"}.fa-angle-left:before{content:"\f104"}.fa-angle-right:before{content:"\f105"}.fa-angle-up:before{content:"\f106"}.fa-angle-down:before{content:"\f107"}.fa-desktop:before{content:"\f108"}.fa-laptop:before{content:"\f109"}.fa-tablet:before{content:"\f10a"}.fa-mobile-phone:before,.fa-mobile:before{content:"\f10b"}.fa-circle-o:before{content:"\f10c"}.fa-quote-left:before{content:"\f10d"}.fa-quote-right:before{content:"\f10e"}.fa-spinner:before{content:"\f110"}.fa-circle:before{content:"\f111"}.fa-mail-reply:before,.fa-reply:before{content:"\f112"}.fa-github-alt:before{content:"\f113"}.fa-folder-o:before{content:"\f114"}.fa-folder-open-o:before{content:"\f115"}.fa-smile-o:before{content:"\f118"}.fa-frown-o:before{content:"\f119"}.fa-meh-o:before{content:"\f11a"}.fa-gamepad:before{content:"\f11b"}.fa-keyboard-o:before{content:"\f11c"}.fa-flag-o:before{content:"\f11d"}.fa-flag-checkered:before{content:"\f11e"}.fa-terminal:before{content:"\f120"}.fa-code:before{content:"\f121"}.fa-mail-reply-all:before,.fa-reply-all:before{content:"\f122"}.fa-star-half-empty:before,.fa-star-half-full:before,.fa-star-half-o:before{content:"\f123"}.fa-location-arrow:before{content:"\f124"}.fa-crop:before{content:"\f125"}.fa-code-fork:before{content:"\f126"}.fa-unlink:before,.fa-chain-broken:before{content:"\f127"}.fa-question:before{content:"\f128"}.fa-info:before{content:"\f129"}.fa-exclamation:before{content:"\f12a"}.fa-superscript:before{content:"\f12b"}.fa-subscript:before{content:"\f12c"}.fa-eraser:before{content:"\f12d"}.fa-puzzle-piece:before{content:"\f12e"}.fa-microphone:before{content:"\f130"}.fa-microphone-slash:before{content:"\f131"}.fa-shield:before{content:"\f132"}.fa-calendar-o:before{content:"\f133"}.fa-fire-extinguisher:before{content:"\f134"}.fa-rocket:before{content:"\f135"}.fa-maxcdn:before{content:"\f136"}.fa-chevron-circle-left:before{content:"\f137"}.fa-chevron-circle-right:before{content:"\f138"}.fa-chevron-circle-up:before{content:"\f139"}.fa-chevron-circle-down:before{content:"\f13a"}.fa-html5:before{content:"\f13b"}.fa-css3:before{content:"\f13c"}.fa-anchor:before{content:"\f13d"}.fa-unlock-alt:before{content:"\f13e"}.fa-bullseye:before{content:"\f140"}.fa-ellipsis-h:before{content:"\f141"}.fa-ellipsis-v:before{content:"\f142"}.fa-rss-square:before{content:"\f143"}.fa-play-circle:before{content:"\f144"}.fa-ticket:before{content:"\f145"}.fa-minus-square:before{content:"\f146"}.fa-minus-square-o:before{content:"\f147"}.fa-level-up:before{content:"\f148"}.fa-level-down:before{content:"\f149"}.fa-check-square:before{content:"\f14a"}.fa-pencil-square:before{content:"\f14b"}.fa-external-link-square:before{content:"\f14c"}.fa-share-square:before{content:"\f14d"}.fa-compass:before{content:"\f14e"}.fa-toggle-down:before,.fa-caret-square-o-down:before{content:"\f150"}.fa-toggle-up:before,.fa-caret-square-o-up:before{content:"\f151"}.fa-toggle-right:before,.fa-caret-square-o-right:before{content:"\f152"}.fa-euro:before,.fa-eur:before{content:"\f153"}.fa-gbp:before{content:"\f154"}.fa-dollar:before,.fa-usd:before{content:"\f155"}.fa-rupee:before,.fa-inr:before{content:"\f156"}.fa-cny:before,.fa-rmb:before,.fa-yen:before,.fa-jpy:before{content:"\f157"}.fa-ruble:before,.fa-rouble:before,.fa-rub:before{content:"\f158"}.fa-won:before,.fa-krw:before{content:"\f159"}.fa-bitcoin:before,.fa-btc:before{content:"\f15a"}.fa-file:before{content:"\f15b"}.fa-file-text:before{content:"\f15c"}.fa-sort-alpha-asc:before{content:"\f15d"}.fa-sort-alpha-desc:before{content:"\f15e"}.fa-sort-amount-asc:before{content:"\f160"}.fa-sort-amount-desc:before{content:"\f161"}.fa-sort-numeric-asc:before{content:"\f162"}.fa-sort-numeric-desc:before{content:"\f163"}.fa-thumbs-up:before{content:"\f164"}.fa-thumbs-down:before{content:"\f165"}.fa-youtube-square:before{content:"\f166"}.fa-youtube:before{content:"\f167"}.fa-xing:before{content:"\f168"}.fa-xing-square:before{content:"\f169"}.fa-youtube-play:before{content:"\f16a"}.fa-dropbox:before{content:"\f16b"}.fa-stack-overflow:before{content:"\f16c"}.fa-instagram:before{content:"\f16d"}.fa-flickr:before{content:"\f16e"}.fa-adn:before{content:"\f170"}.fa-bitbucket:before{content:"\f171"}.fa-bitbucket-square:before{content:"\f172"}.fa-tumblr:before{content:"\f173"}.fa-tumblr-square:before{content:"\f174"}.fa-long-arrow-down:before{content:"\f175"}.fa-long-arrow-up:before{content:"\f176"}.fa-long-arrow-left:before{content:"\f177"}.fa-long-arrow-right:before{content:"\f178"}.fa-apple:before{content:"\f179"}.fa-windows:before{content:"\f17a"}.fa-android:before{content:"\f17b"}.fa-linux:before{content:"\f17c"}.fa-dribbble:before{content:"\f17d"}.fa-skype:before{content:"\f17e"}.fa-foursquare:before{content:"\f180"}.fa-trello:before{content:"\f181"}.fa-female:before{content:"\f182"}.fa-male:before{content:"\f183"}.fa-gittip:before{content:"\f184"}.fa-sun-o:before{content:"\f185"}.fa-moon-o:before{content:"\f186"}.fa-archive:before{content:"\f187"}.fa-bug:before{content:"\f188"}.fa-vk:before{content:"\f189"}.fa-weibo:before{content:"\f18a"}.fa-renren:before{content:"\f18b"}.fa-pagelines:before{content:"\f18c"}.fa-stack-exchange:before{content:"\f18d"}.fa-arrow-circle-o-right:before{content:"\f18e"}.fa-arrow-circle-o-left:before{content:"\f190"}.fa-toggle-left:before,.fa-caret-square-o-left:before{content:"\f191"}.fa-dot-circle-o:before{content:"\f192"}.fa-wheelchair:before{content:"\f193"}.fa-vimeo-square:before{content:"\f194"}.fa-turkish-lira:before,.fa-try:before{content:"\f195"}.fa-plus-square-o:before{content:"\f196"}.fa-space-shuttle:before{content:"\f197"}.fa-slack:before{content:"\f198"}.fa-envelope-square:before{content:"\f199"}.fa-wordpress:before{content:"\f19a"}.fa-openid:before{content:"\f19b"}.fa-institution:before,.fa-bank:before,.fa-university:before{content:"\f19c"}.fa-mortar-board:before,.fa-graduation-cap:before{content:"\f19d"}.fa-yahoo:before{content:"\f19e"}.fa-google:before{content:"\f1a0"}.fa-reddit:before{content:"\f1a1"}.fa-reddit-square:before{content:"\f1a2"}.fa-stumbleupon-circle:before{content:"\f1a3"}.fa-stumbleupon:before{content:"\f1a4"}.fa-delicious:before{content:"\f1a5"}.fa-digg:before{content:"\f1a6"}.fa-pied-piper:before{content:"\f1a7"}.fa-pied-piper-alt:before{content:"\f1a8"}.fa-drupal:before{content:"\f1a9"}.fa-joomla:before{content:"\f1aa"}.fa-language:before{content:"\f1ab"}.fa-fax:before{content:"\f1ac"}.fa-building:before{content:"\f1ad"}.fa-child:before{content:"\f1ae"}.fa-paw:before{content:"\f1b0"}.fa-spoon:before{content:"\f1b1"}.fa-cube:before{content:"\f1b2"}.fa-cubes:before{content:"\f1b3"}.fa-behance:before{content:"\f1b4"}.fa-behance-square:before{content:"\f1b5"}.fa-steam:before{content:"\f1b6"}.fa-steam-square:before{content:"\f1b7"}.fa-recycle:before{content:"\f1b8"}.fa-automobile:before,.fa-car:before{content:"\f1b9"}.fa-cab:before,.fa-taxi:before{content:"\f1ba"}.fa-tree:before{content:"\f1bb"}.fa-spotify:before{content:"\f1bc"}.fa-deviantart:before{content:"\f1bd"}.fa-soundcloud:before{content:"\f1be"}.fa-database:before{content:"\f1c0"}.fa-file-pdf-o:before{content:"\f1c1"}.fa-file-word-o:before{content:"\f1c2"}.fa-file-excel-o:before{content:"\f1c3"}.fa-file-powerpoint-o:before{content:"\f1c4"}.fa-file-photo-o:before,.fa-file-picture-o:before,.fa-file-image-o:before{content:"\f1c5"}.fa-file-zip-o:before,.fa-file-archive-o:before{content:"\f1c6"}.fa-file-sound-o:before,.fa-file-audio-o:before{content:"\f1c7"}.fa-file-movie-o:before,.fa-file-video-o:before{content:"\f1c8"}.fa-file-code-o:before{content:"\f1c9"}.fa-vine:before{content:"\f1ca"}.fa-codepen:before{content:"\f1cb"}.fa-jsfiddle:before{content:"\f1cc"}.fa-life-bouy:before,.fa-life-buoy:before,.fa-life-saver:before,.fa-support:before,.fa-life-ring:before{content:"\f1cd"}.fa-circle-o-notch:before{content:"\f1ce"}.fa-ra:before,.fa-rebel:before{content:"\f1d0"}.fa-ge:before,.fa-empire:before{content:"\f1d1"}.fa-git-square:before{content:"\f1d2"}.fa-git:before{content:"\f1d3"}.fa-hacker-news:before{content:"\f1d4"}.fa-tencent-weibo:before{content:"\f1d5"}.fa-qq:before{content:"\f1d6"}.fa-wechat:before,.fa-weixin:before{content:"\f1d7"}.fa-send:before,.fa-paper-plane:before{content:"\f1d8"}.fa-send-o:before,.fa-paper-plane-o:before{content:"\f1d9"}.fa-history:before{content:"\f1da"}.fa-circle-thin:before{content:"\f1db"}.fa-header:before{content:"\f1dc"}.fa-paragraph:before{content:"\f1dd"}.fa-sliders:before{content:"\f1de"}.fa-share-alt:before{content:"\f1e0"}.fa-share-alt-square:before{content:"\f1e1"}.fa-bomb:before{content:"\f1e2"}.fa-soccer-ball-o:before,.fa-futbol-o:before{content:"\f1e3"}.fa-tty:before{content:"\f1e4"}.fa-binoculars:before{content:"\f1e5"}.fa-plug:before{content:"\f1e6"}.fa-slideshare:before{content:"\f1e7"}.fa-twitch:before{content:"\f1e8"}.fa-yelp:before{content:"\f1e9"}.fa-newspaper-o:before{content:"\f1ea"}.fa-wifi:before{content:"\f1eb"}.fa-calculator:before{content:"\f1ec"}.fa-paypal:before{content:"\f1ed"}.fa-google-wallet:before{content:"\f1ee"}.fa-cc-visa:before{content:"\f1f0"}.fa-cc-mastercard:before{content:"\f1f1"}.fa-cc-discover:before{content:"\f1f2"}.fa-cc-amex:before{content:"\f1f3"}.fa-cc-paypal:before{content:"\f1f4"}.fa-cc-stripe:before{content:"\f1f5"}.fa-bell-slash:before{content:"\f1f6"}.fa-bell-slash-o:before{content:"\f1f7"}.fa-trash:before{content:"\f1f8"}.fa-copyright:before{content:"\f1f9"}.fa-at:before{content:"\f1fa"}.fa-eyedropper:before{content:"\f1fb"}.fa-paint-brush:before{content:"\f1fc"}.fa-birthday-cake:before{content:"\f1fd"}.fa-area-chart:before{content:"\f1fe"}.fa-pie-chart:before{content:"\f200"}.fa-line-chart:before{content:"\f201"}.fa-lastfm:before{content:"\f202"}.fa-lastfm-square:before{content:"\f203"}.fa-toggle-off:before{content:"\f204"}.fa-toggle-on:before{content:"\f205"}.fa-bicycle:before{content:"\f206"}.fa-bus:before{content:"\f207"}.fa-ioxhost:before{content:"\f208"}.fa-angellist:before{content:"\f209"}.fa-cc:before{content:"\f20a"}.fa-shekel:before,.fa-sheqel:before,.fa-ils:before{content:"\f20b"}.fa-meanpath:before{content:"\f20c"}
 </style>
-	<link rel='stylesheet' id='structured-content-frontend-css'  href='https://sellers.gramedia.com/wp-content/plugins/structured-content/dist/blocks.style.build.css?ver=1.4.6' type='text/css' media='all' />
-<link rel='stylesheet' id='bg-shce-genericons-css'  href='https://sellers.gramedia.com/wp-content/plugins/show-hidecollapse-expand/assets/css/genericons/genericons.css?ver=5.8.2' type='text/css' media='all' />
-<link rel='stylesheet' id='bg-show-hide-css'  href='https://sellers.gramedia.com/wp-content/plugins/show-hidecollapse-expand/assets/css/bg-show-hide.css?ver=5.8.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ez-icomoon-css'  href='https://sellers.gramedia.com/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css?ver=2.0.17' type='text/css' media='all' />
-<link rel='stylesheet' id='ez-toc-css'  href='https://sellers.gramedia.com/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=2.0.17' type='text/css' media='all' />
-<style id='ez-toc-inline-css' type='text/css'>
-div#ez-toc-container p.ez-toc-title {font-size: 120%;}div#ez-toc-container p.ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 95%;}
-</style>
-<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://sellers.gramedia.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='g1-main-css'  href='https://sellers.gramedia.com/wp-content/themes/bimber/css/8.1.3/styles/original/all-light.min.css?ver=8.1.3' type='text/css' media='all' />
-<link rel='stylesheet' id='bimber-single-css'  href='https://sellers.gramedia.com/wp-content/themes/bimber/css/8.1.3/styles/original/single-light.min.css?ver=8.1.3' type='text/css' media='all' />
-<link rel='stylesheet' id='bimber-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C500%2C600%2C700%2C900%7CPoppins%3A400%2C300%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext&#038;ver=8.1.3' type='text/css' media='all' />
-<link rel='stylesheet' id='bimber-dynamic-style-css'  href='https://sellers.gramedia.com/wp-content/uploads/dynamic-style-1632279320.css' type='text/css' media='all' />
-<link rel='stylesheet' id='bimber-vc-css'  href='https://sellers.gramedia.com/wp-content/themes/bimber/css/8.1.3/styles/original/vc-light.min.css?ver=8.1.3' type='text/css' media='all' />
-<link rel='stylesheet' id='bimber-mashshare-css'  href='https://sellers.gramedia.com/wp-content/themes/bimber/css/8.1.3/styles/original/mashshare-light.min.css?ver=8.1.3' type='text/css' media='all' />
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script type='application/json' id='wpp-json'>
-{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/www.gramedia.com\/best-seller\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/www.gramedia.com\/best-seller\/wp-json\/wordpress-popular-posts","ID":12196,"token":"feb70c5212","lang":0,"debug":0}
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-131389622-2', 'auto');
+ga('send', 'pageview');
 </script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.4.1' id='wpp-js-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/modernizr/modernizr-custom.min.js?ver=3.3.0' id='modernizr-js'></script>
-<link rel="https://api.w.org/" href="https://www.gramedia.com/best-seller/wp-json/" /><link rel="alternate" type="application/json" href="https://www.gramedia.com/best-seller/wp-json/wp/v2/posts/12196" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sellers.gramedia.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sellers.gramedia.com/wp-includes/wlwmanifest.xml" /> 
-<link rel='shortlink' href='https://www.gramedia.com/best-seller/?p=12196' />
-<link rel="alternate" type="application/json+oembed" href="https://www.gramedia.com/best-seller/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gramedia.com%2Fbest-seller%2Fcara-meningkatkan-followers-di-instagram%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.gramedia.com/best-seller/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gramedia.com%2Fbest-seller%2Fcara-meningkatkan-followers-di-instagram%2F&#038;format=xml" />
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NHHCCCB');</script>
-<!-- End Google Tag Manager --><link rel="alternate" type="application/feed+json" title="Best Seller Gramedia &raquo; JSON Feed" href="https://www.gramedia.com/best-seller/feed/json/" />
-        <style>
-            @-webkit-keyframes bgslide {
-                from {
-                    background-position-x: 0;
-                }
-                to {
-                    background-position-x: -200%;
-                }
-            }
-
-            @keyframes bgslide {
-                    from {
-                        background-position-x: 0;
-                    }
-                    to {
-                        background-position-x: -200%;
-                    }
-            }
-
-            .wpp-widget-placeholder {
-                margin: 0 auto;
-                width: 60px;
-                height: 3px;
-                background: #dd3737;
-                background: -webkit-gradient(linear, left top, right top, from(#dd3737), color-stop(10%, #571313), to(#dd3737));
-                background: linear-gradient(90deg, #dd3737 0%, #571313 10%, #dd3737 100%);
-                background-size: 200% auto;
-                border-radius: 3px;
-                -webkit-animation: bgslide 1s infinite linear;
-                animation: bgslide 1s infinite linear;
-            }
-        </style>
-        	<style>
-	@font-face {
-		font-family: "bimber";
-							src:url("https://sellers.gramedia.com/wp-content/themes/bimber/css/8.1.3/bimber/fonts/bimber.eot");
-			src:url("https://sellers.gramedia.com/wp-content/themes/bimber/css/8.1.3/bimber/fonts/bimber.eot?#iefix") format("embedded-opentype"),
-			url("https://sellers.gramedia.com/wp-content/themes/bimber/css/8.1.3/bimber/fonts/bimber.woff") format("woff"),
-			url("https://sellers.gramedia.com/wp-content/themes/bimber/css/8.1.3/bimber/fonts/bimber.ttf") format("truetype"),
-			url("https://sellers.gramedia.com/wp-content/themes/bimber/css/8.1.3/bimber/fonts/bimber.svg#bimber") format("svg");
-				font-weight: normal;
-		font-style: normal;
-		font-display: block;
-	}
-	</style>
-	<meta name="theme-color" content="#281e5a" />
-<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
-<link rel="icon" href="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/02/18170603/cropped-icon-Gramedia.com-logo-color-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/02/18170603/cropped-icon-Gramedia.com-logo-color-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/02/18170603/cropped-icon-Gramedia.com-logo-color-180x180.png" />
-<meta name="msapplication-TileImage" content="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/02/18170603/cropped-icon-Gramedia.com-logo-color-270x270.png" />
-	<script>if("undefined"!=typeof localStorage){var nsfwItemId=document.getElementsByName("g1:nsfw-item-id");nsfwItemId=nsfwItemId.length>0?nsfwItemId[0].getAttribute("content"):"g1_nsfw_off",window.g1SwitchNSFW=function(e){e?(localStorage.setItem(nsfwItemId,1),document.documentElement.classList.add("g1-nsfw-off")):(localStorage.removeItem(nsfwItemId),document.documentElement.classList.remove("g1-nsfw-off"))};try{var nsfwmode=localStorage.getItem(nsfwItemId);window.g1SwitchNSFW(nsfwmode)}catch(e){}}</script>
-			<style type="text/css" id="wp-custom-css">
-			.g1-layout-boxed {
-	max-width: 1800px;
-}
-
-.g1-quick-nav-menu {
-	color: #fff;
-}
-
-.search-field {
-	background: #fff;
-	border: none;
-	border-radius: 6px;
-}
-
-.g1-quick-nav-small-icons .g1-quick-nav-menu>.menu-item>a {
-	font-family: poppins-bold;
-}
-
-.netcore-widget {
-	height:450px;
-}
-
-@media only screen and (min-width: 200px) and (max-width: 670px) {
-	.netcore-widget {
-	height:750px;
-}
-
-}		</style>
-		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
-
-<body class="post-template-default single single-post postid-12196 single-format-standard wp-embed-responsive g1-layout-stretched g1-hoverable g1-has-mobile-logo g1-sidebar-normal wpb-js-composer js-comp-ver-6.2.0 vc_responsive" itemscope="&quot;&quot;" itemtype="http://schema.org/WebPage" >
-
-<div class="g1-body-inner">
-
-	<div id="page">
-		
-
-		
-
-					<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-b g1-hb-row-1 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
-			<div class="g1-row-inner">
-				<div class="g1-column g1-dropable">
-											<div class="g1-bin-1 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-left">
-															</div>
-						</div>
-											<div class="g1-bin-2 g1-bin-grow-on">
-							<div class="g1-bin g1-bin-align-center">
-																	<div class="g1-id g1-id-desktop">
-			<p class="g1-mega g1-mega-1st site-title">
-	
-			<a class="g1-logo-wrapper"
-			   href="https://www.gramedia.com/best-seller/" rel="home">
-									<picture class="g1-logo g1-logo-default">
-						<source media="(min-width: 1025px)" srcset="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/08/30093925/logo-gramedia-blog-min.png">
-						<source media="(max-width: 1024px)" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20480%2073%27%2F%3E">
-						<img
-							src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/08/30093925/logo-gramedia-blog-min.png"
-							width="480"
-							height="73"
-							alt="Best Seller Gramedia" />
-					</picture>
-
-												</a>
-
-			
-			</p>
-	
-	</div>															</div>
-						</div>
-											<div class="g1-bin-3 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-right">
-															</div>
-						</div>
-									</div>
-			</div>
-			<div class="g1-row-background"></div>
-		</div>
-				<div class="g1-sticky-top-wrapper g1-hb-row-2">
-				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-c g1-hb-row-2 g1-hb-boxed g1-hb-sticky-on g1-hb-shadow-on">
-			<div class="g1-row-inner">
-				<div class="g1-column g1-dropable">
-											<div class="g1-bin-1 g1-bin-grow-on">
-							<div class="g1-bin g1-bin-align-left">
-																	<!-- BEGIN .g1-primary-nav -->
-<nav id="g1-primary-nav" class="g1-primary-nav"><ul id="g1-primary-nav-menu" class="g1-primary-nav-menu g1-menu-h"><li id="menu-item-8437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-g1-standard menu-item-8437"><a href="https://www.gramedia.com/">Home</a></li>
-<li id="menu-item-8498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-g1-standard menu-item-8498"><a href="https://www.gramedia.com/best-seller/">Best Seller</a>
-<ul class="sub-menu">
-	<li id="menu-item-9150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9150"><a href="https://www.gramedia.com/best-seller/novel-fiksi/">Best Seller Novel</a></li>
-	<li id="menu-item-9151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9151"><a href="https://www.gramedia.com/best-seller/novel-romantis-cinta/">Novel Romantis</a></li>
-	<li id="menu-item-12428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12428"><a href="https://www.gramedia.com/best-seller/buku-hewan-peliharaan/">Buku Hewan Peliharaan</a></li>
-	<li id="menu-item-12180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12180"><a href="https://www.gramedia.com/best-seller/buku-parenting-ibu-dan-anak/">Buku Parenting Anak</a></li>
-	<li id="menu-item-11049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11049"><a href="https://www.gramedia.com/best-seller/buku-nama-nama-anak/">Buku Nama Anak</a></li>
-	<li id="menu-item-11153" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11153"><a href="https://www.gramedia.com/best-seller/buku-psikologi/">Buku Psikologi</a></li>
-	<li id="menu-item-11048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11048"><a href="https://www.gramedia.com/best-seller/buku-kumpulan-quotes/">Buku Quotes</a></li>
-	<li id="menu-item-12425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12425"><a href="https://www.gramedia.com/best-seller/buku-usaha-peternakan/">Buku Usaha Peternakan</a></li>
-</ul>
-</li>
-<li id="menu-item-10838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-g1-standard menu-item-10838"><a href="#">Pelajaran</a>
-<ul class="sub-menu">
-	<li id="menu-item-10868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10868"><a href="https://www.gramedia.com/best-seller/buku-akuntansi-keuangan-pengantar-biaya/">Akuntansi</a></li>
-	<li id="menu-item-11291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11291"><a href="https://www.gramedia.com/best-seller/buku-belajar-bahasa-inggris-grammar-percakapan/">Bahasa Inggris</a></li>
-	<li id="menu-item-10839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10839"><a href="https://www.gramedia.com/best-seller/buku-ilmu-biologi/">Biologi</a></li>
-	<li id="menu-item-10841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10841"><a href="https://www.gramedia.com/best-seller/buku-fisika/">Fisika</a></li>
-	<li id="menu-item-11038" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11038"><a href="https://www.gramedia.com/best-seller/buku-sejarah-agama-islam-peradaban-islam/">Sejarah Islam</a></li>
-</ul>
-</li>
-<li id="menu-item-10842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-g1-standard menu-item-10842"><a href="#">New Updates</a>
-<ul class="sub-menu">
-	<li id="menu-item-10843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10843"><a href="https://www.gramedia.com/best-seller/updates/">Terbaru</a></li>
-	<li id="menu-item-10844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10844"><a href="https://www.gramedia.com/literasi/">Literasi</a></li>
-	<li id="menu-item-10845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10845"><a href="https://gramedia.com/blog">Review Buku</a></li>
-</ul>
-</li>
-<li id="menu-item-11790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-g1-standard menu-item-11790"><a href="https://www.gramedia.com/pendidikan">Pendidikan</a>
-<ul class="sub-menu">
-	<li id="menu-item-11791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11791"><a href="https://gramedia.com/pendidikan/universitas-kampus/">Direktori Universitas</a></li>
-	<li id="menu-item-11792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11792"><a href="https://gramedia.com/pendidikan/jurusan-kuliah-ipa-ips/">Jurusan Kuliah</a></li>
-	<li id="menu-item-11793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11793"><a href="https://gramedia.com/pendidikan/profesi-pekerjaan/">Profesi</a></li>
-</ul>
-</li>
-<li id="menu-item-10837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-g1-standard menu-item-10837"><a href="https://www.gramedia.com/promo">Promo</a></li>
-</ul></nav><!-- END .g1-primary-nav -->
-																	<!-- BEGIN .g1-secondary-nav -->
-<!-- END .g1-secondary-nav -->
-															</div>
-						</div>
-											<div class="g1-bin-2 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-right">
-																																</div>
-						</div>
-											<div class="g1-bin-3 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-right">
-																	<div class="g1-hb-search-form  ">
-	
-
-<div role="search" class="search-form-wrapper">
-	<form method="get"
-	      class="g1-searchform-tpl-default g1-searchform-ajax search-form"
-	      action="https://www.gramedia.com/best-seller/">
-		<label>
-			<span class="screen-reader-text">Search for:</span>
-			<input type="search" class="search-field"
-			       placeholder="Hai, mau cari apa?"
-			       value="" name="s"
-			       title="Search for:" />
-		</label>
-		<button class="search-submit">Search</button>
-	</form>
-
-			<div class="g1-searches g1-searches-ajax"></div>
-	</div>
+</head>
+<body data-spy="scroll" data-target="#navbar-scroll">
+<div id="preloader"></div>
+<div id="top"></div>
+<span itemscope itemtype="http://schema.org/SoftwareApplication">
+<div id="menu">
+<nav style="background: #FFFFFF;" class="navbar-wrapper navbar-default" role="navigation">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-backyard">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand site-name" href="#top"><img src="https://free.panelpedia.net/assets/images/logoppafnew.webp" alt="logo"></a>
 </div>
-															</div>
-						</div>
-									</div>
-			</div>
-			<div class="g1-row-background"></div>
-		</div>
-				</div>
-				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-a g1-hb-row-3 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
-			<div class="g1-row-inner">
-				<div class="g1-column g1-dropable">
-											<div class="g1-bin-1 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-left">
-															</div>
-						</div>
-											<div class="g1-bin-2 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-center">
-															</div>
-						</div>
-											<div class="g1-bin-3 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-right">
-															</div>
-						</div>
-									</div>
-			</div>
-			<div class="g1-row-background"></div>
-		</div>
-					<div class="g1-sticky-top-wrapper g1-hb-row-1">
-				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-a g1-hb-row-1 g1-hb-boxed g1-hb-sticky-on g1-hb-shadow-on">
-			<div class="g1-row-inner">
-				<div class="g1-column g1-dropable">
-											<div class="g1-bin-1 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-left">
-																		<a class="g1-hamburger g1-hamburger-show g1-hamburger-m  " href="#">
-		<span class="g1-hamburger-icon"></span>
-			<span class="g1-hamburger-label
-			g1-hamburger-label-hidden			">Menu</span>
-	</a>
-															</div>
-						</div>
-											<div class="g1-bin-2 g1-bin-grow-on">
-							<div class="g1-bin g1-bin-align-center">
-																	<div class="g1-id g1-id-desktop">
-			<p class="g1-mega g1-mega-1st site-title">
-	
-			<a class="g1-logo-wrapper"
-			   href="https://www.gramedia.com/best-seller/" rel="home">
-									<picture class="g1-logo g1-logo-default">
-						<source media="(max-width: 1024px)" srcset="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/08/30093925/logo-gramedia-blog-min.png">
-						<source media="(min-width: 1025px)" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20480%2073%27%2F%3E">
-						<img
-							src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/08/30093925/logo-gramedia-blog-min.png"
-							width="480"
-							height="73"
-							alt="Best Seller Gramedia" />
-					</picture>
+<div id="navbar-scroll" class="collapse navbar-collapse navbar-backyard navbar-right">
+<ul class="nav navbar-nav">
+<li><a itemprop="url" href="/">Home</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/login">Masuk</a></li>
+<li><a href="/halaman/faq">FAQ</a></li>
+<li><a href="/halaman/tos">Terms Of Services</a></li>
+</ul>
+</div>
+</div>
+</nav>
+</div><div class="fullscreen landing parallax" style="background-color: #3976ab;">
+<div class="overlay">
+<div class="container">
+<div class="row">
+<div class="col-md-7">
+<h1 class="wow fadeInLeft" style="font-size: 35px; visibility: hidden; animation-name: none;"><strong itemprop="applicationCategory">Auto Followers, Likes & Views Instagram</strong></h1>
+<div class="landing-text wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+<p>Free <span itemprop="name">Panel Pedia</span> adalah website Auto Followers, Auto Likes, Auto Komentar, dan Auto Views Instagram gratis terbesar di Indonesia dengan pengguna aktif tiap detiknya.
+Nikmati layanan penambah pengikut Followers dan Likes gratis tanpa spam.
+</p> <p>UPDATED 2021,<b> Poin GRATIS akan direset setiap 30 menit.</b> Dapatkan 100+ Followers dan 100+ Likes secara <b>NYATA</b> setiap harinya.</p>
+</div>
+<ul class="banner-list wow fadeInLeft">
+<li><i class="fa fa-user"></i>Menambah Jumlah Followers</li>
+<li><i class="fa fa-heart"></i>Menambah Jumlah Likes</li>
+<li><i class="fa fa-comments-o"></i>Menambah Jumlah Komentar</li>
+<li><i class="fa fa-play-circle"></i>Menambah Jumlah Video Views</li>
+<li><i class="fa fa-video-camera"></i>Menambah Jumlah Story Views</li>
+<li><i class="fa fa-globe"></i>Jumlah Pengguna <b>23,259</b> Orang</li>
+<button type="button" class="btn btn-danger btn-lg" data-toggle="modal" data-target="#myTUTOR">Cara Menambah Followers Instagram</button><br><br>
+<li><i class="fa fa-instagram"></i>5 Pengguna terakhir</li>
+<a href="https://www.instagram.com/asepbol02/" target="_blank" rel="noreferrer">
+@asepbol02, </a>
+<a href="https://www.instagram.com/upfoll.lavyora/" target="_blank" rel="noreferrer">
+@upfoll.lavyora, </a>
+<a href="https://www.instagram.com/znobiahmmairha/" target="_blank" rel="noreferrer">
+@znobiahmmairha, </a>
+<a href="https://www.instagram.com/ramaa2254/" target="_blank" rel="noreferrer">
+@ramaa2254, </a>
+<a href="https://www.instagram.com/bb0_gratis/" target="_blank" rel="noreferrer">
+@bb0_gratis, </a>
+</ul>
+</div>
+<div class="col-md-5">
+<div class="signup-header wow fadeInUp">
+<h3 class="form-title text-center">Masuk dengan akun Instagram anda</h3>
+<p style="font-size:15px;" class="text-center">Pastikan anda telah memverifikasi Email dan No.HP sebelum login.</p>
+<form class="form-header" action="https://free.panelpedia.net/users/signin" role="form" method="POST" id="#">
+<div class="form-group"><div id="mutiara"></div></div>
+<div class="form-group">
+<input class="form-control input-lg" name="username" id="username" type="text" placeholder="Username" required>
+</div>
+<div class="form-group">
+<input class="form-control input-lg" name="password" id="password" type="password" placeholder="Password" required>
+</div> <div class="form-group last">
+<input type="submit" class="btn btn-warning btn-block btn-lg" value="Get Followers & Likes Instagram">
+</div>
+<center><a href="https://instagram.com/accounts/password/reset/">Lupa Password?</a></center>
+<p style="font-size:15px;" class="privacy text-center"><i class="fa fa-lock"></i> Form login menggunakan API resmi yang terkoneksi langsung dengan Instagram.</p>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></span>
+<div id="feature">
+<div class="container">
+<div class="row">
+<div class="col-md-10 col-md-offset-1 col-sm-12 text-center feature-title">
+<h2>Panel Pedia Followers Gratis dapat dengan mudah anda akses</h2>
+<p>Ingin meningkatkan follower maupun likes untuk akun Takipci Instagram secara gratis? <b>Panel Pedia</b> solusinya.</p>
+</div>
+</div>
+<div class="row row-feat">
+<div class="col-md-4 text-center">
+<div class="feature-img">
+<img src="https://free.panelpedia.net/assets/images/feature-image.webp" width="730" height="638" alt="feature_image" class="img-responsive wow fadeInLeft">
+</div>
+</div>
+<div class="col-md-8">
 
-												</a>
+<div class="col-sm-6 feat-list">
+<i class="pe-7s-way pe-5x pe-va wow fadeInUp"></i>
+<div class="inner">
+<h4>Akses Multi-Platform</h4>
+<p><b>Panel Pedia</b> Instagram Followers dapat anda akses dimana dan kapan saja dengan tampilan <b>yang ramah</b> dengan perangkat yang anda gunakan. Tambah followergratis <span itemprop="operatingSystem">instagram</span>.
+</p>
+</div>
+</div>
 
-			
-			</p>
-	
-	</div>															</div>
-						</div>
-											<div class="g1-bin-3 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-right">
-																		<div class="g1-drop g1-drop-before g1-drop-the-search  g1-drop-m g1-drop-icon ">
-		<a class="g1-drop-toggle" href="https://www.gramedia.com/best-seller/?s=">
-			<span class="g1-drop-toggle-icon"></span><span class="g1-drop-toggle-text">Search</span>
-			<span class="g1-drop-toggle-arrow"></span>
-		</a>
-		<div class="g1-drop-content">
-			
+<div class="col-sm-6 feat-list">
+<i class="pe-7s-cash pe-5x pe-va wow fadeInUp" data-wow-delay="0.2s"></i>
+<div class="inner">
+<h4>Nilai Purna Meningkat</h4>
+<p>Dengan menggunakan <b>Panel Pedia</b> situs penambah like instagram login, otomatis nilai jual akun anda meningkat karena followers dan likes yang anda dapat dari instagramaf by panel pedia juga naik</p>
+</div>
+</div>
 
-<div role="search" class="search-form-wrapper">
-	<form method="get"
-	      class="g1-searchform-tpl-default g1-searchform-ajax search-form"
-	      action="https://www.gramedia.com/best-seller/">
-		<label>
-			<span class="screen-reader-text">Search for:</span>
-			<input type="search" class="search-field"
-			       placeholder="Hai, mau cari apa?"
-			       value="" name="s"
-			       title="Search for:" />
-		</label>
-		<button class="search-submit">Search</button>
-	</form>
+<div class="col-sm-6 feat-list">
+<i class="pe-7s-lock pe-5x pe-va wow fadeInUp" data-wow-delay="0.4s"></i>
+<div class="inner">
+<h4>Privasi Terjaga</h4>
+<p>Kami tidak pernah menyimpan/menyalin suatu privasi seperti username dan password. Karena kami tahu, bahwa Privasi adalah hal yang sangat penting bagi kita semua. Kami hanya ingin menjaga kepercayaan pengguna terhadap <b>Auto Followers dan Himzi Autolike</b> ini. Sehingga menjadi free like instagram no password.</p>
+</div>
+</div>
 
-			<div class="g1-searches g1-searches-ajax"></div>
-	</div>
-		</div>
-	</div>
-															</div>
-						</div>
-									</div>
-			</div>
-			<div class="g1-row-background"></div>
-		</div>
-				</div>
-				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-b g1-hb-row-2 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
-			<div class="g1-row-inner">
-				<div class="g1-column g1-dropable">
-											<div class="g1-bin-1 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-left">
-															</div>
-						</div>
-											<div class="g1-bin-2 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-center">
-															</div>
-						</div>
-											<div class="g1-bin-3 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-right">
-															</div>
-						</div>
-									</div>
-			</div>
-			<div class="g1-row-background"></div>
-		</div>
-			<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-c g1-hb-row-3 g1-hb-boxed g1-hb-sticky-on g1-hb-shadow-on">
-			<div class="g1-row-inner">
-				<div class="g1-column g1-dropable">
-											<div class="g1-bin-1 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-left">
-															</div>
-						</div>
-											<div class="g1-bin-2 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-center">
-															</div>
-						</div>
-											<div class="g1-bin-3 g1-bin-grow-off">
-							<div class="g1-bin g1-bin-align-right">
-															</div>
-						</div>
-									</div>
-			</div>
-			<div class="g1-row-background"></div>
-		</div>
-	
-		
-		
-		
+<div class="col-sm-6 feat-list">
+<i class="pe-7s-global pe-5x pe-va wow fadeInUp" data-wow-delay="0.6s"></i>
+<div class="inner">
+<h4>Followers dan Likes</h4>
+<p>Kita tahu bahwa semakin banyak followers/likes yang kita punya dapat <b>meningkatkan popularitas,merk,dan juga status anda</b>.Hal ini akan sangat bermanfaat bagi anda yang berjualan online agar produk anda tidak kalah saing dengan produk lainnya di ig web.<p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="fitur1">
+<div class="container">
+<div class="text-center">
+<br><br>
+<h2 class="wow fadeInLeft">KELEBIHAN PANEL PEDIA</h2>
+<div class="title-line wow fadeInRight"></div>
+</div>
+<div class="row">
+<br>
+<div class="col-lg-3 col-md-3 col-sm-6 col-sm-12">
+<div class="item text-center panel panel-body panel-default">
+<i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
+<h4 style="margin-bottom: 5px;">Fitur Lengkap Instagram</h4>
+<p>Tidak hanya fitur instagram followers, kami juga mempunyai fitur IG yang lain.<br><br>
+Auto like instagram yang dapat menambah insight atau likes pada foto anda secara instant. Auto story view instagram. Auto view video instagram. Dan masih banyak lagi.<br>
+</p>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-sm-12">
+<div class="item text-center panel panel-body panel-default">
+<i class="fa fa-check-square fa-3x" aria-hidden="true"></i>
+<h4 style="margin-bottom: 5px;">Akun 100% Aman</h4>
+<p>Free Panel Pedia menggunakan system API yang langsung terkoneksi ke instagram tanpa pihak ketiga.<br><br>
+Kami menjamin akun aman dari penggunaan panel followers instagram gratis kami.<br><br><br>
+</p>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-sm-12">
+<div class="item text-center panel panel-body panel-default">
+<i class="fa fa-user fa-3x" aria-hidden="true"></i>
+<h4 style="margin-bottom: 5px;">Panel IG Indonesia</h4>
+<p>Pengguna Panel Pedia terbanyak ialah dari negara Indonesia.<br><br>
+Oleh karena itu jangan khawatir jika anda ingin menggunakan followers dan likes instagram setiap hari.<br><br><br><br>
+</p>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-sm-12">
+<div class="item text-center panel panel-body panel-default">
+<i class="fa fa-thumbs-o-up fa-3x" aria-hidden="true"></i>
+<h4 style="margin-bottom: 5px;">100% Gratis</h4>
+<p>Panel like instagram ini kami berikan secara gratis tanpa biaya.<br><br>
+Tidak hanya gratis, panel kami juga tidak memiliki iklan yang mengganggu pengguna followers ig Panel Pedia.<br><br><br><br>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="feature">
+<div class="container">
+<div class="row">
+<div class="col-md-10 col-md-offset-1 col-sm-12 text-center feature-title">
+<h2>Auto Followers Instagram, Apakah Aman dan Menguntungkan?</h2>
+</div>
+</div>
+<p style="text-align: justify;">Semakin berkembangnya zaman, penggunaan sosial media semakin merambah, salah satunya Instagram. Hal ini membuat setiap orang berlomba-lomba untuk memposting berbagai hal kedalam akun instagramnya. Namun tidak semua orang bisa mendapatkan pengikut dan likes banyak di setiap postingan, di sinilah auto followers instagram bekerja. Dengan adanya <a href="https://free.panelpedia.net/login">Coba Followers Gratis!</a>, pengguna Instagram dapat mendapatkan pengikut serta likes di akunnya secara cuma-cuma. Tentunya akan sangat menyenangkan bukan? Di artikel kali ini, Anda akan mengetahui serba-serbi mengenai auto followers instagram. Apakah Auto Followers Aman?
+Sebagian besar orang masih tidak percaya dengan keamanan dari auto followers Instagram dengan alasan keamanan data dan privasi. Padahal tidak semua dari bot satu ini menggunakan data-data dari akun Instagram kesayangan.
+<br><br>
+Banyak auto followers Instagram bot yang tersebar di internet. Baik berupa website atau aplikasi. Namun pastikan Anda dapat memilih jasa yang memastikan keamanan dan privasi data akun, salah satunya yaitu di panel pedia. Dimana menjamin 100% keamanan akun Instagram penggunanya. Situs ini sudah berdiri sejak tahun 2015, jadi sudah pasti terpercaya.</p>
+<br>
+</div>
+</div>
+<div id="testi">
+<div class="container">
+<div class="text-center">
+<h2 class="wow fadeInLeft">TESTIMONIALS</h2>
+<div class="title-line wow fadeInRight"></div>
+</div>
+<div class="row">
+<div class="col-sm-10 col-sm-offset-1">
+<div id="owl-testi" class="owl-carousel owl-theme wow fadeInUp">
 
-	<div id="primary">
-		<div id="content" role="main">
+<div class="testi-item">
+<div class="client-pic text-center">
 
-			
+<img src="https://free.panelpedia.net/assets/images/adlan.webp" alt="client_1">
+</div>
+<div class="box">
 
+<p class="message text-center">"Enak sekali sekarang Web ini sudah diupdate loginnya semakin cepat dan mudah tanpa gangguan, akun saya menjadi semakin rame semenjak rutin menggunakan website ini. Terima Kasih Panel Pedia."</p>
+</div>
+<div class="client-info text-center">
 
-<article id="post-12196" class="entry-tpl-background-boxed-v2 post-12196 post type-post status-publish format-standard has-post-thumbnail category-tips" itemscope="" itemtype="http://schema.org/Article">
-	
-	<div class="g1-row g1-row-layout-page entry-media-row entry-media-row-04">
-				<style>
-			#g1-background-media-61bbfe4c3f555 {
-				background-image: url( https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104526/cara-meningkatkan-followers-di-instagram.jpg );
-			}
-		</style>
+Online Shop, <span class="company">Adlan Store</span>
+</div>
+</div>
 
-		<div class="g1-row-inner">
-			<div class="g1-column">
+<div class="testi-item">
+<div class="client-pic text-center">
 
-				<div class="g1-row g1-row-1">
-					<div class="g1-row-inner">
-						<div class="g1-column g1-dark">
+<img src="https://free.panelpedia.net/assets/images/ratnagallery.webp" alt="client_2">
+</div>
+<div class="box">
 
-							<nav class="g1-breadcrumbs g1-breadcrumbs-with-ellipsis g1-meta">
-				<p class="g1-breadcrumbs-label">You are here: </p>
-				<ol itemscope itemtype="http://schema.org/BreadcrumbList"><li class="g1-breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-						<a itemprop="item" content="https://www.gramedia.com/best-seller/" href="https://www.gramedia.com/best-seller/">
-						<span itemprop="name">Home</span>
-						<meta itemprop="position" content="1" />
-						</a>
-						</li><li class="g1-breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-						<a itemprop="item" content="https://www.gramedia.com/best-seller/category/tips/" href="https://www.gramedia.com/best-seller/category/tips/">
-						<span itemprop="name">Tips</span>
-						<meta itemprop="position" content="2" />
-						</a>
-						</li><li class="g1-breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-					<span itemprop="name">10 Cara Organik Meningkatkan Followers di Instagram</span>
-					<meta itemprop="position" content="3" />
-					<meta itemprop="item" content="https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/" />
-					</li></ol>
-				</nav>
-						</div>
-					</div>
-					<div class="g1-row-background">
-					</div>
-				</div><!-- .g1-row -->
+<p class="message text-center">"100% Aman, semenjak memakai Auto Followers ini, kini Followers saya semakin banyak dan aktif."</p>
+</div>
+<div class="client-info text-center">
 
-				<div class="g1-row g1-row-2">
-					<div class="g1-row-inner">
+Online Shop, <span class="company">Ratna Gallery</span>
+</div>
+</div>
 
-						<div class="g1-column g1-column-2of3 g1-dark">
-							<header class="entry-header">
-								<div class="entry-before-title">
-									<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://www.gramedia.com/best-seller/category/tips/" class="entry-category entry-category-item-381"><span itemprop="articleSection">Tips</span></a></span></span>
-																		</div>
+<div class="testi-item">
+<div class="client-pic text-center">
 
-								<h1 class="g1-mega g1-mega-1st entry-title" itemprop="headline">10 Cara Organik Meningkatkan Followers di Instagram</h1>
-															</header>
-						</div>
+<img src="https://free.panelpedia.net/assets/images/polaroidpromote.webp" alt="client_3">
+</div>
+<div class="box">
 
-						<div class="g1-column g1-column-1of3 g1-dark">
-							
-							</div>
+<p class="message text-center">"Recommended banget Auto Likes VIP nya,
+Waktu ngeposting sering nggak ada yang likes sama sekali, saat pakai website ini postinganku sekarang jadi rame.."</p>
+</div>
+<div class="client-info text-center">
 
-					</div>
+Promotor, <span class="company">The Polaroid Promote</span>
+</div>
+</div>
 
-					<div class="g1-row-background">
-					</div>
+<div class="testi-item">
+<div class="client-pic text-center">
 
-				</div><!-- .g1-row -->
+<img src="https://free.panelpedia.net/assets/images/pecintaalamjava.webp" alt="client_4">
+</div>
+<div class="box">
 
-			</div>
-		</div><!-- .g1-row -->
+<p class="message text-center">"Bonus tambahan Followers dan Likes semakin bertambah walaupun biasanya ada yang gagal proses tapi lumayan lah soalnya ini gratis daripada tidak bisa sama sekali hehe.. dan terima kasih pointnya direset setiap 30 menit."</p>
+</div>
+<div class="client-info text-center">
 
-		<div class="g1-row-background">
-		<div class="g1-row-background-media" id="g1-background-media-61bbfe4c3f555"></div>
-		</div>
+Instagram User, <span class="company">Pecinta Alam Java</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="sighting">
+<div class="action fullscreen parallax" style="" data-img-width="2000" data-img-height="1333" data-diff="100">
+<div class="overlay">
+<div class="container">
+<div class="col-md-8 col-md-offset-2 col-sm-12 text-center">
+<h2 class="wow fadeInRight">Ingin mencoba Auto Followers Instagram?</h2>
+<p class="download-text wow fadeInLeft">Silakan masuk dengan akun instagram anda di website ini,dan lihat perubahan yang nyata pada akun anda setelah menggunakannya.</p>
+<div class="download-cta wow fadeInLeft">
+<a href="#top" class="btn-secondary">Masuk</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="mySK" class="modal fade" role="dialog">
+<div class="modal-dialog">
 
-		<span class="g1-microdata" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-			<meta itemprop="url" content="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104526/cara-meningkatkan-followers-di-instagram.jpg" />
-			<meta itemprop="width" content="1280" />
-			<meta itemprop="height" content="853" />
-		</span>
-	</div><!-- g1-row -->
+<div class="modal-content">
 
-	<div class="g1-row g1-row-layout-page g1-row-padding-m">
-		<div class="g1-row-background">
-		</div>
-		<div class="g1-row-inner">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">&times;</button>
+<h4 class="modal-title">Syarat dan Ketentuan</h4>
+</div>
 
-			<div class="g1-column g1-column-2of3">
-				<div class="entry-inner">
-					<header class="entry-header">
-													<p class="g1-meta g1-meta-m entry-meta entry-meta-m">
-								<span class="entry-byline entry-byline-m entry-byline-with-avatar">
-													<span class="entry-author" itemscope="" itemprop="author" itemtype="http://schema.org/Person">
-	
-		<span class="entry-meta-label">by</span>
-			<a href="https://www.gramedia.com/best-seller/author/rahmad/" title="Posts by Ahmad" rel="author">
-			<img alt='' src='https://secure.gravatar.com/avatar/afbbf4436c539f26bf1d6d05639ac8ce?s=40&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/afbbf4436c539f26bf1d6d05639ac8ce?s=80&#038;d=identicon&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' loading='lazy'/>
-							<strong itemprop="name">Ahmad</strong>
-					</a>
-	</span>
-	
-										<time class="entry-date" datetime="2021-06-15T10:49:17+07:00" itemprop="datePublished">Juni 15, 2021, 10:49 am</time>								</span>
-
-								<span class="entry-stats entry-stats-m">
-									<span class="entry-views "><strong>913</strong><span> Views</span></span>
-									
-									
-																	</span>
-							</p>
-											</header>
-
-
-					<div class="g1-wrapper-with-stickies">
-						<div class="entry-essentials">
-							<div class="entry-content g1-typography-xl" itemprop="articleBody">
-								<p><span style="font-weight: 400;"><strong>10 Cara Organik Meningkatkan Followers di Instagram</strong> &#8211; Keberadaan Instagram di zaman sekarang merupakan hal yang wajib untuk pengguna media sosial. Sebagai salah satu media sosial yang dikhususkan untuk menunjukkan konten bergambar, Instagram menjadi media sosial yang paling diminati oleh khalayak. </span></p><div class='code-block code-block-5' style='margin: 8px 0; clear: both;'>
-<div class="netcore-widget"></div></div>
-
-<p><span style="font-weight: 400;">Tak heran jika masing-masing orang pasti atau salah satu di antaramu tertarik dan memiliki Instagram yang tentunya untuk menunjukkan keberadaan atau tak lain adalah sebuah eksistensi. </span></p>
-<p><span style="font-weight: 400;">Melalui Instagram khalayak dapat menunjukan apa saja yang ingin disampaikannya mulai dari hal yang penting dan berguna sampai hal-hal yang bersifat receh, tentunya Instagram tidak hanya digunakan oleh mereka yang mempunyai kepentingan saja. Dari anak muda sampai orang tua sekalipun. </span></p>
-<p><span style="font-weight: 400;">Fitur di Instagram sekarang pun juga tak hanya difungsikan untuk menampilkan gambar saja, akan tetapi dapat difungsikan untuk segala kebutuhan dari bisnis, hiburan, seni, dan fitur sejenis yang ditingkatkan oleh Instagram untuk kebutuhan penggunanya. </span></p>
-<p><span style="font-weight: 400;">Dengan banyaknya pengguna yang memakainya, tak heran jika setiap waktunya Instagram selalu memperbarui fiturnya seperti yang baru-baru ini kita rasakan yaitu perpindahan ikon love yang digantikan dengan fitur terbarunya untuk kebutuhan bisnis yaitu adanya ikon keranjang.</span></p>
-<p><span style="font-weight: 400;">Mengetahui keberadaan Instagram menjadi kebutuhan semua orang, banyak dari kita berlomba-lomba untuk meningkatkan </span><i><span style="font-weight: 400;">followers</span></i><span style="font-weight: 400;"> atau pengikut kita demi keberadaan konten yang dimiliki membuahkan hasil melalui Instagram. Terutama bagi mereka yang berperan aktif di Instagram seperti </span><i><span style="font-weight: 400;">public figure</span></i><span style="font-weight: 400;">, mereka yang menggunakan Instagramnya untuk berjualan atau menunjukkan hasil karyanya seperti illustrator, dan mereka yang menggunakan Instagramnya sebagai media promosi. </span></p>
-<p><span style="font-weight: 400;">Bagi mereka yang memiliki kedudukan sebagai </span><i><span style="font-weight: 400;">public figure</span></i><span style="font-weight: 400;"> tentunya menjadikan Instagram adalah media yang ada digenggamannya. Adanya sistem </span><i><span style="font-weight: 400;">endorsement</span></i><span style="font-weight: 400;"> yang digaungkan oleh seorang </span><i><span style="font-weight: 400;">public figure</span></i><span style="font-weight: 400;"> menjadikan orang-orang pengguna Instagram ingin menghasilkan konten yang terbaik dari dirinya. </span></p>
-<p><span style="font-weight: 400;">Tak kalah dengan pelaku bisnis yang menggunakan Instagram sebagai wadah promosi. Mereka berlomba-lomba untuk meningkatkan kualitas kontennya dan mempercepat tingkat followersnya supaya produk yang mereka hasilkan laris di pasaran. </span></p>
-<p><span style="font-weight: 400;">Berbeda dengan mereka seperti orang yang memiliki karya seperti illustrator, seniman, dan sastrawan yang menciptakan karya. Supaya karya mereka dilirik oleh khalayak, mereka juga tak kalah untuk menggunakan Instagram sebagai media promosi. </span></p>
-<p><span style="font-weight: 400;">Tentunya dari keseluruhan mereka yang menggunakan Instagram dengan tujuan yang serupa, kedudukan Instagram sekarang ini menjadi media yang selalu dimiliki semua orang. Dari seluruh kepentingan pengguna tersebut, tentu dari mereka ingin bagaimana konten yang mereka torehkan banyak disukai pengguna lain. Dari hal itu tentunya mereka ingin pengikut yang dimiliki terus meningkat.</span></p>
-<p><span style="font-weight: 400;">Dari berbagai macam pengguna Instagram tentunya masing-masing dari mereka mendapatkan followers dengan cara yang berbeda-beda. Dari yang memang asli sudah terkenal dan menorehkan karya seperti artis yang memang sudah terkenal terlebih dahulu melalui karya-karya yang diberikannya dalam kesehariannya. Terdapat pula mereka yang mungkin memiliki kemampuan yang layak untuk diapresiasi melalui akun Instagram sehingga mereka mendapatkan banyak pengikut di Instagram. </span></p>
-<p><span style="font-weight: 400;">Tak heran kita juga dapat menjumpai mereka yang sudah berbisnis di Instagram dan memiliki pengikut yang berjibun karena konsistensinya mereka dalam mempromosikan bisnis dari rintisan hingga berkembang maju dan sudah mendapat nama dari berbagai orang. </span></p>
-<p><span style="font-weight: 400;">Dari keseluruhan segala jenis kebutuhan tersebut, penting bagi mereka untuk meningkatkan pengikut mereka dengan berbagai cara. Dengan adanya peningkatan pengikut tersebut tentunya mereka juga memperoleh kesempatan untuk mencapai kepentingan mereka.</span></p>
-<div id="ez-toc-container" class="ez-toc-v2_0_17 counter-hierarchy counter-decimal ez-toc-grey">
-<div class="ez-toc-title-container">
-<p class="ez-toc-title">Table of Contents</p>
-<span class="ez-toc-title-toggle"><a class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><i class="ez-toc-glyphicon ez-toc-icon-toggle"></i></a></span></div>
-<nav><ul class="ez-toc-list ez-toc-list-level-1"><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-1" href="#Cara_Meningkatkan_Follower_Instagram_Secara_Alami" title="Cara Meningkatkan Follower Instagram Secara Alami">Cara Meningkatkan Follower Instagram Secara Alami</a><ul class="ez-toc-list-level-3"><li class="ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-2" href="#1_Promosi_Instagram_ke_Lingkup_Teman_Dekat" title="1. Promosi Instagram ke Lingkup Teman Dekat">1. Promosi Instagram ke Lingkup Teman Dekat</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-3" href="#2_Perluas_Jaringan_Pertemanan_di_Lingkup_Pertemanan_Baru" title="2. Perluas Jaringan Pertemanan di Lingkup Pertemanan Baru">2. Perluas Jaringan Pertemanan di Lingkup Pertemanan Baru</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-4" href="#3_Konsistensi_dan_Mutu_Konten" title="3. Konsistensi dan Mutu Konten">3. Konsistensi dan Mutu Konten</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-5" href="#4_Lakukan_Interaksi_dengan_Pengikutmu" title="4. Lakukan Interaksi dengan Pengikutmu">4. Lakukan Interaksi dengan Pengikutmu</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-6" href="#5_Keywords" title="5. Keywords">5. Keywords</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-7" href="#6_Gunakan_Kesempatan_Untuk_Mencari_Exposure" title="6. Gunakan Kesempatan Untuk Mencari Exposure">6. Gunakan Kesempatan Untuk Mencari Exposure</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-8" href="#7_Jangan_Privasi_Akunmu" title="7. Jangan Privasi Akunmu">7. Jangan Privasi Akunmu</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-9" href="#8_Tak_Perlu_Ragu_Memakai_Tagar" title="8. Tak Perlu Ragu Memakai Tagar">8. Tak Perlu Ragu Memakai Tagar</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-10" href="#9_Cantumkan_Akun_Instagrammu_di_Bio_Media_Sosial_Lain" title="9. Cantumkan Akun Instagrammu di Bio Media Sosial Lain">9. Cantumkan Akun Instagrammu di Bio Media Sosial Lain</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-11" href="#10_Deskripsikan_Profilmu_Secara_Kreatif" title="10. Deskripsikan Profilmu Secara Kreatif">10. Deskripsikan Profilmu Secara Kreatif</a></li></ul></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-12" href="#Rekomendasi_Buku_Terkait_Instagram_dan_Sosial_Media" title="Rekomendasi Buku Terkait Instagram dan Sosial Media">Rekomendasi Buku Terkait Instagram dan Sosial Media</a></li></ul></nav></div>
-<h2><span class="ez-toc-section" id="Cara_Meningkatkan_Follower_Instagram_Secara_Alami"></span>Cara Meningkatkan Follower Instagram Secara Alami<span class="ez-toc-section-end"></span></h2>
-<p><span style="font-weight: 400;"><img loading="lazy" class="aligncenter wp-image-12246 size-full" src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104648/followers-di-instagram.jpg" alt="followers di instagram" width="640" height="426" srcset="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104648/followers-di-instagram.jpg 640w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104648/followers-di-instagram-300x200.jpg 300w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104648/followers-di-instagram-561x373.jpg 561w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104648/followers-di-instagram-364x242.jpg 364w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/15104648/followers-di-instagram-608x405.jpg 608w" sizes="(max-width: 640px) 100vw, 640px" /></span></p>
-<p><span style="font-weight: 400;">Berikut 10 cara meningkatkan pengikut di Instagrammu tentunya dengan cara organik.</span></p>
-<h3><span class="ez-toc-section" id="1_Promosi_Instagram_ke_Lingkup_Teman_Dekat"></span><b></b>1. Promosi Instagram ke Lingkup Teman Dekat<span class="ez-toc-section-end"></span></h3>
-<p><span style="font-weight: 400;">Hampir dari sebagian kita menggunakan media sosial tentunya melibatkan lingkup teman dekat. Lingkup teman dekat kitalah yang pertama kali mengetahui dan berteman dengan di akun media sosial kita begitu pula jika kita menggunakan Instagram. </span></p>
-<p><span style="font-weight: 400;">Adanya lingkup teman dekat yang sudah kita miliki tentunya sebagai langkah awal supaya pengikut di Instagrammu semakin meningkat. Perbanyak momen ketika kamu sedang bersama teman dekatmu. </span></p>
-<p><span style="font-weight: 400;">Dengan memperbanyak adanya momen bersama lingkup teman dekatmu, lingkup teman dekatmu tentunya membagikan momen-momen tersebut di Instagramnya sebagai kontennya. </span></p>
-<p><span style="font-weight: 400;">Ingatkan mereka untuk memberikan </span><i><span style="font-weight: 400;">tag</span></i><span style="font-weight: 400;"> akunmu pada momen yang mereka bagikan melalui Instagram, melalui cara tersebut pengikut Instagram yang dimiliki oleh lingkup teman dekatmu dapat dengan mudah mengenali Instagrammu dan tentunya juga dapat menjadi potensi untuk menjadi pengikut Instagrammu. </span></p>
-<p><span style="font-weight: 400;">Kamu juga dapat mempromosikan Instagrammu melalui kerabat-kerabat dalam anggota keluargamu seperti kakak, adik, saudaramu. </span></p>
-<p><span style="font-weight: 400;">Tentunya jika kamu dapat mempromosikan Instagrammu ke kerabat terdekatmu kamu juga dapat kesempatan untuk membagikan momen atau konten terbaikmu dengan kerabat dekatmu. Dengan ini akun Instagrammu semakin mudah untuk dikenali.</span></p>
-<h3><span class="ez-toc-section" id="2_Perluas_Jaringan_Pertemanan_di_Lingkup_Pertemanan_Baru"></span>2. Perluas Jaringan Pertemanan di Lingkup Pertemanan Baru<span class="ez-toc-section-end"></span></h3>
-<p><span style="font-weight: 400;">Tak hanya lingkup pertemanan dekat yang juga dapat meningkatkan pengikut di Instagrammu. Kamu bisa meningkatkan pengikut Instagrammu dengan memperbanyak teman baru di lingkup pertemananmu. </span></p>
-<p><span style="font-weight: 400;">Melalui aktif dalam beberapa kegiatan sosial atau jika kamu anak nongkrong, kamu akan menemukan sirkel pertemanan baru yang dapat menambah pengikut Instagrammu. Tak perlu malu dan ragu karena merasa baru berkenalan dengan teman baru, lingkup pertemanan barumu tentunya juga tak sungkan jika dimintai untuk bertukar akun Instagram denganmu. </span></p>
-<p><span style="font-weight: 400;">Dengan adanya pertukaran atau kamu dan teman barumu saling menjadi followers di Instagram, kamu juga dapat menambah banyak relasi pertemanan dan tentunya dapat saling bertukar momen di Instagram. Seru, bukan? Dalam memperluas jaringan pertemanan kamu juga dimungkinkan dapat jaringan pertemanan yang berpengaruh seperti </span><i><span style="font-weight: 400;">influencer</span></i><span style="font-weight: 400;">. </span></p>
-<p><span style="font-weight: 400;">Dalam memperluas jaringan ini kamu juga dapat membuka kesempatan untuk membuka lingkaran pertemanan dalam kegiatan yang kreatif lainnya seperti kegiatan </span><i><span style="font-weight: 400;">volunteer</span></i><span style="font-weight: 400;"> atau seminar. Dengan mengikuti tambahan-tambahan kegiatan seperti itu tentunya kamu dapat mempromosikan Instagrammu melalui kegiatan tersebut.</span></p>
-<h3><span class="ez-toc-section" id="3_Konsistensi_dan_Mutu_Konten"></span>3. Konsistensi dan Mutu Konten<span class="ez-toc-section-end"></span></h3>
-<p><span style="font-weight: 400;">Instagram merupakan salah satu media sosial yang digunakan untuk membagikan konten yang kamu miliki. Sudah menjadi keharusan jika ingin meningkatkan pengikut di Instagram kamu juga harus memilah-milah konten yang patut dan layak kamu bagikan. </span></p>
-<p><span style="font-weight: 400;">Baik kamu yang menggunakan Instagram untuk keperluan bisnis pun jaminan kualitas konten yang kamu bagikan mempengaruhi khalayak yang akan menjadi pengikutmu. Kualitas konten dapat berupa kualitas gambar terutama dalam pengaturan HD. </span></p>
-<p><span style="font-weight: 400;">Kamu juga bisa meningkatkan kualitas konten melalui</span><i><span style="font-weight: 400;"> caption</span></i><span style="font-weight: 400;"> yang kamu tulis. Tentunya dengan </span><i><span style="font-weight: 400;">caption</span></i><span style="font-weight: 400;"> yang menarik dan kesesuaian antara</span><i><span style="font-weight: 400;"> caption</span></i><span style="font-weight: 400;"> dengan konten yang kamu miliki dapat menjadi potensi ketertarikan pengguna lain untuk menjadi pengikut di akun Instagrammu. </span></p>
-<p><span style="font-weight: 400;">Dari keseluruhan tersebut tak luput untuk selalu konsisten dalam mengunggah momen dan konten di Instagrammu. Konsistensi ini mempengaruhi pengikut yang tentunya sudah mengikuti akun Instagrammu. </span></p>
-<p><span style="font-weight: 400;">Pengikutmu akan menurun jika kamu tidak memiliki konsistensi dalam  membagikan konten, karena pengikutmu akan mengira jika kamu sudah tidak menjadi pengguna Instagram lagi jika kamu tidak memiliki konsistensi dalam membagikan konten. Kamu juga perlu melakukan riset seperti membaca buku atau memperluas pengetahuanmu terhadap konten yang ingin kamu bagikan.</span></p>
-<h3><span class="ez-toc-section" id="4_Lakukan_Interaksi_dengan_Pengikutmu"></span>4. Lakukan Interaksi dengan Pengikutmu<span class="ez-toc-section-end"></span></h3>
-<p><span style="font-weight: 400;">Dengan melakukan interaksi dengan pengikutmu seperti memberikan komentar saat mereka juga membagikan momennya di Instagram atau cara lain jika temanmu menggunakan Instagramnya untuk mempromosikan produk jualannya, kamu membeli jualan pengikutmu selain sebagai bentuk apresiasi karena kamu telah membeli jualannya kamu juga bisa menjalin relasi lewat jualan temanmu. </span></p>
-<p><span style="font-weight: 400;">Bagaimana tidak? Tentunya dengan cara mempromosikan jualan temanmu lewat Instagrammu. Dengan jika temanmu me-</span><i><span style="font-weight: 400;">repost</span></i><span style="font-weight: 400;"> hasil promosi di akunmu, akunmu akan berpotensi untuk diikuti oleh pengikut temanmu. </span></p>
-<p><span style="font-weight: 400;">Sekarang ini banyak dari sebagian pengguna Instagram yang saling me-</span><i><span style="font-weight: 400;">repost</span></i><span style="font-weight: 400;">, salah satunya seperti yang kita rasakan sekarang ini yaitu banyak </span><i><span style="font-weight: 400;">coffeeshop</span></i><span style="font-weight: 400;"> yang menggunakan akun Instagram dengan menyuguhkan konten-konten kreatif untuk dapat berinteraksi dengan pengikutnya. Selain itu Instagram pun juga meningkatkan fitur-fiturnya yang tentunya dibutuhkan oleh pengguna Instagram.</span></p>
-<h3><span class="ez-toc-section" id="5_Keywords"></span><b>5. Keywords</b><span class="ez-toc-section-end"></span></h3>
-<p><span style="font-weight: 400;">Cara lain agar pengikutmu semakin meningkat yaitu dengan menggunakan cara terbaru dengan kata kunci. Melalui kata kunci yang kamu tuliskan di kolom pencarian kamu tak perlu repot-repot lagi mencari cara agar Instagrammu dapat dikenali pengguna lain. </span></p><div class='code-block code-block-4' style='margin: 8px 0; clear: both;'>
-<a href="https://www.gramedia.com/promo/program-diskon-30-penerbit-andi?utm_source=bestseller&utm_medium=bestsellerpromo&utm_campaign=seo&utm_content=penerbitandi"><img class="alignnone wp-image-17796 size-full" src="https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2021/12/08084718/Program_Diskon_30_Penerbit_Andi_Storefront__wauto_h300.png" alt="banner-promo-gramedia" width="647" height="334" /></a></div>
-
-<p><span style="font-weight: 400;">Mengutip dari (Bynikojulius) penggunaan kata kunci ini dapat digunakan dengan cara mengoptimasi akun Instagrammu. Pada salah satu konten dari (Bynikojulius) yang diunggah, dijelaskan bagaimana cara meningkatkan pengikut melalui kata kunci. Terkhusus untuk mereka yang berjualan lewat Instagram, langkah-langkah yang dijelaskan yaitu misalnya terdapat pengguna Instagram ingin membeli roti, dalam hal ini pengguna tentunya dapat mengetikan “roti” pada kolom pencarian. </span></p>
-<p><span style="font-weight: 400;">Dari hasil pencarian kata “roti” tersebut akan muncul berbagai akun alternatif. Hal tersebut yang dinamai sebagai kata kunci. Cara penggunaan kata kunci ini dapat dipengaruhi oleh salah satu faktor yaitu adanya </span><i><span style="font-weight: 400;">mutual interest</span></i><span style="font-weight: 400;">. </span></p>
-<p><span style="font-weight: 400;">Mungkin hal ini tak lagi asing bagi pengguna Instagram karena </span><i><span style="font-weight: 400;">mutual interest</span></i><span style="font-weight: 400;"> dipengaruhi oleh urutan rangking dari akun siapa sajakah yang kamu ikuti. Hal tersebut dinilai karena adanya keberadaan faktor relevansi dan rekomendasi dari pengikut Instagrammu, sehingga kesempatan dalam meningkatkan pengikutmu akan lebih mudah. </span></p>
-<p><span style="font-weight: 400;">Selain itu tak perlu risau jika tidak memiliki pengikut pada Instagrammu. Cara ini dapat memunculkan hasil 60% dari akun yang kamu cari. Tentunya dengan cara ini kamu juga dapat memanfaatkannya untuk mendapatkan </span><i><span style="font-weight: 400;">traffic</span></i><span style="font-weight: 400;"> di Instagram. </span></p>
-<p><span style="font-weight: 400;">Untuk memudahkan pengguna lain menemukan Instagrammu melalui cara kata kunci ini, kamu bisa mengatur penggunaan nama pada fitur profil Instagrammu supaya pengguna lain dapat dengan mudah menemukan kata kunci pada Instagrammu.</span></p>
-<h3><span class="ez-toc-section" id="6_Gunakan_Kesempatan_Untuk_Mencari_Exposure"></span>6. Gunakan Kesempatan Untuk Mencari <i>Exposure</i><span class="ez-toc-section-end"></span></h3>
-<p><span style="font-weight: 400;">Kenali istilah </span><i><span style="font-weight: 400;">exposure</span></i><span style="font-weight: 400;"> untuk meningkatkan pengikut Instagrammu. </span><i><span style="font-weight: 400;">Exposure</span></i><span style="font-weight: 400;"> sendiri memiliki arti sorotan atau paparan yang dalam konteks ini kamu dapat memiliki kesempatan untuk tenar tentunya dengan cara-cara yang tidak merugikan pengguna Instagram lain seperti melakukan </span><i><span style="font-weight: 400;">spamming</span></i><span style="font-weight: 400;">. </span></p>
-<p><span style="font-weight: 400;">Kamu bisa menggunakan cara-cara kreatif seperti melakukan bentuk apresiasi konten pada pengguna Instagram lain atau mengadakan kegiatan-kegiatan kreatif yang dapat menunjang kontenmu untuk di-</span><i><span style="font-weight: 400;">repost</span></i><span style="font-weight: 400;"> pengguna Instagram lain. </span></p>
-<p><span style="font-weight: 400;">Tentunya dalam me-</span><i><span style="font-weight: 400;">repost</span></i><span style="font-weight: 400;"> konten pun juga disertai komentar atau keterangan yang menarik, tak perlu panjang-panjang asal baik dan menyenangkan hal tersebut dapat memunculkan kesan. Dalam menggunakan cara ini tentunya juga membutuhkan proses agar Instagrammu dapat lebih dikenali banyak pengguna lain.</span></p>
-<h3><span class="ez-toc-section" id="7_Jangan_Privasi_Akunmu"></span>7. Jangan Privasi Akunmu<span class="ez-toc-section-end"></span></h3>
-<p><span style="font-weight: 400;">Dengan mengaktifkan fitur privasi di Instagram, orang-orang akan penasaran dan enggan mengikuti akun Instagrammu. Pengaktifan fitur privasi ini akan menghalangi keinginanmu untuk meningkatkan </span><i><span style="font-weight: 400;">followers</span></i><span style="font-weight: 400;"> pada Instagram. </span></p>
-<p><span style="font-weight: 400;">Tentunya orang-orang yang sudah tertarik dengan melihat profilmu akan merasa kecewa dan kurang tertarik karena tidak dapat melihat konten-konten menarikmu yang kamu bagikan di Instagram. </span></p>
-<p><span style="font-weight: 400;">Menjadikan Instagrammu sebagai akun yang terprivat juga dapat memunculkan anggapan orang-orang yang ingin mengenalmu semakin ciut karena kesempatan yang dimiliki oleh orang-orang yang ingin menjadi pengikutmu semakin sedikit karena susah untuk mengenalimu lewat Instagram. Dengan tidak mengaktifkan fitur privasi tentunya orang-orang pengguna Instagram lain akan lebih mudah mengenali dan menjadi pengikutmu.</span></p>
-<h3><span class="ez-toc-section" id="8_Tak_Perlu_Ragu_Memakai_Tagar"></span>8. Tak Perlu Ragu Memakai Tagar<span class="ez-toc-section-end"></span></h3>
-<p><span style="font-weight: 400;">Bagikan konten atau momen di Instagrammu dengan menggunakan tagar. Cara ini terbilang mudah karena kamu hanya menuliskan tagar yang dapat kamu sesuaikan dengan konten atau momen yang kamu bagikan di Instagrammu. </span></p>
-<p><span style="font-weight: 400;">Meskipun terkadang dianggap sepele bagi kebanyakan pengguna Instagram, pemberian tagar tentunya dapat mempengaruhi </span><i><span style="font-weight: 400;">likes</span></i><span style="font-weight: 400;"> dan </span><i><span style="font-weight: 400;">followers</span></i><span style="font-weight: 400;"> Instagrammu. Cara kerja dalam penggunaan tagar ini tergolong dapat memudahkan orang lain untuk menemukan konten atau momen yang kamu bagikan di Instagrammu. </span></p>
-<p><span style="font-weight: 400;">Cara penggunaan tagar pun juga perlu dipertimbangkan. Kamu hanya perlu mencantumkan beberapa tagar saja dengan batas maksimal tiga puluh tagar yang disediakan oleh Instagram. Tak hanya ukuran tagar yang diberikan, kamu dapat memaksimalkan tagar-tagar yang sekiranya relevan atau dapat dikenali banyak orang pada konten atau momen yang kamu bagikan di Instagrammu.</span></p>
-<h3><span class="ez-toc-section" id="9_Cantumkan_Akun_Instagrammu_di_Bio_Media_Sosial_Lain"></span>9. Cantumkan Akun Instagrammu di Bio Media Sosial Lain<span class="ez-toc-section-end"></span></h3>
-<div class='code-block code-block-3' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
-<a href="https://www.gramedia.com/categories/buku?is_available=true&utm_source=bestseller&utm_medium=bestsellerpromo&utm_campaign=seo&utm_content=bukuterbaru"><img class="alignnone wp-image-17796 size-full" src="https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2021/10/12111059/buku-terbaru.gif" alt="banner-promo-gramedia" width="647" height="334" /></a></div>
-<p><span style="font-weight: 400;">Bagi kebanyakan pengguna media sosial, tentunya mereka tidak hanya menggunakan satu media sosial saja. Kamu bisa mencantumkan akun instagram di media sosialmu yang lain seperti di Facebook dan Twitter. Tentunya jika kamu mencantumkan akun Instagrammu pada media sosial lain jelas teman-temanmu yang berada di Facebook dan Twitter yang kamu gunakan akan dapat mengenali dan berpeluang untuk menjadi pengikutmu. </span></p>
-<p><span style="font-weight: 400;">Tentunya pertemanan yang kamu miliki pada Facebook dan Twitter akan berbeda dengan pertemanan yang kamu miliki di Instagrammu. Dalam hal ini kamu bisa memperluas jaringan pertemananmu melalui Facebook dan Twitter untuk meningkatkan pengikut Instagrammu. Tak hanya Facebook dan Twitter kamu juga dapat meningkatkan pengikut Instagrammu melalui platform lain, dengan cara ini akun Instagrammu akan mudah dikenali pengguna lain.</span></p>
-<h3><span class="ez-toc-section" id="10_Deskripsikan_Profilmu_Secara_Kreatif"></span><b></b>10. Deskripsikan Profilmu Secara Kreatif<span class="ez-toc-section-end"></span></h3>
-<p><span style="font-weight: 400;">Hal yang mendasar untuk dapat meningkatkan pengikut di Instagrammu yaitu dengan memberikan gambaran secara unik tentang dirimu di profil Instagrammu. Cara-cara tersebut terbilang mudah untuk dilakukan yaitu dengan menyeting fitur-fitur yang dibutuhkan dalam profil Instagram. </span></p>
-<p><span style="font-weight: 400;"> Penggunaan nama yang mudah dicari oleh pengguna lain, penggunaan </span><i><span style="font-weight: 400;">username</span></i><span style="font-weight: 400;"> yang mudah diingat, penggunaan bio yang menarik dengan memperjelas bagaimana deskripsi profil dirimu tak perlu panjang-panjang dalam menjelaskan siapa dirimu, cukup jelaskan apa pekerjaanmu atau kegiatanmu sehari-hari.</span></p>
-<p><span style="font-weight: 400;">Kamu juga dapat menjelaskan hobi atau hal-hal yang kamu sukai, selain itu jika kamu memiliki karya atau sesuatu yang menjadi nilai tambah untuk dirimu kamu bisa mencantumkannya pada profil Instagrammu, gunakan foto terbaik sebagai foto profil Instagrammu hal ini dapat menunjang Instagrammu untuk dapat dilirik pengguna lain. </span></p>
-<p><span style="font-weight: 400;">Dengan hal-hal mendasar seperti ini, tentunya orang-orang akan menaruh kesan pertama ketika mengenali Instagrammu dan dapat menarik perhatian pengguna lain.</span></p>
-<h2><span class="ez-toc-section" id="Rekomendasi_Buku_Terkait_Instagram_dan_Sosial_Media"></span>Rekomendasi Buku Terkait Instagram dan Sosial Media<span class="ez-toc-section-end"></span></h2>
-<p><a href="https://www.gramedia.com/products/instagram-marketing-untuk-pemula?utm_source=bestseller&amp;utm_medium=bestsellerbuku&amp;utm_campaign=seo&amp;utm_content=BestSellerBuku">1. Instagram Marketing Untuk Pemula</a></p>
-<p><img src="https://cdn.gramedia.com/uploads/items/9786230016974_Cover_Instagram_Marketing_untuk_Pemula__w149_hauto.jpg" /></p>
-<p><a href="https://www.gramedia.com/products/nofilter-cerita-tersembunyi-di-balik-instagram?utm_source=bestseller&amp;utm_medium=bestsellerbuku&amp;utm_campaign=seo&amp;utm_content=BestSellerBuku">2. #NOFILTER: Cerita Tersembunyi di Balik Instagram</a></p>
-<p><img src="https://cdn.gramedia.com/uploads/items/9786230021336_CoverDepan_NOFILTER_Cerita_Tersembunyi_di_Balik_Instagram__w149_hauto.jpg" /></p>
-<p>Baca juga artikel lain berikut ini :</p>
+<div class="modal-body">
+<p>Layanan ini ditawarkan kepada siapa saja <b>secara Gratis</b>, dengan menggunakan layanan ini, Anda setuju bahwa:</p>
 <ul>
-<li><a href="https://www.gramedia.com/best-seller/cara-mengirim-lamaran-kerja-lewat-email-yang-benar/">Cara Mengirim Lamaran Kerja Lewat Email Yang Benar</a></li>
-<li><a href="https://www.gramedia.com/best-seller/cara-membuat-daftar-riwayat-hidup-mudah/">Cara Membuat Daftar Riwayat Hidup [Mudah]</a></li>
-<li><a href="https://www.gramedia.com/best-seller/peluang-bisnis-modal-kecil/">13 Peluang Bisnis Modal Kecil Yang Mudah Dijalankan</a></li>
-<li><a href="https://www.gramedia.com/best-seller/sosial-media-paling-populer/">10 Sosial Media Paling Populer di Indonesia</a></li>
-<li><a href="https://www.gramedia.com/best-seller/surat-lamaran-kerja/">Contoh Surat Lamaran Kerja Yang Benar</a></li>
-<li><a href="https://www.gramedia.com/best-seller/cara-membuat-link-wa/">Cara Membuat Link WA</a></li>
+<li>1. Kami dapat melarang pengguna mana pun jika kami yakin bahwa dia melanggar kebijakan kami.</li>
+<li>2. Kami akan menyimpan Akun Instagram Anda untuk menyukai, mengikuti atau melihat cerita.</li>
+<li>3. Dilarang menggunakan semua fitur pada layanan ini untuk <b>Pornografi & Profil Ilegal</b>.</li>
 </ul>
-<div class='code-block code-block-1' style='margin: 8px 0; clear: both;'>
-<p><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 34px"><span class="vc_empty_space_inner"></span></div><p style="font-size: 17px;color: #000000;text-align: center;font-family:Playfair Display;font-weight:700;font-style:normal" class="vc_custom_heading" >Layanan Perpustakaan Digital B2B Dari Gramedia</p><p style="text-align: center;font-family:Playfair Display;font-weight:400;font-style:normal" class="vc_custom_heading" >ePerpus adalah layanan perpustakaan digital masa kini yang mengusung konsep B2B. Kami hadir untuk memudahkan dalam mengelola perpustakaan digital Anda. Klien B2B Perpustakaan digital kami meliputi sekolah, universitas, korporat, sampai tempat ibadah.</p><div class="vc_empty_space"   style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><img class="aligncenter size-full wp-image-9213" style="display: block; margin-left: auto; margin-right: auto;" src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/01/28132029/logo-eperpus.png" alt="logo eperpus" width="250" height="100" /></p>
-
-		</div>
-	</div>
-</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1609658488989 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1623401608219"><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><a href="https://www.eperpus.com/home/?utm_source=literasi&utm_medium=literasidigital&utm_campaign=seo&utm_content=Best_Seller_Digital_Utama#plan_lists" target=”_blank” ><img class="aligncenter size-full wp-image-12123" src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/08/30091659/eperpus2-min.png" alt="" /></a></p>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<ul>
-<li>Custom log</li>
-<li>Akses ke ribuan buku dari penerbit berkualitas</li>
-<li>Kemudahan dalam mengakses dan mengontrol perpustakaan Anda</li>
-<li>Tersedia dalam platform Android dan IOS</li>
-<li>Tersedia fitur admin dashboard untuk melihat laporan analisis</li>
-<li>Laporan statistik lengkap</li>
-<li>Aplikasi aman, praktis, dan efisien</li>
-</ul>
-
-		</div>
-	</div>
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><a href="https://www.eperpus.com/home/?utm_source=literasi&utm_medium=bestsellerdigital&utm_campaign=seo&utm_content=Best_Seller_Digital_Utama#plan_lists" target=”_blank” ><img class="aligncenter size-full wp-image-12123" src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/11155107/button_request-demo-sekarang.png" alt=""/></a></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 64px"><span class="vc_empty_space_inner"></span></div></div></div></div></div></p>
-</div>
-<!-- AI CONTENT END 2 -->
-							</div>
-						</div>
-
-						<div class="entry-actions">
-													</div>
-					</div>
-				</div><!-- .todo -->
-
-				<div class="entry-after-content">
-						<section class="g1-row author-info" itemscope="" itemtype="http://schema.org/Person">
-		<div class="g1-row-inner author-info-inner">
-			<div class="g1-column author-overview">
-
-				<figure class="author-avatar">
-					<a href="https://www.gramedia.com/best-seller/author/rahmad/">
-						<img alt='' src='https://secure.gravatar.com/avatar/afbbf4436c539f26bf1d6d05639ac8ce?s=80&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/afbbf4436c539f26bf1d6d05639ac8ce?s=160&#038;d=identicon&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>
-					</a>
-				</figure>
-
-				<header>
-										<h2 class="g1-gamma g1-gamma-1st author-title">Written by <a href="https://www.gramedia.com/best-seller/author/rahmad/"><span itemprop="name">Ahmad</span></a></h2>
-
-									</header>
-
-				
-				<div class="author-extras">
-									</div>
-			</div>
-		</div>
-	</section>
-
-
-
-	<aside class="g1-related-entries">
-
-		
-		<h2 class="g1-delta g1-delta-2nd g1-collection-title"><span>You May Also Like</span></h2>		<div class="g1-collection g1-collection-columns-2">
-			<div class="g1-collection-viewport">
-				<ul class="g1-collection-items  ">
-					
-						<li class="g1-collection-item g1-collection-item-1of3">
-							
-<article class="entry-tpl-grid entry-tpl-grid-m post-21616 post type-post status-publish format-standard has-post-thumbnail category-review">
-	<div class="entry-featured-media " ><a title="Review Buku I Hate Diet Karya Yulia Baltschun" class="g1-frame" href="https://www.gramedia.com/best-seller/review-buku-i-hate-diet-karya-yulia-baltschun/"><div class="g1-frame-inner" style="padding-bottom: 56.31868132%;"><img width="364" height="205" src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/11/25183033/I-HATE-DIET-364x205.jpeg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" loading="lazy" srcset="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/11/25183033/I-HATE-DIET-364x205.jpeg 364w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/11/25183033/I-HATE-DIET-192x108.jpeg 192w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/11/25183033/I-HATE-DIET-384x216.jpeg 384w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/11/25183033/I-HATE-DIET-728x409.jpeg 728w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/11/25183033/I-HATE-DIET-561x316.jpeg 561w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/11/25183033/I-HATE-DIET-758x426.jpeg 758w" sizes="(max-width: 364px) 100vw, 364px" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://www.gramedia.com/best-seller/category/review/" class="entry-category entry-category-item-383">Review</a></span></span>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://www.gramedia.com/best-seller/review-buku-i-hate-diet-karya-yulia-baltschun/" rel="bookmark">Review Buku I Hate Diet Karya Yulia Baltschun</a></h3>
-					</header>
-
-		
-					<footer>
-				<p class="g1-meta entry-meta entry-byline ">
-								<span class="entry-author">
-	
-		<span class="entry-meta-label">by</span>
-			<a href="https://www.gramedia.com/best-seller/author/umam/" title="Posts by Emka Umam" rel="author">
-			
-							<strong>Emka Umam</strong>
-					</a>
-	</span>
-	
-									</p>
-			</footer>
-		
-			</div>
-</article>
-						</li>
-
-					
-						<li class="g1-collection-item g1-collection-item-1of3">
-							
-<article class="entry-tpl-grid entry-tpl-grid-m post-22285 post type-post status-publish format-standard has-post-thumbnail category-trivia">
-	<div class="entry-featured-media " ><a title="Beragam Contoh Cerita Inspiratif Singkat " class="g1-frame" href="https://www.gramedia.com/best-seller/contoh-cerita-inspiratif/"><div class="g1-frame-inner" style="padding-bottom: 56.31868132%;"><img width="364" height="205" src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165154/pexels-marvin-filmaker-9459614-364x205.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" loading="lazy" srcset="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165154/pexels-marvin-filmaker-9459614-364x205.jpg 364w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165154/pexels-marvin-filmaker-9459614-192x108.jpg 192w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165154/pexels-marvin-filmaker-9459614-384x216.jpg 384w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165154/pexels-marvin-filmaker-9459614-728x409.jpg 728w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165154/pexels-marvin-filmaker-9459614-561x316.jpg 561w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165154/pexels-marvin-filmaker-9459614-1122x631.jpg 1122w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165154/pexels-marvin-filmaker-9459614-758x426.jpg 758w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165154/pexels-marvin-filmaker-9459614-1152x648.jpg 1152w" sizes="(max-width: 364px) 100vw, 364px" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-views "><strong>20</strong><span> Views</span></span></p>
-				<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://www.gramedia.com/best-seller/category/trivia/" class="entry-category entry-category-item-382">Trivia</a></span></span>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://www.gramedia.com/best-seller/contoh-cerita-inspiratif/" rel="bookmark">Beragam Contoh Cerita Inspiratif Singkat </a></h3>
-					</header>
-
-		
-					<footer>
-				<p class="g1-meta entry-meta entry-byline ">
-								<span class="entry-author">
-	
-		<span class="entry-meta-label">by</span>
-			<a href="https://www.gramedia.com/best-seller/author/chelsea/" title="Posts by Chelsea" rel="author">
-			
-							<strong>Chelsea</strong>
-					</a>
-	</span>
-	
-									</p>
-			</footer>
-		
-			</div>
-</article>
-						</li>
-
-					
-						<li class="g1-collection-item g1-collection-item-1of3">
-							
-<article class="entry-tpl-grid entry-tpl-grid-m post-22311 post type-post status-publish format-standard has-post-thumbnail category-buku-self-improvement">
-	<div class="entry-featured-media " ><a title="Kumpulan Kisah Inspiratif Singkat Beserta Pesan Moral" class="g1-frame" href="https://www.gramedia.com/best-seller/kumpulan-kisah-inspiratif-singkat-beserta-pesan-moral/"><div class="g1-frame-inner" style="padding-bottom: 56.31868132%;"><img width="364" height="205" src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165225/pexels-koen-swiers-6399129-364x205.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" loading="lazy" srcset="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165225/pexels-koen-swiers-6399129-364x205.jpg 364w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165225/pexels-koen-swiers-6399129-192x108.jpg 192w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165225/pexels-koen-swiers-6399129-384x216.jpg 384w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165225/pexels-koen-swiers-6399129-728x409.jpg 728w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165225/pexels-koen-swiers-6399129-561x316.jpg 561w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165225/pexels-koen-swiers-6399129-1122x631.jpg 1122w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165225/pexels-koen-swiers-6399129-758x426.jpg 758w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/15165225/pexels-koen-swiers-6399129-1152x648.jpg 1152w" sizes="(max-width: 364px) 100vw, 364px" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-views "><strong>17</strong><span> Views</span></span></p>
-				<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://www.gramedia.com/best-seller/category/buku-self-improvement/" class="entry-category entry-category-item-577">Buku Self Improvement</a></span></span>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://www.gramedia.com/best-seller/kumpulan-kisah-inspiratif-singkat-beserta-pesan-moral/" rel="bookmark">Kumpulan Kisah Inspiratif Singkat Beserta Pesan Moral</a></h3>
-					</header>
-
-		
-					<footer>
-				<p class="g1-meta entry-meta entry-byline ">
-								<span class="entry-author">
-	
-		<span class="entry-meta-label">by</span>
-			<a href="https://www.gramedia.com/best-seller/author/chelsea/" title="Posts by Chelsea" rel="author">
-			
-							<strong>Chelsea</strong>
-					</a>
-	</span>
-	
-									</p>
-			</footer>
-		
-			</div>
-</article>
-						</li>
-
-					
-						<li class="g1-collection-item g1-collection-item-1of3">
-							
-<article class="entry-tpl-grid entry-tpl-grid-m post-22362 post type-post status-publish format-standard has-post-thumbnail category-review">
-	<div class="entry-featured-media " ><a title="Review Novel &#8220;Fish in the Water&#8221;" class="g1-frame" href="https://www.gramedia.com/best-seller/review-novel-fish-in-the-water/"><div class="g1-frame-inner" style="padding-bottom: 56.31868132%;"><img width="364" height="205" src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/13175804/9786020648781_Fish_in_the_Water_cov-364x205.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="fish in the water" loading="lazy" srcset="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/13175804/9786020648781_Fish_in_the_Water_cov-364x205.jpg 364w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/13175804/9786020648781_Fish_in_the_Water_cov-192x108.jpg 192w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/13175804/9786020648781_Fish_in_the_Water_cov-384x216.jpg 384w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/13175804/9786020648781_Fish_in_the_Water_cov-561x316.jpg 561w" sizes="(max-width: 364px) 100vw, 364px" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-views "><strong>18</strong><span> Views</span></span></p>
-				<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://www.gramedia.com/best-seller/category/review/" class="entry-category entry-category-item-383">Review</a></span></span>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://www.gramedia.com/best-seller/review-novel-fish-in-the-water/" rel="bookmark">Review Novel &#8220;Fish in the Water&#8221;</a></h3>
-					</header>
-
-		
-					<footer>
-				<p class="g1-meta entry-meta entry-byline ">
-								<span class="entry-author">
-	
-		<span class="entry-meta-label">by</span>
-			<a href="https://www.gramedia.com/best-seller/author/chelsea/" title="Posts by Chelsea" rel="author">
-			
-							<strong>Chelsea</strong>
-					</a>
-	</span>
-	
-									</p>
-			</footer>
-		
-			</div>
-</article>
-						</li>
-
-					
-						<li class="g1-collection-item g1-collection-item-1of3">
-							
-<article class="entry-tpl-grid entry-tpl-grid-m post-22334 post type-post status-publish format-standard has-post-thumbnail category-review">
-	<div class="entry-featured-media " ><a title="Review Buku Tak Mungkin Membuat Semua Orang Senang" class="g1-frame" href="https://www.gramedia.com/best-seller/review-buku-tak-mungkin-membuat-semua-orang-senang-berani/"><div class="g1-frame-inner" style="padding-bottom: 56.31868132%;"><img width="364" height="205" src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/12221019/1-364x205.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" loading="lazy" srcset="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/12221019/1-364x205.jpg 364w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/12221019/1-192x108.jpg 192w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/12221019/1-384x216.jpg 384w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/12221019/1-728x409.jpg 728w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/12221019/1-561x316.jpg 561w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/12221019/1-1122x631.jpg 1122w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/12221019/1-758x426.jpg 758w, https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/12221019/1-1152x648.jpg 1152w" sizes="(max-width: 364px) 100vw, 364px" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-views "><strong>16</strong><span> Views</span></span></p>
-				<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://www.gramedia.com/best-seller/category/review/" class="entry-category entry-category-item-383">Review</a></span></span>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://www.gramedia.com/best-seller/review-buku-tak-mungkin-membuat-semua-orang-senang-berani/" rel="bookmark">Review Buku Tak Mungkin Membuat Semua Orang Senang</a></h3>
-					</header>
-
-		
-					<footer>
-				<p class="g1-meta entry-meta entry-byline ">
-								<span class="entry-author">
-	
-		<span class="entry-meta-label">by</span>
-			<a href="https://www.gramedia.com/best-seller/author/lely/" title="Posts by Lely Azizah" rel="author">
-			
-							<strong>Lely Azizah</strong>
-					</a>
-	</span>
-	
-									</p>
-			</footer>
-		
-			</div>
-</article>
-						</li>
-
-					
-						<li class="g1-collection-item g1-collection-item-1of3">
-							
-<article class="entry-tpl-grid entry-tpl-grid-m post-22394 post type-post status-publish format-standard has-post-thumbnail category-review">
-	<div class="entry-featured-media " ><a title="Review Buku Bicara Itu Ada Seninya: Melatih Keahlian Berkomunikasi" class="g1-frame" href="https://www.gramedia.com/best-seller/review-buku-bicara-itu-ada-seninya/"><div class="g1-frame-inner" style="padding-bottom: 78.84615385%;"><img width="260" height="205" src="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/06/10082331/BICARA-ITU-ADA-SENINYA-%E2%80%93-Oh-Su-Hyang-260x205.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="BICARA ITU ADA SENINYA – Oh Su Hyang" loading="lazy" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-views "><strong>17</strong><span> Views</span></span></p>
-				<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://www.gramedia.com/best-seller/category/review/" class="entry-category entry-category-item-383">Review</a></span></span>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://www.gramedia.com/best-seller/review-buku-bicara-itu-ada-seninya/" rel="bookmark">Review Buku Bicara Itu Ada Seninya: Melatih Keahlian Berkomunikasi</a></h3>
-					</header>
-
-		
-					<footer>
-				<p class="g1-meta entry-meta entry-byline ">
-								<span class="entry-author">
-	
-		<span class="entry-meta-label">by</span>
-			<a href="https://www.gramedia.com/best-seller/author/lely/" title="Posts by Lely Azizah" rel="author">
-			
-							<strong>Lely Azizah</strong>
-					</a>
-	</span>
-	
-									</p>
-			</footer>
-		
-			</div>
-</article>
-						</li>
-
-									</ul>
-			</div>
-		</div>
-
-					</aside>
-
-
-	<meta itemprop="mainEntityOfPage" content="https://www.gramedia.com/best-seller/cara-meningkatkan-followers-di-instagram/"/>
-	<meta itemprop="dateModified"
-	      content="2021-06-15T10:49:17"/>
-
-	<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-		<meta itemprop="name" content="Best Seller Gramedia" />
-		<meta itemprop="url" content="https://www.gramedia.com/best-seller" />
-		<span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
-			<meta itemprop="url" content="https://cdnwpseller.gramedia.net/wp-content/uploads/2021/08/30093925/logo-gramedia-blog-min.png" />
-		</span>
-	</span>
-					</div>
-
-			</div>
-
-			<div id="secondary" class="g1-sidebar g1-sidebar-padded g1-column g1-column-1of3">
-	
-		<aside id="recent-posts-7" class="widget widget_recent_entries">
-		<header><h2 class="g1-delta g1-delta-2nd widgettitle"><span>Recent Post</span></h2></header>
-		<ul>
-											<li>
-					<a href="https://www.gramedia.com/best-seller/review-buku-i-hate-diet-karya-yulia-baltschun/">Review Buku I Hate Diet Karya Yulia Baltschun</a>
-											<span class="post-date">Desember 16, 2021</span>
-									</li>
-											<li>
-					<a href="https://www.gramedia.com/best-seller/contoh-cerita-inspiratif/">Beragam Contoh Cerita Inspiratif Singkat </a>
-											<span class="post-date">Desember 16, 2021</span>
-									</li>
-											<li>
-					<a href="https://www.gramedia.com/best-seller/kumpulan-kisah-inspiratif-singkat-beserta-pesan-moral/">Kumpulan Kisah Inspiratif Singkat Beserta Pesan Moral</a>
-											<span class="post-date">Desember 16, 2021</span>
-									</li>
-											<li>
-					<a href="https://www.gramedia.com/best-seller/review-novel-fish-in-the-water/">Review Novel &#8220;Fish in the Water&#8221;</a>
-											<span class="post-date">Desember 16, 2021</span>
-									</li>
-											<li>
-					<a href="https://www.gramedia.com/best-seller/review-buku-tak-mungkin-membuat-semua-orang-senang-berani/">Review Buku Tak Mungkin Membuat Semua Orang Senang</a>
-											<span class="post-date">Desember 16, 2021</span>
-									</li>
-											<li>
-					<a href="https://www.gramedia.com/best-seller/review-buku-bicara-itu-ada-seninya/">Review Buku Bicara Itu Ada Seninya: Melatih Keahlian Berkomunikasi</a>
-											<span class="post-date">Desember 16, 2021</span>
-									</li>
-											<li>
-					<a href="https://www.gramedia.com/best-seller/apa-itu-spirulina/">Apa Itu Spirulina? Kandungan Nutrisi, Manfaat dan Bahaya Berlebih</a>
-											<span class="post-date">Desember 15, 2021</span>
-									</li>
-											<li>
-					<a href="https://www.gramedia.com/best-seller/apa-itu-serum/">Apa itu Serum? Manfaat serta Cara Memakainya</a>
-											<span class="post-date">Desember 15, 2021</span>
-									</li>
-											<li>
-					<a href="https://www.gramedia.com/best-seller/buku-tentang-feminisme/">Buku Tentang Feminisme : Memahami Kesetaraan Gender Melalui</a>
-											<span class="post-date">Desember 14, 2021</span>
-									</li>
-											<li>
-					<a href="https://www.gramedia.com/best-seller/apa-itu-wasabi/">Apa Itu Wasabi dan Bagaimana Rasanya? Si Pedas Menggigit yang Bikin Nagih</a>
-											<span class="post-date">Desember 14, 2021</span>
-									</li>
-					</ul>
-
-		</aside></div><!-- #secondary -->
-
-		</div>
-	</div><!-- g1-row -->
-</article>
-
-
-		</div><!-- #content -->
-	</div><!-- #primary -->
-
-
-	
-<div class=" g1-prefooter g1-prefooter-3cols g1-row g1-row-layout-page">
-	<div class="g1-row-inner">
-
-		<div class="g1-column g1-column-1of3">
-			<aside id="text-3" class="widget widget_text"><header><h2 class="g1-delta g1-delta-2nd widgettitle"><span>Blog Gramedia Digital</span></h2></header>			<div class="textwidget"><p class="p1">We deliver new experience in digital reading. Find any tips, updates, recommendation, and nonfiction books review inside the blog. <em>#BacaJadiLebihMudah.</em></p>
-</div>
-		</aside>		</div>
-
-		<div class="g1-column g1-column-1of3">
-					</div>
-
-		<div class="g1-column g1-column-1of3">
-					</div>
-
-	</div>
-	<div class="g1-row-background">
-		<div class="g1-row-background-media">
-		</div>
-	</div>
-</div><!-- .g1-prefooter -->
-
-		<div class="g1-footer g1-row g1-row-layout-page">
-			<div class="g1-row-inner">
-				<div class="g1-column">
-
-					<p class="g1-footer-text"></p>
-
-					
-					
-					
-
-				</div><!-- .g1-column -->
-			</div>
-			<div class="g1-row-background">
-			</div>
-		</div><!-- .g1-row -->
-
-					<a href="#page" class="g1-back-to-top">Back to Top</a>
-						</div><!-- #page -->
-
-<div class="g1-canvas-overlay">
+<br>
+<p>Jika Anda tidak setuju dengan persyaratan ini, Anda harus berhenti menggunakan layanan ini.</p>
 </div>
 
-</div><!-- .g1-body-inner -->
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div id="myTUTOR" class="modal fade" role="dialog">
+<div class="modal-dialog">
 
-<div id="g1-breakpoint-desktop">
+<div class="modal-content">
+
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">&times;</button>
+<h4 class="modal-title">Tutorial penggunaan Panel</h4>
 </div>
 
-
-<div class="g1-canvas g1-canvas-global g1-canvas-no-js">
-	<div class="g1-canvas-inner">
-		<div class="g1-canvas-content">
-			<a class="g1-canvas-toggle" href="#">Close</a>
-
-				<!-- BEGIN .g1-primary-nav -->
-	<nav id="g1-canvas-primary-nav" class="g1-primary-nav"><ul id="g1-canvas-primary-nav-menu" class="g1-primary-nav-menu g1-menu-v"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8437"><a href="https://www.gramedia.com/">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-8498"><a href="https://www.gramedia.com/best-seller/">Best Seller</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9150"><a href="https://www.gramedia.com/best-seller/novel-fiksi/">Best Seller Novel</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9151"><a href="https://www.gramedia.com/best-seller/novel-romantis-cinta/">Novel Romantis</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12428"><a href="https://www.gramedia.com/best-seller/buku-hewan-peliharaan/">Buku Hewan Peliharaan</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12180"><a href="https://www.gramedia.com/best-seller/buku-parenting-ibu-dan-anak/">Buku Parenting Anak</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11049"><a href="https://www.gramedia.com/best-seller/buku-nama-nama-anak/">Buku Nama Anak</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11153"><a href="https://www.gramedia.com/best-seller/buku-psikologi/">Buku Psikologi</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11048"><a href="https://www.gramedia.com/best-seller/buku-kumpulan-quotes/">Buku Quotes</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12425"><a href="https://www.gramedia.com/best-seller/buku-usaha-peternakan/">Buku Usaha Peternakan</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10838"><a href="#">Pelajaran</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10868"><a href="https://www.gramedia.com/best-seller/buku-akuntansi-keuangan-pengantar-biaya/">Akuntansi</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11291"><a href="https://www.gramedia.com/best-seller/buku-belajar-bahasa-inggris-grammar-percakapan/">Bahasa Inggris</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10839"><a href="https://www.gramedia.com/best-seller/buku-ilmu-biologi/">Biologi</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10841"><a href="https://www.gramedia.com/best-seller/buku-fisika/">Fisika</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11038"><a href="https://www.gramedia.com/best-seller/buku-sejarah-agama-islam-peradaban-islam/">Sejarah Islam</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10842"><a href="#">New Updates</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10843"><a href="https://www.gramedia.com/best-seller/updates/">Terbaru</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10844"><a href="https://www.gramedia.com/literasi/">Literasi</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10845"><a href="https://gramedia.com/blog">Review Buku</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11790"><a href="https://www.gramedia.com/pendidikan">Pendidikan</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11791"><a href="https://gramedia.com/pendidikan/universitas-kampus/">Direktori Universitas</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11792"><a href="https://gramedia.com/pendidikan/jurusan-kuliah-ipa-ips/">Jurusan Kuliah</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11793"><a href="https://gramedia.com/pendidikan/profesi-pekerjaan/">Profesi</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10837"><a href="https://www.gramedia.com/promo">Promo</a></li>
-</ul></nav>		<!-- END .g1-primary-nav -->
-		<!-- BEGIN .g1-secondary-nav -->
-			<!-- END .g1-secondary-nav -->
-	
-
-<div role="search" class="search-form-wrapper">
-	<form method="get"
-	      class="g1-searchform-tpl-default search-form"
-	      action="https://www.gramedia.com/best-seller/">
-		<label>
-			<span class="screen-reader-text">Search for:</span>
-			<input type="search" class="search-field"
-			       placeholder="Hai, mau cari apa?"
-			       value="" name="s"
-			       title="Search for:" />
-		</label>
-		<button class="search-submit">Search</button>
-	</form>
-
-	</div>
-		</div>
-							<div class="g1-canvas-background">
-			</div>
-			</div>
+<div class="modal-body">
+<center><a href="https://www.youtube.com/embed/TMSyrp5fiJ4" target="_blank" rel="noreferrer">Click Here!</a></center>
 </div>
-<link rel='stylesheet' id='js_composer_front-css'  href='https://sellers.gramedia.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.2.0' type='text/css' media='all' />
-<link rel='stylesheet' id='vc_google_fonts_playfair_displayregularitalic700700italic900900italic-css'  href='https://fonts.googleapis.com/css?family=Playfair+Display%3Aregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;ver=6.2.0' type='text/css' media='all' />
-<script type='text/javascript' id='ht_ctc_app_js-js-extra'>
-/* <![CDATA[ */
-var ht_ctc_chat_var = {"number":"6281370708828","pre_filled":"Hallo Kak..\r\n\r\nSaya ingin membeli buku berjudul ...","dis_m":"show","dis_d":"show","css":"display: none; cursor: pointer; z-index: 99999999;","pos_d":"position: fixed; bottom: 10px; right: 50px;","pos_m":"position: fixed; bottom: 10px; right: 50px;","schedule":"no","se":"150","ani":"no-animations","web":"y","ga":"yes","fb":"yes","display":"no"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/332.app.js?ver=3.3.10' id='ht_ctc_app_js-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.12.1' id='jquery-effects-core-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.12.1' id='jquery-effects-slide-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.12.1' id='jquery-effects-highlight-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.12.1' id='jquery-effects-fold-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.12.1' id='jquery-effects-blind-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/plugins/show-hidecollapse-expand/assets/js/bg-show-hide.js?ver=5.8.2' id='bg-show-hide-script-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/stickyfill/stickyfill.min.js?ver=2.0.3' id='stickyfill-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/jquery.placeholder/placeholders.jquery.min.js?ver=4.0.1' id='jquery-placeholder-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/jquery.timeago/jquery.timeago.js?ver=1.5.2' id='jquery-timeago-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/jquery.timeago/locales/jquery.timeago.id.js' id='jquery-timeago-id-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/matchmedia/matchmedia.js' id='match-media-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/matchmedia/matchmedia.addlistener.js' id='match-media-add-listener-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/picturefill/picturefill.min.js?ver=2.3.1' id='picturefill-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/jquery.waypoints/jquery.waypoints.min.js?ver=4.0.0' id='jquery-waypoints-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/libgif/libgif.js' id='libgif-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/enquire/enquire.min.js?ver=2.1.2' id='enquire-js'></script>
-<script type='text/javascript' id='bimber-global-js-extra'>
-/* <![CDATA[ */
-var bimber_front_config = "{\"ajax_url\":\"https:\\\/\\\/sellers.gramedia.com\\\/wp-admin\\\/admin-ajax.php\",\"timeago\":\"on\",\"sharebar\":\"off\",\"i18n\":{\"menu\":{\"go_to\":\"Go to\"},\"newsletter\":{\"subscribe_mail_subject_tpl\":\"Check out this great article: %subject%\"},\"bp_profile_nav\":{\"more_link\":\"More\"}},\"comment_types\":[\"wp\"],\"auto_load_limit\":\"0\",\"auto_play_videos\":false,\"use_gif_player\":true,\"setTargetBlank\":true,\"useWaypoints\":true,\"stack\":\"original\",\"wpp\":{\"token\":\"59fed817d8\"}}";
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/global.js?ver=8.1.3' id='bimber-global-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/players.js?ver=8.1.3' id='bimber-players-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/dist/dom-ready.min.js?ver=71883072590656bf22c74c7b887df3dd' id='wp-dom-ready-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de' id='wp-hooks-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79' id='wp-i18n-js'></script>
-<script type='text/javascript' id='wp-i18n-js-after'>
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-</script>
-<script type='text/javascript' id='wp-a11y-js-translations'>
-( function( domain, translations ) {
-	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
-	localeData[""].domain = domain;
-	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", {"translation-revision-date":"2021-10-25 11:28:10+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"id"},"Notifications":["Notifikasi"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
-</script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/dist/a11y.min.js?ver=0ac8327cc1c40dcfdf29716affd7ac63' id='wp-a11y-js'></script>
-<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
-/* <![CDATA[ */
-var uiAutocompleteL10n = {"noResults":"Tak ditemukan hasil apapun.","oneResult":"Ditemukan 1 hasil. Gunakan tombol panah atas dan bawah untuk navigasi.","manyResults":"%d hasil ditemukan. Gunakan tombol panah atas dan bawah untuk navigasi.","itemSelected":"Item terpilih."};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1' id='jquery-ui-autocomplete-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/ajax-search.js?ver=8.1.3' id='bimber-ajax-search-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/single.js?ver=8.1.3' id='bimber-single-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-includes/js/wp-embed.min.js?ver=5.8.2' id='wp-embed-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.2.0' id='wpb_composer_front_js-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/plugins/easy-table-of-contents/vendor/smooth-scroll/jquery.smooth-scroll.min.js?ver=2.2.0' id='jquery-smooth-scroll-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js?ver=2.2.1' id='js-cookie-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2' id='jquery-sticky-kit-js'></script>
-<script type='text/javascript' id='ez-toc-js-js-extra'>
-/* <![CDATA[ */
-var ezTOC = {"smooth_scroll":"1","visibility_hide_by_default":"","width":"auto","scroll_offset":"30"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.17-1622797741' id='ez-toc-js-js'></script>
-<script type='text/javascript' src='https://sellers.gramedia.com/wp-content/themes/bimber/js/back-to-top.js?ver=8.1.3' id='bimber-back-to-top-js'></script>
 
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Saya sudah melihat</button>
+</div>
+</div>
+</div>
+</div>
+<footer id="footer">
+<div class="container">
+<div class="row">
+<div class="starten col-lg-3 col-md-3 col-sm-12">
+<div class="footer-title">
+<h3>Free.PanelPedia.Net</h3>
+</div>
+<div class="footer-text">
+<p>Situs ini berguna untuk meningkatkan followers dan likes instagram gratis.</p>
+</div>
+</div>
+<div class="about col-lg-2 col-md-2 col-sm-4">
+<div class="footer-title">
+<h3>Tentang Kami</h3>
+</div>
+<div class="footer-link">
+<ul>
+<li><a href="https://panelpedia.net/about-us">About Us</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-sm-4 col-sm-offset-4">
+<div class="social text-center">
+<ul>
+
+<li><a class="wow fadeInUp" href="https://api.whatsapp.com/send/?phone=6282151159597&text=Halo%20Panel%20Pedia" data-wow-delay="0.2s"><i class="fa fa-phone"></i></a></li>
+</ul>
+</div>
+<div class="text-center wow fadeInUp" style="font-size: 14px;">Copyright &copy; Panel Pedia 2016-2021<br>
+</div>
+<a href="#" class="scrollToTop"><i class="pe-7s-up-arrow pe-va"></i></a>
+</div>
+</div>
+</footer>
+<script src="https://free.panelpedia.net/assets/js/jquery.js"></script>
+<script src="https://free.panelpedia.net/assets/js/bootstrap.min.js"></script>
+<script src="https://free.panelpedia.net/assets/js/custom.js"></script>
+<script src="https://free.panelpedia.net/assets/js/jquery.sticky.js"></script>
+<script src="https://free.panelpedia.net/assets/js/wow.min.js"></script>
+<script src="https://free.panelpedia.net/assets/js/owl.carousel.min.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<script type="text/javascript">
+		new WOW().init();
+						$(document).ready(function () {
+	$('#username').focus();
+	$("form").submit(function () {
+		if ($('#username').val().length > 1 || $('#password').val.length > 1) {
+			var pdata = $(this).serialize();
+			var purl = $(this).attr('action');
+			$.ajax({
+				url: purl,
+				data: pdata,
+				timeout: false,
+				type: 'POST',
+				dataType: 'JSON',
+				success: function (hasil) {
+					$("input").removeAttr("disabled", "disabled");
+					$("button").removeAttr("disabled", "disabled");
+					$("#btn-login").html('Masuk');
+					$("#mutiara").html(hasil.result ? "<div class='alert alert-success' role='alert'>" + hasil.content + "</div>" : "<div class='alert alert-warning' role='alert'>" + hasil.content + "</div>")
+					//setTimeout(function () { location.reload(1); }, 6000);
+					grecaptcha.reset();
+				},
+				error: function (a, b, c) {
+					$("input").removeAttr("disabled", "disabled");
+					$("button").removeAttr("disabled", "disabled");
+					$("#btn-login").html('Masuk');
+					$("#mutiara").html('<div class="alert alert-warning" role="alert">' + c + '</div>')
+				},
+				beforeSend: function () {
+					$("input").attr("disabled", "disabled");
+					$("#btn-login").html('Tunggu..');
+					$("#mutiara").html('<center><img src="https://free.panelpedia.net/assets/images/loading_small.gif"></center><br>');
+					$("button").attr("disabled", "disabled")
+				}
+			})
+		}
+		return false
+	})
+});
+			</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6bed27266880468b","version":"2021.12.0","r":1,"token":"f08d7927ac824510b9a60ba54fa120b9","si":100}' crossorigin="anonymous"></script>
+</body>
 </html>
