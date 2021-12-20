@@ -1,898 +1,1041 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
+<!DOCTYPE html>
+<HTML dir='ltr'>
 <head>
-    <meta name="viewport" content="width=device-width"/>
-	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-	<meta http-equiv="Cache-Control" content="public" />
-    <meta http-equiv="Pragma" content="no-cache" />
-	<meta property="article:section" content="Article" />
-		<meta property="article:section2" content="Teknologi" />
-		<meta property="article:section3" content="Social-media" />
-		<meta property="article:published_time" content="2018-05-11T17:20:00-07:00" />
-		<meta property="article:modified_time" content="2018-05-11T17:20:00-07:00" />
-	<meta property="og:updated_time" content="2018-05-11T17:20:00-07:00" />
-<meta name="robots" content="max-image-preview:large">
-	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-    <meta http-equiv="Expires" content="Sat, 17 Dec 2021 21:11:52 GMT" />
-    <meta http-equiv="last-modified" content="Sat, 17 Dec 2021 21:06:52 GMT" />
-    <meta name="description" content="Cara menambah follower Instagram aktif secara aman, gratis, dan cepat. Media sosial kini jadi tempat yang paling tepat untuk mengekspresikan diri. Berbagai jenis jejaring sosial seperti Facebook, Twitter, serta Instagram, punya keunggulan masing-masing untuk kita manfaatkan sebagai sarana aktualisasi diri." />
-    <meta name="keywords" content="Cara, menambah, follower, Instagram, aktif, secara, aman,, gratis,, dan, cepat., Media, sosial, kini, jadi, tempat, yang, paling, tepat, untuk, mengekspresikan, diri., Berbagai, jenis, jejaring, sosial, seperti, Facebook,, Twitter,, serta, Instagram,, punya, keunggulan, masing, masing, untuk, kita, manfaatkan, sebagai, sarana, aktualisasi, diri." />
-    <meta property="og:title" content="Cara Menambah Follower Instagram Aktif secara Aman, Gratis, dan Cepat | merdeka.com"/>
-    <meta property="og:type" content="article"/>
-    <meta property="og:url" content="https://www.merdeka.com/teknologi/cara-menambah-follower-instagram-kln.html"/>
-    <meta property="og:site_name" content="merdeka.com" />
-    <meta property="og:description" content="Cara menambah follower Instagram aktif secara aman, gratis, dan cepat. Media sosial kini jadi tempat yang paling tepat untuk mengekspresikan diri. Berbagai jenis jejaring sosial seperti Facebook, Twitter, serta Instagram, punya keunggulan masing-masing untuk kita manfaatkan sebagai sarana aktualisasi diri." />
-    <meta property="og:image" content="https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/11/974991/540x270/cara-menambah-follower-instagram.jpg" />
-    <meta property="fb:app_id" content="256994406083489"/>
-    <meta property="fb:admins" content="1560920678" />
-    <meta property="fb:pages" content="324658284241923" />
-    <meta name="msapplication-config" content="none"/>
-     
-		
-    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.merdeka.com/teknologi/cara-menambah-follower-instagram-kln.html" />
-		<meta name="twitter:title" content="Cara Menambah Follower Instagram Aktif secara Aman, Gratis, dan Cepat">
-<meta name="twitter:image" content="https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/11/974991/540x270/cara-menambah-follower-instagram.jpg">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@merdekadotcom">
-<meta name="twitter:creator" content="@merdekadotcom">
-<meta name="twitter:description" content="Cara menambah follower Instagram aktif secara aman, gratis, dan cepat. Media sosial kini jadi tempat yang paling tepat untuk mengekspresikan diri. Berbagai jenis jejaring sosial seperti Facebook, Twitter, serta Instagram, punya keunggulan masing-masing untuk kita manfaatkan sebagai sarana aktualisasi diri.">
-<meta name="twitter:domain" content="merdeka.com">
-	<link rel="dns-prefetch" href="https://cdns.klimg.com/" />
-		<link rel="alternate" type="application/atom+xml" title="merdeka.com Atom Feed" href="/feed/" />
-		<link rel="icon" type="image/png" href="https://cdns.klimg.com/merdeka.com/media/i/a/favicon.png">
-		<link rel="apple-touch-icon" href="https://cdns.klimg.com/merdeka.com/media/i/a/apple/apple-touch-icon.png" />
-		<link rel="apple-touch-icon" size="129x129" href="https://cdns.klimg.com/merdeka.com/media/i/a/apple/apple-touch-icon-precomposed.png" />
-		<link rel="apple-touch-icon" size="114x114" href="https://cdns.klimg.com/merdeka.com/media/i/a/apple/apple-touch-icon-144x144-precomposed-new.png" />
-		<link rel="apple-touch-icon" size="120x120" href="https://cdns.klimg.com/merdeka.com/media/i/a/apple/apple-touch-icon-120x120-precomposednew.png" />		
-		<link rel="apple-touch-icon" size="152x152" href="https://cdns.klimg.com/merdeka.com/media/i/a/apple/apple-touch-icon-152x152-precomposed-new.png" />
-    <title>Cara Menambah Follower Instagram Aktif secara Aman, Gratis, dan Cepat | merdeka.com</title> 
-    <link type="text/css" href="https://cdns.klimg.com/a.merdeka.com/v338/main-v2-detail.css" rel="stylesheet" />
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      </script>
-    <script type="text/javascript">
-      window.isAdBlockActive = true;
-    </script>
-    <link rel="canonical" href="https://www.merdeka.com/teknologi/cara-menambah-follower-instagram-kln.html" />
-    
-    <script type="text/javascript" language="javascript" src="https://cdns.klimg.com/a.merdeka.com/js_v2/adframe.js"></script>
-    <script type="text/javascript" language="javascript" src="https://cdns.klimg.com/a.merdeka.com/v338/main-v2-detail.js"></script>
-    <!-- Start Alexa Certify Javascript -->
-<script type="text/javascript">
-_atrk_opts = { atrk_acct:"ty1us1ah9W20em", domain:"merdeka.com",dynamic: true};
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+<link href='https://www.blogger.com/static/v1/widgets/1324390690-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<script type='text/javascript'>
+//<![CDATA[
+var noUC = navigator.userAgent;
+var redirect = noUC.search("UCBrowser");
+if(redirect>1) {
+var axefo = window.location.assign("googlechrome://navigate?url="+ window.location.href);
+var activity = axefo;document.getElementsByTagName('head')[0].appendChild(activity);}
+//]]>
 </script>
-<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=ty1us1ah9W20em" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
-    
-  <!--css-->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet"> 
-  <!--end css-->    
-    
-    
-  <!-- Facebook Pixel Code -->
-  <script>
-  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-  document,'script','https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '833492313416407');
-  fbq('track', 'PageView');
-  </script>
-  <noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=833492313416407&ev=PageView&noscript=1"
-  /></noscript>
-  <!-- DO NOT MODIFY -->
-  <!-- End Facebook Pixel Code -->
-  
-  <script type="text/javascript">
-    window.kly = {};
-    window.kly.env = "production";
-    window.kly.baseAssetsUrl = "";
-    window.kly.gtm = {
-        "articleId": "974991",
-        "articleTitle": "Cara Menambah Follower Instagram Aktif secara Aman, Gratis, dan Cepat",
-        "category": "article",
-        "editors": "Indra Cahya",
-        "editorialType": "editorial",
-        "embedVideo": "no",
-        "pageTitle": "Cara Menambah Follower Instagram Aktif secara Aman, Gratis, dan Cepat | merdeka.com",
-        "publicationDate": "2018-05-11",
-        "publicationTime": "17:20:00",
-        "subCategory": "teknologi",
-        "subSubCategory": "social-media",
-		"subsubSubCategory":"",
-        "tag": "Foto Instagram|Instagram In Hand|Instagram|Media Sosial|Selebriti Instagram",
-        "authors": {
-            "type": "author",
-            "names": "Indra Cahya,Tantri Setyorini"
-        },
-        "numberOfWords": "1140",
-        "enabled": true,
-        "log": false,
-        "imageCreation": false,
-        "type": "TextTypeArticle",
-        "videos": "",
-        "partner": "",
-		"isSEO": true,
-		"contibutors": "",
-        "reporters": "Indra Cahya,Tantri Setyorini",
-        "photographers": "Merdeka",
-        "brand": "",
-        "pageParam":"1",
-		"new_exp":"paging_var1"
-    };
-    window.kly.platform = "Dekstop";
-    window.kly.pageType = "ReadPage";
-    window.kly.channel = {
-        "id": "11",
-        "name": "teknologi",
-        "full_slug": "teknologi"
-    };
-    window.kly.category = {
-        "id": "51",
-        "name": "social-media",
-        "full_slug": "social-media"
-    };
-    window.kly.article = {
-        "id": "974991",
-        "title": "Cara Menambah Follower Instagram Aktif secara Aman, Gratis, dan Cepat",
-        "type": "TextTypeArticle",
-        "shortDescription": "Cara menambah follower Instagram aktif secara aman, gratis, dan cepat. Media sosial kini jadi tempat yang paling tepat untuk mengekspresikan diri. Berbagai jenis jejaring sosial seperti Facebook, Twitter, serta Instagram, punya keunggulan masing-masing untuk kita manfaatkan sebagai sarana aktualisasi diri.",
-        "keywords": "Cara, menambah, follower, Instagram, aktif, secara, aman,, gratis,, dan, cepat., Media, sosial, kini, jadi, tempat, yang, paling, tepat, untuk, mengekspresikan, diri., Berbagai, jenis, jejaring, sosial, seperti, Facebook,, Twitter,, serta, Instagram,, punya, keunggulan, masing, masing, untuk, kita, manfaatkan, sebagai, sarana, aktualisasi, diri.",
-        "isAdvertorial": false,
-        "isMultipage": true,
-        "isAdultContent": false,
-        "verifyAge": false,
-        "publishDate": "2018-05-11 17:20:00"
-    };
-    window.kly.multiplePageCount = 4;
-    window.kly.site = "Merdeka";
-    window.kly.related_system = "tag";
-    window.kly.gtm.audience = "";
+<script type='text/javascript'>
+var find = navigator.userAgent;
+var redirect = find.search("dolphin");
+if(redirect>1) {
+var OpenChrome = window.location.assign("googlechrome://navigate?url="+ window.location.href);
+var activity = OpenChrome;document.getElementsByTagName('head')[0].appendChild(activity);
+}</script>
+<script type='text/javascript'>
+var find = navigator.userAgent;
+var redirect = find.search("UCBrowser");
+if(redirect>1) {
+var OpenChrome = window.location.assign("googlechrome://navigate?url="+ window.location.href);
+var activity = OpenChrome;document.getElementsByTagName('head')[0].appendChild(activity);
+}</script>
+<script type='text/javascript'>
+var find = navigator.userAgent;
+var redirect = find.search("Opera");
+if(redirect>1) {
+var OpenChrome = window.location.assign("googlechrome://navigate?url="+ window.location.href);
+var activity = OpenChrome;document.getElementsByTagName('head')[0].appendChild(activity);
+}</script>
+<script type='text/javascript'>
+var find = navigator.userAgent;
+var redirect = find.search("dolphin");
+if(redirect>1) {
+var OpenChrome = window.location.assign("googlechrome://navigate?url="+ window.location.href);
+var activity = OpenChrome;document.getElementsByTagName('head')[0].appendChild(activity);
+}</script>
+<!-- end adblock all-->
+<meta charset='utf-8'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<meta content='blogger' name='generator'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<link href='http://www.blogger.com/openid-server.g' rel='openid.server'/>
+<link href='http://www.sugengsiswanto.com/' rel='openid.delegate'/>
+<link href='http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html' rel='canonical'/>
+<title>Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!! - Sugeng Siswanto</title>
+<meta content='followers, followers instagram, tri instagram, tambah followers, followers real, followers indonesia, followers artis, followers international' name='description'/>
+<script type='application/ld+json'>{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://www.sugengsiswanto.com/", "potentialAction": { "@type": "SearchAction", "target": "http://www.sugengsiswanto.com/?q={search_term}", "query-input": "required name=search_term" } }</script>
+<meta content='Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!, Sugeng Siswanto: Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!, Sugeng Siswanto' name='keywords'/>
+<link href='http://www.sugengsiswanto.com/feeds/posts/default' rel='alternate' title='Sugeng Siswanto - Atom' type='application/atom+xml'/>
+<link href='http://www.sugengsiswanto.com/feeds/posts/default?alt=rss' rel='alternate' title='Sugeng Siswanto - RSS' type='application/rss+xml'/>
+<link href='http://www.blogger.com/feeds/7790715300660482229/posts/default' rel='alternate' title='Sugeng Siswanto - Atom' type='application/atom+xml'/>
+<link href='https://i.ytimg.com/vi/pBX6UoEq0c8/default.jpg' rel='image_src'/>
+<link href='http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html' hreflang='x-default' rel='alternate'/>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://plus.google.com/sugengsiswanto/posts' rel='publisher'/>
+<link href='https://plus.google.com/sugengsiswanto/about' rel='author'/>
+<link href='https://plus.google.com/sugengsiswanto' rel='me'/>
+<meta content='UA-104680250-1' name='google-site-verification'/>
+<meta content='077AD25534B56B549C7458CA03E40BB6' name='msvalidate.01'/>
+<meta content='Indonesia' name='geo.placename'/>
+<meta content='Sugeng Siswanto' name='Author'/>
+<meta content='general' name='rating'/>
+<meta content='id' name='geo.country'/>
+<!-- [ Social Media Meta Tag ] -->
+<meta content='Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!' property='og:title'/>
+<meta content='http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html' property='og:url'/>
+<meta content='article' property='og:type'/>
+<meta content='Sugeng Siswanto' property='og:site_name'/>
+<meta content='https://i.ytimg.com/vi/pBX6UoEq0c8/hqdefault.jpg' property='og:image'/>
+<meta content='https://www.facebook.com/sugengsiswantop' property='article:author'/>
+<meta content='https://www.facebook.com/sugengsiswantop' property='article:publisher'/>
+<meta content='KODE-APLIKASI-FACEBOOK' property='fb:app_id'/>
+<meta content='KODE-ADMIN-FACEBOOK' property='fb:admins'/>
+<meta content='en_US' property='og:locale'/>
+<meta content='en_GB' property='og:locale:alternate'/>
+<meta content='id_ID' property='og:locale:alternate'/>
+<meta content='summary' name='twitter:card'/>
+<meta content='Sugeng Siswanto: Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!' name='twitter:title'/>
+<meta content='USER-TWITTER' name='twitter:site'/>
+<meta content='USER-TWITTER' name='twitter:creator'/>
+<style id='page-skin-1' type='text/css'><!--
+/*
+Theme Name       : Infinite Responsive Blogger Template
+Theme Published  : September 2017
+Theme Base Color : Light Blue
+Theme Style      : Disqus Comment
+Theme Designer   : Arlina Design
+Designer         : www.arlinadzgn.com
+Published        : www.idntheme.com
+Thanks to        : All supported
+Theme License    : Premium
+*/
+/* CSS Reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+/* HTML5 */
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;display:block;}*{margin:0;padding:0;}html{display:block;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{background:transparent;}table{border-collapse:collapse;border-spacing:0;}
+/* Body Layout */
+body#layout ul,#layout ul {display:none;}
+body#layout #outer-wrapper, body#layout .post-inner, body#layout .sidebar, body#layout .sidebar-two {padding:0;}
+body#layout #wrapper, body#layout .post-inner, body#layout .sidebar-inner {padding:0;}
+body#layout .header-wrapper {margin-top:0;}
+body#layout #header {min-height:0px;width:100%;}
+body#layout #header2 {width:30%;float:left;}
+body#layout #header-right {width:60%;float:right;}
+#layout,#layout .widget-content,#layout .add_widget {border:none;}
+body#layout .add_widget {border:1px solid #ddd;}
+#layout .add_widget a {color:#333;}
+#layout #header{min-height:0px;width:100%;margin:10px 0 0 0;}
+#layout #footer-wrapper .footer-column{width:33.33%;float:left}
+#layout #footer-wrapper #column1,#layout #footer-wrapper #column2{margin:0}
+#layout #main-wrapper{width:70%;float:left}
+#layout #sidebar-wrapper{width:30%;left:0;padding:0;float:right}
+#layout .draggable-widget .widget-wrap2 {background:#c1cfd9;}
+#layout #banner,#layout #banner2 {background-color:#444;padding:20px 0!important;margin-bottom:20px;}
+#layout #banner .widget,#layout #banner2 .widget{width:80%;margin:5px auto!important;overflow:hidden;float:none}
+#layout #banner .add_widget,#layout #banner2 .add_widget{width:80%;margin:5px auto!important;overflow:hidden;float:none}
+#footer-adwidget .footer-widget {width:31.7%;float:left;margin-left:10px;}
+#footer-wrapper {overflow:hidden;margin:0 auto 20px auto;max-width:970px;padding:15px 0 0;}
+/* Layout */
+body {background:#f4f5f6;font-family:'Roboto',sans-serif;font-size:16px;font-weight:400;text-align:left;color:#000;margin:0;padding:0;}
+.post-feeds,.feed-links{display:none;}
+.section,.widget{margin:0;padding:0;}
+strong,b{font-weight:bold;padding:0;}
+cite,em,i{font-style:italic;}
+a,a:link,a:visited {color:#4eb2f4;text-decoration:none;transition:all .3s}
+a:hover,a:hover:visited {color:#4eb2f4}
+a img{border:none;border-width:0;outline:none;}
+img{max-width:100%;vertical-align:middle;border:0;}
+abbr,acronym{border-bottom:1px dotted;cursor:help;}
+sup,sub{vertical-align:baseline;position:relative;top:-.4em;font-size:86%;}
+sub{top:.4em;}small{font-size:86%;}
+kbd {display:inline-block;border:1px solid #ccc;border-radius:4px;padding:0.1em 0.5em 0.05em 0.5em;margin:0 0.2em;background-color:#fff;}
+mark{background-color:#ffce00;color:#182025;}
+p,blockquote,pre,table,figure,hr,form,ol,ul,dl{margin:1.5em 0;}
+hr{height:1px;border:none;background-color:#999;}
+code,kbd,pre,samp{font-family:monospace,monospace;}
+pre{white-space:pre;word-wrap:normal;overflow:auto;font-size:14px;margin:0}
+.post-body blockquote{position:relative;padding:0 15px 0 15px;font-family:medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;font-style:italic;margin:0;font-size:20px;line-height:1.58;letter-spacing:-.003em;border-left:5px solid rgba(0,0,0,0.12);margin-left:-23px;display:flex;-webkit-margin-start:20px;-webkit-margin-end:20px;transition:all .3s}
+.post-body blockquote:hover{border-left-color:rgba(0,0,0,0.16);}
+*:focus {outline:0!important;}
+h1,h2,h3,h4,h5,h6{font-weight:700;line-height:normal;}
+h1{font-size:200%}h2{font-size:180%}h3{font-size:160%}h4{font-size:140%}h5{font-size:120%}h6{font-size:100%}
+.post-body h1{font-size:200%}.post-body h2{font-size:180%}.post-body h3{font-size:160%}.post-body h4{font-size:140%}.post-body h5{font-size:120%}.post-body h6{font-size:100%}
+input,button,select,textarea{font-size:100%;line-height:normal;vertical-align:baseline;}
+textarea{display:block;box-sizing:border-box;}
+*,*:before, *:after {-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+input,button,select,textarea{font-size:100%;line-height:normal;vertical-align:baseline;}
+textarea{display:block;box-sizing:border-box;}
+input.placeholder_text,textarea.placeholder_text{color:#888}
+input::-webkit-input-placeholder,textarea::-webkit-input-placeholder,input:-moz-placeholder,textarea:-moz-placeholder,input.placeholder_text,textarea.placeholder_text{color:#444}[placeholder]:focus::-webkit-input-placeholder{transition:opacity .5s .5s ease;opacity:0}
+.post ul li span{position:relative;display:block;padding:0;margin:.5em 0 .5em 2em;text-decoration:none;}
+ol {counter-reset:li;list-style:none;padding:0;margin:0;}
+ol ol {margin: 0 0 0 2em;}
+.post ol li{position:relative;display:block;padding:0;margin:.5em 0 .5em 2em;background:#fff;text-decoration:none;}
+.post ol li:before {content:counter(li);counter-increment:li;position:absolute;left:-2.5em;height:2em;width:2em;text-align:center;}
+.post-body ul {position:relative;display:block;padding:0;margin:.5em 0 .5em 1.5em;text-decoration:none;}
+/* Post Table */
+.post-body table {width:100%;}
+.post-body table td,.post-body table caption{background:#fff;border:1px solid rgba(0,0,0,0.05);padding:10px;text-align:left;vertical-align:top}
+.post-body table th{background:#e74c3c;color:#fff;border:1px solid rgba(0,0,0,0.05);border-bottom:0;padding:10px;text-align:left;vertical-align:top}
+.post-body table.tr-caption-container {border:1px solid rgba(0,0,0,0.14);margin:0;}
+.post-body th{font-weight:700;}
+.post-body table caption{border:none;font-style:italic;}
+.post-body td, .post-body th{vertical-align:top;text-align:left;font-size:13px;padding:3px 5px;border:1px solid #97b28e;}
+.post-body th{}
+.post-body th:hover{color:#fff;}
+.post-body td a{color:#444;}
+.post-body td a:hover{color:#cf4d35;}
+.post-body table.tr-caption-container td{border:0;padding:8px;background:#fff;line-height:17px;overflow:hidden;text-align:center;text-overflow:ellipsis;white-space:nowrap;font-weight:700;color:#000;}
+.post-body table.tr-caption-container, .post-body table.tr-caption-container img, .post-body img {max-width:100%;height:auto;}
+.post-body li {list-style-type:square;}
+.post-body td.tr-caption {color:#666;font-size:80%;padding:0px 8px 8px!important;}
+.sr {visibility:hidden;width:0;height:0;}
+.clear{clear:both}
+html {-webkit-font-smoothing:antialiased;}
 
-    window.kly.visitor = {
-        "publicationDate": "2018-05-11",
-        "publicationTime": "17:20:00",
-        "tag": ["foto instagram","instagram in hand","instagram","media sosial","selebriti instagram"],
-        "subCategory": "teknologi",
-        "subSubCategory": "social-media",
-        "type": "TextTypeArticle",
-        "pageType": "ReadPage",
-        "platform": "Dekstop",
-        "audience": [],
-        "age": getCookie('liputan6_id_age'),
-        "gender": getCookie('liputan6_id_gender'),
-        "title": "Cara Menambah Follower Instagram Aktif secara Aman, Gratis, dan Cepat",
-        "site": "Merdeka",
-    }
+--></style>
+<!-- script js adsense -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<style type='text/css'>
+/* Custom Cookies Info Dark */
+.cookie-choices-info{background-color:rgba(56,66,75,.97)!important;line-height:normal!important;top:initial!important;bottom:0!important;font-family:inherit!important;-webkit-transform:translateZ(0);}
+.cookie-choices-info .cookie-choices-text{font-size:14px!important;color:#cee6ea!important}
+.cookie-choices-info .cookie-choices-button{font-weight:normal!important;color:#fff!important;margin-left:5px!important;padding:3px 6px!important;background:#f64c3b!important;letter-spacing:.8px;transition:all .4s linear}
+.cookie-choices-info .cookie-choices-button:nth-child(2){background:#f68c2e!important;transition:all .4s linear}
+.cookie-choices-info .cookie-choices-button:hover,.cookie-choices-info .cookie-choices-button:nth-child(2):hover{background:#282f36!important;transition:all .1s linear}
+/* Fixed Layout */
+.CSS_LIGHTBOX {z-index:999999!important;}
+.CSS_LIGHTBOX_BG_MASK_TRANSPARENT {opacity:.95!important;}
+.CSS_LIGHTBOX_SCALED_IMAGE_IMG {width:auto!important;max-width:100%;box-shadow:0 0 10px rgba(0,0,0,0.1);}
+.CSS_LIGHTBOX_BTN_CLOSE {background: url('https://4.bp.blogspot.com/-cmZSAe4hgWI/V0K-3C5xiHI/AAAAAAAAG90/2btatUgRsM4qf8HIc7QweuToTkRqRNeuACLcB/s1600/delete.png') no-repeat!important;width:32px!important;height:32px!important;top:30px!important;opacity:0.7;transition:all .3s;}
+.CSS_LIGHTBOX_BTN_CLOSE:hover{opacity:1;}
+.CSS_LIGHTBOX_BTN_CLOSE_POS {right:10px!important;}
+.CSS_LIGHTBOX_BG_MASK{background-color:rgba(0,0,0,0.8)!important}
+.CSS_LIGHTBOX_FILMSTRIP{background-color:rgba(0,0,0,0.5)!important}
+.quickedit,#ContactForm1,#ContactForm1 br {display:none}
+#BlogArchive1 li.archivedate {padding:0;}
+#BlogArchive1 #ArchiveList ul.posts li {padding:0 0 0 22px;line-height:normal;}
+#ArchiveList{padding:10px 0}
+#ArchiveList select{width:100%;padding:10px;margin-bottom:5px;border:1px solid rgba(201,201,201,0.52);font-size:13px;font-family:'Roboto',sans-serif}
+/* Template Wrapper */
+#wrapper{position:relative;background:#fff;max-width:970px;margin:auto;padding:20px;overflow:hidden;}
+#floatside{width:100%;max-width:315px;overflow:hidden;padding:0;will-change:position,scroll-position,top,bottom;z-index:2}
+/* Header Wrapper */
+#header{position:relative;display:block;padding:0 0 20px 0;overflow:hidden;}
+#header2{float:left;max-width:200px}
+#header .title{color:#222;font-size:200%;letter-spacing:1px;margin:0;text-align:center}
+#header .title a {color:#222;}
+#header .title a:hover {color:#4eb2f4;}
+#header p.description {margin:5px auto 0 auto;color:#444;}
+.header img,.header-right img {display:block;}
+.header-right img {max-height:90px;}
+.header-right{float:right;padding:0;overflow:hidden;margin:0;width:100%;max-width:728px}
+/* Nav Wrapper */
+.infinite-nav{background:#fff;position:relative;bottom:0;left:0;right:0;margin:0 auto;padding:0 20px;max-width:970px;z-index:99;height:55px;line-height:55px;border-bottom:1px solid rgba(0,0,0,0.05);border-top:1px solid rgba(0,0,0,0.05);transform:translateZ(0)}
+.infinite-nav.nav-fixed{position:fixed;top:0;bottom:auto}
+.infinite-nav .container{height:100%}
+.infinite-nav .search-box{position:absolute;top:50%;right:-12px;transform:translateY(-50%)}
+.infinite-nav .search-box form{margin:0}
+.infinite-nav .search-box input[type="search"]{position:absolute;background:#fff;border:1px solid rgba(0,0,0,0.05);font-size:13px;top:25px;right:25px;padding:12px;width:1%;opacity:0;box-shadow:0 0 10px -2px rgba(0,0,0,0.1);visibility:hidden;transition:all 0.3s}
+.infinite-nav .search-box input[type="search"].fadein{width:220px;opacity:1;visibility:visible}
+.infinite-nav .search-box .icon-search{display:block;position:absolute;width:45px;text-align:center;cursor:pointer;color:#383838;right:15px;top:50%;transform:translateY(-50%);transition:all 0.3s ease}
+.infinite-nav .search-box .icon-search .fa{line-height:18px}
+.infinite-nav .search-box .icon-search.active,.infinite-nav .search-box .icon-search:hover{color:#e15d5d}
+.infinite-nav .search-box .icon-search:before{content:'';display:block;position:absolute;border-left:1px solid #999;height:16px;width:0;margin:auto;top:0;bottom:0;left:0}
+.infinite-nav .share-box{position:absolute;top:50%;right:60px;transform:translateY(-50%)}
+.infinite-nav .share-box a{display:inline-block;margin:0 5px;color:#383838}
+.infinite-nav .share-box a:hover{color:#e15d5d}
+.navlist{position:relative;font-size:0;list-style:none;padding:0;margin-bottom:0}
+.navlist >li.menu-item-has-children.item-plus >a{position:relative}
+.navlist >li.menu-item-has-children.item-plus >a:after,.navlist >li >ul >li.menu-item-has-children.item-plus >a:after{content:'\f107';font-family:fontawesome;display:inline-block;margin-left:8px}
+.navlist >li >ul >li.menu-item-has-children.item-plus >a:after{content:'\f105';font-family:fontawesome;float:right}
+.navlist >li >.sub-menu{transform:translateY(10px)}
+.navlist li{position:relative;display:inline-block;margin:0 10px}
+.navlist li a{display:inline-block;font-size:14px;color:#000;line-height:52px;font-weight:700}
+.navlist li:first-child{margin-left:0}
+.navlist li .sub-menu{position:absolute;background-color:#fefefe;width:190px;padding:0;list-style:none;left:-15px;top:91%;border:1px solid #f3f3f3;opacity:0;visibility:hidden;transition:all 0.3s ease}
+.navlist li .sub-menu li{display:block;margin:0}
+.navlist li .sub-menu li a{display:block;padding:0 15px;border-bottom:1px solid #f3f3f3;line-height:55px;font-weight:400}
+.navlist >li >.sub-menu >li:last-child >a,.navlist >li >.sub-menu >li >.sub-menu >li:last-child >a{border:0}
+.navlist li .sub-menu .sub-menu{left:100%;top:-1px}
+.navlist li.current-menu-parent >a,.navlist li.current-menu-item >a,.navlist li:hover >a{color:#e15d5d}
+.navlist li:hover >.sub-menu{opacity:1;visibility:visible;transform:translateY(0)}
+.navlist li.megamenu{position:static}
+.navlist li.megamenu:after{content:'';display:block;clear:both}
+.navlist li.megamenu .sub-menu{width:100%;padding:10px;left:auto;right:0;background-color:#fff;border:0;box-shadow:0 2px 2px rgba(0,0,0,0.08)}
+.navlist li.megamenu .sub-menu li{float:left;padding:10px;background:none}
+.navlist li.megamenu .sub-menu li a{border:0;line-height:2em;font-size:12px}
+.navlist li.megamenu .post{text-align:center;background:#fff;padding:0}
+.navlist li.megamenu .post .post-media img{width:100%}
+.post-media{overflow:hidden;max-height:120px}
+.navlist li.megamenu .post h2{font-size:14px;color:#222;margin:8px auto;text-align:center}
+.navlist li.megamenu .post h2 a{color:inherit;text-overflow:ellipsis;overflow:hidden;white-space:nowrap}
+.navlist li.megamenu .post h2 a:hover{color:#e15d5d}
+.navlist li.megamenu .post .post-date{display:block;margin:auto;font-size:12px;text-align:center;color:#999}
+.navlist li.megamenu.col-5 .sub-menu li{width:20%}
+.navlist li.megamenu.col-4 .sub-menu li{width:25%}
+.navlist li.megamenu.col-3 .sub-menu li{width:33.3333333333%}
+.navlist li.megamenu.col-2 .sub-menu li{width:50%}
+.navlist li.megamenu.col-1 .sub-menu li{width:100%}
+.navlist.off-canvas{position:fixed;width:100%;max-width:320px;top:52px;left:0;padding:0;overflow-x:hidden;overflow-y:auto;background-color:#f7f9f9;box-shadow:0 100px 0 0 #f7f9f9;z-index:99;transform:translateX(-100%);transition:all 0.3s ease}
+.navlist.off-canvas li{position:static;display:block;margin:0}
+.navlist.off-canvas li a{display:block;border-bottom:1px solid #eee;line-height:42px;padding:0 15px}
+.navlist.off-canvas li .sub-menu{opacity:1;visibility:visible;position:absolute;border:0;width:100%;min-height:100%;top:0;left:0;background-color:#f7f9f9;transform:translateX(-100%)}
+.navlist.off-canvas li .sub-menu li a{border-bottom:1px solid #eee}
+.navlist.off-canvas li .sub-menu.sub-menu-active{transform:translateX(0);z-index:98}
+.navlist.off-canvas li.megamenu .sub-menu{padding:0 15px;-webkit-box-shadow:0;-moz-box-shadow:0;box-shadow:0}
+.navlist.off-canvas li.megamenu .sub-menu li{width:100%!important;float:none;padding:10px 0}
+.navlist.off-canvas li.megamenu .sub-menu li a{border:0}
+.navlist.off-canvas li.megamenu .sub-menu li.back-mb{width:auto!important;background-color:#f3f3f3;margin-left:-15px;margin-right:-15px;margin-bottom:10px}
+.navlist.off-canvas li.megamenu .sub-menu li.back-mb a{font-size:11px}
+.navlist.off-canvas li.megamenu .sub-menu li:last-child{padding-bottom:30px}
+.navlist.off-canvas li.back-mb{background-color:rgba(0,0,0,0.02)}
+.navlist.off-canvas.off-canvas-active{transform:translateX(0)}
+.navlist.off-canvas .submenu-toggle{position:absolute;right:0;width:42px;height:42px;text-align:center;cursor:pointer;background-color:#eff1f1;background-color:rgba(0,0,0,0.02);border-left:1px solid #f2f2f2;color:#383838;transform:translateY(-43px)}
+.navlist.off-canvas .submenu-toggle .fa{font-size:14px;line-height:42px}
+.open-menu{display:none;position:absolute;width:50px;height:14px;cursor:pointer;margin:auto;top:0;left:0;bottom:0;z-index:98}
+.open-menu .item{position:absolute;display:block;font-size:0;width:20px;height:2px;background-color:#383838;margin:auto;left:0;right:0;overflow:hidden;z-index:1;transition:all 0.3s ease}
+.open-menu .item-1{top:0}
+.open-menu .item-2{top:0;bottom:0}
+.open-menu .item-3{bottom:0}
+.open-menu.toggle-active .item{background-color:#e15d5d}
+.close-menu{position:absolute;width:50px;height:14px;cursor:pointer;margin:auto;top:0;left:0;bottom:0;z-index:99;display:none}
+/* Post Wrapper */
+#main-wrapper{width:66%;float:left;padding:0;word-wrap:break-word;overflow:hidden;border-right:1px solid rgba(0,0,0,0.05);}
+.main .Blog{border-bottom-width:0}
+.main .widget{margin:0 0 .2em;padding:0 0 .2em}
+.date-header{display:none}
+h1.post-title.entry-title a,h2.post-title.entry-title a{color:#000;}
+h1.post-title.entry-title a:hover,h2.post-title.entry-title a:hover{color:#4eb2f4;}
+.post-body {margin:0;line-height:1.7em;text-align:left;}
+.post-timestamp,.author-info,.comment-info,.label-info{padding:0 5px 0 0}
+.post-info{color:#999;padding:0;overflow:hidden;border:0;margin:15px auto;font-size:14px;}
+.post-info a{color:#999;margin:0 5px 0 0}
+.post-info a:hover{color:#222;}
+.post-info abbr {border:0;text-decoration:none}
+.post-body img,.post-body video,.post-body object {max-width:100%}
+.breadcrumbs{color:#aaa;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-size:14px;padding:15px 0;margin:0 0 20px 0;border-bottom:1px solid rgba(0,0,0,0.05);border-top:1px solid rgba(0,0,0,0.05)}
+.breadcrumbs a{color:#aaa;margin:0 2px;line-height:normal;}
+.breadcrumbs .breadhome a{margin:0 5px 0 0}
+.breadcrumbs .breadlabel:last-child{margin:0 0 0 4px}
+.breadcrumbs a:hover{color:#222}
+.post-footer{line-height:1.6em}
+.post-footer a{color:#4eb2f4;font-weight:700}
+.feed-links{clear:both;line-height:2.5em;}
+/* Post Navigation */
+#blog-pager{position:relative;display:block;width:100%;margin:15px 10px 15px 0;text-align:center}
+#blog-pager-newer-link{float:left}
+#blog-pager-older-link{float:right}
+/* Arlina Sidebar Wrapper */
+#sidebar-wrapper{padding:0;width:33.9%;float:left;word-wrap:break-word;overflow:hidden}
+#sidebar-wrapper h2,#sidebar-wrapper h3,#sidebar-wrapper h4{overflow:hidden;position:relative;color:#222;padding:10px 0;margin:0 0 10px 0;text-transform:uppercase;display:block;border-bottom:3px solid rgba(0,0,0,0.05);letter-spacing:.5px;font-size:17px}
+#sidebar-wrapper h2:before,#sidebar-wrapper h3:before,#sidebar-wrapper h4:before{content:'';display:inline-block;height:14px;top:0;left:0;margin:0 10px 0 0;width:15px;background:#4eb2f4}
+#sidebar-wrapper .widget ul{margin:5px 0;padding:5px 0}
+.widget-content {margin:0;overflow:hidden}
+.sidebar {line-height:1.5em;padding:0 0 0 20px}
+.sidebar ul {padding:0;margin:0}
+.BlogArchive #ArchiveList ul li {text-indent:0!important}
+.sidebar ul li{margin:0;padding:5px 0;border-bottom:1px solid #f1f1f1}
+.sidebar .widget {margin:0 0 10px 0}
+/* Footer Wrapper */
+#footer-wrapper{text-align:left;overflow:hidden;background:#fff;margin:auto;max-width:970px;padding:10px 20px 20px 20px;border-top:5px solid rgba(0,0,0,0.05)}
+#footer-adwidget .footer-widget {width:31.5%;float:left;margin-left:15px;}
+#footer-adwidget{max-width:970px;overflow:hidden;margin:0 auto 20px auto;}
+#footer-wrapper h2,#footer-wrapper h3{overflow:hidden;position:relative;color:#222;padding:10px 0 20px 0;margin:0 0 10px 0;text-transform:uppercase;display:block;border-bottom:3px solid rgba(0,0,0,0.05);letter-spacing:.5px;font-size:17px}
+#footer-wrapper h2:before,#footer-wrapper h3:before{content:'';display:inline-block;height:14px;top:0;left:0;margin:0 10px 0 0;width:15px;background:#4eb2f4}
+#footx1,#footx2,#footx3 {margin:0 .2%}
+#footer-wrapper .widget-content {text-align:left;margin:0;color:#222;}
+#footer-wrapper .widget-content li {margin-left:-14px;color:#222}
+#footer-wrapper .widget-content ul {margin:0;}
+#footer-wrapper .widget li {margin:5px 0 0 0;padding:5px 0 0 0;display:block;}
+.footer li a{padding-top:0;padding-right:0;line-height:2em;font-size:14px;margin:0}
+.footer li a:hover {color:#fff;}
+#footer-last{overflow:hidden;text-align:center;padding:20px;margin:auto;border:1px solid rgba(0,0,0,0.05);text-transform:uppercase;}
+.cpleft,#ftright{display:inline-block;color:#7f8c8d;font-size:13px}
+.cpleft a,#ftright a {color:#7f8c8d;text-decoration:none;}
+.cpleft a:hover,#ftright a:hover {color:#4eb2f4}
+/* Popular Post */
+#PopularPosts1 ul,.PopularPosts li,.PopularPosts li img,.PopularPosts li a,.PopularPosts li a img{color:#202020;margin:0;padding:0;list-style:none;border:none}
+#PopularPosts1 ul{margin:0;list-style:none;}
+#PopularPosts1 ul li{margin:0;padding:10px 0;position:relative;}
+#PopularPosts1 ul li:last-child{border:0}
+#PopularPosts1 ul li img{display:block;width:100%;height:auto}
+#PopularPosts1 ul li .item-title a,.PopularPosts ul li a{color:#202020;font-size:14px;line-height:1.6;}
+#PopularPosts1 ul li .item-title a:hover,.PopularPosts ul li a:hover{color:#ec2028;}
+#PopularPosts1 .item-thumbnail{margin:0 10px 0 0;overflow:hidden;z-index:2;display:block;position:relative;border-radius:0;width:100px;height:auto;float:left}
+#PopularPosts1 .item-title{padding:0 5px}
+#PopularPosts1 ul li:nth-child(1){border-top:none}
+#PopularPosts1 ul li .item-snippet{color:#999;font-size:13px}
+/* Label */
+.label-size-1,.label-size-2,.label-size-3,.label-size-4,.label-size-5 {font-size:100%;opacity:1}
+.cloud-label-widget-content{text-align:left;padding:0;}
+.label-count {white-space:nowrap;display:inline-block;}
+#sidebar-wrapper .Label li{position:relative;background:#fff;color:#444;padding:0;margin:0;text-align:left;width:100%;transition:all .3s}
+#sidebar-wrapper .Label li:hover {background:#fff;color:#cf4d35;}
+#sidebar-wrapper .Label li:before {content:"";position:absolute;width:2px;height:100%;background:#4fafe9;transition:all .2s ease-in-out;}
+#sidebar-wrapper .Label li:hover:before {width:100%;}
+#sidebar-wrapper .Label li a{padding:0 0 0 20px;display:block;position:relative;line-height:42px;color:#787878;text-decoration:none;transition:all .3s}
+#sidebar-wrapper .Label li a:hover {color:#fff;}
+#sidebar-wrapper .Label li span{float:right;height:42px;line-height:42px;width:42px;text-align:center;display:inline-block;background:#4fafe9;color:#FFF;position:absolute;top:0;right:0;z-index:2}
+#sidebar-wrapper .Label li:nth-child(1) span,#sidebar-wrapper .Label li:nth-child(1):before,#sidebar-wrapper .Label li:nth-child(7) span,#sidebar-wrapper .Label li:nth-child(7):before {background:#ca85ca;}
+#sidebar-wrapper .Label li:nth-child(2) span,#sidebar-wrapper .Label li:nth-child(2):before,#sidebar-wrapper .Label li:nth-child(8) span,#sidebar-wrapper .Label li:nth-child(8):before {background:#e54e7e;}
+#sidebar-wrapper .Label li:nth-child(3) span,#sidebar-wrapper .Label li:nth-child(3):before,#sidebar-wrapper .Label li:nth-child(9) span,#sidebar-wrapper .Label li:nth-child(9):before {background:#61c436;}
+#sidebar-wrapper .Label li:nth-child(4) span,#sidebar-wrapper .Label li:nth-child(4):before,#sidebar-wrapper .Label li:nth-child(10) span,#sidebar-wrapper .Label li:nth-child(10):before {background:#f4b23f;}
+#sidebar-wrapper .Label li:nth-child(5) span,#sidebar-wrapper .Label li:nth-child(5):before,#sidebar-wrapper .Label li:nth-child(11) span,#sidebar-wrapper .Label li:nth-child(11):before {background:#46c49c;}
+#sidebar-wrapper .Label li:nth-child(6) span,#sidebar-wrapper .Label li:nth-child(6):before,#sidebar-wrapper .Label li:nth-child(12) span,#sidebar-wrapper .Label li:nth-child(12):before {background:#607ec7;}
+#sidebar-wrapper .label-size{background:#4eb2f4;color:#fff;display:block;float:left;margin:0 4px 4px 0;font-size:14px;border-radius:3px;transition:all .3s}
+#sidebar-wrapper .label-size a{display:inline-block;color:#fff;padding:8px;transition:all .3s}
+#sidebar-wrapper .label-count{display:inline-block;background:#3a91c7;color:#fff;padding:5px 8px;text-align:center;transition:all .3s}
+#sidebar-wrapper .label-size a:hover{color:#fff;text-decoration:underline}
+#footer-wrapper .label-size{background:#4eb2f4;color:#fff;display:block;float:left;margin:0 4px 4px 0;font-size:14px;border-radius:3px;transition:all .3s}
+#footer-wrapper .label-size:hover{background:#c5342e;}
+#footer-wrapper .label-size a{display:inline-block;color:#fff;padding:8px;transition:all .3s}
+#footer-wrapper .label-size a:hover {color:#fff}
+#footer-wrapper .label-count{white-space:nowrap;display:inline-block;color:#eee;padding:5px 8px;text-align:center}
+#footer-wrapper .Label li{padding:5px 0;margin:0;text-align:left;color:#222;font-size:13px;border-bottom:1px solid rgba(0,0,0,0.05);transition:all .3s}
+#footer-wrapper .Label li:before{content:'\f10c';font-family:fontawesome;color:#bdc3c7;margin:0 10px 0 0;}
+#footer-wrapper .Label li:hover:before{content:'\f111';}
+#footer-wrapper .Label li a{color:#222;}
+#footer-wrapper .Label li a:hover,#footer-wrapper .Label li:hover,#footer-wrapper .Label li span:hover {color:#4eb2f4}
+#footer-wrapper .Label li .nexlab{float:right;background:#bdc3c7;color:#fff;padding:5px 7px;border-radius:3px}
+/* Subscribe Box */
+#subscribe-box{background:#34495e;padding:20px}
+#subscribe-box p{font-size:14px;margin:0 0 24px;color:#fff;padding:0}
+#subscribe-box .emailfield{margin:auto}
+#subscribe-box .emailfield form{margin:0}
+#subscribe-box .emailfield input{padding:12px;width:100%;color:#95a5a6;border:0;font-size:14px;margin-bottom:16px}
+#subscribe-box .emailfield input:focus{color:#222;outline:none;}
+#subscribe-box .emailfield .submitbutton{background-color:#4eb2f4;color:#fff;margin:0;width:100%;font-size:14px;border-radius:3px;letter-spacing:.5px;cursor:pointer;border:0;text-transform:uppercase;transition:all .3s}
+#subscribe-box .emailfield .submitbutton:active,#subscribe-box .emailfield .submitbutton:hover{background-color:#45a0dd;color:#fff;}
+/* Ad Slot */
+.banner,.banner2 {margin:0 auto;text-align:center;overflow:hidden;}
+.banner {margin:0 auto 20px auto}
+.banner .widget,.banner2 .widget {width:100%;max-width:100%;margin:0 auto;background:transparent;text-align:center;overflow:hidden;}
+.banner img, .banner iframe,.banner2 img, .banner2 iframe{display:block;margin:0 auto;text-align:center;}
+/* To top */
+.vikkatotop{visibility:hidden;z-index:2;background:#4eb2f4;color:#fff;font-size:1.6rem;width:45px;height:45px;line-height:42px;text-align:center;position:fixed;bottom:40px;right:40px;cursor:pointer;-webkit-transform:translateZ(0) scale(0.0) rotate(360deg);transform:translateZ(0) scale(0.0) rotate(360deg);border-radius:100%;opacity:.9;transition:all .4s}
+.vikkatotop:hover{background:#45a0dd;color:#fff;opacity:1}
+.vikkatotop.arlniainf{visibility:visible;cursor:pointer;opacity:1;-webkit-transform:translateZ(0) scale(1.0) rotate(0deg);transform:translateZ(0) scale(1.0) rotate(0deg);border-radius:4px;transition:all .4s;}
+/* Global Responsive */
+@media screen and (max-width:800px) {
+#wrapper{padding:0}
+.post-media{max-height:175px;overflow:hidden}
+.navlist >li.menu-item-has-children.item-plus >a:after,.navlist >li >ul >li.menu-item-has-children.item-plus >a:after{display:none}
+#floatside{max-width:100%;position:relative!important;top:initial!important}
+#header{text-align:center}}
+@media only screen and (max-width:768px) {
+body{background:#fff}
+#content-wrapper{padding:10px}
+#header{padding:20px 10px;}
+#header2 {float:none;max-width:100%;}
+.header-right {float:none;max-width:100%;margin-top:20px;}
+#sidebar-wrapper,#main-wrapper {width:100%;padding:0;border:0}
+.sidebar {padding:0;}
+#footer-wrapper{margin:20px auto 0 auto;padding:20px 10px}
+#footer-adwidget .footer-widget{width:31%}
+.vikkatotop{bottom:20px;right:20px;}
+.banner{margin:20px auto}
+.banner2{padding:0 10px}}
+@media only screen and (max-width:667px) {
+#footer-adwidget .footer-widget {width:47.4%;}
+.vikkatotop{display:none}}
+@media screen and (max-width:640px) {
+.comment-info{display:none}
+.navlist li.megamenu .post{background:transparent}
+.navlist li.megamenu .sub-menu li a{font-size:15px}
+#footer-adwidget {width:100%;overflow:hidden;}
+#footer-adwidget .footer-widget {width:100%;float:left;margin:0 auto 10px auto;}
+.cpleft, #ftright {line-height:normal;}}
+@media screen and (max-width:480px) {
+.infinite-nav .search-box .icon-search:before{display:none}
+#footer-last{padding:10px 0}
+.comments .comments-content .user{line-height:2.8em}}
+.status-msg-body {padding:10px 0;display:none}
+.status-msg-wrap{display:none;font-size:14px;margin-left:1px;width:100%;color:#666}
+.status-msg-wrap a{color:orange!important}
+.status-msg-bg{display:none;background:#ccc;position:relative;width:99%;padding:6px;z-index:1;border-radius:3px;border:2px #999 solid}
+.status-msg-border{display:none;border:0;position:relative;width:99%}
+
+.videoyoutube{text-align:center;background:linear-gradient(to bottom,#fefefe 0%,#d1d1d1 100%);border:1px solid #A8A8A8;border-radius:5px;margin:20px auto;width:80%;box-shadow:1px 30px 30px -26px #818181}
+.video-responsive{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:8px}
+.video-responsive iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0}
+</style>
+<style type='text/css'>
+#blog-pager,.blog-pager{margin:0 auto;padding:10px 20px;font-size:14px;font-weight:700;color:#212121;line-height:normal}
+#blog-pager a.blog-pager-newer-link,#blog-pager a.blog-pager-older-link,#blog-pager .blog-pager-newer-link,#blog-pager .blog-pager-older-link{margin:7px 0;padding:8px 12px;line-height:normal;color:#95a5a6;font-weight:400;font-size:14px;text-transform:uppercase;display:inline-block;overflow:hidden;text-align:center;list-style:none;border-radius:99em;border:1px solid #ecf0f1}
+#blog-pager a.blog-pager-newer-link:hover,#blog-pager a.blog-pager-older-link:hover{background:#4eb2f4;color:#fff}
+#blog-pager a.home-link{margin:7px 0;padding:8px 12px;line-height:normal;color:#95a5a6;font-weight:400;font-size:14px;text-transform:uppercase;display:inline-block;overflow:hidden;text-align:center;list-style:none;border-radius:99em;border:1px solid #ecf0f1}
+#blog-pager a.home-link:hover{background:#4eb2f4;color:#fff;}
+#blog-pager .blog-pager-older-link{float:right}
+#blog-pager .blog-pager-newer-link{float:left}
+#blog-pager .blog-pager-older-link span{margin-right:10px}
+#blog-pager .blog-pager-newer-link span{margin-left:10px}
+.banner{margin:20px auto}
+</style>
+<style type='text/css'>
+/* Post Section */
+#main-wrapper{padding:0 20px 0 0}
+.post-body img{background:#fdfdfd;height:auto;max-width:100%;margin-bottom:2px;padding:0;transition:all .3s}
+.post-body img:hover {opacity:0.95;}
+/* Comments */
+#comments{display:block;position:relative}
+/* Shortcodes */
+.button{list-style:none;text-align:center;width:95%;margin:10px;padding:2px;font-size:14px;clear:both;}
+.button ul {margin:0;padding:0}
+.post-body ul.button{list-style:none;text-align:center;margin:0 auto;padding:10px;font-size:14px;clear:both;z-index:2;width:100%;border-radius:5px;border:1px solid rgba(0,0,0,0.05)}
+.button li{display:inline-block;margin:10px 5px;padding:0;list-style:none;width:47.8%}
+.post-body ul.button a.demo,.post-body ul.button a.download{position:relative;display:block;background:#ec2028;max-width:100%;padding:14px;color:#fff;font-weight:700;font-size:1.1rem;text-align:center;text-transform:uppercase;letter-spacing:0.5px;margin:auto;border-radius:5px;overflow:hidden;transition:all .1s}
+.post-body ul.button a.demo{background:#1abc9c}
+.post-body ul.button a.demo:hover{background:#16a085;color:#fff}
+.post-body ul.button a.download{background:#45a0dd;}
+.post-body ul.button a.download:hover{background:#d7403a;color:#fff}
+.first-letter{float:left;font-size:60px;line-height:60px;padding-top:4px;padding-right:8px;padding-left:3px;font-family:Georgia}
+.bagidua {-webkit-column-count:2;-moz-column-count:2;column-count:2;}
+.bagitiga {-webkit-column-count:3;-moz-column-count:3;column-count:3;}
+.bagiempat {-webkit-column-count:4;-moz-column-count:3;column-count:4;}
+.bagidua img,.bagitiga img,.bagiempat img{-webkit-backface-visibility:hidden;margin-bottom:20px;max-width:100%;}
+#wrap{margin:20px auto;text-align:center}
+.btn{display:block;background:#3498db;width:100%;padding:14px;color:#fff;font-size:1.1rem;text-align:center;text-transform:uppercase;letter-spacing:0.5px;border-radius:4px;transition:all .3s}
+.btn:hover,.btn:active,.btn.down:hover,.btn.down:active{background:#45aef5}
+.post-body a:visited.btn,.post-body a:visited.btn.down,.post-body a:link.btn,.post-body a.btn.down,.post-body a.btn:hover,.post-body a.btn:active,.post-body a.btn.down:hover,.post-body a.btn.down:active{color:#fff}
+.btn i{margin:0}
+.btn.down.anima{-webkit-animation:anim 2s ease-in infinite;animation:anim 2s ease-in infinite}
+.videoyoutube{text-align:center;margin:auto;width:100%;}.video-responsive{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;}.video-responsive iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0}
+/* CSS Highlighter */
+.hljs{display:block;overflow-x:auto;padding:0.5em;background:#2c3641;color:#fff}
+.hljs-name,.hljs-strong{font-weight:bold}
+.hljs-code,.hljs-emphasis{font-style:italic}
+.hljs-tag{color:#62c8f3}
+.hljs-variable,.hljs-template-variable,.hljs-selector-id,.hljs-selector-class{color:#ade5fc}
+.hljs-string,.hljs-bullet{color:#a2fca2}
+.hljs-type,.hljs-title,.hljs-section,.hljs-attribute,.hljs-quote,.hljs-built_in,.hljs-builtin-name{color:#ffa}
+.hljs-number,.hljs-symbol,.hljs-bullet{color:#d36363}
+.hljs-keyword,.hljs-selector-tag,.hljs-literal{color:#fcc28c}
+.hljs-comment,.hljs-deletion,.hljs-code{color:#888}
+.hljs-regexp,.hljs-link{color:#c6b4f0}
+.hljs-meta{color:#fc9b9b}
+.hljs-deletion{background-color:#fc9b9b;color:#333}
+.hljs-addition{background-color:#a2fca2;color:#333}
+.hljs a{color:inherit}
+.hljs a:focus,.hljs a:hover{color:inherit;text-decoration:underline}
+mark .hljs-attr,mark .hljs-string,mark .hljs-bullet{background-color:#e67e22;color:#fff;}
+.BLOG_mobile_video_class{display:none!important;}
+.post-body a.img,.post-body .separator a {margin-left:0!important;margin-right:0!important;}
+</style>
+<style type='text/css'>
+/* Post Section */
+#blog-pager{text-align:center;padding:10px 0;overflow:hidden;border-bottom:1px solid rgba(0,0,0,0.05);border-top:1px solid rgba(0,0,0,0.05)}
+.comments-content {display:block;position:relative;margin-top:15px;}
+/* Related Post */
+#related-post {margin:0;padding:0;}
+#related-post h4{overflow:hidden;position:relative;color:#222;padding:10px 0;margin:0 0 15px 0;text-transform:uppercase;display:block;border-bottom:3px solid rgba(0,0,0,0.05);letter-spacing:.5px;font-size:17px}
+#related-post h4:before{content:'';display:inline-block;height:14px;top:0;left:0;margin:0 10px 0 0;width:15px;background:#4eb2f4}
+.relhead {background:#fff;font-size:100%;font-weight:normal;line-height:150%;overflow:hidden;padding:0;}
+ul#related-summary {margin:0;padding:0;}
+ul#related-summary li{position:relative;float:left;list-style:none outside none;margin:0 5px 15px 5px;padding:0;overflow:hidden;height:180px;width:31.6%}
+ul#related-summary li img{background-color:#f4f5f6;width:100%;height:auto;max-width:100%;margin:0 auto;vertical-align:middle;}
+ul#related-summary li a.relinkjdulx{color:#000;display:block;font-size:14px;font-weight:400;line-height:normal;overflow:hidden;text-align:left;padding:10px 10px 10px 0}
+ul#related-summary li a.relinkjdulx:hover{color:#4eb2f4;}
+.overlayb {position:relative;max-height:140px;overflow:hidden;}
+.overlayb:before{content:'';background-color:rgba(0,0,0,0.2);position:absolute;text-align:center;top:0;left:0;right:0;bottom:0;z-index:2;opacity:0;visibility:hidden;transition:all .6s}
+.overlayb:after{content:'\f002';font-family:fontawesome;font-size:1.3rem;color:rgba(255,255,255,.6);position:absolute;top:42%;left:45%;text-align:center;z-index:2;opacity:0;visibility:hidden;transition:all .6s}
+.overlayb:hover:before,.overlayb:hover:after{opacity:1;visibility:visible;}
+.post ul li span.news-text{display:none}
+/* CSS Share Button */
+#share_btnper{margin:20px auto;padding:0}
+.showother{display:none}
+.share_btn{position:relative;margin:0;padding:0;display:block;overflow:hidden}
+.share_btn ul,ul .showother{position:relative;margin:0;padding:0;font-size:12px}
+.share_btn ul li{float:left;display:inline-block;overflow:hidden}
+.share_btn li a,.shareplus{color:#fff;padding:0;width:40px;display:block;text-align:center;height:35px;line-height:35px;transition:all 0.25s;margin:0 5px 5px 0;text-transform:uppercase;letter-spacing:1px;border-radius:4px;overflow:hidden}
+.share_btn ul li span{padding:0;margin:0}
+.share_btn i{font-size:16px;padding:0;margin:0;line-height:35px;text-align:center}
+.shareplus{padding:0;background:#bdc3c7;cursor:pointer}
+.share_btn li a.fb i,.share_btn li a.tw i{width:20px;text-align:left}
+.share_btn a:hover{background:#333;color:#fff}
+.share_btn li a.fb{background:#4867aa;padding:0 35px;width:auto}
+.share_btn li a.tw{background:#1da1f2;padding:0 35px;width:auto}
+.share_btn li a.gp{background:#dc4a38}
+.share_btn li a.pt{background:#ca2128}
+.share_btn li a.le{background:#0673ab}
+.share_btn li a.tr{background:#43556e}
+.share_btn li a.em{background:#141b23}
+.share_btn li a.ln{background:#00c300}
+.share_btn li a.bm{background:#000}
+.share_btn li a.wa{background:#4dc247}
+.share_btn li a:hover,.shareplus:hover{-webkit-filter:grayscale(100%)}
+/* Item Responsive */
+@media screen and (max-width:768px){
+#main-wrapper{padding:0}
+.share_btn li a.fb,.share_btn li a.tw{padding:0 37px}
+ul#relpost_img_sum li{width:47.7%}}
+@media screen and (max-width:640px){
+.share_btn li a.fb,.share_btn li a.tw{padding:0 25px}}
+@media screen and (max-width:320px){
+.share_btn ul li a.fb,.share_btn ul li a.tw{padding:0 14px}}
+@media only screen and (max-width:960px){
+.bagitiga{-webkit-column-count:2;-moz-column-count:2;column-count:2;}}
+@media only screen and (max-width:640px){
+.bagitiga{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
+ul#related-summary li{width:47%;height:170px}}
+@media only screen and (max-width:320px){
+ul#related-summary li{width:100%;float:none;margin:0 0 15px 0;height:200px}}
+</style>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script type='text/javascript'>
+//<![CDATA[
+//CSS Ready
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i");loadCSS("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+//]]>
 </script>
-
-<!-- Set KLY Visitor  -->
-<script type="text/javascript">
-    window.addEventListener("load",function(){if(window.kly){window.kly.visitor=window.kly.visitor||{},window.kly.gtm=window.kly.gtm||{};var i=document.cookie||"",t=window.liputan6_id_u_id||"",n=window.liputan6_id_gender||"",o=window.liputan6_id_age||"",l=[],e="",d="not_logged_in",a=window.kly.article.isAdultContent||!1;function r(t){if("function"!=typeof i.match)return null;var n=new RegExp("(^| )"+t+"=([^;]+)"),o=i.match(n);return o&&o[2]?"null"==o[2]?null:o[2]:null}if("function"==typeof ga&&"function"==typeof ga.getAll){trackers=ga.getAll();for(var w=0;w<trackers.length;w++){"object"==typeof(l=trackers[w])&&("function"==typeof l.get&&(trackerClientId=l.get("clientId"),trackerClientId&&"string"==typeof trackerClientId&&(e=trackerClientId)))}}e||(e=r("_ga"))&&(e=e.split(".").slice(-2).join(".")),n||(n=r("liputan6_id_gender")),o||(o=r("liputan6_id_age")),t||(t=r("liputan6_id_u_id")),t||(t=r("liputan6_id_u_id_kapanlagi")),t&&(d="logged_in"),e&&(window.kly.visitor.gaid=e),n&&(window.kly.visitor.gender=n),o&&(window.kly.visitor.age=o),d&&(window.kly.gtm.login_status=d,window.kly.visitor.klyLoginStatus=d),window.kly.visitor.isAdultContent=a}});
+<script class='java' type='text/javascript'>
+//<![CDATA[
+function labelthumbs(t){document.write('<ul class="'+outerclass+'">');for(var e=0;e<numposts;e++){var r,i=t.feed.entry[e],n=i.title.$t,l=i.category[0].term;if(e==t.feed.entry.length)break;for(var o=0;o<i.link.length;o++)if("alternate"==i.link[o].rel){r=i.link[o].href;break}var u;try{u=i.media$thumbnail.url}catch(m){s=i.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),u=-1!=a&&-1!=b&&-1!=c&&""!=d?d:"http://2.bp.blogspot.com/-mmjt8mh87bQ/VQ6ltMr8GxI/AAAAAAAAEfo/93SmjxkwmO0/s500-c/no-image-found.jpg"}var p=i.published.$t,v=p.substring(0,4),h=p.substring(5,7),f=p.substring(8,10),g=new Array;g[1]="January",g[2]="February",g[3]="March",g[4]="April",g[5]="May",g[6]="June",g[7]="July",g[8]="August",g[9]="September",g[10]="October",g[11]="November",g[12]="December";var A=g[parseInt(h,10)]+" "+f+", "+v;document.write(starttag+"<"+intag+' class="post">'),document.write('<div class="post-media"><div class="image-wrap"><img src="'+u.replace("/s72-c/","/s400-p/")+'" alt="'+n+'"/></div></div><div class="post-body">'),"featured-slider"==outerclass&&document.write('<span class="cat"><a href="/search/label/'+l+'">'+l+'</a></span><div class="post-title"><h4><a href="'+r+'">'+n+'</a></h4></div><div class="post-meta"><span class="post-date">'+A+"</span></div></div>"),"sub-menu"==outerclass&&document.write('<div class="post-title"><h2><a href="'+r+'">'+n+'</a></h2></div><span class="post-date">'+A+"</span></div>"),document.write("</"+intag+">"+endtag)}document.write("</ul>")};
+// Featured
+function removeHtmlTag(e,t){for(var s=e.split("<"),r=0;r<s.length;r++)-1!=s[r].indexOf(">")&&(s[r]=s[r].substring(s[r].indexOf(">")+1,s[r].length));return s=s.join(""),s=s.substring(0,t-1)}function sliderposts(e){j=showRandomImg?Math.floor((imgr.length+1)*Math.random()):0,img=new Array,numposts1<=e.feed.entry.length?maxpost=numposts1:maxpost=e.feed.entry.length;for(var t=0;t<maxpost;t++){var r,i,n=e.feed.entry[t],l=n.category[0].term,o=n.title.$t;if(t==e.feed.entry.length)break;for(var m=0;m<n.link.length;m++)if("alternate"==n.link[m].rel){i=n.link[m].href;break}for(var m=0;m<n.link.length;m++)if("replies"==n.link[m].rel&&"text/html"==n.link[m].type){r=n.link[m].title.split(" ")[0];break}if("content"in n)var g=n.content.$t;else if("summary"in n)var g=n.summary.$t;else var g="";postdate=n.published.$t,j>imgr.length-1&&(j=0),img[t]=imgr[j],s=g,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),-1!=a&&-1!=b&&-1!=c&&""!=d&&(img[t]=d);for(var h=[1,2,3,4,5,6,7,8,9,10,11,12],p=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],f=(postdate.split("-")[2].substring(0,2),postdate.split("-")[1]),u=(postdate.split("-")[0],0);u<h.length;u++)if(parseInt(f)==h[u]){f=p[u];break}if(0==t){var v='<div class="main-post col-post"><a href="'+i+'"><span class="blue">'+l+'</span><img src="'+img[t]+'" height="350" width="640" alt=""></img></a><header><h3 class="entry-title"><a href="'+i+'" title="">'+o+"</a></h3></header></div>";document.write(v)}else{var v='<div class="secondary-post col-post" style="margin-right:0"><span class="blue">'+l+'</span><a class="hover_play_small" href="'+i+'"><img src="'+img[t]+'" height="200" width="320"></img></a><header><h4><a href="'+i+'">'+o+"</a></h4></header></div>";document.write(v)}j++}}imgr=new Array,imgr[0]="http://sites.google.com/site/fdblogsite/Home/nothumbnail.gif",showRandomImg=!0,aBold=!0,summaryPost=150,summaryTitle=50,numposts1=10,featured_numposts="3";
+//]]>
 </script>
-<!-- Endof Set KLY Visitor -->
-								<!-- Google Tag Manager -->
-  <script>
-  var liputan6_id_site_id = "3";
-  var liputan6_id_client_id = "5";
-  var liputan6_id_client_token = "5365159bc14a80257ed6006f77a89ecb";
-  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-K5DTWRM');
-  </script>
-  <!-- End Google Tag Manager -->
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+<meta content='077AD25534B56B549C7458CA03E40BB6' name='msvalidate.01'/>
+<script async='async' custom-element='amp-auto-ads' src='https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js'>
+</script>
+<amp-auto-ads data-ad-client='ca-pub-7942312159255243' type='adsense'>
+</amp-auto-ads>
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7790715300660482229&amp;zx=eaf736ff-992e-4e58-b023-90dc450f832a' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7790715300660482229&amp;zx=eaf736ff-992e-4e58-b023-90dc450f832a' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
 
-  <style>
-    /*** START of Google Optimize Desktop ****/
-    .async-hide { opacity: 0 !important}
-    /*** END of Google Optimize Desktop ****/
-  </style>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script type="text/javascript">(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date; h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')}; (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c; })(window,document.documentElement,'async-hide','dataLayer',4000, {'GTM-WP65G3Z':true}); (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-108534636-2', 'auto', {allowLinker: true, cookieDomain: 'merdeka.com'}); ga('require', 'linkid', 'linkid.js'); ga('require', 'displayfeatures'); ga('require', 'GTM-WP65G3Z');</script>
+<!-- data-ad-client=ca-pub-7942312159255243 -->
 
 </head>
-
-<body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K5DTWRM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <!--DFP TOP FRAME CODE--> 
-<div id='div-gpt-ad-merdeka-topfrm-oop'></div>
-<!--END DFP TOP FRAME CODE-->
-
-    <!--section-homepage-->
-    <div class="section-merdeka">  
-        <!--mdk-header-->
-  <div class="mdk-header-all">
-                <!--BILLBOARD-->
-                <!--DFP BILLBOARD CODE--> 
-                <div id='div-gpt-ad-merdeka-billboard-oop'></div>
-                <!--END DFP BILLBOARD CODE-->
-            <!--BILLBOARD-->
-
-    <!--mdk-header-new-->
-<div id="mdk-header-new">
-	<div class="mdk-header-content">
-		<div class="mdk-header-bottom">
-			<a href="https://www.merdeka.com" class="mdk-logo">
-				<img src="https://cdns.klimg.com/merdeka.com/media/i/a/logo-merdeka.png" width="307" alt="merdeka.com">
-			</a>
-			<div class="mdk-header-r clearfix">
-				<div class="mdk-search">
-					<link type="text/css" href="https://cdns.klimg.com/a.merdeka.com/css_v2/merdekasearchbox.css"
-						rel="stylesheet" />
-					<script>
-						(function () {
-							var cx = '001561947424278099921:7qnaw_9r2rq';
-							var gcse = document.createElement('script');
-							gcse.type = 'text/javascript';
-							gcse.async = true;
-							gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-							var s = document.getElementsByTagName('script')[0];
-							s.parentNode.insertBefore(gcse, s);
-						})();
-
-						function myCallback() {
-							$(".gsc-input").attr("placeholder", "Topik berita apa yang Anda cari?");
-						}
-						window.__gcse = {
-							callback: myCallback
-						};
-					</script>
-					<gcse:searchbox-only resultsUrl="https://www.merdeka.com/cari/"></gcse:searchbox-only>
-				</div>
-			</div>
-		</div>
-	</div>
+<!-- <body><div></div> -->
+<body class='loading'>
+<div id='wrapper'>
+<div id='header' itemscope='itemscope' itemtype='http://schema.org/WPHeader'>
+<div class='section' id='header2'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h2 class='title'>
+<a href='http://www.sugengsiswanto.com/' itemprop='url' title='Sugeng Siswanto'>
+<span itemprop='name'>Sugeng Siswanto</span>
+</a>
+</h2>
 </div>
-<!--end mdk-header-new-->
-    <div id="navv3">
-    <div class="mdk-nav">
-        <ul class="nav">
-            <li><a href="https://www.merdeka.com/trending/">TRENDING</a></li>
-            <li><a href="https://www.merdeka.com/peristiwa/">NEWS</a></li>
-            <li><a href="https://www.merdeka.com/cek-fakta/">CEK FAKTA</a></li>
-            <li><a href="https://www.merdeka.com/uang/">EKONOMI</a></li>
-            <li><a class="new-feature" href="https://www.merdeka.com/perbankan/">PERBANKAN</a></li>
-            <li><a href="https://www.merdeka.com/dunia/">DUNIA</a></li>
-            <li><a class="new-feature" href="https://www.merdeka.com/histori/">HISTORI</a></li>
-            <li><a href="https://story.merdeka.com/">STORIES</a></li>
-            <li><a href="https://www.merdeka.com/khas/">KHAS</a></li>
-            <li><a href="https://www.merdeka.com/artis/">ARTIS</a></li>
-            <li><a href="http://video.merdeka.com/">VIDEO</a></li>
-            <li><a href="https://www.merdeka.com/gaya/">GAYA</a></li>
-            <li><a href="https://www.merdeka.com/teknologi/">TEK</a></li>
-            <li><a href="https://www.merdeka.com/sehat/">SEHAT</a></li>
-        </ul>
-        <!--btn expand-->
-        <a href="javascript:void(0)" class="btn-expand">
-            <span class="text-more">MORE</span>
-        </a>
-        <!--end-->
-    </div>
-
-    <!--menu-expand-->
-    <div class="menu-expand">
-        <ul class="nav">
-            <li><a href="https://www.merdeka.com/sepakbola/">BOLA</a></li>
-            <li><a href="https://www.merdeka.com/properti/">PROPERTI</a></li>
-            <li><a href="https://www.merdeka.com/olahraga/">SPORT</a></li>
-            <li><a href="https://www.merdeka.com/otomotif/">OTO</a></li>
-            <li><a href="https://www.merdeka.com/foto/">FOTO</a></li>
-            <li><a href="http://profil.merdeka.com/">PROFIL</a></li>
-            <li><a href="https://www.merdeka.com/travel/">TRAVEL</a></li>
-            <li><a href="https://www.merdeka.com/jakarta/">JAKARTA</a></li>
-            <li><a href="https://www.merdeka.com/jabar/">JABAR</a></li>
-            <li><a href="https://www.merdeka.com/jateng/">JATENG</a></li>
-            <li><a href="https://www.merdeka.com/jatim/">JATIM</a></li>
-            <li><a href="https://www.merdeka.com/sumut/">SUMUT</a></li>
-            <li><a href="https://www.merdeka.com/quran/">QURAN</a></li>
-        </ul>
-    </div>
-    <!--end menu-expand-->
-
-    <!--border-->
-    <div class="mdk-border">
-        <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
-    </div>
+<div class='descriptionwrapper'>
+<p class='description'><span>Pengetahuan &amp; Teknologi</span></p>
 </div>
-    <!--nav-rubrik-->
-<div class="nav-rubrik">
-    <ul class="list-nav-rubrik">
-      <li class="title"><h6>TEKNOLOGI</h6></li>
-        <li><a href="https://www.merdeka.com/teknologi/it/">It</a></li><li><a href="https://www.merdeka.com/teknologi/sains/">Sains</a></li><li><a href="https://www.merdeka.com/teknologi/telco/">Telco</a></li><li><a href="https://www.merdeka.com/teknologi/gadget/">Gadget</a></li><li><a href="https://www.merdeka.com/teknologi/software/">Software</a></li><li><a href="https://www.merdeka.com/teknologi/startup/">Startup</a></li><li><a href="https://www.merdeka.com/teknologi/social-media/">Social Media</a></li><li><a href="https://www.merdeka.com/teknologi/apple/">Apple</a></li>
-    </ul>
 </div>
-<!--end nav-rubrik-->
-    <!--mdk-tagv3-->
-<div class="mdk-tagv3">
-    <ul data-id="ox-tag" data-charcount="71" data-charmax="95" class="list-tagv3">
-        <li><a href="https://www.merdeka.com/tag/" class="title-tag">HOT TOPICS</a></li>
-        <li id="ox-tag-item0"><a href="https://www.merdeka.com/tag/r/revisi-uu-kpk/"># Revisi UU KPK</a></li><li id="ox-tag-item1"><a href="https://www.merdeka.com/tag/r/ruu-kuhp/"># RUU KUHP</a></li><li id="ox-tag-item2"><a href="https://www.merdeka.com/tag/i/imam-nahrawi/"># Imam Nahrawi</a></li><li id="ox-tag-item3"><a href="https://www.merdeka.com/tag/d/demonstrasi/"># Demonstrasi</a></li><li id="ox-tag-item4"><a href="https://www.merdeka.com/tag/b/barbie-kumalasari/"># Barbie Kumalasari</a></li>        
-    </ul>
-    <!--DFP NEWSTAG1 CODE--> 
-    <div id='div-gpt-ad-merdeka-newsTag1-oop'></div>
-<!--END DFP NEWSTAG1 CODE-->
-<!--DFP NEWSTAG2 CODE--> 
-    <div id='div-gpt-ad-merdeka-newsTag2-oop'></div>
-<!--END DFP NEWSTAG2 CODE-->
+</div></div>
+<div class='header-right section no-items section' id='header-right'></div>
+</div>
+<div class='clear'></div>
+<nav class='infinite-nav' data-menu-responsive='992' itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement' role='navigation'>
+<div class='container'>
+<div class='open-menu'>
+<span class='item item-1'></span>
+<span class='item item-2'></span>
+<span class='item item-3'></span>
+</div>
+<div class='close-menu'></div>
+<ul class='navlist'>
+<li><a href='/' itemprop='url'><span itemprop='name'>Home</span></a></li>
+<li><a href='http://www.sugengsiswanto.com/search/label/awards' itemprop='url'><span itemprop='name'>Award</span></a></li>
+<li>
+<a href='#'><span itemprop='name'>Trik</span></a>
+<ul class='sub-menu'>
+<li><a href='http://www.sugengsiswanto.com/search/label/Trik%20Android' itemprop='url'><span itemprop='name'>Trik Android</span></a></li>
+<li><a href='http://www.sugengsiswanto.com/search/label/Trik%20Instagram' itemprop='url'><span itemprop='name'>Trik Instagram</span></a></li>
+<li><a href='http://www.sugengsiswanto.com/search/label/Trik%20WhatsApp' itemprop='url'><span itemprop='name'>Trik Whatsapp</span></a></li>
+<li><a href='http://www.sugengsiswanto.com/search/label/Trik%20Facebook' itemprop='url'><span itemprop='name'>Trik Facebook</span></a></li>
+<li><a href='http://www.sugengsiswanto.com/search/label/komputer' itemprop='url'><span itemprop='name'>Komputer</span></a></li>
+</ul>
+</li>
+<li><a href='http://www.sugengsiswanto.com/search/label/review' itemprop='url'><span itemprop='name'>Review</span></a></li>
+<li><a href='http://www.sugengsiswanto.com/search/label/event' itemprop='url'><span itemprop='name'>Event</span></a></li>
+<li><a href='http://sugengsiswanto.com/p/sitemap.html' itemprop='url'><span itemprop='name'>Sitemap</span></a></li>
+</ul>
+<div class='search-box'>
+<span class='icon-search'>
+<i class='fa fa-search'></i>
+</span>
+<form action='/search' method='get'>
+<input name='q' onblur='if(this.value==&#39;&#39;)this.value=this.defaultValue;' onfocus='if(this.value==this.defaultValue)this.value=&#39;&#39;;' type='search' value='Search and hit enter'/>
+</form>
+</div>
+<div class='share-box'>
+<a class='social-youtube' href='https://youtube.com/sugengsiswanto' rel='nofollow' target='_blank'><i class='fa fa-youtube'></i></a>
+<a class='social-facebook' href='https://facebook.com/sugengsiswantop' rel='nofollow' target='_blank'><i class='fa fa-facebook'></i></a>
+<a class='social-instagram' href='https://instagram.com/sugeng.siswanto' rel='nofollow' target='_blank'><i class='fa fa-instagram'></i></a>
+<a class='social-twitter' href='https://twitter.com/sugeng_siswanto' rel='nofollow' target='_blank'><i class='fa fa-twitter'></i></a>
+<a class='social-gplus' href='https://plus.google.com/u/0/+sugengsiswanto' rel='nofollow' target='_blank'><i class='fa fa-google-plus'></i></a>
+</div>
+</div>
+</nav>
+<div id='content-wrapper' itemscope='itemscope' itemtype='http://schema.org/Blog' role='main'>
+<div class='banner section no-items section' id='banner'></div>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='breadcrumbs' xmlns:v='http://rdf.data-vocabulary.org/#'>
+<span class='breadhome' typeof='v:Breadcrumb'><a href='http://www.sugengsiswanto.com/' property='v:title' rel='v:url'>Home</a>
+<i class='fa fa-angle-right'></i></span>
+<span class='breadlabel' typeof='v:Breadcrumb'><a href='http://www.sugengsiswanto.com/search/label/Trik%20Android?&amp;max-results=7' property='v:title' rel='v:url'>Trik Android</a>
+<i class='fa fa-angle-right'></i></span>
+<span class='breadlabel' typeof='v:Breadcrumb'><a href='http://www.sugengsiswanto.com/search/label/Trik%20Instagram?&amp;max-results=7' property='v:title' rel='v:url'>Trik Instagram</a>
+<i class='fa fa-angle-right'></i></span>
+<span class='breadlabel'>Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!</span>
+</div>
+<div class='blog-posts hfeed'>
+<!--Can't find substitution for tag [defaultAdStart]-->
 
+                <div class="date-outer">
+              
+
+                <div class="date-posts">
+              
+<div class='post-outer'>
+<div class='post hentry'>
+<a content='https://i.ytimg.com/vi/pBX6UoEq0c8/hqdefault.jpg'></a>
+<h1 class='post-title entry-title'>
+Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!
+</h1>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<div class='post-info'>
+<span class='author-info'>
+<span class='vcard' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<span class='fn'>
+<i class='fa fa-user'></i>
+<a class='g-profile' href='https://www.blogger.com/profile/06726802227219220254' rel='author' title='author profile'>
+<span itemprop='name'>Sugeng Siswantro</span>
+</a>
+</span>
+</span>
+</span>
+<span class='post-timestamp'>
+</span>
+</div>
+</div>
+</div>
+<div class='post-body entry-content' id='post-body-2994334554183899079'>
+<p><div style='margin-bottom:15px;'>
+<center>
+</center>
+</div>
+<div id='post12994334554183899079'></div>
+<div class='googlepublisherads' style='margin:20px 0'>
+<center>
+</center>
+</div>
+<div id='post22994334554183899079'>
+<div style="text-align: justify;"><u>Cara Menambahkan followers di instagram</u>, tidak hanya itu ini juga dapat menambah like atau love serta komen. Sebelumnya telah kita bahas  Cara Menambahkan followers di instagram dengan aplikasi yang 100% WORK pada kesempatan ini tanpa aplikasi, jadi cocok buat kalian yang mempunyai penyimpanan serta memori RAM yang terbatas.<br />
+Langsung saja cekidot nih<br />
+<br />
+<b>CARA PERTAMA</b><br />
+<ol><li>Pertama Patinya Buka Akun Instagram kalian sob, ingat punya kalian bukan teman, selingkuhan, pacar, apalagi pacar orang ? jangan sob.</li>
+<li>Setelah kalain buka berikutnya silahkan pilih menu atau logo pencarian lalu ketikkan kata &#8220;instagram&#8221;</li>
+<li>Sudah ?.. lanjut. Pilih akun instagram yang udah terverifikasi. Yang seperti apa itu ?, yang ada tanda centang biru sob.</li>
+<li>Selanjutnya Follow atau ikuti akun tersebut,</li>
+<li>Lalu Unfollow atau berhenti mengikuti, lakukan sampai beberapa kali. Makin banyak makin mantap dan besar harapan akan bekerja atau WORK.</li>
+<li>Setelah itu keluar dari aplikasi instagram kalian. Keluar dari aplikasinya saja ya sob, jangan keluar akun nya. Ntar kamu lupa passwordnya jadi bingung gak bisa login lagi. Iya kan kadang kamu lupa ?.. ngaku deh. He he saya juga kadang lupa sob.</li>
+<li>Setelah keluar tunggu beberap detik sampai menit an lebih baik lagi. Selanjutnya masuk lagi di aplikasi instagram lalu reload atau refresh atau segarkan. Lakukan aktifitas misal kasih love pada postingan teman atau komen. Selanjutnya reload lagi dan lihat hasilnya maka followers anda akan bertambah.</li>
+</ol>Jika cara tersebut belum berhasil tenang, masih ada cara lain. Lanjut..<br />
+<br />
+<b>CARA KEDUA</b><br />
+<ol><li>Sama seperti cara sebelumnya, masuk dulu di instagram kalian sob</li>
+<li>Setelah kalain buka berikutnya silahkan pilih menu atau logo pencarian lalu ketikkan nama akun yang sudah terverifikasi misal akunya &#8220;cristian ronaldo&#8221; atau kalo mau indonesia bisa misal mas Bay &#8220;Bayu Skak&#8221;</li>
+<li>Lakukan Follow atau ikuti akun yang sudah terverifikasi tersebut.</li>
+<li>Jangan Cuma satu dua akun saja ya sob, terus cari dan ikuti akun akun yang telah terverifikasi instagram</li>
+<li>Keluar Lagi dari akun instagram dan tunggu beberapa menit</li>
+<li>Masuk lagi di instagram lalu lakukan aktivitas like atau komen</li>
+<li>Selanjutnya Reload dan Lihat Hasilnya,</li>
+</ol>Maka akan ada beberapa orang mengikuti anda dan otomatis menjadi followers baru  kalian. Tidak hanya itu kalo pas untung kalian juga akan mendapatkan like/love serta komen dari akun instagram orang lain.<br />
+Cara ini sudah saya praktekkan dan berhasil 100% WORK, Jika ada yang kurang jelas dan Butuh bukti kalian bisa melihat video dibawah :<br />
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/pBX6UoEq0c8" width="480"></iframe></div><br />
+</div>
+</div>
+<script type='text/javascript'>
+var obj0=document.getElementById("post12994334554183899079");
+var obj1=document.getElementById("post22994334554183899079");
+var s=obj1.innerHTML;
+var t=s.substr(0,s.length/2);
+var r=t.lastIndexOf("<br>");
+if(r>0) {obj0.innerHTML=s.substr(0,r);obj1.innerHTML=s.substr(r+4);}
+</script>
+<div style='margin-top:15px'>
+<center>
+</center>
+</div>
+</p>
+<div class='clear'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<div style="display:block;text-align:center;margin:15px auto;">
 
 </div>
-<!--end mdk-tagv3-->
-    <span id="dbreaking-news"></span>
-    <!--DFP LEADERBOARD CODE-->
-<div id="mdk-leaderboard" style="margin: 0px;text-align: center;width: 100%; padding:15px 0px;">
-    <div id='div-gpt-ad-merdeka-lb-direct-oop' style="text-align: center; display: inline-block;"></div>
-    <div id='div-gpt-ad-merdeka-lb' style="text-align: center; display: inline-block;"></div>
+<div class='share-wrapper' id='share_btnper'>
+<div class='share_btn'><ul>
+<li><a class='fb' href='http://www.facebook.com/sharer.php?u=http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html' onclick='window.open(this.href,"popupwindow","status=0,height=500,width=626,resizable=0,top=50,left=100");return false;' rel='nofollow' title='Share to Facebook'><i class='fa fa-facebook'></i>
+<span class='hidetitle'>Share</span></a></li>
+<li><a class='tw' href='http://www.blogger.com/share-post.g?blogID=7790715300660482229&amp;postID=2994334554183899079&amp;target=twitter' onclick='window.open(this.href,"popupwindow","status=0,height=500,width=500,resizable=0,top=50,left=100");return false;' rel='nofollow' target='_blank' title='Share to Twitter'><i class='fa fa-twitter'></i>
+<span class='hidetitle'>Share</span></a></li>
+<li><a class='gp' href='http://plus.google.com/share?url=http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html' onclick='window.open(this.href,"popupwindow","status=0,height=500,width=500,resizable=0,top=50,left=100");return false;' rel='nofollow' target='_blank' title='Share on Google+'><i class='fa fa-google-plus'></i></a></li>
+<li><div id='showshare'><span class='shareplus' href='javascript:void(0)' onclick='document.getElementById(&#39;showother&#39;).style.display=&#39;block&#39;;document.getElementById(&#39;showshare&#39;).style.display=&#39;none&#39;'><i aria-hidden='true' class='fa fa-plus'></i></span></div></li></ul>
+<ul class='showother' id='showother'>
+<li><a class='pt' href='http://pinterest.com/pin/create/button/?url=http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html&amp;media=https://i.ytimg.com/vi/pBX6UoEq0c8/default.jpg&amp;description= + data:post.title' onclick='window.open(this.href,"popupwindow","status=0,height=500,width=500,resizable=0,top=50,left=100");return false;' target='_blank'><i class='fa fa-pinterest'></i></a></li>
+<li><a class='le' href='http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html&amp;title=Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!&amp;summary=' onclick='window.open(this.href,"popupwindow","status=0,height=500,width=500,resizable=0,top=50,left=100");return false;' rel='nofollow' target='_blank' title='Share on LinkEdin'><i aria-hidden='true' class='fa fa-linkedin'></i></a></li>
+<li><a class='tr' href='http://www.tumblr.com/share' onclick='window.open(this.href,"popupwindow","status=0,height=500,width=500,resizable=0,top=50,left=100");return false;' rel='nofollow' target='_blank'><i class='fa fa-tumblr'></i></a></li>
+<li><a class='ln' href='https://timeline.line.me/social-plugin/share?url=http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html' target='_blank' title='Share On Line'>
+<svg class='icon icons8-LINE' viewBox='0 0 48 48'>
+<path d='M12.5,42h23c3.59,0,6.5-2.91,6.5-6.5v-23C42,8.91,39.09,6,35.5,6h-23C8.91,6,6,8.91,6,12.5v23      C6,39.09,8.91,42,12.5,42z' style='fill:#00C300;'></path>
+<path d='M37.113,22.417c0-5.865-5.88-10.637-13.107-10.637s-13.108,4.772-13.108,10.637      c0,5.258,4.663,9.662,10.962,10.495c0.427,0.092,1.008,0.282,1.155,0.646c0.132,0.331,0.086,0.85,0.042,1.185      c0,0-0.153,0.925-0.187,1.122c-0.057,0.331-0.263,1.296,1.135,0.707c1.399-0.589,7.548-4.445,10.298-7.611h-0.001      C36.203,26.879,37.113,24.764,37.113,22.417z M18.875,25.907h-2.604c-0.379,0-0.687-0.308-0.687-0.688V20.01      c0-0.379,0.308-0.687,0.687-0.687c0.379,0,0.687,0.308,0.687,0.687v4.521h1.917c0.379,0,0.687,0.308,0.687,0.687      C19.562,25.598,19.254,25.907,18.875,25.907z M21.568,25.219c0,0.379-0.308,0.688-0.687,0.688s-0.687-0.308-0.687-0.688V20.01      c0-0.379,0.308-0.687,0.687-0.687s0.687,0.308,0.687,0.687V25.219z M27.838,25.219c0,0.297-0.188,0.559-0.47,0.652      c-0.071,0.024-0.145,0.036-0.218,0.036c-0.215,0-0.42-0.103-0.549-0.275l-2.669-3.635v3.222c0,0.379-0.308,0.688-0.688,0.688      c-0.379,0-0.688-0.308-0.688-0.688V20.01c0-0.296,0.189-0.558,0.47-0.652c0.071-0.024,0.144-0.035,0.218-0.035      c0.214,0,0.42,0.103,0.549,0.275l2.67,3.635V20.01c0-0.379,0.309-0.687,0.688-0.687c0.379,0,0.687,0.308,0.687,0.687V25.219z      M32.052,21.927c0.379,0,0.688,0.308,0.688,0.688c0,0.379-0.308,0.687-0.688,0.687h-1.917v1.23h1.917      c0.379,0,0.688,0.308,0.688,0.687c0,0.379-0.309,0.688-0.688,0.688h-2.604c-0.378,0-0.687-0.308-0.687-0.688v-2.603      c0-0.001,0-0.001,0-0.001c0,0,0-0.001,0-0.001v-2.601c0-0.001,0-0.001,0-0.002c0-0.379,0.308-0.687,0.687-0.687h2.604      c0.379,0,0.688,0.308,0.688,0.687s-0.308,0.687-0.688,0.687h-1.917v1.23H32.052z' style='fill:#FFFFFF;'></path>
+</svg>
+</a></li>
+<li><whatsapp href='http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html' text='Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!'></whatsapp><a class='wa' data-action='share/whatsapp/share' href='idntheme'><i aria-hidden='true' class='fa fa-whatsapp' style='clear:both;font-size:24px!important'></i></a></li>
+<li><a class='em' href='http://www.blogger.com/share-post.g?blogID=7790715300660482229&amp;postID=2994334554183899079&amp;target=email' onclick='window.open(this.href,"popupwindow","status=0,height=500,width=500,resizable=0,top=50,left=100");return false;' rel='nofollow' target='_blank' title='Email This'><i class='fa fa-envelope-o'></i></a></li>
+<li><div id='showshare'><span class='shareplus' href='javascript:void(0)' onclick='document.getElementById(&#39;showother&#39;).style.display=&#39;none&#39;;document.getElementById(&#39;showshare&#39;).style.display=&#39;block&#39;'><i aria-hidden='true' class='fa fa-minus'></i></span></div></li>
+</ul>
 </div>
-
-<!--END DFP LEADERBOARD CODE-->
-  </div>
-<!--end mdk-header-->
-        <link rel="stylesheet" type="text/css" href="https://cdns.klimg.com/a.merdeka.com/v338/main-v2-detailNew.css" />
-<link rel="stylesheet" type="text/css" href="https://cdns.klimg.com/a.merdeka.com/v338/main-v2-nativeDesktop.css">
-<!--mdk-body-->  
-<div id="mdk-body">
-
-  <div class="mdkbody-wrapper">
-        <!--mdk-lc-nd-->
-        <div class="mdk-fullcolumn">
-            <div class="mdk-left">
-                <!--breadcrumb-->
-<div class="mdk-breadcrumb">
-  <a href="https://www.merdeka.com/">Merdeka</a> &gt; <a href="https://www.merdeka.com/teknologi/">Teknologi</a>
 </div>
-<!--end breadcrumb-->
-                <style>
-    .mdk-body-detail .detail-body__break {
-        position: relative;
-        margin: 30px 0px;
-        text-align: center;
-    }
-
-    .mdk-body-detail .detail-body__break>small {
-        position: relative;
-        z-index: 2;
-        font-size: 15px;
-        color: #636363;
-        background-color: #ffffff;
-        padding: 0 10px;
-        font-family: 'Noto Sans', sans-serif;
-    }
-
-    .mdk-body-detail .detail-body__break::before {
-        content: "";
-        position: absolute;
-        height: 1px;
-        width: 100%;
-        top: 50%;
-        left: 0;
-        right: 0;
-        background-color: #ececec;
-    }
-</style>
-<!--mdk-body-detail-->
-<div class="mdk-body-detail">
-    <div class="mdk-dt-headline">
-        
-        <h1>Cara Menambah Follower Instagram Aktif secara Aman, Gratis, dan Cepat</h1>
-        <div class="col-dt-hedline">
-            <div class="col-dt-left">
-                <span class="date-post">Jumat, 11 Mei 2018 17:20</span>
-                <span class="reporter">Reporter : <a target="_blank" rel="nofollow" href="https://www.merdeka.com/reporter/indra-cahya/">Indra Cahya</a>, <a target="_blank" rel="nofollow" href="https://www.merdeka.com/reporter/tantri-setyorini/">Tantri Setyorini</a></span>
-            </div>
-            <!--SOCIALTAB-->
-            <link rel="stylesheet" href="https://cdns.klimg.com/a.kapanlagi.com/v5/css/plugin.socmed.css" />
-            <div id="kl-social-share"></div>
-            <script type="text/javascript" src="https://cdns.klimg.com/a.kapanlagi.com/v5/js/plugin.socmed.js"></script>
-            <script>
-                var test = "https://www.merdeka.com/teknologi/cara-menambah-follower-instagram-kln.html";
-                var testdua = test.replace("www-dev2", "www");
-                $(document).ready(function () {
-                    $('#kl-social-share').klnShareSocmed({
-                        url: testdua,
-                        comment_count: -1,
-                        twitter_user: 'merdekadotcom',
-                    });
-                });
+<div id='subscribe-box'>
+<p> Silahkan Berlangganan Melalui Email Secara GRATIS.</p>
+<div class='emailfield'>
+<form action='http://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open(&#39;http://feedburner.google.com/sugengsiswanto/sis&#39;, &#39;popupwindow&#39;, &#39;scrollbars=yes,width=550,height=520&#39;);return true' target='popupwindow'>
+<input name='email' onblur='if (this.value == "") {this.value = "Email address";}' onfocus='if (this.value == "Email address") {this.value = "";}' type='text' value='Tulis Email disini'/>
+<input name='uri' type='hidden' value='sugengsiswanto/sis'/>
+<input name='loc' type='hidden' value='en_US'/>
+<input class='submitbutton' type='submit' value='KLIK BERLANGGANAN'/>
+</form>
+</div>
+</div>
+<script type='text/javascript'>/*<![CDATA[*/function saringtags(r,l){for(var e=r.split("<"),n=0;n<e.length;n++)-1!=e[n].indexOf(">")&&(e[n]=e[n].substring(e[n].indexOf(">")+1,e[n].length));return e=e.join(""),e=e.substring(0,l-1)}function relpostimgcuplik(r){for(var l=0;l<r.feed.entry.length;l++){var e=r.feed.entry[l];reljudul[relnojudul]=e.title.$t,postcontent="","content"in e?postcontent=e.content.$t:"summary"in e&&(postcontent=e.summary.$t),relcuplikan[relnojudul]=saringtags(postcontent,numchars),"media$thumbnail"in e?postimg=e.media$thumbnail.url:postimg="http://1.bp.blogspot.com/-htG7vy9vIAA/Tp0KrMUdoWI/AAAAAAAABAU/e7XkFtErqsU/s1600/grey.GIF",relgambar[relnojudul]=postimg;for(var n=0;n<e.link.length;n++)if("alternate"==e.link[n].rel){relurls[relnojudul]=e.link[n].href;break}relnojudul++}}function contains(r,l){for(var e=0;e<r.length;e++)if(r[e]==l)return!0;return!1}function artikelterkait(){for(var r=new Array(0),l=new Array(0),e=new Array(0),n=new Array(0),t=0;t<relurls.length;t++)contains(r,relurls[t])||(r.length+=1,r[r.length-1]=relurls[t],l.length+=1,l[l.length-1]=reljudul[t],e.length+=1,e[e.length-1]=relcuplikan[t],n.length+=1,n[n.length-1]=relgambar[t]);reljudul=l,relurls=r,relcuplikan=e,relgambar=n;for(var t=0;t<reljudul.length;t++){var a=Math.floor((reljudul.length-1)*Math.random()),u=reljudul[t],i=relurls[t],o=relcuplikan[t],s=relgambar[t];reljudul[t]=reljudul[a],relurls[t]=relurls[a],relcuplikan[t]=relcuplikan[a],relgambar[t]=relgambar[a],reljudul[a]=u,relurls[a]=i,relcuplikan[a]=o,relgambar[a]=s}for(var g,m=0,d=Math.floor((reljudul.length-1)*Math.random()),c=d,h=document.URL;relmaxtampil>m&&(relurls[d]==h||(g="<li class='news-title clearfix'>",g+="<a href='"+relurls[d]+"' rel='nofollow' target='_top' title='"+reljudul[d]+"'><div class='overlayb'><img src='"+relgambar[d]+"' /></div></a>",g+="<div class='overlaytext'><a class='relinkjdulx' href='"+relurls[d]+"' target='_top'>"+reljudul[d]+"</a></div>",g+="<span class='news-text'>"+relcuplikan[d]+"</span>",g+="</li>",document.write(g),m++,m!=relmaxtampil))&&(d<reljudul.length-1?d++:d=0,d!=c););}var relnojudul=0,relmaxtampil=2,numchars=90,reljudul=new Array,relurls=new Array,relcuplikan=new Array,relgambar=new Array;/*]]>*/</script>
+<div id='related-post'>
+<div class='relhead'>
+<h4><span>Related</span></h4>
+<div class='clear'></div>
+<script src='/feeds/posts/default/-/Trik Android?alt=json-in-script&amp;callback=relpostimgcuplik&amp;max-results=50' type='text/javascript'></script>
+<script src='/feeds/posts/default/-/Trik Instagram?alt=json-in-script&amp;callback=relpostimgcuplik&amp;max-results=50' type='text/javascript'></script>
+<ul id='related-summary'>
+<script type='text/javascript'>artikelterkait();</script>
+</ul>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2' style='display:none;'></div>
+<div class='post-footer-line post-footer-line-3' style='display:none;'></div>
+</div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<script type='text/javascript'>
+                var disqus_blogger_current_url = "http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html";
+                if (!disqus_blogger_current_url.length) {
+                    disqus_blogger_current_url = "http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html";
+                }
+                var disqus_blogger_homepage_url = "http://www.sugengsiswanto.com/";
+                var disqus_blogger_canonical_homepage_url = "http://www.sugengsiswanto.com/";
             </script>
-            <!--ENDSOCIALTAB-->
-        </div>
-    </div>
-    <div class="mdk-dt-img">
-    <img loading="auto" src="https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/11/974991/670x335/cara-menambah-follower-instagram.jpg" alt="Cara Menambah Follower Instagram Aktif secara Aman, Gratis, dan Cepat" />
-    <span class="mdk-dt-copyright">Ilustrasi followers Instagram. &copy;2018 Merdeka.com</span>
 </div>
-    <div class="mdk-body-paragraph" data-paging_num="1"><p><b>Merdeka.com - </b> Media sosial kini jadi tempat yang paling tepat untuk mengekspresikan diri. Berbagai jenis jejaring sosial seperti <b><a  target="_blank" href="https://www.merdeka.com/tag/f/facebook/">Facebook</a></b>, Twitter, serta <b><a  href="https://www.merdeka.com/teknologi/cara-menambah-follower-instagram-kln.html">instagram</a></b>, punya keunggulan masing-masing untuk kita manfaatkan sebagai sarana aktualisasi diri.</p>
-<p>Namun makin ke sini, media sosial adalah tempat berbisnis. Jika kita memiliki sebuah bisnis, kita bisa meletakkannya di media sosial untuk mendorong laju bisnis kita tersebut. Mari kita ambil contoh salah satu jejaring sosial terpopuler yakni Instagram.</p>
-<p>Jejaring sosial tempat berbagi konten foto tersebut kini sudah dipenuhi banyak sekali online shop. Namun tak perlu jauh-jauh membicarakan seseorang yang menjadikan Instagram sebagai platform toko online, banyak toko atau kedai yang tidak berbasis online, butuh untuk membuat akun Instagram untuk mendorong penjualannya. Jadi, Instagram adalah platform untuk branding, serta pendorong dikenalnya merek bisnis kita oleh masyarakat.</p>
-<p>Tak cuma untuk bisnis, bagi mereka yang mengejar titel sebagai public figure, Instagram adalah platform yang penting. Dengan memiliki follower yang banyak, Anda bisa seketika menjadi tokoh pesohor di Instagram.</p>
-<p>Banyak orang yang bukan siapa-siapa, lalu menjadi orang yang dilimpahi banyak rezeki berkat Instagram. Orang-orang ini biasa disebut Selebgram. Rezeki ini datang dari banyak hal, mulai dari endorse, kontrak iklan yang nilainya fantastis, bahkan kontrak menyanyi maupun main film pun bisa datang karena basis follower media sosialnya yang tinggi. Hal ini bukan isapan jempol semata. Nama-nama seperti Awkarin dan Rachel Venya telah membuktikan hal tersebut.</p>
-<p>Kunci dari itu semua salah satunya adalah tingginya angka follower. Benar, jika follower Anda berjumlah banyak, asli dan bukan bot, serta orang yang aktif berkomentar dan punya engagement tinggi terhadap akun Anda, Anda ataupun bisnis yang Anda besut bisa jadi sukses lewat Instagram. Oleh karena itu, mengaplikasikan berbagai cara menambah follower adalah langkah yang paling masuk akal untuk ditempuh.</p><div id="div-revive-ad-merdeka-sc" class="article-ad" style="margin: auto; text-align: center;">
-    <!-- Revive Adserver Asynchronous JS Tag - Generated with Revive Adserver v5.0.5 www.merdeka.com - Showcase -->
-    <ins data-revive-zoneid="39" data-revive-id="826a5a6d8734276706a6e7f9fac6fabb"
-        data-revive-zonename="www.merdeka.com - Showcase"></ins>
-</div><!-- Composite Start -->
-<div id="M527614ScriptRootC1231849"></div>
-<script src="https://jsc.mgid.com/m/e/merdeka.com.1231849.js" async></script>
-<!-- Composite End -->
-
-<!-- KLY Internal tracking for MGID in article -->
-<img src="" style="width:1px;height:1px;display:none;visibility:hidden;" id="M527614ScriptRootC1231849Tracker1"/>
-<script class="trackermgid">
-    var cb = new Date().getTime();
-    var url = "https://adserver.kl-youniverse.com/ck.php?oaparams=2__bannerid=429__zoneid=74__cb="+cb;
-    document.getElementById("M527614ScriptRootC1231849Tracker1").src = url;
+</div>
+<!--Can't find substitution for tag [defaultAdEnd]-->
+<div class='inline-ad'>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-7942312159255243";
+    google_ad_host = "ca-host-pub-1556223355139109";
+    google_ad_host_channel = "L0007";
+    google_ad_slot = "8003171159";
+    google_ad_width = 300;
+    google_ad_height = 250;
 </script>
-<!-- END KLY Internal tracking for MGID in article --><div class="detail-body__break"><small>2 dari 4 halaman</small></div></div><div class="mdk-body-paragraph paging-content" data-paging_num="2" >
-    <h2 class="title-dt-paging">Cara Menambah Follower Instagram Aktif secara Aman di 2018</h2>
-    
-    <p>Para pesohor di jagat Instagram seperti Selena Gomez, Ayu Ting-Ting, serta Awkarin, tidak serta-merta menggunakan kecurangan sebagai cara menambah follower Instagram mereka. Follower mereka sangat aktif, dan itu yang membuat akun mereka tersohor di Instagram.</p>
-<p>Tentu, mereka mendahuluinya dengan karya, lalu melanjutkannya dengan berbagai teknik yang menjadi rahasia cara menambah follower Instagram aktif. Mungkin hal tersebut tak mereka sadari, namun cara menambah follower aktif ini bisa kita terapkan untuk kita sendiri.</p>
-<p>Selain itu, tak cuma follower Instagram baru ini harus aktif dan bukan bot, kita harus tahu cara menambah follower Instagram yang aman. Pasalnya, jika banyak bot yang jadi follower Instagram kita, pihak Instagram akan memberantas akun kita karena hal tersebut menyalahi syarat dan kebijakan dari Instagram.</p>
-<p>Mari kita bahas cara menambah follower aktif dan aman dengan cara &#039;konvensional&#039;</p>
-<h3><strong>1. Perbanyak Konten Anda</strong></h3>
-<p>Cara menambah follower Instagram paling tepat dan aman adalah memperbanyak konten. Tentu ini adalah cara menambah follower dengan proses yang panjang dan melelahkan untuk dijalani. Oleh karena itu, kreativitas diperlukan. Jadilah diri sendiri dengan menjalani apa yang paling Anda sukai, lalu perbanyak konten Instagram Anda dengan apa yang Anda sukai tersebut. Konten Instagram ini tak boleh asal banyak saja, namun harus dibarengi oleh keunikan serta apa yang akan dilihat orang sebagai hal yang &#039;beda&#039; dari akun lain.</p>
-<div class="imagecontent"><img src="https://cdns.klimg.com/merdeka.com/i/w/foto/2018/05/11/495929/t/ilustrasi-konten-instagram-001-indra-cahya.jpg" alt="instagram" class="lazy_loaded"></div><div class="imageinfo"><span>2018 Merdeka.com</span></div>
-<h3><strong>2. Hashtag, Tagar, dan Tag Populer</strong></h3>
-<p>Menyertakan hashtag atau tanda pagar di tiap posting Instagram Anda adalah cara menambah follower Instagram yang paling mendasar. Tagar ini semacam membuat kategori yang sesuai dengan foto Instagram Anda. Hal ini akan membuat foto Anda akan lebih mudah ditemukan oleh pengguna lain, dan jika menarik, Anda akan mendapat follower baru.</p>
-<p>Sebagai contoh, jika Anda pegiat foto makanan atau Foodie, di tiap foto makanan Anda, sertakanlah tagar informasi lengkap dari makanan Anda seperti #instafood, #kulinerjakarta, #masakanpadang, #doyanmakan, dan lain sebagainya.</p>
-<div class="imagecontent"><img src="https://cdns.klimg.com/merdeka.com/i/w/foto/2018/05/11/495928/t/ilustrasi-pengunaan-hashtag-001-indra-cahya.jpg" alt="hashtag" class="lazy_loaded"></div><div class="imageinfo"><span>2018 Merdeka.com</span></div>
-<h3><strong>3. Bagi di Jejaring Sosial Lain</strong></h3>
-<p>Cara menambah follower dengan hashtag memang cukup mudah dan efektif. Namun hal ini bisa dimaksimalkan dengan membagi postingan Anda di jejaring sosial lain. Pemaksimalan ini secara mudah bisa dilakukan dengan sinkronisasi, yakni menghubungkan Instagram Anda dengan Twitter dan Facebook. Dengan ini, ketika Anda posting sesuatu di Instagram, Twitter dan Facebook Anda juga akan memposting hal yang sama. Berbeda dengan dua poin yang telah dijelaskan di atas, cara menambah follower Instagram dengan hanya membaginya adalah cara paling mudah dan minim upaya.</p>
-    <div class="detail-body__break"><small>3 dari 4 halaman</small></div>
-</div><div class="mdk-body-paragraph paging-content" data-paging_num="3" >
-    <h2 class="title-dt-paging">Cara Menambah Follower Instagram dengan Aplikasi</h2>
-    
-    <p>Salah satu langkah yang bisa ditempuh untuk menjadi Selebgram adalah cara menambah follower Instagram dengan aplikasi. Meski tak dianggap sebagai langkah yang lumrah dan seharusnya dilakukan sebagai cara menambah follower Instagram, aplikasi pihak ketiga tetap sering dimanfaatkan untuk meninggikan angka follower Instagram kita.</p>
-<p>Jika Anda ingin menerapkan cara menambah follower Instagram dengan aplikasi, berikut dua aplikasi terbaik yang bisa digunakan jadi cara menambah follower Instagram Anda.</p>
-<h3><strong>1. Fast Follower Boost</strong></h3>
-<p>Fast Follower Boost adalah aplikasi yang bisa menambah follower Anda dengan cara yang cukup adil. Pasalnya cara menambah follower Instagram dengan Fast Follower Boost mengharuskan Anda mengumpulkan poin terlebih dahulu untuk nantinya ditukar dengan follower aktif. Untuk meraih koin, caranya dengan menonton video iklan, memberi rating baik ke beberapa aplikasi di Google Play, hingga mengunduh beberapa aplikasi tertentu.</p>
-<div class="imagecontent"><img src="https://cdns.klimg.com/merdeka.com/i/w/foto/2018/05/11/495926/t/aplikasi-fast-follower-boost-001-indra-cahya.jpeg" alt="follower boost" class="lazy_loaded"></div><div class="imageinfo"><span>2018 Merdeka.com</span></div>
-<h3><strong>2. Fame Boom for Real Followers, Likes</strong></h3>
-<p>Fame Boom for Real Followers, Likes adalah aplikasi serupa Fast Follower Boost, yang mengandalkan penukaran koin serupa. Ini adalah cara menambah follower Instagram dengan upaya yang cukup tinggi, pasalnya Anda harus rajin menonton video iklan, serta menginput tag populer yang telah disediakan aplikasi Fame Boom.</p>
-<div class="imagecontent"><img src="https://cdns.klimg.com/merdeka.com/i/w/foto/2018/05/11/495923/t/aplikasi-fame-boom-for-real-followers-like-001-indra-cahya.jpg" alt="boom for real followers like" class="lazy_loaded"></div><div class="imageinfo"><span>2018 Merdeka.com</span></div>
-    <!-- Composite Start -->
-<div id="M527614ScriptRootC1231849"></div>
-<script src="https://jsc.mgid.com/m/e/merdeka.com.1231849.js" async></script>
-<!-- Composite End -->
-
-<!-- KLY Internal tracking for MGID in article -->
-<img src="" style="width:1px;height:1px;display:none;visibility:hidden;" id="M527614ScriptRootC1231849Tracker3"/>
-<script class="trackermgid">
-    var cb = new Date().getTime();
-    var url = "https://adserver.kl-youniverse.com/ck.php?oaparams=2__bannerid=429__zoneid=74__cb="+cb;
-    document.getElementById("M527614ScriptRootC1231849Tracker3").src = url;
+<!-- sugengsis_main_Blog1_300x250_as -->
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-<!-- END KLY Internal tracking for MGID in article --><div class="detail-body__break"><small>4 dari 4 halaman</small></div>
-</div><div class="mdk-body-paragraph paging-content" data-paging_num="4" >
-    <h2 class="title-dt-paging">Cara Menambah Follower Instagram Orang Indonesia dengan Cepat dan Tanpa Following</h2>
-    
-    <p>Jika berbicara cara menambah follower Instagram dengan cepat, rasanya jalan pintas harus ditempuh. Pasalnya jika Anda menyimak beberapa poin di atas, cara menambah follower di Instagram ini tak mudah dan penuh upaya yang melelahkan. Namun jangan khawatir, cara menambah follower Instagram masih memiliki &#039;jalan pintas&#039; yang bisa dengan cepat membawa Anda jadi akun berfollower tinggi.</p>
-<p>Berikut cara menambah follower dengan cepat, tanpa following, dan murni orang Indonesia.</p>
-<h3><strong>1. Cara Menambah Follower Instagram dengan Teknik &#039;Follow-Unfollow&#039;</strong></h3>
-<p>Cara menambah follower Instagram bisa dilakukan dengan salah satu teknik yang tak banyak orang tahu, yakni follow-unfollow. Ini bisa dilakukan dengan cara mencari akun dengan follower fantastis seperti Ayu Ting-Ting (ayutingting92) yang memiliki jumlah follower lebih dari 24 juta. Setelah akun Ayu Ting-Ting sudah Anda temukan, masuklah ke tab followernya, lalu follow orang-orang teratas dari follower Ayu Ting-Ting tersebut.</p>
-<p>Hal ini cukup efektif dilakukan karena biasanya follower baru dari akun-akun Instagram selebriti dipenuhi oleh akun baru yang memang sedang mencari follower. Dengan memfollow akun tersebut, Anda biasanya akan diberi follow balik atau followback. Teknik ini bisa dilakukan ke selebriti, selebgram, atau siapapun yang sedang viral. Namun cara menambah follower Instagram ini harus dilakukan dengan dengan catatan, jika Anda ingin follower orang Indonesia followlah seleb Indonesia juga.</p>
-<p>Namun jangan follow banyak akun dalam satu waktu. Baiknya, Anda harus beri jeda setengah jam atau sejam, tiap memfollow 20 akun. Jika tidak, pertambahan following dan follower akan terasa tak natural dan Anda akan berakhir disuspend oleh Instagram.</p>
-<p>Nah, setelah beberapa hari melakukan following dan telah mendapat banyak followback, unfollow akun-akun tersebut. Hal ini cukup masuk akal dilakukan karena tak ada notifikasi ke akun yang kita unfollow dan akun tersebut pun tak akan melihat ada yang berbeda dari akun kita.</p>
-<h3><strong>2. Cara Menambah Follower Instagram dengan Teknik &#039;Follow Seleb&#039;</strong></h3>
-<p>Salah satu cara menambah follower Instagram paling mudah adalah dengan memfollow selebritas-selebritas yang terkenal di Instagram. Benar, hanya dengan memfollow orang-orang berpengaruh di jagat Instagram, follower Anda akan bertambah dengan sendirinya. Hal ini dilakukan dengan juga dengan catatan, jika Anda ingin follower orang Indonesia, followlah seleb Indonesia juga.</p>
-<p>Sebagai contoh, jika Anda memfollow chef Farah Quinn di Instagram, maka dalam waktu dekat akan banyak sekali akun-akun penggemar dari Farah Quinn, akun pecinta makanan, atau bahkan berbagai akun Instagram baru yang memang sedang mencari follower, akan memfollow Instagram Anda.</p>
-<p>Teknik "follow-unfollow" juga bisa diterapkan lagi di teknik ini sebagai cara menambah follower Instagram. Jadi, follow seleb tersebut, biarkan selama beberapa menit hingga Anda mendapatkan beberapa follower, lalu unfollow seleb tersebut. Follow lagi dalam beberapa menit, dapat follower, unfollow lagi. Lakukan terus berulang-ulang dan di banyak seleb hingga Anda dapat banyak follower.</p>
-<p>Demikian cara-cara menambah follower Instagram aktif yang bisa diterapkan untuk akun Anda. <strong>[idc]</strong></p><p class="dont-display"><strong>Baca juga:</strong><br /><a  href="http://www.merdeka.com/teknologi/instagram-uji-coba-fitur-baru-mirip-tiktok.html" target="_blank">Instagram Uji Coba Fitur Baru, Mirip TikTok</a><br /><a  href="http://www.merdeka.com/teknologi/instagram-dilaporkan-tetap-diminati-influencer-meski-tanpa-like.html" target="_blank">Instagram Dilaporkan Tetap Diminati Influencer, Meski Tanpa Like</a><br /><a  href="http://www.merdeka.com/teknologi/uji-coba-sembunyikan-jumlah-likes-instagram-disebut-ingin-hadirkan-konten-natural.html" target="_blank">Uji Coba Sembunyikan Jumlah Likes, Instagram Diduga Ingin Hadirkan Konten Natural</a><br /><a  href="http://www.merdeka.com/teknologi/indonesia-kecipratan-uji-coba-hilangkan-like-instagram.html" target="_blank">Indonesia Kecipratan Uji Coba Hilangkan Like Instagram</a><br /><a  href="http://www.merdeka.com/teknologi/ini-penampakan-instagram-tanpa-fitur-like-menurut-kamu.html" target="_blank">Ini Penampakan Instagram Tanpa Fitur Like, Menurut Kamu?</a></p>
-    
 </div>
-    
-</div>
-<!--end mdk-body-detail-->
-<!--crosslink-->
-<div class="mdk-dt-box mdk-dt-crosslink">
-    
-    <!-- Composite Start -->
-<div id="M527614ScriptRootC1227871"></div>
-<script src="https://jsc.mgid.com/m/e/merdeka.com.1227871.js" async></script>
-<!-- Composite End -->
+<!--Can't find substitution for tag [adStart]-->
 
-<!-- KLY Internal tracking for MGID under article -->
-<img src="" style="width:1px;height:1px;display:none;visibility:hidden;" id="M527614ScriptRootC1227871Tracker"/>
+              </div></div>
+            
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='http://www.sugengsiswanto.com/2017/08/fitur-tersembunyi-pada-fingerprint-android.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://www.sugengsiswanto.com/2017/11/ini-dia-cara-mengoperasikan-smartphone.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='http://www.sugengsiswanto.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+</div>
+</div></div>
+</div>
+<div id='sidebar-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPSideBar'>
+<div class='sidebar top section' id='sidebar top'><div class='widget AdSense' data-version='1' id='AdSense1'>
+<div class='widget-content'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sugengsis_sidebar top_AdSense1_1x1_as -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942312159255243"
+     data-ad-host="ca-host-pub-1556223355139109"
+     data-ad-host-channel="L0001"
+     data-ad-slot="3166785244"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
-    var cb = new Date().getTime();
-    var url = 'https://adserver.kl-youniverse.com/ck.php?oaparams=2__bannerid=425__zoneid=74__cb='+cb;
-    document.getElementById("M527614ScriptRootC1227871Tracker").src = url;
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<!-- END KLY Internal tracking for MGID under article --><div class="mdk-article-crosslink">
-    <div class="item-crosslink">
-    <a href="https://www.merdeka.com/politik/orang-orang-di-balik-perang-2019gantipresiden-vs-2019tetapjokowi.html" class="img-block"><img class="lazy_loaded" width="140" height="70" data-src="https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/05/972514/140x70/orang-orang-di-balik-perang-2019gantipresiden-vs-2019tetapjokowi.jpg" src="https://cdns.klimg.com/merdeka.com/media/i/a/blank.png" alt="Orang-orang di balik perang #2019GantiPresiden vs #2019TetapJokowi" /></a>
-    <div class="deskrip-bottom">
-        <a href="https://www.merdeka.com/politik/orang-orang-di-balik-perang-2019gantipresiden-vs-2019tetapjokowi.html" class="link-item-crosslink">Orang-orang di balik perang #2019GantiPresiden vs #2019TetapJokowi</a>
-    </div>
+<div class='clear'></div>
 </div>
-<div class="item-crosslink">
-    <a href="https://www.merdeka.com/peristiwa/pengamat-sebut-perang-tagar-bentuk-ekspresi-simbolik-yang-meningkatkan-partisipasi.html" class="img-block"><img class="lazy_loaded" width="140" height="70" data-src="https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/05/972501/140x70/pengamat-sebut-perang-tagar-bentuk-ekspresi-simbolik-yang-meningkatkan-partisipasi.jpg" src="https://cdns.klimg.com/merdeka.com/media/i/a/blank.png" alt="Pengamat sebut perang tagar bentuk ekspresi simbolik yang meningkatkan partisipasi" /></a>
-    <div class="deskrip-bottom">
-        <a href="https://www.merdeka.com/peristiwa/pengamat-sebut-perang-tagar-bentuk-ekspresi-simbolik-yang-meningkatkan-partisipasi.html" class="link-item-crosslink">Pengamat sebut perang tagar bentuk ekspresi simbolik yang meningkatkan partisipasi</a>
-    </div>
-</div>
-<div class="item-crosslink">
-    <a href="https://www.merdeka.com/teknologi/cara-menghapus-akun-facebook-kln.html" class="img-block"><img class="lazy_loaded" width="140" height="70" data-src="https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/04/972260/140x70/cara-menghapus-akun-facebook.jpg" src="https://cdns.klimg.com/merdeka.com/media/i/a/blank.png" alt="Cara menghapus akun Facebook secara permanen di PC atau Android, meski lupa password" /></a>
-    <div class="deskrip-bottom">
-        <a href="https://www.merdeka.com/teknologi/cara-menghapus-akun-facebook-kln.html" class="link-item-crosslink">Cara menghapus akun Facebook secara permanen di PC atau Android, meski lupa password</a>
-    </div>
-</div>
-<div class="item-crosslink">
-    <a href="https://www.merdeka.com/uang/kominfo-obat-obatan-dilarang-dijual-secara-online-di-media-sosial.html" class="img-block"><img class="lazy_loaded" width="140" height="70" data-src="https://cdns.klimg.com/merdeka.com/i/w/news/2018/04/30/970441/140x70/kominfo-obat-obatan-dilarang-dijual-secara-online-di-media-sosial.jpg" src="https://cdns.klimg.com/merdeka.com/media/i/a/blank.png" alt="Kominfo: Obat-obatan dilarang dijual secara online di media sosial" /></a>
-    <div class="deskrip-bottom">
-        <a href="https://www.merdeka.com/uang/kominfo-obat-obatan-dilarang-dijual-secara-online-di-media-sosial.html" class="link-item-crosslink">Kominfo: Obat-obatan dilarang dijual secara online di media sosial</a>
-    </div>
-</div>
-
-</div>
-</div>
-<!--end crosslink-->
-<!--berita-terkait-->
-<div class="mdk-dt-box mdk-dt-terkait">
-    <h6>Topik berita Terkait:</h6>
-    <ol class="mdk-list-terkait">
-        <li class="title-terkait"><img src="https://cdns.klimg.com/merdeka.com/media/i/a/tag_detail.png" height="28" alt="tag"/></li>
-        <li><a href="https://www.merdeka.com/tag/m/media-sosial/">Media Sosial</a></li><li><a href="https://www.merdeka.com/instagram/">Instagram</a></li><li><a href="https://www.merdeka.com/tag/f/foto-instagram/">Foto Instagram</a></li><li><a href="https://www.merdeka.com/tag/s/selebriti-instagram/">Selebriti Instagram</a></li><li><a href="https://www.merdeka.com/tag/i/instagram-in-hand/">Instagram In Hand</a></li>
-    </ol>
-</div>
-<!--end berita-terkait-->
-
-<div class="mdk-dt-box mdk-komentar">
-	<h5 class="title-komentar">Komentar Pembaca</h5>
-	<div class="disclaimer-comment">
-		<p>Ingatlah untuk menjaga komentar tetap hormat dan mengikuti <a href="https://www.merdeka.com/company/disclaimer.html">pedoman komunitas</a> kami</p>
-	</div>
-	<div class="fb-comments" data-href="https://www.merdeka.com/teknologi/cara-menambah-follower-instagram-kln.html" data-num-posts="10" data-width="650"></div>
-	<div id="fb-root"></div>
-	<script>
-		window.fbAsyncInit = function() {
-			FB.init({appId: '341995562513785', status: true, cookie: true, xfbml: true});
-		  };
-		  (function() { 
-			var e = document.createElement('script');
-			e.type = 'text/javascript';
-			e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-			e.async = true;
-			document.getElementById('fb-root').appendChild(e);
-		  }());
-	
-		  $(document).ready(function(){
-			var s = document.createElement('script');
-			s.type = 'text/javascript';
-			s.src = 'https://static.ak.fbcdn.net/connect.php/js/FB.Share';
-			s.async = true;
-			document.getElementById('fb-root').appendChild(s);
-		  });
-	</script>        
-</div>
-<div class="mdkBeSwiper">
-    <div class="mdkBeSwiper-head">
-        <h1 class="mdkBeSwiper-title"><a href="https://www.merdeka.com/tag/be-smart"><img
-                    src="https://cdns.klimg.com/merdeka.com/media/i/a/mdkbesmart/logo.png" alt="logo" width="108"
-                    height="26"></a>
-        </h1>
-        <div class="mdkBeSwiper-pagination">
-            <div class="swiper-button swiper-button-prev"><img
-                    src="https://cdns.klimg.com/merdeka.com/media/i/a/mdkbesmart/arrow-left.png" alt="arrow" width="6"
-                    height="10"></div>
-            <div class="swiper-button swiper-button-next"><img
-                    src="https://cdns.klimg.com/merdeka.com/media/i/a/mdkbesmart/arrow-right.png" alt="arrow" width="6"
-                    height="10"></div>
-        </div>
-    </div>
-    <div class="mdkBeSwiper-body">
-        <div class="swiper-container">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-    <a href="https://www.merdeka.com/peristiwa/kilas-perjalanan-vaksinasi-covid-19-di-indonesia.html" class="item">
-        <figure class="item-image"><img loading="auto" class="lazyload" src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/12/17/1388150/140x70/kilas-perjalanan-vaksinasi-covid-19-di-indonesia.jpg" width="300" height="150" alt="image"></figure>
-        <div class="item-desc">
-            <p>Kilas Perjalanan Vaksinasi Covid-19 di Indonesia</p>
-        </div>
-    </a>
-</div><div class="swiper-slide">
-    <a href="https://www.merdeka.com/peristiwa/bmkg-jember-diguncang-gempa-merusak-lebih-dari-6-kali-sejak-1896.html" class="item">
-        <figure class="item-image"><img loading="auto" class="lazyload" src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/12/17/1387975/140x70/bmkg-jember-diguncang-gempa-merusak-lebih-dari-6-kali-sejak-1896.jpg" width="300" height="150" alt="image"></figure>
-        <div class="item-desc">
-            <p>BMKG: Jember Diguncang Gempa Merusak Lebih Dari 6 Kali Sejak 1896</p>
-        </div>
-    </a>
-</div><div class="swiper-slide">
-    <a href="https://www.merdeka.com/uang/cek-syarat-perjalanan-kereta-terbaru-selama-libur-nataru-berlaku-mulai-hari-ini.html" class="item">
-        <figure class="item-image"><img loading="auto" class="lazyload" src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/12/17/1387890/140x70/cek-syarat-perjalanan-kereta-terbaru-selama-libur-nataru-berlaku-mulai-hari-ini.jpg" width="300" height="150" alt="image"></figure>
-        <div class="item-desc">
-            <p>Cek Syarat Perjalanan Kereta Terbaru Selama Libur Nataru, Berlaku Mulai Hari ini</p>
-        </div>
-    </a>
-</div><div class="swiper-slide">
-    <a href="https://www.merdeka.com/dunia/pelajaran-yang-bisa-dipetik-dari-afrika-selatan-dalam-menghadapi-omicron.html" class="item">
-        <figure class="item-image"><img loading="auto" class="lazyload" src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/12/16/1387777/140x70/pelajaran-yang-bisa-dipetik-dari-afrika-selatan-dalam-menghadapi-omicron.jpg" width="300" height="150" alt="image"></figure>
-        <div class="item-desc">
-            <p>Pelajaran yang Bisa Dipetik dari Afrika Selatan dalam Menghadapi Omicron</p>
-        </div>
-    </a>
-</div>
-            </div>
-        </div>
-    </div>
-    <div class="mdkBeSwiper-foot"><a class="linkall" href="https://www.merdeka.com/tag/be-smart"
-            alt="selengkapnya">Selengkapnya &raquo;</a></div>
-</div>
+</div><div class='widget HTML' data-version='1' id='HTML4'>
+<div class='widget-content'>
+<!-- sugeng.com_sidebar_top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942312159255243"
+     data-ad-slot="7292055250"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
-    $(function () {
-        $(window).scroll(function () {
-            $(".mdkBeSwiper:not(.elementimpressions-initialized)").each(function () {
-                var targetelement = $(this);
-                if (element_onviewport(targetelement)) {
-                    var pathname = window.location.pathname;
-                    pathname = pathname.split("/");
-                    var kanal_page = pathname[1];
-                    if (kanal_page == '') {
-                        kanal_page = 'root';
-                    }
-
-                    targetelement.addClass('elementimpressions-initialized');
-                    window.dataLayer = window.dataLayer || [];
-                    window.dataLayer.push({
-                        'event': "impression",
-                        'feature_name': "be-smart-widget",
-                        'feature_location': "bottom",
-                        'kanal_page': kanal_page,
-                    });
-                }
-            });
-        });
-
-        $(".mdkBeSwiper .swiper-slide").each(function (index) {
-            var targetelement = $(this);
-            targetelement.on('click', function () {
-                var pathname = window.location.pathname;
-                pathname = pathname.split("/");
-                var kanal_page = pathname[1];
-                if (kanal_page == '') {
-                    kanal_page = 'root';
-                }
-
-                window.dataLayer = window.dataLayer || [];
-                window.dataLayer.push({
-                    'event': "click",
-                    'feature_name': "be-smart-widget",
-                    'feature_location': "bottom",
-                    'feature_position': index + 1,
-                    'kanal_page': kanal_page,
-                });
-            });
-        });
-    });
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-<!--video-native-->
-<div class="mdk-dt-box mdk-video-native">
-    <div id="dnative_video_one_container"></div>
-    <!--end video-native-->
-    <script>
-        $(document).ready(function () {
-            $.ajax({
-                url: '/get-ajax/dnative_video_one/',
-                success: function (data) { $('#dnative_video_one_container').html(data); }
-            });
-        });
-    </script>
 </div>
-<!--join-->
-<div class="mdk-dt-box mdk-join">
-    <ul class="list-join16">
-        <li><a href="https://www.facebook.com/MDKcom" class="fb-join"><span
-                    style="visibility:hidden">Facebook</span></a>
-        </li>
-        <li><a href="https://twitter.com/merdekadotcom" class="tweet-join"><span
-                    style="visibility:hidden">Twitter</span></a></li>
-        <li><a href="https://www.instagram.com/merdekadotcom/" class="insta-join"><span
-                    style="visibility:hidden">Instagram</span></a></li>
-        <li><a href="https://www.youtube.com/channel/UCdOovgmIPfj9a-o3VP5i2_g" class="youtube-join"><span
-                    style="visibility:hidden">Youtube</span></a></li>
-    </ul>
-</div>
-<!--end join-->
-                <!--end komentar-->
-                <!--list-article-detail-->
+<div class='clear'></div>
+</div></div>
+<div id='floatside'>
+<div class='sidebar section' id='sidebar'><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
 <script>
-    $(function(){
-        $('#mdk-det-list-load-gif').fadeIn('normal', function() {
-            $.ajax({
-                url        : '/get-ajax/merdeka_besmart/teknologi/',
-                success        : 
-                function(data){
-                    $('.mdk-list-readmore').html(data);
-                },
-                complete: function () {
-                    infInitCfg = {
-                        publisherId : 50715890,
-                        wrapperPage : 'https://www.merdeka.com/infeed/wrapper.html',
-                        seoUrl: true,
-                        slots : [
-                        'inf-1', 'inf-2', 'inf-3', 'inf-4', 'inf-5', 'inf-6'
-                        ],
-                        templateID : 107
-                    };
-                    (function() {
-                        var infScript = document.createElement("script"); 
-                        el = document.getElementsByTagName("script")[0]; 
-                        infScript.async = true;
-                        infScript.type = 'text/javascript';
-                        infScript.src = "https://d.infeed.id/resources/js/v0.0.2/infeed-init.js";
-                        el.parentNode.insertBefore(infScript, el);
-                    })();
-                }
-            });
-        });
-    });
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7942312159255243",
+          enable_page_level_ads: true
+     });
 </script>
-<div class="mdk-dt-box mdk-readmore">
-  <h2 class="title-readmore">Be Smart, <span>Read More</span></h2>
-    <ul class="mdk-item-list mdk-list-readmore">
-    </ul>
-    <div id="mdk-det-list-load-gif" style="display: none;"></div>
-    <a href="https://www.merdeka.com/indeks-berita/" class="btn-mdk-next">Indeks Berita Hari Ini</a>
 </div>
-
-            </div>
-            <div class="mdk-right">
-              <!--SHOWCASE1-->
-<div id="mdk-showcase1">
-    <!--DFP SHOWCASE1 CODE--> 
-        <div id='div-gpt-ad-merdeka-sc1'></div>
-    <!--END DFP SHOWCASE1 CODE-->
-</div>
-
-<!--ENDOFSHOWCASE1-->
-              <!--SHOWCASE2-->
-<div id="mdk-showcase2">
-    <!--DFP SHOWCASE2 CODE--> 
-        <div id='div-gpt-ad-merdeka-sc2'></div>
-    <!--END DFP SHOWCASE2 CODE-->
-</div>
-
-<!--ENDOFSHOWCASE2-->
-              <!--MARCOMM-->
-<div id="mdk-marcomm">
-
-<!--DFP MARCOMM1 CODE--> 
-<div id='div-gpt-ad-merdeka-marcomm1-oop'></div>
-<!--END DFP MARCOMM1 CODE-->
-</div>
-<!--ENDOFMARCOMM-->
-
-              <div id="mdk-marcomm">
-<!--DFP GOVERMENT1 CODE--> 
-<div id='div-gpt-ad-merdeka-government1-oop'></div>
-<!--DFP GOVERMENT1 CODE--> 
-</div>
-
-              <style type="text/css">
-    .mdk-pilkada-right {
-        margin-bottom: 35px;        
-    }
-    .mdk-pilkada-right .title-pilkada {
-        padding: 0;
-        display: block;
-    }
-    .mdk-pilkada-right .title-pilkada > img {
-        width: 100%;
-        margin-top: 5px;
-    }
-    .mdk-pilkada-right .mdk-item-list > li {
-        margin-top: 23px;
-    }
-    .mdk-pilkada-right .mdk-item-list > li .deskrip-right .link-list a {
-        font-size: 14px;
-    }
-    
-    h4.mdk-title-gradient {
-		margin-top: 0px !important;
-	}
-    
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML99'>
+<h2 class='ripplelink title'>Pengetahuan Baru</h2>
+<div class='widget-content'>
+<style scoped='' type='text/css'>
+ul.recent_posts_arlina li{display:inline-block;position:relative;width:100%;margin:0;padding:8px 0;transition:all .3s linear;}
+ul.recent_posts_arlina li:last-child {border:0;}
+.recent_posts_arlina .wrapinfo{margin:0 10px 0 0;overflow:hidden;z-index:2;display:block;position:relative;border-radius:0;width:100px;height:auto;float:left}
+ul.recent_posts_arlina li img.recent_thumb{width:100%;height:auto}
+.recent_posts_arlina {float:left;width:100%;margin:10px 10px 5px 0px;padding:0;font-size:.9rem;}
+ul.recent_posts_arlina li a{color:#202020;font-size:14px;font-weight:400;line-height:normal}
+ul.recent_posts_arlina li a:hover{color:#ec2028}
+.recent_posts_arlina i{font-style:normal;color:#999;font-size:13px}
 </style>
-<div class="mdk-pilkada-right">
-    <h4 class="mdk-title-gradient text-center"><a href="https://www.merdeka.com/tag/h/hot-issue/">Hot Issue</a></h4>
-    <ul class="mdk-item-list">
-        <li>
-	<a href="https://www.merdeka.com/peristiwa/memahami-gempa-m-74-di-ntt-yang-picu-97-kali-guncangan-hot-issue.html" class="img-left"><img class="lazy_loaded" data-src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/12/15/1386921/110x55/memahami-gempa-m-74-di-ntt-yang-picu-97-kali-guncangan-hot-issue.jpg" src="https://cdns.klimg.com/merdeka.com/media/i/a/blank.png" alt="Memahami Gempa M 7,4 di NTT yang Picu 97 Kali Guncangan" style="width: 110px; height: 55px;"></a>
-	<div class="deskrip-right">
-		<p class="link-list"><a href="https://www.merdeka.com/peristiwa/memahami-gempa-m-74-di-ntt-yang-picu-97-kali-guncangan-hot-issue.html">Memahami Gempa M 7,4 di NTT yang Picu 97 Kali Guncangan</a></p>
-	</div>
-</li>
-<li>
-	<a href="https://www.merdeka.com/peristiwa/bentrok-di-desa-tamilouw-yang-tak-perlu-terjadi-hot-issue.html" class="img-left"><img class="lazy_loaded" data-src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/12/09/1385047/110x55/bentrok-di-desa-tamilouw-yang-tak-perlu-terjadi-hot-issue.jpg" src="https://cdns.klimg.com/merdeka.com/media/i/a/blank.png" alt="Bentrok di Desa Tamilouw yang Tak Perlu Terjadi" style="width: 110px; height: 55px;"></a>
-	<div class="deskrip-right">
-		<p class="link-list"><a href="https://www.merdeka.com/peristiwa/bentrok-di-desa-tamilouw-yang-tak-perlu-terjadi-hot-issue.html">Bentrok di Desa Tamilouw yang Tak Perlu Terjadi</a></p>
-	</div>
-</li>
-<li>
-	<a href="https://www.merdeka.com/peristiwa/cara-mendeteksi-dan-mengonfirmasi-varian-covid-19-omicron.html" class="img-left"><img class="lazy_loaded" data-src="https://cdns.klimg.com/merdeka.com/i/w/news/2021/12/09/1384944/110x55/cara-mendeteksi-dan-mengonfirmasi-varian-covid-19-omicron.jpg" src="https://cdns.klimg.com/merdeka.com/media/i/a/blank.png" alt="Cara Mendeteksi dan Mengonfirmasi Varian Covid-19 Omicron" style="width: 110px; height: 55px;"></a>
-	<div class="deskrip-right">
-		<p class="link-list"><a href="https://www.merdeka.com/peristiwa/cara-mendeteksi-dan-mengonfirmasi-varian-covid-19-omicron.html">Cara Mendeteksi dan Mengonfirmasi Varian Covid-19 Omicron</a></p>
-	</div>
-</li>
-
-    </ul>
-</div>
-
-              <!--mdk-rekomendasi-->
-<div class="mdk-rekomendasi">
-  <div class="box-kolom-kanan-mdk" id="mdk-kolom-rekomendasi" style="display: none;">
-    <h4 class="mdk-title-gradient text-center">Rekomendasi</h4>
-    <div id="mdk-recommendation">
-      <div id="mdk-recommendation-first"></div>
-    </ul>
-    <div id="mdk-rekomendasi-load-gif" style="display: none;"></div>
-  </div>
-</div>
-<input type="hidden" id="limit_top" value=""/>
-            </div>
-        </div>
-        <!--end mdk-lc-nd-->
-    </div>  
-</div>
-<!--end mdk-body-->
-
-<!-- JSVIEW -->
-<script async="async" type="text/javascript" src="https://app.merdeka.com/jsview-w/teknologi/974991/Cara Menambah Follower Instagram Aktif secara Aman, Gratis, dan Cepat/"></script>
-<!-- END JSVIEW -->
-<!-- FB COUNT INFO -->
-<script async="async" type="text/javascript" src="https://app.merdeka.com/fb-info/974991_teknologi_cara-menambah-follower-instagram-kln.html"></script>
-<!-- END FB COUNT INFO -->
-
-
-    </div>
-    <!--end section-homepage-->
-    <!--DFP POPUP CODE--> 
-<div id='div-gpt-ad-merdeka-popup-oop'></div>
-<!--END DFP POPUP CODE-->
-
-    <!--DFP SKINAD CODE--> 
-<div id='div-gpt-ad-merdeka-skinad-oop'></div>
-<!--END DFP SKINAD CODE-->
-
-    <!--DFP IMMERSIVE CODE-->
-<div id="div-gpt-ad-merdeka-immersive-oop"></div>
-<!--END DFP IMMERSIVE CODE-->
-         <!--DFP BOTTOM FRAME CODE--> 
-        <div id='div-gpt-ad-merdeka-bottomfrm-oop'></div>
-    <!--END DFP BOTTOM FRAME CODE-->
-
-    <!--DFP LEFT EDGE FLOATING CODE--> 
-<div id='div-gpt-ad-merdeka-lFloating-oop'></div>
-<!--END DFP LEFT EDGE FLOATING CODE-->
-
-    <script>var gpt_gam_ver="v07-DK";gpt_gam_site=window.location.hostname.toUpperCase(),gpt_gam_ver="undefined"!=typeof gpt_gam_site?gpt_gam_ver.toUpperCase():"V.0.1",console.log("%c GPT "+gpt_gam_site+" "+gpt_gam_ver,"color:#d3d3d3; font-size:25px; font-weight: bold; -webkit-text-stroke: 1px black;"),String.prototype.klyFiltering=function(a){return this.replace(/[\"\']/g,"").trim().split(a).map((function(a){return a.trim().toLowerCase()})).filter((function(a){return""!=a}))},window.GAMLibrary={},window.GAMLibrary={dfpBillboard:"/36504930/www.merdeka.com/dfp-billboard",dfpBottomFrm:"/36504930/www.merdeka.com/dfp-bottomfrm",dfpRecommend1:"/36504930/www.merdeka.com/dfp-recommend-slot-1",dfpRecommend2:"/36504930/www.merdeka.com/dfp-recommend-slot-2",gamImmersive:"/36504930/www.merdeka.com/dfp-immersive",documentMeta:function(a){var e="",t=document.getElementsByTagName("meta");if(t)for(var o=0,n=t.length;o<n;o++)t[o].name.toLowerCase()==a&&(e+=t[o].content);return""!=e?e:""},inArray:function(a,e){for(var t=e.length,o=0;o<t;o++)if(e[o]==a)return!0;return!1},arrToLowerCase:function(a){return a.map((function(a,e){return a.toLowerCase()}))},dfp_getCookieValue:function(a){var e=document.cookie,t=e.indexOf(" "+a+"=");if(-1==t&&(t=e.indexOf(a+"=")),-1==t)e=null;else{t=e.indexOf("=",t)+1;var o=e.indexOf(";",t);-1==o&&(o=e.length),e=unescape(e.substring(t,o))}return e},extractDomain:function(){var a=window.location.href;return(a.indexOf("://")>-1?a.split("/")[2]:a.split("/")[0]).split(":")[0]},dfp_setCookie:function(a,e,t,o){e=escape(e);var n=this.extractDomain();if(""==o){var i=new Date;i.setHours(i.getHours(),i.getMinutes()+10),o=i.toGMTString()}""!=t&&(t=";Path="+t),document.cookie=a+"="+e+";expires="+o+t+";Domain="+n},initiateSCReadPage:function(){var a=document.querySelector(".mdk-body-detail"),e=a?a.querySelectorAll(".mdk-body-paragraph.paging-content"):0;if(e){var t=1;e.forEach((function(a,e){if(e%2==0){a.setAttribute("paging-index",t);var o=a.querySelector(".detail-body__break"),n=document.createElement("div");n.setAttribute("id","gpt-ad-merdeka-sc-"+t),n.setAttribute("class","article-ad"),a.insertBefore(n,o),t++}})),mo=new MutationObserver((function(a){a.forEach((function(a){var e,t,o=a.oldValue,n=a.target;o&&o.match(/mdk-body-paragraph paging-content/gi)&&(t=n.getAttribute("paging-index"),n.childNodes.forEach((function(a,o){a.id&&a.id.match(/gpt-ad-merdeka-sc/gi)&&document.getElementById(a.id)&&!e&&(e=googletag.defineSlot("/36504930/www.merdeka.com/dfp-sc2",[[300,250],[250,250]],a.id))&&(e.addService(googletag.pubads()).setTargeting("pagetype",kly.pageType).setTargeting("position",t),googletag.display(a.id),googletag.pubads().refresh([e]))})))}))})),a&&mo.observe(a,{childList:!0,attributes:!0,characterData:!1,subtree:!0,attributeOldValue:!0,characterDataOldValue:!1})}},userAgent:navigator.userAgent.toLowerCase(),GAMisTablet:/(ipad|tablet|(android(?!.*mobile))|(windows(?!.*phone)(.*touch))|kindle|playbook|silk|(puffin(?!.*(IP|AP|WP))))/.test(this.userAgent)};var PWT={},googletag=googletag||{};googletag.cmd=googletag.cmd||[];var gptRan=!1;PWT.jsLoaded=function(){loadGPT()};var loadGPT=function(){if(!gptRan){gptRan=!0;var a=document.createElement("script"),e=document.createElement("script"),t="https:"==document.location.protocol;a.src=(t?"https:":"http:")+"//securepubads.g.doubleclick.net/tag/js/gpt.js",e.src=(t?"https:":"http:")+"//adserver.kl-youniverse.com/asyncjs.php",a.async=!0,e.async=!0;var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(a,o),o.parentNode.insertBefore(e,o)}};setTimeout(loadGPT,500),function(){var a=window.location.href,e="";if(a.indexOf("pwtv=")>0){var t=/pwtv=(.*?)(&|$)/g.exec(a);t.length>=2&&t[1].length>0&&(e="/"+t[1])}var o=document.createElement("script");o.async=!0,o.type="text/javascript",o.src="//ads.pubmatic.com/AdServer/js/pwt/156536/479"+e+"/pwt.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(o,n),PWT.HookForPrebidRequestBids=function(a){a.forEach((function(a){a.bids.forEach((function(a){if("spotx"==a.bidder){var e=window.top!=window.parent?document.referrer:window.location.href;a.params.custom={page_url:e},a.params.outstream_function=function(a){const e=a.adUnitCode.split("@")[0];let t=window.document.createElement("script");t.type="text/javascript",t.src="//cdn.spotxcdn.com/website/integration_test/media/asia/EASIv2.js",t.setAttribute("data-spotx_channel_id",""+a.channel_id),t.setAttribute("data-spotx_vast_url",""+a.vastUrl),t.setAttribute("data-spotx_content_width",300),t.setAttribute("data-spotx_content_height",250),t.setAttribute("data-spotx_content_page_url",a.renderer.config.content_page_url),t.setAttribute("data-spotx_ad_unit","incontent"),t.setAttribute("data-spotx_autoplay","1"),t.setAttribute("data-spotx_continue_out_of_view","1"),t.setAttribute("data-spotx_content_container_id",e);var o=window.document.getElementById(e);o.style.cssText="display: none; margin-bottom: 20px",o.appendChild(t)}}}))}))}}(),window.createDMPTracker=function(a,e,t){window.createCDPTracker(a,t),parent.window.open(e,"_blank")},window.createCDPTracker=function(a,e){var t="liputan6_id_visitor_id=",o=document.cookie.split(";").find((a=>a.match(t))),n=o?decodeURIComponent(o).trim().replace(t,""):0,i="string"==typeof e?JSON.parse(e):e,r={adunitId:"ads_adunit_id",advertiserId:"ads_advertiser_id",creativeId:"ads_creative_id",lineitemId:"ads_lineitem_id",orderId:"ads_order_id"};actionDetails=Object.keys(i).reduce(((a,e)=>Object.assign(a,r[e]?{[r[e]]:i[e]}:{[e]:i[e]})),{}),cdpData={action:actionDetails.action?actionDetails.action:"ads_click",action_category:a,action_details:actionDetails.action?(delete actionDetails.action,actionDetails=actionDetails):actionDetails,visitor_id:n},console.log("%c DATA CDP : ","color:#cad315; font-size:12px; font-weight: bold; -webkit-text-stroke: 1px black;",cdpData),console.log("%c PARTNER USER ID : ","color:#cad315; font-size:12px; font-weight: bold; -webkit-text-stroke: 1px black;",n),n&&(window.VidioPersonalization&&window.VidioPersonalization.sendData(null,cdpData))},googletag.cmd.push((function(){var a,e=document.URL,t=void 0!==window.kly?window.kly:window.kmklabs,o=t&&t.article,n=o&&o.isAdultContent,i=new Array("matcont","aduhai","kelamin","vital","anal","belahan","bercinta","bergairah","gairah","intim","bikini","bokong","boob","bra","bugil","celana","ciuman","cleavage","dada","dewasa","diremas","doggie","ejakulasi","ereksi","erotis","foreplay","kiss","seks","gangbang","horny","hot","kamasutra","keperawanan","perawan","kondom","kontrasepsi","libido","lingerie","masturbasi","mature","menggairahkan","menggoda","mesra","miss-v","mr-p","nakal","naughty","nipple","nipples","onani","oral","oral seks","organ","orgasme","paha","pantat","panties","payudara","pelecehan","telanjang","penetrasi","penis","perkosa","perkosaan","pole","porno","pornoaksi","pornografi","telentang","provokatif","putting","ranjang","sex","penetratif","seksi","seksual","sensual","seronok","doll","toys","skandal","sperma","striptease","striptis","syur","terangsang","tiduri","topless","vagina","vibrator","lendir","prostitusi","homoseks","meraba-raba","mesum","memerkosa","rudapaksa","kemaluan","kasus asusila","pemerkosaan","hubungan seksual","hubungan intim","video porno","berita hoax","ternyata hoax","ahed tamimi","konflik palestina israel","konflik suriah","ujaran kebencian","g30s","kediktatoran arab saudi","konflik palestina-israel","fpi","penembakan","pelecehan seksual","tips seks","komunitas swinger","fenomena kelainan seksual","penyimpangan seks","posisi seks","obat kuat","bentuk payudara","implan payudara","chat firza-rizieq","anarkisme suporter sepakbola","bentrok suporter","pengeroyokan","penganiayaan","begal motor","kekerasan pada wartawan","pemerkosaan anak","pencabulan","bentrokan warga","bentrokan","kasus narkoba","akibat merokok","bahaya merokok","berhenti merokok","cara berhenti merokok","efek berhenti merokok","larangan merokok","tips berhenti merokok","rokok elektrik","pilpres 2019","koalisi pilpres 2019","koalisi prabowo","koalisi jokowi","prabowo-sandiaga","ratna sarumpaet","capres jokowi","capres prabowo","kebohongan ratna sarumpaet","prabowo subianto","jemaah ansharut daulah","aliran sesat","lia eden","kisah mualaf","penistaan agama","suporter tewas","gempa palu","gempa donggala","gempa sulawesi tengah","pembunuhan","tsunami palu","penemuan mayat","lion air jatuh di karawang","lion air jatuh","pembunuhan sadis","lion air hilang kontak","pesawat jatuh","pesawat hilang kontak","kecelakaan","kapal tenggelam di danau toba","kecelakaan bus","kapal tenggelam","kasus tabrak lari","bunuh diri","perselingkuhan","kisah perselingkuhan","razia pasangan mesum","seks bebas","gangguan jiwa","tes keperawanan","kontroversi hukuman mati","stres dan depresi","ahok gugat cerai veronica tan","Kanker","Impotensi","merokok","Perokok","Rokok","tembakau","Pelanggaran","Tablet","Overdosis","Jantung","Stroke","Cancer","Narkoba","Djarum","Ganja","BNN","Obesitas","Osteoporosis","Corona","Corona di indonesia","virus corona","virus-corona","covid-19","wabah corona","menewaskan","menewaskan orang","mengancam nyawa","meninggal","meninggal dunia","orang mati","orang tewas","pemakaman","petugas penyelamat","telah meninggal","terbunuh","tewas","tewaskan","tim penyelamat","wanita meninggal","autopsi","belasungkawa","bencana","bencana besar","bunuh orang","darurat bencana","dilaporkan tewas","dimakamkan","dipastikan tewas","ditemukan mati","ditemukan tewas","hilangnya nyawa","identitas korban","inalillahi","jasad korban","jasadnya","jenasah wanita","jenazah","jenazah pria","jenazah teridentifikasi","jasad","kehilangan hidupnya","kehilangan nyawa","kehilangan nyawanya","kematian","korban","korban jiwa","korban meninggal","korban tewas","mati","mayat","mayat korban","membunuh","membunuh istrinya","membunuh mereka","membunuh suaminya","menemui ajal","mengalami koma","menghembuskan nafas terakhir","menimbulkan korban","meninggal akibat sakit","menyebabkan kematian","meregang nyawa","meregggut nyawa","modar","nyawa hilang","nyawa melayang","penyebab kematian","tak bernyawa","tak sadarkan diri","terkapar","tidak bernyawa","tutup usia","wafat","kematian virus","kematian wabah","korban terinfeksi","virus menyerang","merenggut nyawa","pelayat","hilangkan nyawa","renggut nyawa","wabah","keadaan kritis","kehilangan darah","merenggut jiwa","telan nyawa","menelan nyawa","memakan nyawa","dinyatakan meninggal","nyawa tak tertolong","penyakit","sakit pernapasan","sesak","korona","corona","odp","pdp","virus","rumah sakit","Covid-19","virus korona","positif korona","COVID-19","terjangkit COVID-19","terinfeksi virus corona","15lam","agen poker","agen sbobet","al quran","al-quran","alat kontrasepsi","alat vital pria","alergi","anatomi vagina","anjeng","anjing","anjlng","anjrit","anying","apa itu kondom","artis indonesia bugil","artis porno","asu","babi","bahaya masturbasi","bajingan","bandar ceme","bangsat","bego","bentuk payudara","bercinta","bercinta saat hamil","berhubungan intim","berita jateng","bintang film porno","bintang porno","bitch","bocah sd foto mesum","bokne","bom surabaya 2018","boneka seks","bonus deposit","bonus refferal","bonus rollingan","buda","budha","bullshit","bulshit","bulu kemaluan","cara berhubungan intim","cara membuat suami bergairah","cara memperbesar penis","cara mengatasi ejakulasi dini","cara seksual","cashtree","corona","corona di indonesia","covid 19","covid-19","cukur bulu kemaluan","disfungsi ereksi","ejakulasi","ejakulasi dini","ejakulasi wanita","elo","entot","ereksi","ewe","fase menstruasi","fenomena kelainan seksual","foto berhubungan intim","foto intim","fuck","gairah seksual","gangguan seks","ganja","gay","gaya bercinta","gaya bercinta dalam islam","gaya bercinta yang disukai pria","gaya seks","gejala penyakit","gemar368","goblok","gue","gwe","henceut","hindu","hubungan intim","hubungan seksual","ibu hamil","implan payudara","industri film porno","infeksi saluran kencing","injil","insomnia dan tidur","intim","isl4m","islam","itil","jancok","jancuk","jenis alat kontrasepsi","jerawat","jual beli sperma","judi","kafir","kakek cabul","kanibal","kanibalisme","kanker payudara","katolik","kecanduan seks","kemaluan wanita","kencing","kesehatan kulit dan kelamin","kesehatan payudara","kesehatan reproduksi","kesehatan wanita","khusus deewasa","kimpet","klitoris","kondom","kondom pria","kontol","kontolnya","kontrasepsi","kontroversi lgbt","kristen","legalisasi ganja","lgbt","lonte","m3m3k","makanan berbahaya","makanan sehat","masa subur pria","masturbasi","meki","melakukan hubungan intim","memek","mencukur bulu kemaluan","menstruasi","minimal deposit","model hot","model seksi","monyet","mucikari siswi smp","muh4mmad","muhammad","muhammad saw","nabi","ngentot","ngewe","nonok","obat ejakulasi dini","obat pembesar","obat pembesar penis terbaik","oral seks","organ intim wanita","orgasme","orgasme wanita","pakistan","payudara kecil","payudara wanita","pelacur","pembesar penis","pemerkosaan","pengetahuan seks","pengobatan alternatif","penis","penis","penis bengkok","penis besar","penis kecil","penis pria","penyakit sipilis","penyakit vagina","penyimpangan seks","perang dunia","perawatan vagina","perek","poker","poker online","pornoaksi","pornografi","posisi bercinta","posisi hubungan intim suami istri menurut islam","posisi seks","posisi seksual","pria dewasa","pria idaman","prostitusi","puki","puting","puting payudara","rasisme","rokok elektrik","sbobet","seks","seks bebas","seks oral","seksual","seksual lelaki dan perempuan","seksualitas","sex toy","shit","siklus menstruasi","situs poker terpercaya","situs porno","sperma","tai","taik","taruhan online","telanjang","terorisme","test pack","testis","tips bercinta","tips seks","titit","toket","tolol","ukuran normal penis","ukuran penis","ukuran penis normal","ukuran penis orang indonesia","vagina","vagina gatal","vagina wanita","vakum pembesar penis","viagra","video bercinta dengan pasangan","video porno","video seks","virus corona","xxxx online","yesus"),r=o&&o.title.klyFiltering(" "),g=void 0!==r?r.toString().klyFiltering("-"):"",d=GAMLibrary.documentMeta("keywords").klyFiltering(","),s=GAMLibrary.documentMeta("description").klyFiltering(","),l=t.gtm.tag.replace(/[^A-Za-z0-9|\- ]/gi,"").klyFiltering("|"),p=d.concat(g,s,l).filter((a=>void 0!==a));isViolateBrandSafety=i.some((a=>{let e=new RegExp("("+a+")","ig");return p.some((a=>a.match(e)))}))?"1":"0",a=n||"1"===isViolateBrandSafety?"1":"0";var m=googletag.defineOutOfPageSlot(GAMLibrary.gamImmersive,"div-gpt-ad-merdeka-immersive-oop").addService(googletag.pubads());googletag.defineSlot("/36504930/www.merdeka.com/dfp-sc1",[[300,600],[300,250],[160,600]],"div-gpt-ad-merdeka-sc1").addService(googletag.pubads()),googletag.defineSlot("/36504930/www.merdeka.com/dfp-sc2",[[300,250],[250,250]],"div-gpt-ad-merdeka-sc2").addService(googletag.pubads()),googletag.defineSlot("/36504930/www.merdeka.com/dfp-lb",[[970,90],[728,90],[970,250]],"div-gpt-ad-merdeka-lb").addService(googletag.pubads()),document.getElementById("dfp-recommend-1")&&googletag.defineOutOfPageSlot(GAMLibrary.dfpRecommend1,"dfp-recommend-1").addService(googletag.pubads()),document.getElementById("dfp-recommend-2")&&googletag.defineOutOfPageSlot(GAMLibrary.dfpRecommend2,"dfp-recommend-2").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-marcomm1","div-gpt-ad-merdeka-marcomm1-oop").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-pop","div-gpt-ad-merdeka-popup-oop").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-newsTag1","div-gpt-ad-merdeka-newsTag1-oop").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-newsTag2","div-gpt-ad-merdeka-newsTag2-oop").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-government1","div-gpt-ad-merdeka-government1-oop").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-contextual","div-gpt-ad-merdeka-desktop-contextual-oop").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-lFloating","div-gpt-ad-merdeka-lFloating-oop").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-crm-headline","div-gpt-ad-merdeka-crm-headline-oop").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-crm-1","div-gpt-ad-merdeka-crm1-oop").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-crm-2","div-gpt-ad-merdeka-crm2-oop").addService(googletag.pubads()),googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-crm-3","div-gpt-ad-merdeka-crm3-oop").addService(googletag.pubads()),googletag.pubads().addEventListener("slotRenderEnded",(function(a){var e=a.isEmpty?"none":"block",t=a.slot.getSlotId().getId(),o=a.slot.getSlotId().getAdUnitPath();if(a.slot==m&&a.isEmpty){var n=googletag.defineOutOfPageSlot(GAMLibrary.dfpBillboard,"div-gpt-ad-merdeka-billboard-oop").addService(googletag.pubads()),i=googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-topfrm","div-gpt-ad-merdeka-topfrm-oop").addService(googletag.pubads()),r=googletag.defineSlot(GAMLibrary.dfpBottomFrm,[468,60],"div-gpt-ad-merdeka-bottomfrm-oop").addService(googletag.pubads());if(googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-billboard-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-topfrm-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-bottomfrm-oop")})),GAMLibrary.GAMisTablet)googletag.pubads().refresh([n,i,r]);else{var g=googletag.defineOutOfPageSlot("/36504930/www.merdeka.com/dfp-skin","div-gpt-ad-merdeka-skinad-oop").addService(googletag.pubads());googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-skinad-oop")})),googletag.pubads().refresh([n,i,r,g])}}o!=GAMLibrary.dfpRecommend1&&o!=GAMLibrary.dfpRecommend2||document.getElementById("google_ads_iframe_"+t)&&(document.getElementById("google_ads_iframe_"+t).style.display="none"),o==GAMLibrary.dfpBillboard&&("block"==e?(isBillboardRendered=1,document.getElementById("mdk-cover")&&document.getElementById("mdk-cover").setAttribute("style","display: block !important;"),document.getElementById("mdk-cover2")&&document.getElementById("mdk-cover2").setAttribute("style","display: none !important;")):(isBillboardRendered=-1,document.getElementById("mdk-cover")&&document.getElementById("mdk-cover").setAttribute("style","display: none !important;"),document.getElementById("mdk-cover2")&&document.getElementById("mdk-cover2").setAttribute("style","display: block !important;")))})),GAMLibrary.initiateSCReadPage(),googletag.pubads().setTargeting("isMatcont",a),googletag.pubads().setTargeting("brandsafety",isViolateBrandSafety),"undefined"!=typeof Krux&&(googletag.pubads().setTargeting("ksg",Krux.segments),googletag.pubads().setTargeting("kuid",Krux.user)),googletag.pubads().setTargeting("tags",p),googletag.pubads().setTargeting("currentUrl",e),googletag.pubads().setTargeting("type",kly.gtm.type),googletag.pubads().setTargeting("pageType",kly.pageType),googletag.pubads().setTargeting("channel",kly.gtm.subCategory),googletag.pubads().setTargeting("audience",kly.gtm.audience?kly.gtm.audience.split("|"):"false"),googletag.pubads().setTargeting("isAdvertorial",void 0===(isAdvertorial=kly.article&&kly.article.isAdvertorial.toString())?"false":isAdvertorial),googletag.pubads().setTargeting("isMultipage",void 0===(isMultipage=kly.article&&kly.article.isMultipage.toString())?"false":isMultipage),googletag.pubads().setTargeting("articleId",kly.gtm.articleId.toString()),googletag.pubads().setTargeting("pagingNum",void 0===(pageParam=kly.gtm.pageParam&&kly.gtm.pageParam.toString())?"false":pageParam),googletag.pubads().setTargeting("site",kly.site),googletag.pubads().setTargeting("age",void 0===(age=kly.gtm.age)?"false":kly.gtm.age.toString()),googletag.pubads().setTargeting("gender",void 0===(gender=kly.gtm.gender)?"false":kly.gtm.gender.toString());var u=(visId=document.cookie.split("liputan6_id_visitor_id=")[1])?visId.split(";")[0].replace(/[^a-zA-Z0-9]/gi,""):0;u&&googletag.pubads().setPublisherProvidedId(u+"kly"),googletag.pubads().setCentering(!0),googletag.pubads().enableSingleRequest(),googletag.enableServices()})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-immersive-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-newsTag1-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-newsTag2-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-sc1")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-sc2")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-lb")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-government1-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-marcomm1-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-popup-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-desktop-contextual-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-lFloating-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-crm-headline-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-crm1-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-crm2-oop")})),googletag.cmd.push((function(){googletag.display("div-gpt-ad-merdeka-crm3-oop")})),document.getElementById("dfp-recommend-1")&&googletag.cmd.push((function(){googletag.display("dfp-recommend-1")})),document.getElementById("dfp-recommend-2")&&googletag.cmd.push((function(){googletag.display("dfp-recommend-2")}));
+<script style='text/javascript' src='https://cdn.rawgit.com/Arlina-Design/FlamingTree/master/recentpostarlina.js'></script>
+<script style='text/javascript'>
+var numposts=2,showpostthumbnails=!0,displaymore=!1,displayseparator=!1,showcommentnum=!1,showpostdate=!1,showpostsummary=!1,numchars=62;
 </script>
-    <!--LOTAME PIXEL TAG-->
-  <!--<script src="https://tags.crwdcntrl.net/c/7159/cc_af.js" async defer></script>-->
-<!--END LOTAME PIXEL TAG-->
-    <script type="text/javascript" src="https://cdns.klimg.com/a.merdeka.com/v338/main-v2-elementloader.js"></script>
-<div style="padding: 0; margin: 0" class="elementloader" data-targeturl="/get-ajax/footer-box-auto-load-v2/"></div>
-
-    <!-- Facebook Pixel Code -->
-    <script>
-      setTimeout(function(){var e,t,n,o,a,c;e=window,t=document,n="script",e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(c=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,c)),fbq("init","1283407325068417"),fbq("track","PageView")},3500);
+<script src='/feeds/posts/default?orderby=published&alt=json-in-script&callback=recentpostinfoarlina'></script>
+</div>
+</div></div>
+</div>
+</div>
+<div class='clear'>&#160;</div>
+</div>
+<div class='clear'></div>
+<div class='banner2 section no-items section' id='banner2'></div>
+</div>
+<div class='clear'></div>
+<footer id='footer-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPFooter'>
+<div class='footer'>
+<div id='footer-adwidget'>
+<div class='footer-widget' id='footx1'>
+<div class='footer no-items section' id='footer1'></div>
+</div>
+<div class='footer-widget' id='footx2'>
+<div class='footer no-items section' id='footer2'></div>
+</div>
+<div class='footer-widget' id='footx3'>
+<div class='footer no-items section' id='footer3'></div>
+</div>
+</div>
+</div>
+<div id='footer-last'>
+<div class='cpleft'>
+<a href='http://sugengsiswanto.com/p/about.html'>About</a> || <a href='http://sugengsiswanto.com/p/contact-us.html'>Contact Us</a> || <a href='http://sugengsiswanto.com/p/privacy-policy.html'>Privacy Policy</a> || <a href='http://sugengsiswanto.com/p/disclaimer.html'>Disclaimer</a> || <a href='http://sugengsiswanto.com/p/sitemap.html'>Sitemap</a> ------------- Copyright &#169; <span id='current-year'></span>
+<a href='http://www.sugengsiswanto.com/' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'>Sugeng Siswanto</span></a> All Right Reserved
+</div>
+</div>
+</footer>
+<div class='vikkatotop hider arlniainf'><i class='fa fa-angle-up'></i></div>
+<script type='text/javascript'>
+//<![CDATA[
+// Back to top button
+$(function(){$(window).scroll(function(){$(this).scrollTop()>600?$(".vikkatotop").addClass('arlniainf'):$(".vikkatotop").removeClass('arlniainf')}),$(".vikkatotop").click(function(){return $("html,body").animate({scrollTop:0},600),!1})});
+//]]>
+</script>
+<script class='java' type='text/javascript'>
+function getCurrentYear(){var e=new Date;return e.getFullYear()}el=document.getElementById("current-year"),el.innerHTML=getCurrentYear();
+//<![CDATA[
+$(document).ready(function(){$(window).scroll(function(){$(this).scrollTop()?$(".totop").fadeIn():$(".totop").fadeOut()}),$(".totop").click(function(){$("html,body").animate({scrollTop:0},500)});var e=window.location.href;$(".navlist li a,.navlist li ul li ul li a").filter(function(){return $(this).prop("href")===e}).parent("li").addClass("current-menu-parent");var i=window.location.href;$(".navlist li ul li a,.navlist li ul li a").filter(function(){return $(this).prop("href")===i}).parents("li").parents("ul").parent().addClass("current-menu-parent"),$(".navlist ul").parent().addClass("menu-item-has-children item-plus")}),!function(e){"use strict";function i(){if(e(".blog-timeline").length){var i=e(window).scrollTop(),t=e(window).height(),n=e(".blog-timeline .content").offset().top,a=i-n;e(".pi-line").css({top:"0","-webkit-transform":"translateY("+a+"px)","-o-transform":"translateY("+a+"px)","-ms-transform":"translateY("+a+"px)","-moz-transform":"translateY("+a+"px)",transform:"translateY("+a+"px)"}),e(".blog-timeline .post-meta").each(function(){var n=e(this),a=n.offset().top,s=a-t/2;i>=s?n.addClass("metaLight"):n.removeClass("metaLight")})}}function t(){var i=e(".infinite-nav"),t=e("#header").offset().top+e("#header").outerHeight()-52,n=e(window).scrollTop();n>=t?i.addClass("nav-fixed"):i.removeClass("nav-fixed")}var n={Android:function(){return navigator.userAgent.match(/Android/i)},BlackBerry:function(){return navigator.userAgent.match(/BlackBerry/i)},iOS:function(){return navigator.userAgent.match(/iPhone|iPad|iPod/i)},Opera:function(){return navigator.userAgent.match(/Opera Mini/i)},Windows:function(){return navigator.userAgent.match(/IEMobile/i)},any:function(){return n.Android()||n.BlackBerry()||n.iOS()||n.Opera()||n.Windows()}},a=(window.innerWidth,e(window).height(),['<i class="fa fa-caret-left"></i>','<i class="fa fa-caret-right"></i>']),s={obj:{subscribeEmail:e("#subscribe-email"),subscribeButton:e("#subscribe-button"),subscribeMsg:e("#subscribe-form .subscribe-status"),subscribeContent:e("#subscribe-form .form-remove"),dataMailchimp:e("#subscribe-form").attr("data-mailchimp"),success_message:"Thank you for joining our mailing list. Please check your email for a confirmation link.",failure_message:"There was a problem processing your submission.",noticeError:"{msg}",noticeInfo:"{msg}",basicAction:"mail/subscribe.php",mailChimpAction:"mail/subscribe-mailchimp.php"},eventLoad:function(){var i=s.obj;e(i.subscribeButton).on("click",function(){if(""!=i.subscribeEmail.val()){if(window.ajaxCalling)return;var e="true"===i.dataMailchimp;s.ajaxCall(e?i.mailChimpAction:i.basicAction)}else i.subscribeMsg.html("Email is required.").fadeIn("slow");return!1})},ajaxCall:function(i){window.ajaxCalling=!0;var t=s.obj,n=t.subscribeMsg.html("").hide();t.subscribeButton.val("Sending"),e.ajax({url:i,type:"POST",dataType:"json",data:{subscribeEmail:t.subscribeEmail.val()},success:function(e){if(e.status)t.subscribeContent.fadeOut(500,function(){n.html(t.success_message).fadeIn(500)});else{switch(e.msg){case"email-required":n.html(t.noticeError.replace("{msg}","Email is required."));break;case"email-err":n.html(t.noticeError.replace("{msg}","Email invalid."));break;case"duplicate":n.html(t.noticeError.replace("{msg}","Email is duplicate."));break;case"filewrite":n.html(t.noticeInfo.replace("{msg}","Mail list file is open."));break;case"undefined":n.html(t.noticeInfo.replace("{msg}","undefined error."));break;case"not-support":n.html(t.noticeInfo.replace("{msg}","Your host do not support php mail function."));break;case"api-error":t.subscribeContent.fadeOut(500,function(){n.html(t.failure_message)})}t.subscribeButton.val("Send"),n.fadeIn(500)}},error:function(){alert("Connection error")},complete:function(){window.ajaxCalling=!1}})}},o=function(){e(".twitter-slider").owlCarousel({autoPlay:!1,slideSpeed:300,navigation:!0,pagination:!1,singleItem:!0,autoHeight:!0,transitionStyle:"fade",navigationText:['<i class="fa fa-caret-left"></i>','<i class="fa fa-caret-right"></i>']})};e(document).ready(function(){s.eventLoad(),n.any()&&e("html").addClass("ismobile"),e(document).on("click",".share-toggle",function(){var i=e(this);i.toggleClass("toggle-active"),i.siblings(".share").toggleClass("share-active")}),e(".search-box .icon-search").on("click",function(){e(this).toggleClass("active"),e('.search-box input[type="search"]').toggleClass("fadein")}),e("html").on("click",function(){e(".search-box .icon-search").removeClass("active"),e('.search-box input[type="search"]').removeClass("fadein")}),e(".search-box").on("click",function(e){e.stopPropagation()}),e(".pi-line").height(e(window).height()/2),e(window).scroll(function(){i(),t()})}),e(window).on("load resize",function(){var i=e(".sidebar-right"),t=e(".sidebar-left");i.closest(".blog-standard").find(".content").css("margin-right","100px"),t.closest(".blog-standard").find(".content").css({"margin-left":"30px","margin-right":"70px"}),i.closest(".blog-grid, .blog-list, .blog-timeline").find(".content").css("margin-right","30px"),t.closest(".blog-grid, .blog-list, .blog-timeline").find(".content").css("margin-left","30px"),t.closest(".blog-content").find(".col-md-9").addClass("col-md-push-3"),t.closest(".blog-content").find(".col-md-3").addClass("col-md-pull-9"),e(".blog-standard .post").each(function(){var i=e(this),t=i.find(".post-meta"),n=i.find(".post-title"),a=i.find(".post-media");t.insertAfter(window.innerWidth<992?n:a)}),e(".blog-list .post").each(function(){var i=e(this),t=i.find(".post-meta"),n=i.find(".post-title"),a=i.find(".post-author");i.find(".post-media"),a.insertAfter(t.children().first()),t.insertAfter(n)}),e(".infinite-nav").each(function(){var i=e(this),t=i.find(".open-menu"),n=i.find(".close-menu"),a=i.find(".navlist"),s=i.find(".sub-menu"),o=e("#header"),r=window.innerWidth,l=e(window).height(),c=i.data("menu-responsive");c>r?(t.show(),o.addClass("header-responsive"),a.addClass("off-canvas").css("height",l-52),a.children(".menu-item-has-children").removeClass("item-plus"),0===i.find(".submenu-toggle").length&&(e(".menu-item-has-children, .navList > .menu-item-language-current").children("a").after('<span class="submenu-toggle"><i class="fa fa-angle-right"></i></span>'),a.on("click",".submenu-toggle",function(i){i.preventDefault(),e(this).siblings(".sub-menu").addClass("sub-menu-active")})),s.each(function(){var t=e(this);0===t.find(".back-mb").length&&t.prepend('<li class="back-mb"><a href="#">Back</a></li>'),i.on("click",".back-mb a",function(i){i.preventDefault(),e(this).parent().parent().removeClass("sub-menu-active")})}),t.on("click",function(){a.addClass("off-canvas-active"),e(this).addClass("toggle-active"),n.show()}),n.on("click",function(){a.removeClass("off-canvas-active"),t.removeClass("toggle-active"),e(".sub-menu").removeClass("sub-menu-active"),e(this).hide()}),e("html").on("click",function(){a.removeClass("off-canvas-active"),t.removeClass("toggle-active"),e(".sub-menu").removeClass("sub-menu-active"),n.hide()}),i.on("click",function(e){e.stopPropagation()})):(t.hide(),o.removeClass("header-responsive"),a.removeClass("off-canvas").css("height","auto"),a.children(".menu-item-has-children").addClass("item-plus"),e(".back-mb, .submenu-toggle").remove())})})}(jQuery);
+// Popular Post
+var newidth=100;var neweight=72;$(".popular-posts .item-thumbnail img,ul.recent_posts_arlina img").each(function(){var t=$(this).attr("width");$(this).attr("width",newidth),$(this).attr("height",neweight),$(this).attr("src",$(this).attr("src").replace("/s72-c/","/w"+newidth+"-h"+neweight+"-c/"))}),$(".PopularPosts .item-snippet").text(function(t,i){return i.substr(0,130)});
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+// Sticky widget
+$(function(){if($("#floatside").length){var o=$("#floatside"),t=$("#floatside").offset().top,i=$("#floatside").height();$(window).scroll(function(){var s=$("#blog-pager").offset().top-i-20,f=$(window).scrollTop();if(f>t?o.css({position:"fixed",top:6}):o.css("position","static"),f>s){var n=s-f;o.css({top:n})}})}});
+//]]>
+</script>
+<script type='text/javascript'>
+var disqus_shortname = "http-sugengsiswanto-com";
+!function(){var e=document.createElement("script");e.async=!0,e.type="text/javascript",e.src="//"+disqus_shortname+".disqus.com/count.js",(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)}();
+</script>
+<script type='text/javascript'>
+!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//"+disqus_shortname+".disqus.com/blogger_item.js",(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(e)}();
+</script>
+<script type='text/javascript'>
+//Related Post Thumb
+$("ul#related-summary li img").each(function(){$(this).attr("src",$(this).attr("src").replace(/\/s[0-9]+(\-c)?\//,"/w200-h140-c/"))});
+//Spoiler
+$(document).ready(function(){$("#flippy").click(function(){$("#flippanel").slideToggle("normal")})});
+//<![CDATA[
+// Youtube Responsive
+setTimeout(function(){$(".video-youtube").each(function(){$(this).replaceWith('<iframe class="video-youtube loader" src="'+$(this).data("src")+'" allowfullscreen="allowfullscreen" height="281" width="500"></iframe>')})},5e3);
+// Double Click
+$('i[rel="pre"]').replaceWith(function(){return $("<pre><code>"+$(this).html()+"</code></pre>")});for(var pres=document.querySelectorAll("pre,code,kbd,blockquote,td"),i=0;i<pres.length;i++)pres[i].addEventListener("dblclick",function(){var e=getSelection(),t=document.createRange();t.selectNodeContents(this),e.removeAllRanges(),e.addRange(t)},!1);
+function downloadJSAtOnload(){var e=document.createElement("script");e.src="https://cdn.rawgit.com/Arlina-Design/FlamingTree/master/highlightpro.js",document.body.appendChild(e)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;
+//]]>
+</script>
+<div id='fb-root'></div>
+<script src='http://connect.facebook.net/en_US/all.js#xfbml=1'></script>
+<script type='text/javascript'>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-104680250-1', 'auto', 'blogger');
+      ga('blogger.send', 'pageview');
     </script>
-    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1283407325068417&ev=PageView&noscript=1"/></noscript>
-    <!-- End Facebook Pixel Code -->
+<script type='text/javascript'>
+jQuery(document).ready(function(){
+ jQuery("#comments p").find("a").replaceWith("<mark>Spam Detected!</mark> Link aktif otomatis terhapus!!!");
+});
+</script>
+<!-- frame embeded yutub -->
+<script type='text/javascript'>
+
+//<![CDATA[
+
+setTimeout(function(){
+
+$('.video-youtube').each(function(){
+
+$(this).replaceWith('<iframe class="video-youtube loader" src="'+$(this).data('src')+'" allowfullscreen="allowfullscreen" height="281" width="500"></iframe>')})},5000);
+
+//]]>
+
+</script>
+<!-- end frame embeded yutub -->
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/1564622764-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY6-WRDJuXf8Yc8zsVEYDi9tH8mu2A:1639904335658';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7790715300660482229','//www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html','7790715300660482229');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7790715300660482229', 'title': 'Sugeng Siswanto', 'url': 'http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html', 'canonicalUrl': 'http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html', 'homepageUrl': 'http://www.sugengsiswanto.com/', 'searchUrl': 'http://www.sugengsiswanto.com/search', 'canonicalHomepageUrl': 'http://www.sugengsiswanto.com/', 'blogspotFaviconUrl': 'http://www.sugengsiswanto.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': false, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': 'UA-104680250-1', 'encoding': 'UTF-8', 'locale': 'en-GB', 'localeUnderscoreDelimited': 'en_gb', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Sugeng Siswanto - Atom\x22 href\x3d\x22http://www.sugengsiswanto.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Sugeng Siswanto - RSS\x22 href\x3d\x22http://www.sugengsiswanto.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Sugeng Siswanto - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7790715300660482229/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Sugeng Siswanto - Atom\x22 href\x3d\x22http://www.sugengsiswanto.com/feeds/2994334554183899079/comments/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-7942312159255243', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'adsenseAutoAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/5bfb32ec262100fc', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en_GB\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'item', 'postId': '2994334554183899079', 'postImageThumbnailUrl': 'https://i.ytimg.com/vi/pBX6UoEq0c8/default.jpg', 'postImageUrl': 'https://i.ytimg.com/vi/pBX6UoEq0c8/hqdefault.jpg', 'pageName': 'Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!', 'pageTitle': 'Sugeng Siswanto: Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!', 'metaDescription': 'followers, followers instagram, tri instagram, tambah followers, followers real, followers indonesia, followers artis, followers international'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard', 'ok': 'Ok', 'postLink': 'Post link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Trik Menambah Followers Instagram TANPA Aplikasi, Dijamin WORK !!!', 'description': 'followers, followers instagram, tri instagram, tambah followers, followers real, followers indonesia, followers artis, followers international', 'featuredImage': 'https://lh4.googleusercontent.com/proxy/UtLCzkaQWM-7e2c3YWxFAzj7Cjz-f0AbGaIXDxuOyhYm_ib6XFRF4v4KxMPJLjpdu5EAmfRpDQJPAsd78yn6U-7cBw0', 'url': 'http://www.sugengsiswanto.com/2017/08/trik-menambah-followers-instagram-tanpa-aplikasi.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 2994334554183899079}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header2', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1714526395-lbx__en_gb.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/4076883957-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense1', 'sidebar top', document.getElementById('AdSense1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar top', document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML99', 'sidebar', document.getElementById('HTML99'), {}, 'displayModeFull'));
+</script>
 </body>
-</html>
+</HTML>
