@@ -1,364 +1,1275 @@
 
-<!DOCTYPE html> 
-<html lang="id-ID" prefix="og: https://ogp.me/ns#"> 
-<head>
-<meta charset="UTF-8">
-<link rel="preload" href="https://tipsgaptek.com/wp-content/cache/fvm/min/1639639868-css5a9909bda6b6f5f4677d2471ac14eb236ee80adebb7edcfd47c7151b9b10c.css" as="style" media="all" /> 
-<link rel="preload" href="https://tipsgaptek.com/wp-content/cache/fvm/min/1639639868-css3ad373e2ceb1424d2121dab2d152522c9c94914ae48c76924e44d63374a06.css" as="style" media="all" /> 
-<link rel="preload" href="https://tipsgaptek.com/wp-content/cache/fvm/min/1639639868-cssa6d717cc1623f74c4a6acd6d2cda1e240715599ac459bbcdeddf8a1614009.css" as="style" media="all" /> 
-<link rel="preload" href="https://tipsgaptek.com/wp-content/cache/fvm/min/1639639868-css4413bbd523f30a3a762d935a331c76e28279f76330cb2e45e480b7ee61ae3.css" as="style" media="all" /> 
-<link rel="preload" href="https://tipsgaptek.com/wp-content/cache/fvm/min/1639639868-cssf25c515e8b27ae848503ec7f2d461d30a87bf7e2a2dfa14ee6c3fe28bdcd7.css" as="style" media="all" />
-<script data-cfasync="false">function fvmuag(){var e=navigator.userAgent;if(e.match(/x11.*ox\/54|id\s4.*us.*ome\/62|oobo|ight|tmet|eadl|ngdo|PTST/i))return!1;if(e.match(/x11.*me\/86\.0/i)){var r=screen.width;if("number"==typeof r&&1367==r)return!1}return!0}</script>
-<meta name="google-site-verification" content="bC100NqsINYYHX3NIIsf_HxhsXUEaIDb12p86GLaJUE" />
-<meta name="msvalidate.01" content="8D17CAD3014FA42CF09BD7AD3287F1F7" />
-<meta name="viewport" content="width=device-width, initial-scale=1"><title>3 Cara Membeli Followers Ig Dengan Pulsa - TipsGaptek</title>
-<meta name="description" content="Berikut cara membeli followers ig dengan pulsa dengan mudah langsung dari vendor atau marketplace yang ada. Yang pertama adalah melalui shopee caranya adalah ..."/>
-<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-<link rel="canonical" href="https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/" />
-<meta property="og:locale" content="id_ID" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="3 Cara Membeli Followers Ig Dengan Pulsa - TipsGaptek" />
-<meta property="og:description" content="Berikut cara membeli followers ig dengan pulsa dengan mudah langsung dari vendor atau marketplace yang ada. Yang pertama adalah melalui shopee caranya adalah ..." />
-<meta property="og:url" content="https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/" />
-<meta property="og:site_name" content="TipsGaptek" />
-<meta property="article:tag" content="bagaimana cara membeli followers instagram" />
-<meta property="article:tag" content="beli followers instagram aktif indonesia murah" />
-<meta property="article:tag" content="beli followers instagram pasif murah" />
-<meta property="article:tag" content="beli followers instagram via pulsa telkomsel" />
-<meta property="article:tag" content="beli followers instagram via pulsa xl" />
-<meta property="article:tag" content="belibro followers instagram" />
-<meta property="article:tag" content="cara beli followers ig dengan pulsa" />
-<meta property="article:tag" content="cara beli followers ig di shopee" />
-<meta property="article:tag" content="cara beli followers ig pake pulsa" />
-<meta property="article:tag" content="cara beli followers ig via pulsa" />
-<meta property="article:tag" content="cara membeli follower ig dengan pulsa" />
-<meta property="article:tag" content="cara membeli followers di instagram dengan pulsa" />
-<meta property="article:tag" content="cara membeli followers ig dengan pulsa" />
-<meta property="article:tag" content="cara membeli followers instagram dengan pulsa" />
-<meta property="article:tag" content="membeli followers instagram dengan pulsa" />
-<meta property="article:section" content="Tips SmartPhone" />
-<meta property="og:updated_time" content="2021-09-08T08:32:37+00:00" />
-<meta property="og:image" content="https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg" />
-<meta property="og:image:secure_url" content="https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg" />
-<meta property="og:image:width" content="526" />
-<meta property="og:image:height" content="378" />
-<meta property="og:image:alt" content="cara membeli followers ig dengan pulsa" />
-<meta property="og:image:type" content="image/jpeg" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="3 Cara Membeli Followers Ig Dengan Pulsa - TipsGaptek" />
-<meta name="twitter:description" content="Berikut cara membeli followers ig dengan pulsa dengan mudah langsung dari vendor atau marketplace yang ada. Yang pertama adalah melalui shopee caranya adalah ..." />
-<meta name="twitter:image" content="https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg" />
-<meta name="twitter:label1" content="Written by" />
-<meta name="twitter:data1" content="admin" />
-<meta name="twitter:label2" content="Time to read" />
-<meta name="twitter:data2" content="2 menit" />
-<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://tipsgaptek.com/#person","name":"TipsGaptek"},{"@type":"WebSite","@id":"https://tipsgaptek.com/#website","url":"https://tipsgaptek.com","name":"TipsGaptek","publisher":{"@id":"https://tipsgaptek.com/#person"},"inLanguage":"id-ID"},{"@type":"ImageObject","@id":"https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg","url":"https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg","width":"526","height":"378","caption":"cara membeli followers ig dengan pulsa","inLanguage":"id-ID"},{"@type":"BreadcrumbList","@id":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://tipsgaptek.com","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/","name":"3 Cara Membeli Followers Ig Dengan Pulsa"}}]},{"@type":"Person","@id":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/#author","name":"admin","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/dae05b66f9477557aeb4e4284b7e33fc?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/dae05b66f9477557aeb4e4284b7e33fc?s=96&amp;d=mm&amp;r=g","caption":"admin","inLanguage":"id-ID"},"sameAs":["https://tipsgaptek.com"]},{"@type":"WebPage","@id":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/#webpage","url":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/","name":"3 Cara Membeli Followers Ig Dengan Pulsa - TipsGaptek","datePublished":"2021-08-12T06:53:34+00:00","dateModified":"2021-09-08T08:32:37+00:00","author":{"@id":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/#author"},"isPartOf":{"@id":"https://tipsgaptek.com/#website"},"primaryImageOfPage":{"@id":"https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg"},"inLanguage":"id-ID","breadcrumb":{"@id":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/#breadcrumb"}},{"@type":"BlogPosting","headline":"3 Cara Membeli Followers Ig Dengan Pulsa - TipsGaptek","keywords":"cara membeli followers ig dengan pulsa","datePublished":"2021-08-12T06:53:34+00:00","dateModified":"2021-09-08T08:32:37+00:00","author":{"@id":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/#author"},"publisher":{"@id":"https://tipsgaptek.com/#person"},"description":"Berikut cara membeli followers ig dengan pulsa dengan mudah langsung dari vendor atau marketplace yang ada. Yang pertama adalah melalui shopee caranya adalah ...","name":"3 Cara Membeli Followers Ig Dengan Pulsa - TipsGaptek","@id":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/#richSnippet","isPartOf":{"@id":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/#webpage"},"image":{"@id":"https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg"},"inLanguage":"id-ID","mainEntityOfPage":{"@id":"https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/#webpage"}}]}</script>
-<link rel="alternate" type="application/rss+xml" title="TipsGaptek &raquo; Feed" href="https://tipsgaptek.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="TipsGaptek &raquo; Umpan Komentar" href="https://tipsgaptek.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="TipsGaptek &raquo; 3 Cara Membeli Followers Ig Dengan Pulsa Umpan Komentar" href="https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/feed/" /> 
-<script data-ad-client="ca-pub-4844971694080534" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<link rel="profile" href="http://gmpg.org/xfn/11"> 
-<script src="//www.googletagmanager.com/gtag/js?id=UA-146452111-2"  data-cfasync="false" data-wpfc-render="false" async type=fvm-script-delay></script>
-<script data-cfasync="false" data-wpfc-render="false">
-var mi_version = '8.3.0';
-var mi_track_user = true;
-var mi_no_track_reason = '';
-var disableStrs = [
-'ga-disable-UA-146452111-2',
-];
-/* Function to detect opted out users */
-function __gtagTrackerIsOptedOut() {
-for ( var index = 0; index < disableStrs.length; index++ ) {
-if ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {
-return true;
-}
-}
-return false;
-}
-/* Disable tracking if the opt-out cookie exists. */
-if ( __gtagTrackerIsOptedOut() ) {
-for ( var index = 0; index < disableStrs.length; index++ ) {
-window[ disableStrs[ index ] ] = true;
-}
-}
-/* Opt-out function */
-function __gtagTrackerOptout() {
-for ( var index = 0; index < disableStrs.length; index++ ) {
-document.cookie = disableStrs[ index ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-window[ disableStrs[ index ] ] = true;
-}
-}
-if ( 'undefined' === typeof gaOptout ) {
-function gaOptout() {
-__gtagTrackerOptout();
-}
-}
-window.dataLayer = window.dataLayer || [];
-window.MonsterInsightsDualTracker = {
-helpers: {},
-trackers: {},
-};
-if ( mi_track_user ) {
-function __gtagDataLayer() {
-dataLayer.push( arguments );
-}
-function __gtagTracker( type, name, parameters ) {
-if (!parameters) {
-parameters = {};
-}
-if (parameters.send_to) {
-__gtagDataLayer.apply( null, arguments );
-return;
-}
-if ( type === 'event' ) {
-parameters.send_to = monsterinsights_frontend.ua;
-__gtagDataLayer( type, name, parameters );
-} else {
-__gtagDataLayer.apply( null, arguments );
-}
-}
-__gtagTracker( 'js', new Date() );
-__gtagTracker( 'set', {
-'developer_id.dZGIzZG' : true,
-} );
-__gtagTracker( 'config', 'UA-146452111-2', {"forceSSL":"true","link_attribution":"true"} );
-window.gtag = __gtagTracker;											(function () {
-/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
-/* ga and __gaTracker compatibility shim. */
-var noopfn = function () {
-return null;
-};
-var newtracker = function () {
-return new Tracker();
-};
-var Tracker = function () {
-return null;
-};
-var p = Tracker.prototype;
-p.get = noopfn;
-p.set = noopfn;
-p.send = function (){
-var args = Array.prototype.slice.call(arguments);
-args.unshift( 'send' );
-__gaTracker.apply(null, args);
-};
-var __gaTracker = function () {
-var len = arguments.length;
-if ( len === 0 ) {
-return;
-}
-var f = arguments[len - 1];
-if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
-if ( 'send' === arguments[0] ) {
-var hitConverted, hitObject = false, action;
-if ( 'event' === arguments[1] ) {
-if ( 'undefined' !== typeof arguments[3] ) {
-hitObject = {
-'eventAction': arguments[3],
-'eventCategory': arguments[2],
-'eventLabel': arguments[4],
-'value': arguments[5] ? arguments[5] : 1,
-}
-}
-}
-if ( 'pageview' === arguments[1] ) {
-if ( 'undefined' !== typeof arguments[2] ) {
-hitObject = {
-'eventAction': 'page_view',
-'page_path' : arguments[2],
-}
-}
-}
-if ( typeof arguments[2] === 'object' ) {
-hitObject = arguments[2];
-}
-if ( typeof arguments[5] === 'object' ) {
-Object.assign( hitObject, arguments[5] );
-}
-if ( 'undefined' !== typeof arguments[1].hitType ) {
-hitObject = arguments[1];
-if ( 'pageview' === hitObject.hitType ) {
-hitObject.eventAction = 'page_view';
-}
-}
-if ( hitObject ) {
-action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
-hitConverted = mapArgs( hitObject );
-__gtagTracker( 'event', action, hitConverted );
-}
-}
-return;
-}
-function mapArgs( args ) {
-var arg, hit = {};
-var gaMap = {
-'eventCategory': 'event_category',
-'eventAction': 'event_action',
-'eventLabel': 'event_label',
-'eventValue': 'event_value',
-'nonInteraction': 'non_interaction',
-'timingCategory': 'event_category',
-'timingVar': 'name',
-'timingValue': 'value',
-'timingLabel': 'event_label',
-'page' : 'page_path',
-'location' : 'page_location',
-'title' : 'page_title',
-};
-for ( arg in args ) {
-if ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {
-hit[gaMap[arg]] = args[arg];
-} else {
-hit[arg] = args[arg];
-}
-}
-return hit;
-}
-try {
-f.hitCallback();
-} catch ( ex ) {
-}
-};
-__gaTracker.create = newtracker;
-__gaTracker.getByName = newtracker;
-__gaTracker.getAll = function () {
-return [];
-};
-__gaTracker.remove = noopfn;
-__gaTracker.loaded = true;
-window['__gaTracker'] = __gaTracker;
-})();
-} else {
-console.log( "" );
-( function () {
-function __gtagTracker() {
-return null;
-}
-window['__gtagTracker'] = __gtagTracker;
-window['gtag'] = __gtagTracker;
-} )();
-}
-</script>
-<link rel='stylesheet' id='wp-block-library-css' href='https://tipsgaptek.com/wp-content/cache/fvm/min/1639639868-css5a9909bda6b6f5f4677d2471ac14eb236ee80adebb7edcfd47c7151b9b10c.css' type='text/css' media='all' /> 
-<style id='wp-block-library-theme-inline-css' type='text/css' media="all">#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}</style> 
-<link rel='stylesheet' id='ez-icomoon-css' href='https://tipsgaptek.com/wp-content/cache/fvm/min/1639639868-css3ad373e2ceb1424d2121dab2d152522c9c94914ae48c76924e44d63374a06.css' type='text/css' media='all' /> 
-<link rel='stylesheet' id='ez-toc-css' href='https://tipsgaptek.com/wp-content/cache/fvm/min/1639639868-cssa6d717cc1623f74c4a6acd6d2cda1e240715599ac459bbcdeddf8a1614009.css' type='text/css' media='all' /> 
-<style id='ez-toc-inline-css' type='text/css' media="all">div#ez-toc-container p.ez-toc-title{font-size:120%}div#ez-toc-container p.ez-toc-title{font-weight:500}div#ez-toc-container ul li{font-size:95%}</style> 
-<link rel='stylesheet' id='point-style-css' href='https://tipsgaptek.com/wp-content/cache/fvm/min/1639639868-css4413bbd523f30a3a762d935a331c76e28279f76330cb2e45e480b7ee61ae3.css' type='text/css' media='all' /> 
-<style id='point-style-inline-css' type='text/css' media="all">a:hover,.menu .current-menu-item>a,.menu .current-menu-item,.current-menu-ancestor>a.sf-with-ul,.current-menu-ancestor,footer .textwidget a,.single_post a:not(.wp-block-button__link),#commentform a,.copyrights a:hover,a,footer .widget li a:hover,.menu>li:hover>a,.single_post .post-info a,.post-info a,.readMore a,.reply a,.fn a,.carousel a:hover,.single_post .related-posts a:hover,.sidebar.c-4-12 .textwidget a,footer .textwidget a,.sidebar.c-4-12 a:hover,.title a:hover,.trending-articles li a:hover{color:#38B7EE}.review-result,.review-total-only{color:#38B7EE!important}.nav-previous a,.nav-next a,.sub-menu,#commentform input#submit,.tagcloud a,#tabber ul.tabs li a.selected,.featured-cat,.mts-subscribe input[type='submit'],.pagination a,.widget .wpt_widget_content #tags-tab-content ul li a,.latestPost-review-wrapper,.pagination .dots,.primary-navigation #wpmm-megamenu .wpmm-posts .wpmm-pagination a,#wpmm-megamenu .review-total-only,body .latestPost-review-wrapper,.review-type-circle.wp-review-show-total{background:#38B7EE;color:#fff}.header-button{background:#38B7EE}#logo a{color:##555}</style> 
-<link rel='stylesheet' id='theme-slug-fonts-css' href='https://tipsgaptek.com/wp-content/cache/fvm/min/1639639868-cssf25c515e8b27ae848503ec7f2d461d30a87bf7e2a2dfa14ee6c3fe28bdcd7.css' type='text/css' media='all' /> 
-<script id='monsterinsights-frontend-script-js-extra'>
-/* <![CDATA[ */
-var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/tipsgaptek.com","hash_tracking":"false","ua":"UA-146452111-2","v4_id":""};
-/* ]]> */
-</script>
-<script src='https://tipsgaptek.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.js?ver=8.3.0' id='monsterinsights-frontend-script-js' type='fvm-script-delay'></script>
-<script src='https://tipsgaptek.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js' type='fvm-script-delay'></script>
-<script src='https://tipsgaptek.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js' type='fvm-script-delay'></script>
-<script src='https://tipsgaptek.com/wp-content/themes/point/js/customscripts.js?ver=5.8.2' id='point-customscripts-js' type='fvm-script-delay'></script>
-<script>
-document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
-</script>
-<style media="all">.no-js img.lazyload{display:none}figure.wp-block-image img.lazyloading{min-width:150px}.lazyload,.lazyloading{opacity:0}.lazyloaded{opacity:1;transition:opacity 400ms;transition-delay:0ms}</style> 
-<style type="text/css" media="all">.site-title a,.site-description{color:#2a2a2a}</style> 
-<link rel="icon" href="https://tipsgaptek.com/wp-content/uploads/2020/04/cropped-favicon-tipsgaptek-1-192x192.png" sizes="192x192" /> 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146452111-2" type="fvm-script-delay"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'UA-146452111-2');
-</script>
-</head>
-<body id="blog" class="post-template-default single single-post postid-970 single-format-standard wp-embed-responsive boxed cslayout"> <div class="main-container clear"> <header id="masthead" class="site-header" role="banner"> <div class="site-branding"> <h2 id="logo" class="image-logo" itemprop="headline"> <a href="https://tipsgaptek.com"><img alt="TipsGaptek" data-src="https://tipsgaptek.com/wp-content/uploads/2020/04/cropped-logo-1.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
-<noscript><img src="https://tipsgaptek.com/wp-content/uploads/2020/04/cropped-logo-1.png" alt="TipsGaptek"></noscript>
-</a> </h2> <a href="#" id="pull" class="toggle-mobile-menu">Menu</a> <div class="primary-navigation"> <nav id="navigation" class="mobile-menu-wrapper" role="navigation"> <ul class="menu clearfix"> <li class="cat-item cat-item-3567"><a href="https://tipsgaptek.com/category/elektronik-tips/">Elektronik Tips</a> </li> <li class="cat-item cat-item-2404"><a href="https://tipsgaptek.com/category/game/">Game</a> </li> <li class="cat-item cat-item-3"><a href="https://tipsgaptek.com/category/tips-smartphone/">Tips SmartPhone</a> </li> <li class="cat-item cat-item-296"><a href="https://tipsgaptek.com/category/tips-techno/">Tips Techno</a> </li> <li class="cat-item cat-item-1"><a href="https://tipsgaptek.com/category/uncategorized/">Uncategorized</a> </li> </ul> </nav> </div> </div> </header> <div id="page" class="single clear"> <div class="content"> <article class="article"> <div id="post-970" class="post post-970 type-post status-publish format-standard has-post-thumbnail hentry category-tips-smartphone tag-bagaimana-cara-membeli-followers-instagram tag-beli-followers-instagram-aktif-indonesia-murah tag-beli-followers-instagram-pasif-murah tag-beli-followers-instagram-via-pulsa-telkomsel tag-beli-followers-instagram-via-pulsa-xl tag-belibro-followers-instagram tag-cara-beli-followers-ig-dengan-pulsa tag-cara-beli-followers-ig-di-shopee tag-cara-beli-followers-ig-pake-pulsa tag-cara-beli-followers-ig-via-pulsa tag-cara-membeli-follower-ig-dengan-pulsa tag-cara-membeli-followers-di-instagram-dengan-pulsa tag-cara-membeli-followers-ig-dengan-pulsa tag-cara-membeli-followers-instagram-dengan-pulsa tag-membeli-followers-instagram-dengan-pulsa"> <div class="single_post"> <header> <h1 class="title single-title">3 Cara Membeli Followers Ig Dengan Pulsa</h1> <div class="post-info"><span class="theauthor"><a href="https://tipsgaptek.com/author/tipsgaptek/" title="Pos-pos oleh admin" rel="author">admin</a></span> | <span class="thetime"></span> | <span class="thecategory"><a href="https://tipsgaptek.com/category/tips-smartphone/" rel="category tag">Tips SmartPhone</a></span> | <span class="thecomment"><a href="https://tipsgaptek.com/cara-membeli-followers-ig-dengan-pulsa/#respond">Tidak ada komentar</a></span></div> </header> <div class="post-single-content box mark-links"> <div class='code-block code-block-2' style='margin: 8px 0; clear: both;'> 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4844971694080534" data-ad-slot="7907526630" data-ad-format="auto" data-full-width-responsive="true"></ins> 
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div> <p><img alt="cara membeli followers ig dengan pulsa" width="526" height="378" data-srcset="https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg 526w, https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa-300x216.jpg 300w, https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa-140x100.jpg 140w" data-src="https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg" data-sizes="(max-width: 526px) 100vw, 526px" class="aligncenter wp-image-971 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img class="aligncenter wp-image-971 size-full" src="https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg" alt="cara membeli followers ig dengan pulsa" width="526" height="378" srcset="https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa.jpg 526w, https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa-300x216.jpg 300w, https://tipsgaptek.com/wp-content/uploads/2021/08/cara-membeli-followers-ig-dengan-pulsa-140x100.jpg 140w" sizes="(max-width: 526px) 100vw, 526px" /></noscript>
-<div class='code-block code-block-1' style='margin: 8px 0; clear: both;'> 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4844971694080534" data-ad-slot="4118362697" data-ad-format="auto" data-full-width-responsive="true"></ins> 
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div> </p> <p>Cara membeli followers ig dengan pulsa mudah dan cepat. Jika kamu memiliki bisnis atau memang seorang konten kreator, maka followers ig menjadi hal yang wajib diperhatikan. Salah satu cara yang paling cepat adalah dengan membeli followers ig.</p> <p>Dan sudah ada banyak vendor yang menyediakan pembayaran cara beli followers ig dengan pulsa dengan cepat dan mudah. Dan harga yang digunakan juga bervariasi dan masih terjangkau.</p> <p>Jadi tidak perlu lagi kamu repot repot untuk transfer antar bank, karena sudah ada layanan membeli followers instagram dengan pulsa mudah. Berikut cara dan vendor yang menyediakannya. Simak ulasan berikut ini :</p><div class='code-block code-block-3' style='margin: 8px 0; clear: both;'> 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4844971694080534" data-ad-slot="2594717407" data-ad-format="auto" data-full-width-responsive="true"></ins> 
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div> <h2>Cara Membeli Followers Ig Dengan Pulsa</h2> <p>Sudah banyak vendor dan website yang menyediakan beli followers instagram via pulsa. Kamu sebenarnya bisa mencarinya sendiri. Namun ada beberapa rekomendasi yang bisa kami informasikan untuk vendor website yang sering digunakan.</p> <h3>1. Cara Beli Followers Ig Via Pulsa Melalui Marketplace</h3> <p>Yang pertama adalah melalui marketplace seperti tokopedia, shopee dan juga bukalapak. Namun ada beberapa trik yang harus kamu lakukan sebelumnya. Karena shopee tidak bisa melakukan transaksi menggunakan pulsa melainkan dengan transfer. Caranya adalah :</p> <ul> <li>Buka aplikasi tokopedia, shopee atau bukalapak. (Salah satu saja)</li> <li>Cari pada menu search “Beli Followers”</li> <li>Kemudian pilih yang memiliki ulasan paling banyak</li> <li>Chat penjual apakah menerima pembayaran via pulsa</li> <li>Jika iya tanyakan nomor WA yang bisa di chat dan chat melalui wa</li> <li>Dengan begitu kamu bisa membeli jasa followers ig dengan menggunakan pulsa</li> </ul> <p>Biasanya marketplace shoppe memiliki banyak toko yang memiliki harga bersaing dan juga banyak ulasannya. Dan banyak juga toko yang menyediakan jasa pembayaran lainnya menggunakan pulsa atau lainnya.</p> <h3>2. Menggunakan Vendor di Website Beli Followers IG</h3> <p>Kamu bisa mencari beberapa website yang menjual jasa penambah followers di IG melalui google. Caranya adalah :</p><div class='code-block code-block-4' style='margin: 8px 0; clear: both;'> 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4844971694080534" data-ad-slot="3543647622" data-ad-format="auto" data-full-width-responsive="true"></ins> 
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div> <ul> <li>Ketik kata kunci di google “cara beli followers ig dengan pulsa”</li> <li>Maka akan keluar beberapa website resmi yang menyediakan penjualan followers aktif dengan menggunakan pulsa.</li> <li>Kamu bisa menghubungi salah satu atau cek terlebih dahulu mana yang terbaik dan juga yang paling murah.</li> </ul> <p>Berikut ini beberapa penyedia jasa beli followers ig dengan pulsa yang direkomendasikan :</p> <ul> <li>com</li> <li>online</li> <li>com</li> <li>id</li> <li>com</li> <li>com</li> </ul> <p>Kamu bisa chat salah satu website diatas. Tanyakan mengenai paketannya dan juga metode pembayarannya.</p> <h3>3. Daftar Harga Membeli Followers Instagram Dengan Pulsa</h3> <p>Ada beberapa daftar harga untuk kamu bisa beli jasa followers ig. Paketannya juga beragan seperti followers aktif atau followers instagram permanen bisa kamu dapatkan. Dan jika target market kamu adalah di indonesia maka kamu harus menggunakan paketan followers indonesia. Berikut daftar harganya :</p> <ul> <li>500 Followers = Rp 35.000</li> <li>1000 Followers = Rp 55.000</li> <li>2000 Followers = Rp 95.000</li> <li>3000 Followers = Rp 135.000</li> <li>5000 Followers = Rp 225.000</li> </ul> <p>Atau mungkin kamu menemukan paketan lainnya yang lebih murah. Kamu bisa membandingkan sendiri satu persatu yang ada pada website atau di marketplace.</p> <p style="text-align: center;">Baca Juga &gt;&gt;&gt; <a href="https://tipsgaptek.com/cara-menghapus-semua-postingan-di-ig/" target="_blank" rel="noopener">6 Cara Menghapus Semua Postingan Di IG</a> &lt;&lt;&lt;<br /> &gt;&gt;&gt; <a href="https://tipsgaptek.com/cara-mengetahui-kita-diblokir-di-ig/" target="_blank" rel="noopener">5 Cara Mengetahui Kita Diblokir Di IG</a> &lt;&lt;&lt;<br /> &gt;&gt;&gt; <a href="https://tipsgaptek.com/cara-mengetahui-online-shop-penipu-di-instagram/" target="_blank" rel="noopener">7 Cara Mengetahui Online Shop Penipu Di Instagram</a> &lt;&lt;&lt;</p> <h3>Penutup</h3> <p>Itu tadi cara membeli followers ig dengan pulsa dengan mudah. Kami merekomendasikan untuk membeli follower ig dengan pulsa melalui marketplace. Kamu bisa melakukan chat atau menghubungi penjual yang ada di marketplace seperti shopee dan menggunakan pembayaran lainnya menggunakan pulsa via telkomsel, xl, indosat atau lainnya.</p><div class='code-block code-block-6' style='margin: 8px 0; clear: both;'> 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4844971694080534" data-ad-slot="1464279197" data-ad-format="auto" data-full-width-responsive="true"></ins> 
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div> <p>Terima kasih sudah membaca artikel kami mengenai cara beli followers ig dengan pulsa mudah dan cepat. Semoga bisa bermanfaat dan selamat mencoba.</p> <div class='code-block code-block-5' style='margin: 8px 0; clear: both;'> 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4844971694080534" data-ad-slot="8221259230" data-ad-format="auto" data-full-width-responsive="true"></ins> 
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div> <br /> <b>Notice</b>: Undefined variable: point_single_tags_section in <b>/var/www/vhosts/tipsgaptek.com/httpdocs/wp-content/themes/point/single.php</b> on line <b>83</b><br /> </div> <div class="related-posts"><h3>Related Posts</h3><div class="postauthor-top"><ul> <li class="rpexcerpt1"> <a class="relatedthumb" href="https://tipsgaptek.com/aplikasi-pengubah-tulisan-latin-ke-arab/" rel="bookmark" title="3 Aplikasi Pengubah Tulisan Latin Ke Arab Android Atau Komputer"> <span class="rthumb"> <img width="60" height="57" alt="aplikasi pengubah tulisan latin ke arab" title="" data-srcset="https://tipsgaptek.com/wp-content/uploads/2021/08/aplikasi-pengubah-tulisan-latin-ke-arab-60x57.jpg 60w, https://tipsgaptek.com/wp-content/uploads/2021/08/aplikasi-pengubah-tulisan-latin-ke-arab-140x130.jpg 140w" data-src="https://tipsgaptek.com/wp-content/uploads/2021/08/aplikasi-pengubah-tulisan-latin-ke-arab-60x57.jpg" data-sizes="(max-width: 60px) 100vw, 60px" class="attachment-widgetthumb size-widgetthumb wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img width="60" height="57" src="https://tipsgaptek.com/wp-content/uploads/2021/08/aplikasi-pengubah-tulisan-latin-ke-arab-60x57.jpg" class="attachment-widgetthumb size-widgetthumb wp-post-image" alt="aplikasi pengubah tulisan latin ke arab" title="" srcset="https://tipsgaptek.com/wp-content/uploads/2021/08/aplikasi-pengubah-tulisan-latin-ke-arab-60x57.jpg 60w, https://tipsgaptek.com/wp-content/uploads/2021/08/aplikasi-pengubah-tulisan-latin-ke-arab-140x130.jpg 140w" sizes="(max-width: 60px) 100vw, 60px" /></noscript>
-</span> <span> 3 Aplikasi Pengubah Tulisan Latin Ke Arab Android Atau Komputer </span> </a> <div class="meta"> <a href="https://tipsgaptek.com/aplikasi-pengubah-tulisan-latin-ke-arab/#comments" rel="nofollow">2 Komentar</a> | <span class="thetime">Agu 31, 2021</span> </div> </li> <li class="rpexcerpt2 last"> <a class="relatedthumb" href="https://tipsgaptek.com/cara-menghilangkan-situs-negatif-di-google-chrome/" rel="bookmark" title="3 Cara Menghilangkan Situs Negatif Di Google Chrome"> <span class="rthumb"> <img width="60" height="57" alt="cara menghilangkan situs negatif di google chrome" title="" data-srcset="https://tipsgaptek.com/wp-content/uploads/2021/07/cara-menghilangkan-situs-negatif-di-google-chrome-60x57.jpg 60w, https://tipsgaptek.com/wp-content/uploads/2021/07/cara-menghilangkan-situs-negatif-di-google-chrome-140x130.jpg 140w" data-src="https://tipsgaptek.com/wp-content/uploads/2021/07/cara-menghilangkan-situs-negatif-di-google-chrome-60x57.jpg" data-sizes="(max-width: 60px) 100vw, 60px" class="attachment-widgetthumb size-widgetthumb wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img width="60" height="57" src="https://tipsgaptek.com/wp-content/uploads/2021/07/cara-menghilangkan-situs-negatif-di-google-chrome-60x57.jpg" class="attachment-widgetthumb size-widgetthumb wp-post-image" alt="cara menghilangkan situs negatif di google chrome" title="" srcset="https://tipsgaptek.com/wp-content/uploads/2021/07/cara-menghilangkan-situs-negatif-di-google-chrome-60x57.jpg 60w, https://tipsgaptek.com/wp-content/uploads/2021/07/cara-menghilangkan-situs-negatif-di-google-chrome-140x130.jpg 140w" sizes="(max-width: 60px) 100vw, 60px" /></noscript>
-</span> <span> 3 Cara Menghilangkan Situs Negatif Di Google Chrome </span> </a> <div class="meta"> <a href="https://tipsgaptek.com/cara-menghilangkan-situs-negatif-di-google-chrome/#comments" rel="nofollow">1 Komentar</a> | <span class="thetime">Jul 6, 2021</span> </div> </li> <li class="rpexcerpt3"> <a class="relatedthumb" href="https://tipsgaptek.com/cara-keluar-dari-grup-wa-tanpa-diketahui/" rel="bookmark" title="Cara Keluar Dari Grup Wa Tanpa Diketahui"> <span class="rthumb"> <img width="60" height="57" alt="Cara Keluar Dari Grup Wa Tanpa Diketahui Tanpa Ganti Nomor left grup mudah tanpa diketahui oleh pengguna grup lainnya" title="" data-srcset="https://tipsgaptek.com/wp-content/uploads/2020/05/cara-keluar-dari-grup-wa-tanpa-diketahui-60x57.jpg 60w, https://tipsgaptek.com/wp-content/uploads/2020/05/cara-keluar-dari-grup-wa-tanpa-diketahui-140x130.jpg 140w" data-src="https://tipsgaptek.com/wp-content/uploads/2020/05/cara-keluar-dari-grup-wa-tanpa-diketahui-60x57.jpg" data-sizes="(max-width: 60px) 100vw, 60px" class="attachment-widgetthumb size-widgetthumb wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img width="60" height="57" src="https://tipsgaptek.com/wp-content/uploads/2020/05/cara-keluar-dari-grup-wa-tanpa-diketahui-60x57.jpg" class="attachment-widgetthumb size-widgetthumb wp-post-image" alt="Cara Keluar Dari Grup Wa Tanpa Diketahui Tanpa Ganti Nomor left grup mudah tanpa diketahui oleh pengguna grup lainnya" title="" srcset="https://tipsgaptek.com/wp-content/uploads/2020/05/cara-keluar-dari-grup-wa-tanpa-diketahui-60x57.jpg 60w, https://tipsgaptek.com/wp-content/uploads/2020/05/cara-keluar-dari-grup-wa-tanpa-diketahui-140x130.jpg 140w" sizes="(max-width: 60px) 100vw, 60px" /></noscript>
-</span> <span> Cara Keluar Dari Grup Wa Tanpa Diketahui </span> </a> <div class="meta"> <a href="https://tipsgaptek.com/cara-keluar-dari-grup-wa-tanpa-diketahui/#comments" rel="nofollow">1 Komentar</a> | <span class="thetime">Mei 11, 2020</span> </div> </li> <li class="last rpexcerpt4 last"> <a class="relatedthumb" href="https://tipsgaptek.com/cara-mencari-id-tiktok-tanpa-aplikasi/" rel="bookmark" title="3 Cara Mencari Id Tiktok Tanpa Aplikasi"> <span class="rthumb"> <img width="60" height="57" alt="cara mencari id tiktok tanpa aplikasi" title="" data-srcset="https://tipsgaptek.com/wp-content/uploads/2021/06/cara-mencari-id-tiktok-tanpa-aplikasi-60x57.jpg 60w, https://tipsgaptek.com/wp-content/uploads/2021/06/cara-mencari-id-tiktok-tanpa-aplikasi-140x130.jpg 140w" data-src="https://tipsgaptek.com/wp-content/uploads/2021/06/cara-mencari-id-tiktok-tanpa-aplikasi-60x57.jpg" data-sizes="(max-width: 60px) 100vw, 60px" class="attachment-widgetthumb size-widgetthumb wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img width="60" height="57" src="https://tipsgaptek.com/wp-content/uploads/2021/06/cara-mencari-id-tiktok-tanpa-aplikasi-60x57.jpg" class="attachment-widgetthumb size-widgetthumb wp-post-image" alt="cara mencari id tiktok tanpa aplikasi" title="" srcset="https://tipsgaptek.com/wp-content/uploads/2021/06/cara-mencari-id-tiktok-tanpa-aplikasi-60x57.jpg 60w, https://tipsgaptek.com/wp-content/uploads/2021/06/cara-mencari-id-tiktok-tanpa-aplikasi-140x130.jpg 140w" sizes="(max-width: 60px) 100vw, 60px" /></noscript>
-</span> <span> 3 Cara Mencari Id Tiktok Tanpa Aplikasi </span> </a> <div class="meta"> <a href="https://tipsgaptek.com/cara-mencari-id-tiktok-tanpa-aplikasi/#comments" rel="nofollow">5 Komentar</a> | <span class="thetime">Jun 2, 2021</span> </div> </li> </ul></div></div> </div> </div> <div class="bordersperator2"></div> <div id="commentsAdd"> <div id="respond" class="box m-t-6"> <div id="respond" class="comment-respond"> <h3 id="reply-title" class="comment-reply-title"><h4><span>Add a Comment</span></h4></h4> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/cara-membeli-followers-ig-dengan-pulsa/#respond" style="display:none;">Batalkan balasan</a></small></h3><form action="https://tipsgaptek.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Alamat email Anda tidak akan dipublikasikan.</span> Ruas yang wajib ditandai <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment:<span class="required">*</span></label><textarea id="comment" name="comment" cols="45" rows="5" aria-required="true"></textarea></p><p class="comment-form-author"><label for="author">Name:<span class="required">*</span></label><input id="author" name="author" type="text" value="" size="30" /></p> <p class="comment-form-email"><label for="email">Email Address:<span class="required">*</span></label><input id="email" name="email" type="text" value="" size="30" /></p> <p class="comment-form-url"><label for="url">Website:</label><input id="url" name="url" type="text" value="" size="30" /></p> <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /><label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p> <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Add Comment" /> <input type='hidden' name='comment_post_ID' value='970' id='comment_post_ID' /> <input type='hidden' name='comment_parent' id='comment_parent' value='0' /> </p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="3b228dfeb1" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js" name="ak_js" value="111"/>
-<script>document.getElementById( "ak_js" ).setAttribute( "value", ( new Date() ).getTime() );</script>
-</p></form> </div> </div> </div> </article> <aside class="sidebar c-4-12"> <div id="sidebars" class="sidebar"> <div class="sidebar_list"> <aside id="search-2" class="widget widget_search"><form method="get" id="searchform" class="search-form" action="https://tipsgaptek.com" _lpchecked="1"> <fieldset> <input type="text" name="s" id="s" value="Search the site" onblur="if (this.value == '') {this.value = 'Search the site';}" onfocus="if (this.value == 'Search the site') {this.value = '';}" > <button id="search-image" class="sbutton" type="submit" value=""> <i class="point-icon icon-search"></i> </button> </fieldset> </form> </aside> <aside id="recent-posts-2" class="widget widget_recent_entries"> <h3 class="widget-title">Pos-pos Terbaru</h3> <ul> <li> <a href="https://tipsgaptek.com/cara-mengecek-kuota-belajar-indosat/">Cara Mengecek Kuota Belajar Indosat Telkomsel Xl Axis Smartfren Tri 3</a> </li> <li> <a href="https://tipsgaptek.com/penyedia-layanan-data-center-indonesia/">Penyedia Layanan Data Center Indonesia, Review Dan Pengertiannya</a> </li> <li> <a href="https://tipsgaptek.com/cara-mengecek-pulsa-kartu-smartfren/">8 Cara Mengecek Pulsa Kartu Smartfren</a> </li> <li> <a href="https://tipsgaptek.com/cara-mengaktifkan-kartu-smartfren-yang-sudah-mati/">6 Cara Mengaktifkan Kartu Smartfren Yang Sudah Mati</a> </li> <li> <a href="https://tipsgaptek.com/cara-agar-kuota-unlimited-smartfren-tidak-dibatasi/">3 Cara Agar Kuota Unlimited Smartfren Tidak Dibatasi</a> </li> </ul> </aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Kategori</h3> <ul> <li class="cat-item cat-item-3567"><a href="https://tipsgaptek.com/category/elektronik-tips/">Elektronik Tips</a> </li> <li class="cat-item cat-item-2404"><a href="https://tipsgaptek.com/category/game/">Game</a> </li> <li class="cat-item cat-item-3"><a href="https://tipsgaptek.com/category/tips-smartphone/">Tips SmartPhone</a> </li> <li class="cat-item cat-item-296"><a href="https://tipsgaptek.com/category/tips-techno/">Tips Techno</a> </li> <li class="cat-item cat-item-1"><a href="https://tipsgaptek.com/category/uncategorized/">Uncategorized</a> </li> </ul> </aside><aside id="text-3" class="widget widget_text"> <div class="textwidget"><p><a href="https://www.tipskerja.com/">TipsKerja</a></p> <p><a href="https://tipshidup.com/">TipsHidup</a></p> <p><a href="https://viralhappen.blogspot.com/">ViralHappen</a></p> <p>&nbsp;</p> </div> </aside><aside id="ai_widget-2" class="widget ai_widget"><div class='code-block code-block-2' style='margin: 8px 0; clear: both;'> 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4844971694080534" data-ad-slot="7907526630" data-ad-format="auto" data-full-width-responsive="true"></ins> 
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div> </aside><aside id="text-2" class="widget widget_text"> <div class="textwidget"><p> <br /> 
-<script type="fvm-script-delay">
-var _Hasync=_Hasync||[];_Hasync.push(['Histats.start','1,4405475,4,0,0,0,00010000']);_Hasync.push(['Histats.fasi','1']);_Hasync.push(['Histats.track_hits','']);(function(){var hs=document.createElement('script');hs.type='text/javascript';hs.async=!0;hs.src=('//s10.histats.com/js15_as.js');(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(hs)})()
-</script>
-<br /> 
-<noscript><a href="/" target="_blank" rel="noopener"><img   alt="" border="0" data-src="//sstatic1.histats.com/0.gif?4405475&#038;101" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  src="//sstatic1.histats.com/0.gif?4405475&#038;101" alt="" border="0"></noscript>
-</a></noscript><br /> </p> </div> </aside> </div> </div> </aside> </div> </div> <footer> <div class="carousel"> <h3 class="frontTitle"> <div class="latest"> </div> </h3> <div class="excerpt"> <a href="https://tipsgaptek.com/cara-mengecek-kuota-belajar-indosat/" title="Cara Mengecek Kuota Belajar Indosat Telkomsel Xl Axis Smartfren Tri 3" id="footer-thumbnail"> <div> <div class="hover"><i class="point-icon icon-zoom-in"></i></div> <img width="140" height="130" alt="cara mengecek kuota belajar" title="" data-srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-kuota-belajar-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-kuota-belajar-60x57.jpg 60w" data-src="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-kuota-belajar-140x130.jpg" data-sizes="(max-width: 140px) 100vw, 140px" class="attachment-carousel size-carousel wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img width="140" height="130" src="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-kuota-belajar-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="cara mengecek kuota belajar" title="" srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-kuota-belajar-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-kuota-belajar-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" /></noscript>
-</div> <p class="footer-title"> <span class="featured-title">Cara Mengecek Kuota Belajar Indosat Telkomsel Xl Axis Smartfren Tri 3</span> </p> </a> </div> <div class="excerpt"> <a href="https://tipsgaptek.com/penyedia-layanan-data-center-indonesia/" title="Penyedia Layanan Data Center Indonesia, Review Dan Pengertiannya" id="footer-thumbnail"> <div> <div class="hover"><i class="point-icon icon-zoom-in"></i></div> <img width="140" height="130" alt="layanan data center biznet data center" title="" data-srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/layanan-data-center-biznet-data-center-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/layanan-data-center-biznet-data-center-60x57.jpg 60w" data-src="https://tipsgaptek.com/wp-content/uploads/2021/12/layanan-data-center-biznet-data-center-140x130.jpg" data-sizes="(max-width: 140px) 100vw, 140px" class="attachment-carousel size-carousel wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img width="140" height="130" src="https://tipsgaptek.com/wp-content/uploads/2021/12/layanan-data-center-biznet-data-center-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="layanan data center biznet data center" title="" srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/layanan-data-center-biznet-data-center-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/layanan-data-center-biznet-data-center-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" /></noscript>
-</div> <p class="footer-title"> <span class="featured-title">Penyedia Layanan Data Center Indonesia, Review Dan Pengertiannya</span> </p> </a> </div> <div class="excerpt"> <a href="https://tipsgaptek.com/cara-mengecek-pulsa-kartu-smartfren/" title="8 Cara Mengecek Pulsa Kartu Smartfren" id="footer-thumbnail"> <div> <div class="hover"><i class="point-icon icon-zoom-in"></i></div> <img width="140" height="130" alt="cara mengecek pulsa kartu smartfren" title="" data-srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-pulsa-kartu-smartfren-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-pulsa-kartu-smartfren-60x57.jpg 60w" data-src="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-pulsa-kartu-smartfren-140x130.jpg" data-sizes="(max-width: 140px) 100vw, 140px" class="attachment-carousel size-carousel wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img width="140" height="130" src="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-pulsa-kartu-smartfren-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="cara mengecek pulsa kartu smartfren" title="" srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-pulsa-kartu-smartfren-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengecek-pulsa-kartu-smartfren-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" /></noscript>
-</div> <p class="footer-title"> <span class="featured-title">8 Cara Mengecek Pulsa Kartu Smartfren</span> </p> </a> </div> <div class="excerpt"> <a href="https://tipsgaptek.com/cara-mengaktifkan-kartu-smartfren-yang-sudah-mati/" title="6 Cara Mengaktifkan Kartu Smartfren Yang Sudah Mati" id="footer-thumbnail"> <div> <div class="hover"><i class="point-icon icon-zoom-in"></i></div> <img width="140" height="130" alt="cara mengaktifkan kartu smartfren yang sudah mati" title="" data-srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengaktifkan-kartu-smartfren-yang-sudah-mati-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengaktifkan-kartu-smartfren-yang-sudah-mati-60x57.jpg 60w" data-src="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengaktifkan-kartu-smartfren-yang-sudah-mati-140x130.jpg" data-sizes="(max-width: 140px) 100vw, 140px" class="attachment-carousel size-carousel wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img width="140" height="130" src="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengaktifkan-kartu-smartfren-yang-sudah-mati-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="cara mengaktifkan kartu smartfren yang sudah mati" title="" srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengaktifkan-kartu-smartfren-yang-sudah-mati-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/cara-mengaktifkan-kartu-smartfren-yang-sudah-mati-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" /></noscript>
-</div> <p class="footer-title"> <span class="featured-title">6 Cara Mengaktifkan Kartu Smartfren Yang Sudah Mati</span> </p> </a> </div> <div class="excerpt"> <a href="https://tipsgaptek.com/cara-agar-kuota-unlimited-smartfren-tidak-dibatasi/" title="3 Cara Agar Kuota Unlimited Smartfren Tidak Dibatasi" id="footer-thumbnail"> <div> <div class="hover"><i class="point-icon icon-zoom-in"></i></div> <img width="140" height="130" alt="cara agar kuota unlimited smartfren tidak dibatasi" title="" data-srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-agar-kuota-unlimited-smartfren-tidak-dibatasi-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/cara-agar-kuota-unlimited-smartfren-tidak-dibatasi-60x57.jpg 60w" data-src="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-agar-kuota-unlimited-smartfren-tidak-dibatasi-140x130.jpg" data-sizes="(max-width: 140px) 100vw, 140px" class="attachment-carousel size-carousel wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img width="140" height="130" src="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-agar-kuota-unlimited-smartfren-tidak-dibatasi-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="cara agar kuota unlimited smartfren tidak dibatasi" title="" srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-agar-kuota-unlimited-smartfren-tidak-dibatasi-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/cara-agar-kuota-unlimited-smartfren-tidak-dibatasi-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" /></noscript>
-</div> <p class="footer-title"> <span class="featured-title">3 Cara Agar Kuota Unlimited Smartfren Tidak Dibatasi</span> </p> </a> </div> <div class="excerpt"> <a href="https://tipsgaptek.com/cara-menggunakan-paket-unlimited-smartfren-di-mifi/" title="4 Cara Menggunakan Paket Unlimited Smartfren Di Mifi" id="footer-thumbnail"> <div> <div class="hover"><i class="point-icon icon-zoom-in"></i></div> <img width="140" height="130" alt="cara menggunakan paket unlimited smartfren di mifi" title="" data-srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-menggunakan-paket-unlimited-smartfren-di-mifi-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/cara-menggunakan-paket-unlimited-smartfren-di-mifi-60x57.jpg 60w" data-src="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-menggunakan-paket-unlimited-smartfren-di-mifi-140x130.jpg" data-sizes="(max-width: 140px) 100vw, 140px" class="attachment-carousel size-carousel wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-<noscript><img width="140" height="130" src="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-menggunakan-paket-unlimited-smartfren-di-mifi-140x130.jpg" class="attachment-carousel size-carousel wp-post-image" alt="cara menggunakan paket unlimited smartfren di mifi" title="" srcset="https://tipsgaptek.com/wp-content/uploads/2021/12/cara-menggunakan-paket-unlimited-smartfren-di-mifi-140x130.jpg 140w, https://tipsgaptek.com/wp-content/uploads/2021/12/cara-menggunakan-paket-unlimited-smartfren-di-mifi-60x57.jpg 60w" sizes="(max-width: 140px) 100vw, 140px" /></noscript>
-</div> <p class="footer-title"> <span class="featured-title">4 Cara Menggunakan Paket Unlimited Smartfren Di Mifi</span> </p> </a> </div> </div> </footer> <div class="copyrights"> <div class="row" id="copyright-note"> <div class="copyright-left-text"> &copy; 2021 <a href="https://tipsgaptek.com" title="Gaptek? Baca tips dari kita TipsGaptek" rel="nofollow">TipsGaptek</a>.</div> <div class="copyright-text"> </div> <div class="footer-navigation"> <ul class="menu"> <li class="page_item page-item-296"><a href="https://tipsgaptek.com/tentang-kami/">About Us</a></li> <li class="page_item page-item-3"><a href="https://tipsgaptek.com/privacy-policy/">Privacy Policy</a></li> <li class="page_item page-item-33"><a href="https://tipsgaptek.com/sitemap/">Sitemap</a></li> <li class="page_item page-item-470"><a href="https://tipsgaptek.com/terms-of-service-tos/">Terms Of Service (TOS)</a></li> </ul> </div> <div class="top"><a href="#top" class="toplink"><i class="point-icon icon-up-dir"></i></a></div> </div> </div> 
-<script src='https://tipsgaptek.com/wp-includes/js/comment-reply.min.js?ver=5.8.2' id='comment-reply-js' type='fvm-script-delay'></script>
-<script id='q2w3_fixed_widget-js-extra'>
-/* <![CDATA[ */
-var q2w3_sidebar_options = [{"sidebar":"sidebar","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["ai_widget-2"]}];
-/* ]]> */
-</script>
-<script src='https://tipsgaptek.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.3.0' id='q2w3_fixed_widget-js' type='fvm-script-delay'></script>
-<script src='https://tipsgaptek.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.9.2' id='smush-lazy-load-js' type='fvm-script-delay'></script>
-<script src='https://tipsgaptek.com/wp-includes/js/wp-embed.min.js?ver=5.8.2' id='wp-embed-js' type='fvm-script-delay'></script>
+<!DOCTYPE html>
+<html>
+	<head><meta charset="windows-1252"> 
+        
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Jasa Tambah Followers, Likes, Views Instagram - GoSocial</title>
+		<link rel="shortcut icon" href="https://gosocial.co.id/assets/customer/images/logo/favicon.png">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<meta name="title" content="Jasa Tambah Followers, Likes, Views Instagram - GoSocial">
+		<meta name="description" content="Tingkatkan interaksi akun Instagram anda secara cepat dengan Beli Followers Instagram, Auto Likes Instagram, hingga Views dari akun Aktif Indonesia / Mix">
+		<meta name="keywords" content="beli followers instagram, jual followers instagram, auto followers instagram, auto likes instagram, likes instagram, beli likes instagram, views instagram, cara menambah followers instagram">
+		<meta name="csrf-token" content="5n6ilyhfv3IAcifEOd6AemGHro45k3GBL9uJSiTC">
+		<meta name="copyright" content="GoSocial Indonesia">
+		<meta name="language" content="id">
+		<meta name="robots" content="index,follow" />
+		<meta name="ahrefs-site-verification" content="966b79264c1ad1ac0aad281236c463a0d466b553bbf8b30ed4bd7a3b5665d42b">
+		<meta property='og:image' content='/assets/landing/image/metaimage.jpg'/>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WVTV3D3');</script>
+		<!-- End Google Tag Manager -->
+		<!-- Start Alexa Certify Javascript -->
+		<script type="text/javascript">
+		_atrk_opts = { atrk_acct:"lhMKu1O7kI20L7", domain:"gosocial.co.id",dynamic: true};
+		(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+		<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=lhMKu1O7kI20L7" style="display:none" height="1" width="1" alt="" /></noscript>
+		<!-- End Alexa Certify Javascript -->  
+		<!-- Global site tag (gtag.js) - Google Ads: 716449069 --> 
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-716449069"></script> 
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-716449069'); </script>
+		<link rel="icon" href="https://gosocial.co.id/assets/customer/images/logo/favicon.png" sizes="32x32"/>
+		<link rel="canonical" href="https://gosocial.co.id/service/social-media-engagement/instagram" />
+        <link href="https://gosocial.co.id/assets/landing/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/owl.carousel.min.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/themify-icon/themify-icons.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/elagent-icon/style.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/flaticon/flaticon.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/language_select.css" rel="stylesheet" >
+<link href="https://gosocial.co.id/assets/landing/vendors/magnific-popup/magnific-popup.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/linear-icon/style.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/animate.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/public.min.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/unittest.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/style.css" type="text/css" rel="stylesheet"/>
+<link href="https://gosocial.co.id/assets/landing/css/main.css" type="text/css" rel="stylesheet"/>
+<link href="https://gosocial.co.id/assets/landing/css/responsive.css" type="text/css" rel="stylesheet"/>
+
+<link rel="stylesheet" href="https://gosocial.co.id/assets/landing/css/nouislider.min.css" type="text/css" />
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        
+        ga('create', 'UA-84936033-5', 'auto');
+        ga('send', 'pageview');
+		</script>
+		
+		<!-- Facebook Pixel Code -->
+		<script>
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window, document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '757811421495361');
+		fbq('track', 'PageView');
+		</script>
+		<noscript><img height="1" width="1" style="display:none"
+		src="https://www.facebook.com/tr?id=757811421495361&ev=PageView&noscript=1"
+		/></noscript>
+		<!-- End Facebook Pixel Code -->
+	</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVTV3D3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="pop-bg"></div>
+<div class="pop-cont">
+   <div class="btn-close">
+      <i class="fa fa-close"></i>
+   </div>
+   <a href="https://gosocial.co.id/service/social-media-engagement#started">
+      <div class="pop-img" style="background: url(https://gosocial.co.id/storage/media/popup/37693cfc748049e45d87b8c7d8b9aacd.jpg)"></div>
+   </a>
 </div>
-<script type='text/javascript' id='fvm-delayjs' data-cfasync='false'>
-!function(k,e,x){function r(d,a,g,b){return b=(a?e.getElementById(a):t)||e.createElement(d||"SCRIPT"),a&&(b.id=a),g&&(b.onload=g),b}function u(d){f(function(a){a=[].slice.call(e.querySelectorAll(d));(function v(b,c){if(b=a.shift()){b.parentNode.removeChild(b);var l=b,m,n=void 0;var p=r(l.nodeName);var q=0;for(m=l.attributes;q<m.length;q++)"type"!=(n=m[q]).name&&p.setAttribute(n.name,n.value);(c=(p.text=l.text,p)).src&&!c.hasAttribute("async")?(c.onload=c.onerror=v,e.head.appendChild(c)):(e.head.appendChild(c),
-v())}})()})}var f,t,h=[],w=/p/.test(e.readyState);Function();(f=function(d,a){w?x(d,a):h.push(d,a)}).all=u;f.js=function(d,a,g,b){f(function(c){(c=r(t,a,b)).src=d;e.head.appendChild(c)},g)};k.addEventListener("onpageshow"in k?"pageshow":"load",function(){for(w=!u();h[0];)f(h.shift(),h.shift())});k.Defer=f}(this,document,setTimeout);
-const userInteractionEvents=["mouseover","keydown","touchstart","touchmove","wheel"];userInteractionEvents.forEach(function(event){window.addEventListener(event,triggerScriptLoader,{passive:!0})});function triggerScriptLoader(){fvmloadscripts();userInteractionEvents.forEach(function(event){window.removeEventListener(event,triggerScriptLoader,{passive:!0})})}function fvmloadscripts(){Defer.all('script[type="fvm-script-delay"]')};
+
+<header class="header_top fixed header_ab ">
+         <div id="header-scroll" class="header_top_bar">
+      <div class="container">
+         <div class="row">
+
+            <div class="col-xs-6">
+               <div class="h_contact_info">
+                  <a href="mailto:hello@gosocial.co.id"><i class="fa fa-envelope"></i>hello@gosocial.co.id</a>
+                  <a href="javascript:void(0);"><i class="fa fa-clock-o"></i>09:00 s/d 17:00 <small class="text-muted">(Jam Kerja)</small></a>
+               </div>
+            </div>
+            <div class="col-xs-6">
+               <div class="header_social_top">
+                  <div class="header_social">
+                     <h6>Ikuti Kami</h6>
+                     <a href="https://www.facebook.com/gosocialid/" target="_blank"><i class="fa fa-facebook"></i></a>
+                     <a href="https://www.linkedin.com/company/gosocialid" target="_blank"><i class="fa fa-linkedin"></i></a>
+                     <a href="https://instagram.com/gosocial.id" target="_blank"><i class="fa fa-instagram"></i></a>
+                  </div>
+                  <a href="#" onclick="document.getElementById('myModal').style.display='block'" class="header_btn">Butuh Bantuan?</a>
+               </div>
+            </div>
+            
+         </div>
+      </div>
+   </div>
+         <nav class="navbar">
+      <div class="container">
+         <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <i class="lnr lnr-menu"></i>
+            <i class="lnr lnr-cross"></i>
+            </button>
+            <a class="navbar-brand" href="https://gosocial.co.id">
+            <img src="https://gosocial.co.id/assets/landing/image/logo.png" alt="Logo GoSocial" />
+            </a>
+         </div>
+         <div class="collapse navbar-right navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul id="nav" class="nav navbar-nav menu_two">
+               <li class="home_sub menu-item dropdown submenudropdown">
+                  <a href="https://gosocial.co.id" class="dropdown-toggle">Home</a>
+               </li>
+               <li class="services_sub menu-item dropdown submenudropdown btndrop current_page_item current-menu-item active">
+                  <a title="Services" href="#" data-toggle="dropdown" class="dropdown-toggle">Service</a>
+                  <ul class="dropdown-menu submenu">
+                                                                                     <li class="menu-item dropdown current_page_item active submenudropdown">
+                        <a title="Social Media Engagement" href="https://gosocial.co.id/service/social-media-engagement">Social Media Engagement </a>
+                                                <ul class="dropdown-menu submenu">
+                                                                                 <li class="menu-item dropdown submenudropdown activepage_item"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/instagram">Instagram</a></li>
+                                                                                                            <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/facebook">Facebook</a></li>
+                                                                                                            <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/youtube">Youtube</a></li>
+                                                                                                            <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/twitter">Twitter</a></li>
+                                                                              </ul>
+                                             </li>
+                                                                                                          <li class="menu-item dropdown submenudropdown">
+                        <a title="Branding &amp; Design" href="https://gosocial.co.id/service/branding-design">Branding &amp; Design </a>
+                                                                        <ul class="dropdown-menu submenu dropindex">
+                           <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-foto-produk">Jasa Foto Produk</a></li>
+                           <li class="menu-item dropdown submenudropdown btndropindex"><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis">Jasa Desain Grafis</a>
+                                                            <ul class="dropdown-menu submenu dropindex">
+                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/social-media">Social Media</a>
+                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/logo">Logo</a>
+                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/stationery">Stationery</a>
+                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/custom">Custom</a>
+                              </ul>
+                              
+                           </li>
+                           <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-video-animasi">Jasa Video Animasi</a></li>
+                        </ul>
+                                                                     </li>
+                                                                                                          <li class="menu-item dropdown ">
+                        <a title="Digital Campaign" href="https://gosocial.co.id/service/digital-campaign">Digital Campaign </a>
+                                                                                             </li>
+                                                                                                          <li class="menu-item dropdown ">
+                        <a title="Social Media Management" href="https://gosocial.co.id/service/social-media-management">Social Media Management </a>
+                                                                                             </li>
+                                                               <li class="menu-item dropdown"><a title="Pembuatan Website" href="https://gosocial.co.id/service/website">Website Solution <span class="badge badge-header-new">* new</span></a>
+                     <ul class="dropdown-menu submenu">
+                           <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/website/jasa-pembuatan-website">Pembuatan Website</a></li>
+                           <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/website/penulisan-artikel">Penulisan Artikel</a></li>
+                           <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/website/jasa-seo">Search Engine Optimization</a></li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+               <li class="menu-item dropdown submenudropdown">
+                  <a title="How to" href="https://gosocial.co.id/knowledge-base" class="dropdown-toggle">How to</a>
+               </li>
+               <li class="menu-item dropdown submenudropdown">
+                  <a title="About Us" href="https://gosocial.co.id/about-us" class="dropdown-toggle">About</a>
+               </li>
+               <li class="menu-item dropdown submenudropdown">
+                  <a title="Pages" href="https://gosocial.co.id/contact-us" class="dropdown-toggle">Contact</a>
+               </li>
+            </ul>
+            <div class="menu_btn">
+               <ul class="menu_action">
+                  <li class="action_menu">
+                                          <a class="banner_btn btn-getnow" href="https://gosocial.co.id/login"><i class="fa fa-sign-in"></i> Login</a>
+                                       </li>
+                                 </ul>
+            </div>
+         </div>
+      </div>
+   </nav>
+</header>
+<section class="new_breadcrumb_area">
+   <div id="particles-js"></div>
+   <div class="container">
+      <h1>Instagram - SME Services</h1>
+      <ol id="breadcrumbs" class="breadcrumb ">
+         <li class="item-home"><a class="bread-link bread-home" href="https://gosocial.co.id" title="Home">Home</a></li>
+         <li class="item-home"><a class="bread-link bread-home" href="https://gosocial.co.id/service/social-media-engagement" title="Social Media Engagement">Social Media Engagement</a>
+         </li>
+         <li class="item-current item-2670"><span class="bread-current bread-2670">Instagram</span></li>
+      </ol>
+   </div>
+</section>
+<section class="subscribe_area_new subscribe_news_details">
+      <div class="container">
+            <div class="range-content wow fadeInUp" data-wow-delay="150ms">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                    <iframe class="frame-rounded" width="560" height="315" src="https://www.youtube.com/embed/_s43umxrG2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <div class="seo-rang-heading-wrapper wow fadeInUp">
+                            <h2 class="title">Apa itu layanan Social Media Engagement?</h2>
+                        </div>
+                        <br/>
+                        <a href="#price" style="border: 2px solid white;" target="_self" class="btn thm-btn pro_btn blue_btn">Pilih Paket Sekarang!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<section class="seo-features new-seo-features c2a_5 bg_white" style="padding: 70px; 0px;">
+   <div class="container">
+      <div class="row d_flex">
+         <div class="col-sm-6 col-xs-12 wow fadeInLeft">
+            <div class="feature-shape"><img class="img-responsive" src="https://gosocial.co.id/assets/landing/image/sme_followers_left.png" alt="Image"></div>
+         </div>
+         <div class="col-sm-6 col-xs-12 d_flex wow fadeInRight">
+            <div class="features-content flex">
+               <h2 class="title">Beli Followers Instagram</h2>
+               <p>Layanan jual / jasa followers merupakan <strong>cara terbaru menambah jumlah followers / pengikut di Instagram</strong>, yang berasal dari akun aktif Indonesia maupun dari akun aktif Worldwide (Seluruh Dunia), secara instant, murah, tanpa password, aman dan berkualitas.</p>
+               <br/>
+               <p>Jumlah Followers bermanfaat untuk meningkatkan reputasi bisnis dan kepercayaan calon pembeli / klien ketika melihat akun Instagram Anda.</p>
+               <br/>
+               <p>Layanan ini biasa disebut dengan <b>Jasa Tambah / Beli Followers Instagram.</b></p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="seo-features new-seo-features c2a_5 bg_white" style="padding: 70px; 0px;">
+   <div class="container">
+      <div class="row d_flex row_reverse">
+         <div class="col-sm-6 col-md-7 col-xs-12 wow fadeInRight">
+            <div class="s_business_img">
+               <div class="feature-shape"><img src="https://gosocial.co.id/assets/landing/image/sme_likes_right.png" alt="Image"></div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-md-5 col-xs-12 d_flex wow fadeInLeft">
+            <div class="s_business_content flex">
+               <h2 class="title">Auto Likes Instagram</h2>
+               <p>Layanan tambah / jual / beli likes Instagram sangat penting untuk menunjang konten / post, dikarenakan algoritma Instagram saat ini yang menilai suatu konten 
+                  layak ditampilkan kepada Followers / orang lain jika interaksi yang didapatkan banyak (menarik).
+               </p>
+               <br/>
+               <p>
+                  Layanan jasa tambah likes otomatis for Instagram / autolikes akan segera hadir!</b>.
+               </p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="seo-features new-seo-features c2a_5 bg_white" style="padding: 70px; 0px;">
+   <div class="container">
+      <div class="row d_flex">
+         <div class="col-sm-6 col-xs-12 wow fadeInLeft">
+            <div class="feature-shape"><img class="img-responsive" src="https://gosocial.co.id/assets/landing/image/sme_views_left.png" alt="Image"></div>
+         </div>
+         <div class="col-sm-6 col-xs-12 d_flex wow fadeInRight">
+            <div class="features-content flex">
+               <h2 class="title">Beli Viewers Instagram</h2>
+               <p>Layanan tambah viewers untuk video di Instagram berguna dalam bersaing di lautan konten Instagram untuk meraih atensi dari user merupakan hal yang sulit, 
+                  apalagi jangkauan yang didapat tidak sesuai dengan harapan dan biaya pembuatan konten.
+               </p>
+               <br/>
+               <p>Jumlah Views bermanfaat sebagai bukti interaksi yang dapat meningkatkan jangkauan video Anda karena algoritma Instagram yang sangat selektif dalam menampilkan konten.</p>
+               <br/>
+               <p>Hal ini merupakan cara terbaru untuk <b>menambah viewers Instagram!</b></p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section><section class="easy_steps_new sec-pad ">
+   <div class="container">
+      <div class="section-title wow fadeInUp new_section_title">
+         <p>Layanan kami dibuat khusus untuk bisnis!</p>
+         <h2 class="title">Langkah Order</h2>
+      </div>
+      <div class="row">
+         <div class="easy_slider owl-carousel owl-loaded owl-drag">
+            <div class="item wow fadeInLeft">
+               <div class="service_item">
+                  <img src="https://gosocial.co.id/assets/landing/image/service_how1.png" alt="Image" />
+                  <div class="text">
+                     <h2>1. Pilih Paket</h2>
+                     <p>Pilih paket & pesan layanan yang sesuai dengan kebutuhan anda.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="item wow fadeInLeft">
+               <div class="service_item">
+                  <img src="https://gosocial.co.id/assets/landing/image/service_how2.png" alt="Image" />
+                  <div class="text">
+                     <h2>2. Isi Data</h2>
+                     <p>Masukkan data yang dibutuhkan pada form pemesanan untuk memulai.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="item wow fadeInLeft">
+               <div class="service_item">
+                  <img src="https://gosocial.co.id/assets/landing/image/service_how3.png" alt="Image" />
+                  <div class="text">
+                     <h2>3. Bayar</h2>
+                     <p>Lakukan checkout pembayaran dengan berbagai pilihan metode pembayaran.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="item wow fadeInLeft">
+               <div class="service_item">
+                  <img src="https://gosocial.co.id/assets/landing/image/service_how4.png" alt="Image" />
+                  <div class="text">
+                     <h2>4. Tracking Progress</h2>
+                     <p>Anda dapat melakukan tracking progress order melalui dashboard user.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="item wow fadeInLeft">
+               <div class="service_item">
+                  <img src="https://gosocial.co.id/assets/landing/image/service_how5.png" alt="Image" />
+                  <div class="text">
+                     <h2>5. Selesai</h2>
+                     <p>Tunggu pesanan sesuai dengan timeline dan order anda selesai.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section id="price" class="sm_new_service_area">
+   <div class="container">
+      <div class="sme_ig_service_tab_info">
+         <div class="new_section_title_two new_section_title_three text-center">
+            <h6 style=" ">Pricing for every need</h6>
+            <h2 class="title">Paket Harga Instagram</h2>
+            <div class="line"><span class="one"></span><span class="two"></span></div>
+         </div>
+         <div class="row">
+            <div class="col-md-12 items-align-center">
+               <div class="text-center m-t-30 m-b-40">
+                                         
+                  <a class="service-menu-group selected" href="javascript:void(0);" data-card="tab-24c714ccb3857346b52bfe17e287d210">
+                     <div class="media align-items-center">
+                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
+                           <i class="anticon anticon-user-add font-size-30"></i>
+                        </div>
+                        <span class="text-service mb-0">Followers</span>
+                     </div>
+                  </a>
+                       
+                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-9a58cd04b44f059473246a8e5c0ebb4b">
+                     <div class="media align-items-center">
+                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
+                           <i class="anticon anticon-plus-circle font-size-30"></i>
+                        </div>
+                        <span class="text-service mb-0">Future Post Likes</span>
+                     </div>
+                  </a>
+                       
+                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-4dc08a3361d5cb9c87822dbd8495ac4e">
+                     <div class="media align-items-center">
+                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
+                           <i class="anticon anticon-info-circle font-size-30"></i>
+                        </div>
+                        <span class="text-service mb-0">Instagram Reels</span>
+                     </div>
+                  </a>
+                       
+                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-02f6764170a227c14779d7b9af488b70">
+                     <div class="media align-items-center">
+                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
+                           <i class="anticon anticon-heart font-size-30"></i>
+                        </div>
+                        <span class="text-service mb-0">Post Likes</span>
+                     </div>
+                  </a>
+                       
+                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-2b6878c42c03e731668a0a8c2cc8bf3c">
+                     <div class="media align-items-center">
+                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
+                           <i class="anticon anticon-eye font-size-30"></i>
+                        </div>
+                        <span class="text-service mb-0">Post Views</span>
+                     </div>
+                  </a>
+                                                   </div>
+            </div>
+            <div class="col-md-12">
+               <div class="tab-content new_service_content">
+                           
+                  <div class="card-service active" id="tab-24c714ccb3857346b52bfe17e287d210" sub-id="1">                                    
+                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
+                        <div class="btn-group btn-group-social">
+                                                      <button type="button" social-id="2" class="social-attr btn btn-default btn-lg biru active">
+                           <span>Followers Mix</span>
+                           </button>
+                                                      <button type="button" social-id="1" class="social-attr btn btn-default btn-lg biru">
+                           <span>Followers Indonesia</span>
+                           </button>
+                                                   </div>
+                     </div>
+                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
+                     <div class="row field-blank" style="display:none;">
+                        <div class="col-12">
+                           <div class="m-t-20 text-center">
+                              <h4 class="m-t-30 field-blank-text">Services</h4>
+                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row field-loading" style="display:none;">
+                        <div class="col-md-12 text-center">
+                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
+                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
+                           </div>
+                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
+                        </div>
+                     </div>
+                     <div class="row new_price_info field-service" style="display:none;">
+                        <div class="col-sm-12">
+                           <div class="new_price_item2">
+                              <div class="row flex-display">
+                                 <div class="col-md-12 card-head2 bg-wrapper">
+                                    <div class="col-md-6 bg-price">
+                                       <div class="row" style="display:flex;">
+                                          <div class="col-md-2 col-xs-2">
+                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
+                                                <div class="vertical-default font-slider" id="slider-24c714ccb3857346b52bfe17e287d210"></div>
+                                             </div>
+                                          </div>
+                                          <div class="col-md-10 col-xs-10 deskripsi">
+                                             <h1><span class="package-name"></span></h1>
+                                             <h4 class="package-detail"></h4>
+                                             <ul class="desk-price">
+                                             </ul>                               
+                                             <div class="price">
+                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
+                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
+                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
+                                    </div>
+                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                           
+                  <div class="card-service" style="display:none;"" id="tab-9a58cd04b44f059473246a8e5c0ebb4b" sub-id="21">                                    
+                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
+                        <div class="btn-group btn-group-social">
+                                                      <button type="button" social-id="17" class="social-attr btn btn-default btn-lg biru active">
+                           <span>10 Kuota Autolikes Post</span>
+                           </button>
+                                                      <button type="button" social-id="18" class="social-attr btn btn-default btn-lg biru">
+                           <span>20 Kuota Autolikes Post</span>
+                           </button>
+                                                   </div>
+                     </div>
+                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
+                     <div class="row field-blank" style="display:none;">
+                        <div class="col-12">
+                           <div class="m-t-20 text-center">
+                              <h4 class="m-t-30 field-blank-text">Services</h4>
+                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row field-loading" style="display:none;">
+                        <div class="col-md-12 text-center">
+                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
+                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
+                           </div>
+                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
+                        </div>
+                     </div>
+                     <div class="row new_price_info field-service" style="display:none;">
+                        <div class="col-sm-12">
+                           <div class="new_price_item2">
+                              <div class="row flex-display">
+                                 <div class="col-md-12 card-head2 bg-wrapper">
+                                    <div class="col-md-6 bg-price">
+                                       <div class="row" style="display:flex;">
+                                          <div class="col-md-2 col-xs-2">
+                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
+                                                <div class="vertical-default font-slider" id="slider-9a58cd04b44f059473246a8e5c0ebb4b"></div>
+                                             </div>
+                                          </div>
+                                          <div class="col-md-10 col-xs-10 deskripsi">
+                                             <h1><span class="package-name"></span></h1>
+                                             <h4 class="package-detail"></h4>
+                                             <ul class="desk-price">
+                                             </ul>                               
+                                             <div class="price">
+                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
+                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
+                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
+                                    </div>
+                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                           
+                  <div class="card-service" style="display:none;"" id="tab-4dc08a3361d5cb9c87822dbd8495ac4e" sub-id="22">                                    
+                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
+                        <div class="btn-group btn-group-social">
+                                                      <button type="button" social-id="20" class="social-attr btn btn-default btn-lg biru active">
+                           <span>Reels Views</span>
+                           </button>
+                                                      <button type="button" social-id="21" class="social-attr btn btn-default btn-lg biru">
+                           <span>Reels Likes</span>
+                           </button>
+                                                   </div>
+                     </div>
+                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
+                     <div class="row field-blank" style="display:none;">
+                        <div class="col-12">
+                           <div class="m-t-20 text-center">
+                              <h4 class="m-t-30 field-blank-text">Services</h4>
+                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row field-loading" style="display:none;">
+                        <div class="col-md-12 text-center">
+                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
+                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
+                           </div>
+                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
+                        </div>
+                     </div>
+                     <div class="row new_price_info field-service" style="display:none;">
+                        <div class="col-sm-12">
+                           <div class="new_price_item2">
+                              <div class="row flex-display">
+                                 <div class="col-md-12 card-head2 bg-wrapper">
+                                    <div class="col-md-6 bg-price">
+                                       <div class="row" style="display:flex;">
+                                          <div class="col-md-2 col-xs-2">
+                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
+                                                <div class="vertical-default font-slider" id="slider-4dc08a3361d5cb9c87822dbd8495ac4e"></div>
+                                             </div>
+                                          </div>
+                                          <div class="col-md-10 col-xs-10 deskripsi">
+                                             <h1><span class="package-name"></span></h1>
+                                             <h4 class="package-detail"></h4>
+                                             <ul class="desk-price">
+                                             </ul>                               
+                                             <div class="price">
+                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
+                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
+                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
+                                    </div>
+                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                           
+                  <div class="card-service" style="display:none;"" id="tab-02f6764170a227c14779d7b9af488b70" sub-id="2">                                    
+                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
+                        <div class="btn-group btn-group-social">
+                                                      <button type="button" social-id="3" class="social-attr btn btn-default btn-lg biru active">
+                           <span>Likes Indonesia</span>
+                           </button>
+                                                   </div>
+                     </div>
+                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
+                     <div class="row field-blank" style="display:none;">
+                        <div class="col-12">
+                           <div class="m-t-20 text-center">
+                              <h4 class="m-t-30 field-blank-text">Services</h4>
+                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row field-loading" style="display:none;">
+                        <div class="col-md-12 text-center">
+                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
+                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
+                           </div>
+                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
+                        </div>
+                     </div>
+                     <div class="row new_price_info field-service" style="display:none;">
+                        <div class="col-sm-12">
+                           <div class="new_price_item2">
+                              <div class="row flex-display">
+                                 <div class="col-md-12 card-head2 bg-wrapper">
+                                    <div class="col-md-6 bg-price">
+                                       <div class="row" style="display:flex;">
+                                          <div class="col-md-2 col-xs-2">
+                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
+                                                <div class="vertical-default font-slider" id="slider-02f6764170a227c14779d7b9af488b70"></div>
+                                             </div>
+                                          </div>
+                                          <div class="col-md-10 col-xs-10 deskripsi">
+                                             <h1><span class="package-name"></span></h1>
+                                             <h4 class="package-detail"></h4>
+                                             <ul class="desk-price">
+                                             </ul>                               
+                                             <div class="price">
+                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
+                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
+                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
+                                    </div>
+                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                           
+                  <div class="card-service" style="display:none;"" id="tab-2b6878c42c03e731668a0a8c2cc8bf3c" sub-id="3">                                    
+                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
+                        <div class="btn-group btn-group-social">
+                                                      <button type="button" social-id="5" class="social-attr btn btn-default btn-lg biru active">
+                           <span>Views Indonesia</span>
+                           </button>
+                                                   </div>
+                     </div>
+                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
+                     <div class="row field-blank" style="display:none;">
+                        <div class="col-12">
+                           <div class="m-t-20 text-center">
+                              <h4 class="m-t-30 field-blank-text">Services</h4>
+                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row field-loading" style="display:none;">
+                        <div class="col-md-12 text-center">
+                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
+                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
+                           </div>
+                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
+                        </div>
+                     </div>
+                     <div class="row new_price_info field-service" style="display:none;">
+                        <div class="col-sm-12">
+                           <div class="new_price_item2">
+                              <div class="row flex-display">
+                                 <div class="col-md-12 card-head2 bg-wrapper">
+                                    <div class="col-md-6 bg-price">
+                                       <div class="row" style="display:flex;">
+                                          <div class="col-md-2 col-xs-2">
+                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
+                                                <div class="vertical-default font-slider" id="slider-2b6878c42c03e731668a0a8c2cc8bf3c"></div>
+                                             </div>
+                                          </div>
+                                          <div class="col-md-10 col-xs-10 deskripsi">
+                                             <h1><span class="package-name"></span></h1>
+                                             <h4 class="package-detail"></h4>
+                                             <ul class="desk-price">
+                                             </ul>                               
+                                             <div class="price">
+                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
+                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
+                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
+                                    </div>
+                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                                 </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   
+</section>
+<section class="chose_service_area">
+   <div class="container">
+      <div class="section-title wow fadeInUp">
+         <p>Service Features</p>
+         <h2 class="title">Keunggulan SME GoSocial</h2>
+      </div>
+      <div class="row">
+      <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_platform.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Platform Otomatis</h3>
+                     <p>Didukung sistem order dan tracking project otomatis yang online 24 jam, memungkinkan order kapanpun & dimanapun.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_pay.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Berbagai Metode Pembayaran</h3>
+                     <p>Didukung berbagai pilihan metode pembayaran otomatis yang memudahkan dan mempercepat transaksi.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_moneyback.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Garansi 30 Hari</h3>
+                     <p>Semua layanan SME bergaransi hingga 30 hari (FREE REFILL / REFUND).<br/>Terjamin untuk bisnis & profesional!.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_quality.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Quality #1 for Business</h3>
+                     <p>Layanan dari GoSocial dijamin berkualitas Enterprise, karena layanan telah melewati riset dan pengembangan yang matang.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_save.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Akun 100% Aman</h3>
+                     <p>Diproses dengan metode legal dan tanpa E-mail maupun Password menjamin keamanan akun anda dari resiko Hack / Banned.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_notif.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Fitur Notifikasi</h3>
+                     <p>Dapatkan pemberitahuan terkini mengenai status order / project yang berjalan saat ini melalui E-mail & SMS.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="chose_service_area">
+   <div class="container">
+      <div class="section-title wow fadeInUp">
+         <p>Social Media Lainnya</p>
+         <h2 class="title">Tersedia Juga Untuk Social Media Lainnya</h2>
+      </div>
+      <div class="row">
+         <div class="containcard">
+                  <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <div class="icon facebookcon">
+                        <i class="fa fa-facebook-square" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <h3>
+                        <a href="https://gosocial.co.id/service/social-media-engagement/facebook" class="titlesosial">Facebook</a>
+                    </h3>
+                    <p>Likes Fanpage Facebook | Likes Status / Post Facebook</p>
+                </div>
+            </div>
+         </div>
+         <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <div class="icon youtubecon">
+                        <i class="fa fa-youtube" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <h3>
+                        <a href="https://gosocial.co.id/service/social-media-engagement/youtube" class="titlesosial">Youtube</a>
+                    </h3>
+                    <p>Subscribers Youtube | Viewers Youtube | Likes Youtube</p>
+                </div>
+            </div>
+         </div>
+         <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <div class="icon twittercon">
+                        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <h3>
+                        <a href="https://gosocial.co.id/service/social-media-engagement/twitter" class="titlesosial">Twitter</a>
+                    </h3>
+                    <p>Followers Twitter | Retweets Twitter | Likes Twitter</p>
+                </div>
+            </div>
+         </div>
+               </div>
+      </div>
+   </div>
+</section>
+<section class="faq_area sec-pad ">
+   <div class="container">
+       <div class="section-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+           <p>FAQ</p>
+           <h2 class="title">Pertanyaan Umum SME</h2>
+       </div>
+       <div class="row">
+           <div class="col-md-5 col-md-offset-1 faq_img">
+                <div class="panel-group faq-inner-accordion-left" id="accordion" role="tablist">
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse1" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apa keuntungan membeli Followers, dsb?</strong>
+                           </a>
+                        </h4>
+                     </div>
+                     <div id="collapse1" class="panel-collapse collapse" aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Membeli followers / interaksi secara instant dapat membuat akun lebih kredibel dan terpercaya terutama bagi bisnis,
+                           serta dapat meningkatkan jangkauan post secara luas.
+                           <br/><br/>Ditambah algoritma Social Media sekarang sangat selektif
+                           menampilkan konten yang relevan untuk pengguna dengan cara mensortir berdasarkan interaksi terbanyak.
+                           <br /><br /><b>Membeli Followers bukan untuk membuatnya menjadi pembeli atau
+                           mendatangkan pembeli melainkan untuk meningkatkan kepercayaan calon customer
+                           anda!</b>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse2" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apa perbedaan layanan dari GoSocial?</strong></a>
+                        </h4>
+                     </div>
+                     <div id="collapse2" class="panel-collapse collapse" aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">GoSocial hadir untuk memberikan kualitas layanan yang lebih baik dan ekslusif
+                           untuk keperluan profesional / bisnis dibanding penyedia lain yang sudah ada diluar sana.
+                           <br/><br/>
+                           Kami memberikan garansi hingga 30 hari yang tidak mungkin didapatkan di penyedia lainnya.
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse3" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Berapa lama proses pengerjaan?</strong>
+                           </a>
+                        </h4>
+                     </div>
+                     <div id="collapse3" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Kami menghadirkan layanan berkualitas dengan metode yang aman untuk
+                           akun anda.
+                           <br /><br />Lama proses tergantung dari jumlah, update metode dari pihak Social Media, dan antrian di server. Namun kami sudah membuat estimasi pengerjaan
+                           yang dapat dilacak pada dashboard user anda setelah
+                           checkout.
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse4" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apakah perlu
+                           E-mail & Password? </strong> </a>
+                        </h4>
+                     </div>
+                     <div id="collapse4" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Layanan ini <b>dijamin 100% Aman</b> karena kami selalu melakukan
+                           update metode proses yang legal dan sesuai dengan ketentuan dari pihak Social Media.
+                           <br /><br />Anda juga <b>tidak perlu mengirimkan E-mail maupun Password</b> karena kami
+                           hanya membutuhkan link/username target saja.
+                        </div>
+                     </div>
+                  </div>
+               </div>
+           </div>
+           
+           <div class="col-md-5">
+               <div class="panel-group faq-inner-accordion-right" id="accordion" role="tablist">
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse5" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apakah legal membeli Followers, dsb?
+                           </strong> </a>
+                        </h4>
+                     </div>
+                     <div id="collapse5" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Membeli Followers dsb adalah tindakan legal dan tidak melanggar hukum,
+                           meskipun bertentangan dengan panduan pengguna Social Media yang bersangkutan terkait "Dishonest Behaviour".
+                           <br /><br />Tentunya memiliki resiko seperti penangguhan akun / blokir sementara dsb, namun hal tersebut dapat dihindari
+                           dengan memesan dari penyedia terpercaya seperti GoSocial.
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse6" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apakah jumlah Followers atau interaksi bisa turun? </strong> </a>
+                        </h4>
+                     </div>
+                     <div id="collapse6" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Kami hanya menyediakan layanan yang berkualitas dan terjamin!
+                           Meskipun Followers dapat unfollow dikarenakan faktor dari user yang memang ingin
+                           un-follow maupun dari Instagram yang menghapus akun yang tidak aktif lagi / interaksi dianggap SPAM.
+                           <br /><br /> Oleh karena itu kami akan memantau order anda dalam 1 minggu setelahnya
+                           untuk memastikan jumlah followers / interaksi yang didapat sesuai dan tidak berkurang.
+                           <br/><br/><b>FREE REFILL / Garansi jika berkurang selama durasi tersebut.</b>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse7" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apakah beresiko di Banned oleh  Instagram? </strong> </a>
+                        </h4>
+                     </div>
+                     <div id="collapse7" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Tentunya resiko seperti penangguhan akun / blokir sementara dsb, dapat terjadi jika menyalahi panduan komunitas di Social Media yang bersangkutan.
+                           <br/><br/>Namun hal tersebut dapat dihindari dengan memesan dari penyedia terpercaya seperti GoSocial.
+                           Tidak ada resiko jika anda menggunakan layanan kami! Anda aman dari
+                           resiko Banned, Hacking, dsb.
+                           <br /><br /> Kami juga memberikan jaminan 7 Hari <b>Money-Back Guarantee</b> jika yang
+                           anda dapatkan tidak sesuai dengan yang diharapkan / ketentuan kami.
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse8" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apa semua dapat membeli Followers / interaksi?</strong> </a>
+                        </h4>
+                     </div>
+                     <div id="collapse8" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Tidak, sistem akan mendeteksi dan tidak akan menerima order dari akun yang memuat konten atau keperluan
+                           seperti Pornografi, Judi, Menjual barang ilegal, Pemenangan perlombaan / kontes, dan tindakan ilegal lainnya.
+                           <br/><br/>GoSocial sama sekali tidak mendukung tindakan yang mengarah kepada perilaku tidak jujur (Dishonest Behaviour),
+                           layanan ini dibuat untuk meningkatkan jangkauan dan kredibilitas akun bisnis untuk keperluan Social Media Marketing.
+                           <br/><br/><b>Layanan ini bukan dimaksudkan untuk "Fake Review" dan sebagainya!</b>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</section>
+<section>
+        <div class="container repuso">
+            <div class="section-title wow fadeInUp new_section_title">
+               <p>Apa kata mereka?</p>
+            </div>
+                <!-- Begin widget code -->
+<div data-rw-inline="15111" data-website-id="1083"></div>
+<script type="text/javascript" src="https://repuso.com/widgets/inline.js"></script>
+<!-- End widget code -->
+        </div>
+</section>
+<section class="sm_subscribe_area">
+    <div class="sub_illustration_bg"></div>
+    <img class="man_img wow fadeInLeft" src="https://gosocial.co.id/assets/landing/image/sme_man.png" alt="img">
+    <img class="cup_img wow fadeInUp" src="https://gosocial.co.id/assets/landing/image/2019/03/cup2.png" alt="img">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="sm_subscribe_text">
+                    <h6>Newsletter</h6>
+                    <h2>Love Offers And Discounts ? Subscribe And Save</h2>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div id="subscribe_load" style="position: absolute;z-index: 9999;display: none;">
+                    <img src="https://my.sendinblue.com/public/theme/version4/assets/images/loader_sblue.gif" style="display: block;margin-left: auto;margin-right: auto;position: relative;top: 40%;">
+                </div>
+                <div class="view-messages" style=" margin:5px 0;"> </div>
+                <form class="sm_subscribe_form noauto"><input name="email" type="email" placeholder="Alamat Email"><button type="submit" class="subscribe_btn">Subscribe</button></form>
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="footer_area_two">
+   <div class="footer_top">
+      <div class="illustration_bg"></div>
+      <div class="container">
+         <div class="row d_flex">
+            <div class="col-md-3 col-xs-6 lang_container">
+               <div class="widget widget1 about_us_widget">
+                  <a href="#" class="f_logo">
+                  <img src="https://gosocial.co.id/assets/landing/image/logo.png" alt="f-logo">
+                  </a>
+                  <p>
+                     GoSocial merupakan creative digital agency yang membantu dalam melakukan Social Media Activation, Social Media Management, Social Media Marketing, Social Media Optimization, hingga berbagai kebutuhan Digital Marketing lainnya.                  </p>
+               </div>
+               <div class="lang-dropdown">
+                  <div class="dropbtn">
+                                          <img src="https://cdn.wpml.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/id.png"
+                        alt="Bahasa" class="flag-language">
+                     Bahasa
+                     <i class="fa fa-caret-down" id="lang-arrow"></i>
+                                       </div>
+                  <div id="myDropdown" class="dropdown-content">
+                     <a href="https://gosocial.co.id/lang/id" active>
+                     <img src="https://cdn.wpml.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/id.png"
+                        alt="Bahasa" class="flag-language"> Bahasa
+                     </a>
+                     
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-3 col-xs-6">
+               <div class="service_wedget">
+                  <h3 class="f_title">Layanan Kami</h3>
+                  <div class="menu-service-menu-container">
+                     <ul id="menu-service-menu">
+                                                <li class="menu-item"><a title="Social Media Engagement" href="https://gosocial.co.id/service/social-media-engagement">Social Media Engagement</a></li>
+                                                <li class="menu-item"><a title="Branding &amp; Design" href="https://gosocial.co.id/service/branding-design">Branding &amp; Design</a></li>
+                                                <li class="menu-item"><a title="Digital Campaign" href="https://gosocial.co.id/service/digital-campaign">Digital Campaign</a></li>
+                                                <li class="menu-item"><a title="Social Media Management" href="https://gosocial.co.id/service/social-media-management">Social Media Management</a></li>
+                                             </ul>
+                  </div>
+               </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-md-3 col-xs-6">
+               <div class="service_wedget">
+                  <h3 class="f_title">Tautan</h3>
+                  <div class="menu-helpful-links-container">
+                     <ul id="menu-helpful-links" class="">
+                        <li class="menu-item"><a href="https://gosocial.co.id/about-us">Tentang Kami</a></li>
+                        <li class="menu-item"><a href="https://gosocial.co.id/contact-us">Hubungi Kami</a></li>
+                        <li class="menu-item"><a href="https://gosocial.co.id/knowledge-base">Pusat Bantuan</a></li>
+                        <li class="menu-item"><a href="https://gosocial.co.id/blog">Blog</a></li>
+                        <li class="menu-item"><a href="https://gosocial.co.id/case-study">Studi Kasus</a></li>
+                        <li class="menu-item"><a href="https://gosocial.co.id/portofolio">Portofolio</a></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-3 col-xs-6">
+               <div class="service_wedget">
+                  <h3 class="f_title">Lokasi</h3>
+                  <div class="menu-support-container">
+                     <p><b>Office:</b><br/>
+                        Bumi Mandiri Tower 2, 12th Floor<br/>Jl. Panglima Sudirman Kav. 66-68 Surabaya - 60271
+                        <br/>
+                        <br/><b>Studio:</b><br/>
+                        Jl. Puri Sukolilo Utara II No. 507 Surabaya - 60111
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="footer_bottom_two">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-12 bottom_line">
+               <hr />
+            </div>
+            <div class="col-xs-6">
+               <p>GoSocial adalah merek milik PT Nusa Digital Media © 2020 GoSocial<br/><small>Terdaftar pada Direktorat Jendral Kekayaan Intelektual Republik Indonesia.</small></p>
+            </div>
+            <div class="col-xs-6 text-right">
+               <div class="social_footer">
+                  <ul>
+                     <li class="follow_text">Ikuti Kami</li>
+                     <li><a href="https://www.facebook.com/gosocialid/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                     <li><a href="https://www.linkedin.com/company/gosocialid" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                     <li><a href="https://instagram.com/gosocial.id" target="_blank"><i class="fa fa-instagram"></i></a></li>
+               </ul>
+                 <small><a href="https://gosocial.co.id/privacy">Kebijakan Privasi</a> - 
+                  <a href="https://gosocial.co.id/terms">Ketentuan Layanan</a></small>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+   <div id="myModalPetunjuk" class="modal">
+      <div class="modal-content">
+         <span class="close petunjuk">&times;</span>
+         <h4 class="modal-title text-center" id="myModalLabel">Petunjuk Pilih Paket</h4>
+         <div class="modal-body">
+            <div class="row">
+               <div class="col-md-4 text-center">
+                  <a>
+                     <img class="helpimg2" src="https://gosocial.co.id/assets/landing/image/step1.png" alt="">
+                     <div id='mylink'></div>
+                  </a>
+                  <h3>Tahap 1</h3>
+                  <p style="line-height:20px;"><small>Geser Toggle switch atau tombol lingkaran keatas dan kebawah untuk memilih paket dan harga yang anda inginkan.</small></p>
+               </div>
+               <div class="col-md-4 text-center">
+                  <a><img class="helpimg2" src="https://gosocial.co.id/assets/landing/image/step2.png" alt=""></a>
+                  <h3>Tahap 2</h3>
+                  <p style="line-height:20px;"><small>Setelah selesai pilih paket, kemudian klik tombol order sekarang untuk pesan.</small></p>
+               </div>
+               <div class="col-md-4 text-center">
+                  <a><img class="helpimg" src="https://gosocial.co.id/assets/landing/image/step3.png" alt=""></a>
+                  <h3>Tahap 3</h3>
+                  <p style="line-height:20px;"><small>Jika anda belum login, maka anda diarahkan terlebih dahulu ke halaman login. Jika sudah login, anda diarahkan ke halaman order</small></p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div id="myModal" class="modal">
+      <div class="modal-content">
+         <span class="close">&times;</span>
+         <h4 class="modal-title text-center" id="myModalLabel">Pilih cara kami untuk membantu:</h4>
+         <div class="modal-body">
+            <div class="row">
+               <div class="col-md-4 text-center">
+                  <a class="chat-button chatbtn">
+                     <img class="helpimg" src="https://gosocial.co.id/assets/landing/image/live-chat.png" alt="Livechat">
+                     <div id='mylink'></div>
+                  </a>
+                  <h3>Live Chat</h3>
+                  <p><small>Bantuan secara real-time mulai pk 09.00 s/d 21.00 W.I.B</small></p>
+               </div>
+               <div class="col-md-4 text-center">
+                  <a href="https://gosocial.co.id/contact-us"><img class="helpimg" src="https://gosocial.co.id/assets/landing/image/mail.png" alt="Penawaran Digital Marketing"></a>
+                  <h3>Contact Us</h3>
+                  <p><small>Bantuan melalui E-mail untuk inquiry / penawaran</small></p>
+               </div>
+               <div class="col-md-4 text-center">
+                  <a href="https://gosocial.co.id/knowledge-base"><img class="helpimg" src="https://gosocial.co.id/assets/landing/image/book.png" alt="Knowledge Base"></a>
+                  <h3>Knowledge Base</h3>
+                  <p><small>Layanan pusat bantuan yang disediakan pihak GoSocial</small></p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <script>
+      $(".btndrop").click(function(){
+      $(".btndrop").addClass("open");
+      });
+    </script>
+<script>
+  window.intercomSettings = {
+    app_id: "xex4cmbc"
+      };
 </script>
-</body> 
+<script>
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/xex4cmbc';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>
+<script src="https://gosocial.co.id/assets/landing/js/jquery-2.x-git.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/bootstrap.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/owl.carousel.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/wow.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/parallax.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/jquery.counterup.min.js"></script>    
+<script src="https://gosocial.co.id/assets/landing/js/jquery.waypoints.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/vendors/particles/particles.js"></script>
+<script src="https://gosocial.co.id/assets/landing/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/custom.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/BeerSlider.js"></script>
+<script src="https://gosocial.co.id/route-group"></script>
+<script src="https://gosocial.co.id/assets/landing/js/page/subscribe_email.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/nouislider.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/page/sub-project.js"></script>
+<script type="text/javascript">
+$.ajaxSetup({
+    headers: {
+        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+    }
+});
+</script>
+<script src="https://gosocial.co.id/assets/js/main.js"></script></body>
 </html>
