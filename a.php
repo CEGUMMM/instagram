@@ -1,1275 +1,2394 @@
 
 <!DOCTYPE html>
-<html>
-	<head><meta charset="windows-1252"> 
-        
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>Jasa Tambah Followers, Likes, Views Instagram - GoSocial</title>
-		<link rel="shortcut icon" href="https://gosocial.co.id/assets/customer/images/logo/favicon.png">
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-		<meta name="title" content="Jasa Tambah Followers, Likes, Views Instagram - GoSocial">
-		<meta name="description" content="Tingkatkan interaksi akun Instagram anda secara cepat dengan Beli Followers Instagram, Auto Likes Instagram, hingga Views dari akun Aktif Indonesia / Mix">
-		<meta name="keywords" content="beli followers instagram, jual followers instagram, auto followers instagram, auto likes instagram, likes instagram, beli likes instagram, views instagram, cara menambah followers instagram">
-		<meta name="csrf-token" content="Hh51wbIo0U3TBiNJKTbB5Wugn43q2b8wonQfyMus">
-		<meta name="copyright" content="GoSocial Indonesia">
-		<meta name="language" content="id">
-		<meta name="robots" content="index,follow" />
-		<meta name="ahrefs-site-verification" content="966b79264c1ad1ac0aad281236c463a0d466b553bbf8b30ed4bd7a3b5665d42b">
-		<meta property='og:image' content='/assets/landing/image/metaimage.jpg'/>
-		<!-- Google Tag Manager -->
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-WVTV3D3');</script>
-		<!-- End Google Tag Manager -->
-		<!-- Start Alexa Certify Javascript -->
-		<script type="text/javascript">
-		_atrk_opts = { atrk_acct:"lhMKu1O7kI20L7", domain:"gosocial.co.id",dynamic: true};
-		(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-		</script>
-		<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=lhMKu1O7kI20L7" style="display:none" height="1" width="1" alt="" /></noscript>
-		<!-- End Alexa Certify Javascript -->  
-		<!-- Global site tag (gtag.js) - Google Ads: 716449069 --> 
-		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-716449069"></script> 
-		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-716449069'); </script>
-		<link rel="icon" href="https://gosocial.co.id/assets/customer/images/logo/favicon.png" sizes="32x32"/>
-		<link rel="canonical" href="https://gosocial.co.id/service/social-media-engagement/instagram" />
-        <link href="https://gosocial.co.id/assets/landing/css/bootstrap.min.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/owl.carousel.min.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/font-awesome.min.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/themify-icon/themify-icons.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/elagent-icon/style.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/flaticon/flaticon.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/language_select.css" rel="stylesheet" >
-<link href="https://gosocial.co.id/assets/landing/vendors/magnific-popup/magnific-popup.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/linear-icon/style.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/animate.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/public.min.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/unittest.css" rel="stylesheet">
-<link href="https://gosocial.co.id/assets/landing/css/style.css" type="text/css" rel="stylesheet"/>
-<link href="https://gosocial.co.id/assets/landing/css/main.css" type="text/css" rel="stylesheet"/>
-<link href="https://gosocial.co.id/assets/landing/css/responsive.css" type="text/css" rel="stylesheet"/>
+<html lang="en" class="no-js">
+<!-- HEAD -->
 
-<link rel="stylesheet" href="https://gosocial.co.id/assets/landing/css/nouislider.min.css" type="text/css" />
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
-        <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-        
-        ga('create', 'UA-84936033-5', 'auto');
-        ga('send', 'pageview');
-		</script>
-		
-		<!-- Facebook Pixel Code -->
-		<script>
-		!function(f,b,e,v,n,t,s)
-		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-		n.queue=[];t=b.createElement(e);t.async=!0;
-		t.src=v;s=b.getElementsByTagName(e)[0];
-		s.parentNode.insertBefore(t,s)}(window, document,'script',
-		'https://connect.facebook.net/en_US/fbevents.js');
-		fbq('init', '757811421495361');
-		fbq('track', 'PageView');
-		</script>
-		<noscript><img height="1" width="1" style="display:none"
-		src="https://www.facebook.com/tr?id=757811421495361&ev=PageView&noscript=1"
-		/></noscript>
-		<!-- End Facebook Pixel Code -->
-	</head>
-<body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVTV3D3"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<div class="pop-bg"></div>
-<div class="pop-cont">
-   <div class="btn-close">
-      <i class="fa fa-close"></i>
-   </div>
-   <a href="https://gosocial.co.id/service/social-media-engagement#started">
-      <div class="pop-img" style="background: url(https://gosocial.co.id/storage/media/popup/37693cfc748049e45d87b8c7d8b9aacd.jpg)"></div>
-   </a>
-</div>
+<head>
+    <!--         ___                         _    _                                       _
+                /__ \____ _ ____ ___  ____  / /  / /  _____ _____ ____ __ ____ ___   ____/ /
+                  / / __ `/ __ / __ `/ __ `/ /  / /  / __ / __  / __ / __` __ \ _ \ / __  /  Hi There :* Nice To Meet You :*
+             ____/ / /_/ (__  ) /_/ / /_/ / /__/ /__(__  ) /_/ (__  ) / / / / /  __/ /_/ /
+            /_____/\____/____/\____/\____/____/____/____/_____/____/_/ /_/ /_/\___/\____/  (c) Version 2 - 2021 Jasa All Sosmed -->
+    <!--Awet Livechat, analitic mbek testimoni-->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="csrf-token" content="Nh5eZg0hM9v1wBIFJplOIjED6Fl7hC4ndGPj6yB0">
+    <title>Jual Jasa Tambah Followers Instagram Indonesia</title>
+    <meta name="keywords" content="jual followers instagram, jasa tambah followers ig, cara menambah followers ig, jual jasa tambah followers ig, jual followers instagram aktif indonesia, jual followers ig indonesia">
+    <meta name=" description" content="Jual jasa tambah/meningkatkan/paid followers instagram dari akun real aktif Indonesia maupun pasif mix worldwide dengan harga termurah dan instant terpercaya sejak april 2015">
+    <meta name="author" content="Jasa All Sosmed">
+    <meta name="robots" content="all,index,instagram">
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate, post-check=0, pre-check=0" />
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta property='og:image' content="https://jasaallsosmed.co.id/Ark-landing//assets/img/metaimage.jpg" />
+    <meta name="google-site-verification" content="DYh0l8vcLbQczZtqucQbthZ3MoZ7tUnxTbqNRJROK_Q" />
+    <meta name="ahrefs-site-verification" content="aa03d980e95571f925592efa031190bd737fb4438ba59daa98d2a3b27ae38e1c">
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-<header class="header_top fixed header_ab ">
-         <div id="header-scroll" class="header_top_bar">
-      <div class="container">
-         <div class="row">
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KLGDMQX');
+    </script>
+    <!-- End Google Tag Manager -->
 
-            <div class="col-xs-6">
-               <div class="h_contact_info">
-                  <a href="mailto:hello@gosocial.co.id"><i class="fa fa-envelope"></i>hello@gosocial.co.id</a>
-                  <a href="javascript:void(0);"><i class="fa fa-clock-o"></i>09:00 s/d 17:00 <small class="text-muted">(Jam Kerja)</small></a>
-               </div>
+    <!-- Bootstraps -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+
+    <!-- GLOBAL MANDATORY STYLES -->
+    <link rel="alternate" href="https://jasaallsosmed.co.id/" hreflang="id-id" />
+    <!-- <link rel="stylesheet" href="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/bootstrap/dist/css/bootstrap.css" /> -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,400,700,500,300,300italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/et-line/et-line.css" rel="stylesheet" type="text/css" />
+    <!-- END GLOBAL MANDATORY STYLES -->
+
+    <!-- BEGIN THEME PLUGINS STYLE -->
+    <!-- <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/scrollbar/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/css/settings.css" rel="stylesheet" type="text/css"> -->
+    <!-- <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/css/layers.css?7290666000" rel="stylesheet" type="text/css">
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/css/navigation.css?" rel="stylesheet" type="text/css"> -->
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/css/newanimate.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/css/sweetalert.min.css" rel="stylesheet">
+    <!-- <link href="https://jasaallsosmed.co.id/Ark-landing/assets/css/modalcuy.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="https://jasaallsosmed.co.id/Ark-landing/assets/css/sweetalert2.min.css" rel="stylesheet" type="text/css"/> -->
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/magnific-popup/magnific-popup.min.css?" rel="stylesheet" type="text/css" />
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/owl-carousel/assets/owl.carousel.css" rel="stylesheet" type="text/css" />
+    <!-- Select 2 Plugins -->
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <!-- <link href="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/select2/css/select2.min.css" rel="stylesheet" type="text/css" /> -->
+    <!-- END THEME PLUGINS STYLE -->
+
+    <!-- THEME STYLES -->
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/css/newglobal.min.css" rel="stylesheet" type="text/css" />
+    <!-- END THEME STYLES -->
+
+    <!-- THEME -->
+    <!-- <link href="https://jasaallsosmed.co.id/Ark-landing/assets/css/theme/dark.css" rel="stylesheet" type="text/css" /> -->
+    <link href="https://jasaallsosmed.co.id/Ark-landing/assets/css/theme/base.min.css" rel="stylesheet" type="text/css" id="style-color" />
+    <!-- <link href="" rel="stylesheet" type="text/css" id="style-color"/> -->
+    <!-- END THEME -->
+
+    <!-- BEGIN JQUERY -->
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/jquery.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/jquery.animsition.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/components/animsition.js"></script>
+    <!-- END JQUERY -->
+
+    <!-- BEGIN SLIDER REVOLUTION
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/jquery.themepunch.revolution.min.js"></script> -->
+
+    <!-- SLIDER REVOLUTION 5.0 EXTENSIONS
+    (Load Extensions only on Local File Systems !
+    The following part can be removed on Server for On Demand Loading) -->
+    <!-- <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/extensions/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/rev-slider/js/extensions/revolution.extension.video.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/sweetalert2.min.js"></script> -->
+    <script src="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/sweetalert/lib/sweet-alert.js"></script>
+    <!-- END SLIDER REVOLUTION -->
+    
+    <!-- FAVICON -->
+    <link rel="shortcut icon" href="https://jasaallsosmed.co.id/Ark-landing/assets/img/setting/company-favicon-favicon.ico?1641019254" />
+    <!-- END FAVICON -->
+
+    <!-- CUSTOM CSS -->
+    <!-- BADGE FOLLOWER IG -->
+    <!-- <link rel="stylesheet" href="https://jasaallsosmed.co.id/Ark-landing/assets/css/badge-follower.css"> -->
+    <!-- <link rel="stylesheet" href="https://jasaallsosmed.co.id/Ark-landing/assets/app/css/notification.css"> -->
+    <!-- <link rel="stylesheet" href="https://jasaallsosmed.co.id/Ark-landing/assets/app/css/button.css"> -->
+    <!-- END CUSTOM CSS -->
+
+</head>
+<!-- END HEAD -->
+
+<!-- BODY -->
+
+<body class="animsition">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLGDMQX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    
+    <!-- START Pop Up Modal -->
+        <div class='pop-bg'></div>
+    <div class='pop-cont'>
+        <div class="btn-close">
+            <i class="fa fa-close"></i>
+        </div>
+                <div class="pop-img" style="background: url('https://jasaallsosmed.co.id/storage/images/modal/modal-jas-1.jpg?1641019254"></div>
             </div>
-            <div class="col-xs-6">
-               <div class="header_social_top">
-                  <div class="header_social">
-                     <h6>Ikuti Kami</h6>
-                     <a href="https://www.facebook.com/gosocialid/" target="_blank"><i class="fa fa-facebook"></i></a>
-                     <a href="https://www.linkedin.com/company/gosocialid" target="_blank"><i class="fa fa-linkedin"></i></a>
-                     <a href="https://instagram.com/gosocial.id" target="_blank"><i class="fa fa-instagram"></i></a>
-                  </div>
-                  <a href="#" onclick="document.getElementById('myModal').style.display='block'" class="header_btn">Butuh Bantuan?</a>
-               </div>
+        <!-- END Pop Up Modal -->
+
+    
+    <!-- START Notification Beamer Button -->
+    <div id="notif-beamer">
+                <img id="image-beamer" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/beamer/bell.png">
+    </div>
+    <!-- END Notification Beamer Button -->
+
+    <!-- START Notification Beamer Sidebar -->
+    <div class="beamer-bg" style="display: none;"></div>
+    <div class="sidebar-beamer" style="display: none;">
+        <div class="header-beamer d-flex justify-content-between align-items-center">
+            <span><b>What's new on Jasa All Sosmed?</b></span>
+            <span class="close-icon"><i class="fas fa-times"></i></span>
+        </div>
+        <div class="body-beamer">
+                        <div class="content-beamer content-container">
+                <div class="card">
+                    <div class="card-header text-muted">
+                                                <span class="badge rounded-pill bg-primary">NEW</span>
+                                                <span><small> December 11, 2021</small></span>
+                    </div>
+                    <div class="card-body">
+                        <h3 class="card-title"><b>Promo 12.12</b></h3>
+                                                <img class="img-thumbnail" src="https://jasaallsosmed.co.id/storage/images/notification/promo-1212.png" alt="Image" height="350" width="350">
+                        
+                                                <div class="card-text mt-2" id="limit_33">
+                            <p>Siapa nih yg udah nungguin JAS ngadai promo??</p><p><br></p><p>Yeayy ada promo ....
+                            <p>
+                                <span class="text-primary font-weight-bold" onclick="readMore('33');" style="cursor: pointer;">Read More</span>
+                            </p>
+                        </div>
+                        <div class="card-text mt-2" id="full_33" style="display: none;">
+                            <p>Siapa nih yg udah nungguin JAS ngadai promo??</p><p><br></p><p>Yeayy ada promo untuk SEMUA LAYANAN dengan Diskon 12% maksimal 10rb .</p><p>Syarat & Ketentuan :</p><p>  1. Promo hanya berlaku hingga 30 Desember 2021</p><p>  2. Masukkan kode kupon untuk mendapatkan promo (Kode Kupon : DUABELAS)</p><p><br></p><p>Segera lakukan pemesanam di <a href="https://jasaallsosmed.co.id/order" target="_blank" style="color: rgb(0, 188, 212);">https://jasaallsosmed.co.id/order</a> untuk promo terbatas ini!</p>
+                            <p>
+                                <span class="text-primary font-weight-bold" onclick="readLess('33');" style="cursor: pointer;">Read Less</span>
+                            </p>
+                        </div>
+                        
+                                            </div>
+                </div>
+            </div>
+                        <div class="content-beamer content-container">
+                <div class="card">
+                    <div class="card-header text-muted">
+                                                <span class="badge rounded-pill bg-primary">NEW</span>
+                                                <span><small> November 28, 2021</small></span>
+                    </div>
+                    <div class="card-body">
+                        <h3 class="card-title"><b>PROMO TERBATAS !!</b></h3>
+                                                <img class="img-thumbnail" src="https://jasaallsosmed.co.id/storage/images/notification/Pink Cake Bakery 10th Year Anniversary Poster (2).png" alt="Image" height="350" width="350">
+                        
+                                                <div class="card-text mt-2" id="limit_32">
+                            <p>Yeay !!</p><p>Yang ditunggu - tunggu layanan Google Review sudah<strong> OPEN</strong> kembali...</p><....
+                            <p>
+                                <span class="text-primary font-weight-bold" onclick="readMore('32');" style="cursor: pointer;">Read More</span>
+                            </p>
+                        </div>
+                        <div class="card-text mt-2" id="full_32" style="display: none;">
+                            <p>Yeay !!</p><p>Yang ditunggu - tunggu layanan Google Review sudah<strong> OPEN</strong> kembali...</p><p>Saat ini layanan Google Review bisa custom kalimat dan custom foto, layanan ini dapat menambah kredibilitas dan jangkuan bisnismu.</p><p>Kami berikan diskon 10% yuk segara checkcout !!</p><p>Segera lakukan pemesanam di <a href="https://jasaallsosmed.co.id/order" target="_blank" style="color: rgb(0, 188, 212);">https://jasaallsosmed.co.id/order</a> untuk promo terbatas ini!</p>
+                            <p>
+                                <span class="text-primary font-weight-bold" onclick="readLess('32');" style="cursor: pointer;">Read Less</span>
+                            </p>
+                        </div>
+                        
+                                                                        <a href="https://jasaallsosmed.co.id/order" id="32" class="btn btn-primary click-button">Order Now!</a>
+                                                                    </div>
+                </div>
+            </div>
+                        <div class="content-beamer content-container">
+                <div class="card">
+                    <div class="card-header text-muted">
+                                                <span class="badge rounded-pill bg-primary">NEW</span>
+                                                <span><small> November 11, 2021</small></span>
+                    </div>
+                    <div class="card-body">
+                        <h3 class="card-title"><b>Promo 11.11</b></h3>
+                                                <img class="img-thumbnail" src="https://jasaallsosmed.co.id/storage/images/notification/Hanya berlaku sampai 15 Nopember 2021.png" alt="Image" height="350" width="350">
+                        
+                                                <div class="card-text mt-2" id="limit_31">
+                            <p>Promo SEMUA LAYANAN dengan Diskon 10% maksimal 10rb.</p><p>Syarat & Ketentuan :</p><p>  1. Promo hanya berlaku ....
+                            <p>
+                                <span class="text-primary font-weight-bold" onclick="readMore('31');" style="cursor: pointer;">Read More</span>
+                            </p>
+                        </div>
+                        <div class="card-text mt-2" id="full_31" style="display: none;">
+                            <p>Promo SEMUA LAYANAN dengan Diskon 10% maksimal 10rb.</p><p>Syarat & Ketentuan :</p><p>  1. Promo hanya berlaku hingga 15 Nopember 2021</p><p>  2. Masukkan kode kupon untuk mendapatkan promo</p><p>Segera lakukan pemesanam di <a href="https://jasaallsosmed.co.id/order" target="_blank" style="color: rgb(0, 188, 212);">https://jasaallsosmed.co.id/order</a> untuk promo terbatas ini!</p><p><br></p>
+                            <p>
+                                <span class="text-primary font-weight-bold" onclick="readLess('31');" style="cursor: pointer;">Read Less</span>
+                            </p>
+                        </div>
+                        
+                                            </div>
+                </div>
             </div>
             
-         </div>
-      </div>
-   </div>
-         <nav class="navbar">
-      <div class="container">
-         <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <i class="lnr lnr-menu"></i>
-            <i class="lnr lnr-cross"></i>
-            </button>
-            <a class="navbar-brand" href="https://gosocial.co.id">
-            <img src="https://gosocial.co.id/assets/landing/image/logo.png" alt="Logo GoSocial" />
-            </a>
-         </div>
-         <div class="collapse navbar-right navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul id="nav" class="nav navbar-nav menu_two">
-               <li class="home_sub menu-item dropdown submenudropdown">
-                  <a href="https://gosocial.co.id" class="dropdown-toggle">Home</a>
-               </li>
-               <li class="services_sub menu-item dropdown submenudropdown btndrop current_page_item current-menu-item active">
-                  <a title="Services" href="#" data-toggle="dropdown" class="dropdown-toggle">Service</a>
-                  <ul class="dropdown-menu submenu">
-                                                                                     <li class="menu-item dropdown current_page_item active submenudropdown">
-                        <a title="Social Media Engagement" href="https://gosocial.co.id/service/social-media-engagement">Social Media Engagement </a>
-                                                <ul class="dropdown-menu submenu">
-                                                                                 <li class="menu-item dropdown submenudropdown activepage_item"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/instagram">Instagram</a></li>
-                                                                                                            <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/facebook">Facebook</a></li>
-                                                                                                            <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/youtube">Youtube</a></li>
-                                                                                                            <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/twitter">Twitter</a></li>
-                                                                              </ul>
-                                             </li>
-                                                                                                          <li class="menu-item dropdown submenudropdown">
-                        <a title="Branding &amp; Design" href="https://gosocial.co.id/service/branding-design">Branding &amp; Design </a>
-                                                                        <ul class="dropdown-menu submenu dropindex">
-                           <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-foto-produk">Jasa Foto Produk</a></li>
-                           <li class="menu-item dropdown submenudropdown btndropindex"><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis">Jasa Desain Grafis</a>
-                                                            <ul class="dropdown-menu submenu dropindex">
-                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/social-media">Social Media</a>
-                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/logo">Logo</a>
-                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/stationery">Stationery</a>
-                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/custom">Custom</a>
-                              </ul>
-                              
-                           </li>
-                           <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-video-animasi">Jasa Video Animasi</a></li>
-                        </ul>
-                                                                     </li>
-                                                                                                          <li class="menu-item dropdown ">
-                        <a title="Digital Campaign" href="https://gosocial.co.id/service/digital-campaign">Digital Campaign </a>
-                                                                                             </li>
-                                                                                                          <li class="menu-item dropdown ">
-                        <a title="Social Media Management" href="https://gosocial.co.id/service/social-media-management">Social Media Management </a>
-                                                                                             </li>
-                                                               <li class="menu-item dropdown"><a title="Pembuatan Website" href="https://gosocial.co.id/service/website">Website Solution <span class="badge badge-header-new">* new</span></a>
-                     <ul class="dropdown-menu submenu">
-                           <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/website/jasa-pembuatan-website">Pembuatan Website</a></li>
-                           <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/website/penulisan-artikel">Penulisan Artikel</a></li>
-                           <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/website/jasa-seo">Search Engine Optimization</a></li>
-                        </ul>
-                     </li>
-                  </ul>
-               </li>
-               <li class="menu-item dropdown submenudropdown">
-                  <a title="How to" href="https://gosocial.co.id/knowledge-base" class="dropdown-toggle">How to</a>
-               </li>
-               <li class="menu-item dropdown submenudropdown">
-                  <a title="About Us" href="https://gosocial.co.id/about-us" class="dropdown-toggle">About</a>
-               </li>
-               <li class="menu-item dropdown submenudropdown">
-                  <a title="Pages" href="https://gosocial.co.id/contact-us" class="dropdown-toggle">Contact</a>
-               </li>
-            </ul>
-            <div class="menu_btn">
-               <ul class="menu_action">
-                  <li class="action_menu">
-                                          <a class="banner_btn btn-getnow" href="https://gosocial.co.id/login"><i class="fa fa-sign-in"></i> Login</a>
-                                       </li>
-                                 </ul>
+            <input type="hidden" id="notifCount_all" value="9">
+                        <div class="content-beamer" id="row-loadmore">
+                <input type="hidden" id="display" value="3">
+                <button type="button" id="loadMore" class="btn btn-primary btn-block btn-info">Load More</button>
             </div>
-         </div>
-      </div>
-   </nav>
-</header>
-<section class="new_breadcrumb_area">
-   <div id="particles-js"></div>
-   <div class="container">
-      <h1>Instagram - SME Services</h1>
-      <ol id="breadcrumbs" class="breadcrumb ">
-         <li class="item-home"><a class="bread-link bread-home" href="https://gosocial.co.id" title="Home">Home</a></li>
-         <li class="item-home"><a class="bread-link bread-home" href="https://gosocial.co.id/service/social-media-engagement" title="Social Media Engagement">Social Media Engagement</a>
-         </li>
-         <li class="item-current item-2670"><span class="bread-current bread-2670">Instagram</span></li>
-      </ol>
-   </div>
-</section>
-<section class="subscribe_area_new subscribe_news_details">
-      <div class="container">
-            <div class="range-content wow fadeInUp" data-wow-delay="150ms">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                    <iframe class="frame-rounded" width="560" height="315" src="https://www.youtube.com/embed/_s43umxrG2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <div class="seo-rang-heading-wrapper wow fadeInUp">
-                            <h2 class="title">Apa itu layanan Social Media Engagement?</h2>
+                    </div>
+    </div>
+    <!-- END Notification Beamer Sidebar -->
+
+    <!-- WRAPPER -->
+    <div class="wrapper ">
+        <!--========== HEADER TRANSPARENT ==========-->
+        <header class="header-transparent header-transparent-bb navbar-fixed-top header-sticky header-shrink">
+            <!-- Navbar -->
+            <nav class="navbar navbar-expand-lg mega-menu" role="navigation">
+                <div class="container">
+                    <div class="menu-container">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="toggle-icon"></span>
+                        </button>
+
+                        <!-- Navbar Actions -->
+                        <div class="navbar-actions">
                         </div>
-                        <br/>
-                        <a href="#price" style="border: 2px solid white;" target="_self" class="btn thm-btn pro_btn blue_btn">Pilih Paket Sekarang!</a>
+                        <!-- End Navbar Actions -->
+
+                        <!-- Logo -->
+                        <div class="navbar-logo">
+                            <a class="navbar-logo-wrap" href="https://jasaallsosmed.co.id">
+                                <img class="navbar-logo-img navbar-logo-img-white" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/setting/company-logobakulan.png?1641019254" alt="Jasa All Sosmed - Solusi Social Media Marketing Terbaik">
+                                <img class="navbar-logo-img navbar-logo-img-dark" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/setting/company-logobakulan.png?1641019254" alt="Jasa All Sosmed - Solusi Social Media Marketing Terbaik">
+                            </a>
+                        </div>
+                        <!-- End Logo -->
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse nav-collapse">
+                        <div class="menu-container">
+                            <ul class="nav navbar-nav">
+                                <!-- Home -->
+                                <li class="nav-item">
+                                    <a class="nav-item-child radius-3 animsition-link" href="https://jasaallsosmed.co.id">Home</a>
+                                </li>
+                                <!-- End Home -->
+                                <!-- Features -->
+                                <li class="nav-item dropdown">
+                                    <a class="nav-item-child radius-3" href="javascript:void(0);" data-toggle="dropdown">Services</a>
+                                    <ul class="dropdown-menu">
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Instagram</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/instagram/follower">Followers</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/instagram/autolike">Likes & Autolikes</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/instagram/live">Live</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/instagram/instagramtv">IGTV</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/instagram/comments">Komentar</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/instagram/reels">Reels</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/instagram/story">Story</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/instagram/statistik">Statistik</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/instagram/views">Views</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Twitter</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/twitter/follower">Followers</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/twitter/retweet">Retweets</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/twitter/favorites">Favourites</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Youtube</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/youtube/views">Views</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/youtube/subscribers">Subscribers</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/youtube/likes">Likes</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/youtube/watchtime">Watchtime</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/youtube/komentar">Komentar</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Facebook</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/facebook/fanspagelike">Fanspage Likes</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/facebook/statuslike">Status Likes</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/facebook/statusview">Status Views</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/facebook/follower">Fanspage Follower</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/facebook/follprofil">Followers Profil</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Bukalapak</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/bukalapak/follower">Followers</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Soundcloud</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/soundcloud/plays">Plays</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/soundcloud/download">Downloads</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/soundcloud/follower">Followers</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Google</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/google/plusfollower">Followers</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/google/mapsreview">Maps Location Review</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Clubhouse</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/clubhouse/follower">Followers</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/clubhouse/visitor">Room Visitors</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">LinkedIn</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/linkedin/follower">Followers</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Pinterest</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/pinterest/follower">Followers</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">TikTok</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/tiktok/follower">Followers</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/tiktok/komentar">Komentar</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/tiktok/likes">Likes</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/tiktok/live">Live</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/tiktok/share">Share</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/tiktok/views">Views</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Tokopedia</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/tokopedia/follower">Followers</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/tokopedia/komentar">Diskusi</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/tokopedia/wishlist">Wishlist</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Shopee</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/shopee/follower">Followers</a></li>
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/shopee/likes">Product Likes</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Spotify</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/spotify/follower">Followers</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown-submenu">
+                                            <span class="dropdown-submenu-child">Line@</span>
+                                            <ul class="dropdown-menu">
+                                                <li class="dropdown-menu-item"><a class="dropdown-menu-item-child" href="https://jasaallsosmed.co.id/services/line/ppt">PPT / Adders (OFF)</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-item-child  radius-3 " href="https://jasaallsosmed.co.id/about">About</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-item-child  radius-3 " href="https://jasaallsosmed.co.id/contact">Contact</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-item-child  radius-3 " href="https://jasaallsosmed.co.id/order/check">Check Order</a>
+                                </li>
+                                <li class="nav-item nav-item-bg form-modal-nav radius-50">
+                                    <a class="nav-item-child form-modal-login radius-50" href="https://jasaallsosmed.co.id/order">Order Now!</a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </section>
-<section class="seo-features new-seo-features c2a_5 bg_white" style="padding: 70px; 0px;">
-   <div class="container">
-      <div class="row d_flex">
-         <div class="col-sm-6 col-xs-12 wow fadeInLeft">
-            <div class="feature-shape"><img class="img-responsive" src="https://gosocial.co.id/assets/landing/image/sme_followers_left.png" alt="Image"></div>
-         </div>
-         <div class="col-sm-6 col-xs-12 d_flex wow fadeInRight">
-            <div class="features-content flex">
-               <h2 class="title">Beli Followers Instagram</h2>
-               <p>Layanan jual / jasa followers merupakan <strong>cara terbaru menambah jumlah followers / pengikut di Instagram</strong>, yang berasal dari akun aktif Indonesia maupun dari akun aktif Worldwide (Seluruh Dunia), secara instant, murah, tanpa password, aman dan berkualitas.</p>
-               <br/>
-               <p>Jumlah Followers bermanfaat untuk meningkatkan reputasi bisnis dan kepercayaan calon pembeli / klien ketika melihat akun Instagram Anda.</p>
-               <br/>
-               <p>Layanan ini biasa disebut dengan <b>Jasa Tambah / Beli Followers Instagram.</b></p>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<section class="seo-features new-seo-features c2a_5 bg_white" style="padding: 70px; 0px;">
-   <div class="container">
-      <div class="row d_flex row_reverse">
-         <div class="col-sm-6 col-md-7 col-xs-12 wow fadeInRight">
-            <div class="s_business_img">
-               <div class="feature-shape"><img src="https://gosocial.co.id/assets/landing/image/sme_likes_right.png" alt="Image"></div>
-            </div>
-         </div>
-         <div class="col-sm-6 col-md-5 col-xs-12 d_flex wow fadeInLeft">
-            <div class="s_business_content flex">
-               <h2 class="title">Auto Likes Instagram</h2>
-               <p>Layanan tambah / jual / beli likes Instagram sangat penting untuk menunjang konten / post, dikarenakan algoritma Instagram saat ini yang menilai suatu konten 
-                  layak ditampilkan kepada Followers / orang lain jika interaksi yang didapatkan banyak (menarik).
-               </p>
-               <br/>
-               <p>
-                  Layanan jasa tambah likes otomatis for Instagram / autolikes akan segera hadir!</b>.
-               </p>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<section class="seo-features new-seo-features c2a_5 bg_white" style="padding: 70px; 0px;">
-   <div class="container">
-      <div class="row d_flex">
-         <div class="col-sm-6 col-xs-12 wow fadeInLeft">
-            <div class="feature-shape"><img class="img-responsive" src="https://gosocial.co.id/assets/landing/image/sme_views_left.png" alt="Image"></div>
-         </div>
-         <div class="col-sm-6 col-xs-12 d_flex wow fadeInRight">
-            <div class="features-content flex">
-               <h2 class="title">Beli Viewers Instagram</h2>
-               <p>Layanan tambah viewers untuk video di Instagram berguna dalam bersaing di lautan konten Instagram untuk meraih atensi dari user merupakan hal yang sulit, 
-                  apalagi jangkauan yang didapat tidak sesuai dengan harapan dan biaya pembuatan konten.
-               </p>
-               <br/>
-               <p>Jumlah Views bermanfaat sebagai bukti interaksi yang dapat meningkatkan jangkauan video Anda karena algoritma Instagram yang sangat selektif dalam menampilkan konten.</p>
-               <br/>
-               <p>Hal ini merupakan cara terbaru untuk <b>menambah viewers Instagram!</b></p>
-            </div>
-         </div>
-      </div>
-   </div>
-</section><section class="easy_steps_new sec-pad ">
-   <div class="container">
-      <div class="section-title wow fadeInUp new_section_title">
-         <p>Layanan kami dibuat khusus untuk bisnis!</p>
-         <h2 class="title">Langkah Order</h2>
-      </div>
-      <div class="row">
-         <div class="easy_slider owl-carousel owl-loaded owl-drag">
-            <div class="item wow fadeInLeft">
-               <div class="service_item">
-                  <img src="https://gosocial.co.id/assets/landing/image/service_how1.png" alt="Image" />
-                  <div class="text">
-                     <h2>1. Pilih Paket</h2>
-                     <p>Pilih paket & pesan layanan yang sesuai dengan kebutuhan anda.</p>
-                  </div>
-               </div>
-            </div>
-            <div class="item wow fadeInLeft">
-               <div class="service_item">
-                  <img src="https://gosocial.co.id/assets/landing/image/service_how2.png" alt="Image" />
-                  <div class="text">
-                     <h2>2. Isi Data</h2>
-                     <p>Masukkan data yang dibutuhkan pada form pemesanan untuk memulai.</p>
-                  </div>
-               </div>
-            </div>
-            <div class="item wow fadeInLeft">
-               <div class="service_item">
-                  <img src="https://gosocial.co.id/assets/landing/image/service_how3.png" alt="Image" />
-                  <div class="text">
-                     <h2>3. Bayar</h2>
-                     <p>Lakukan checkout pembayaran dengan berbagai pilihan metode pembayaran.</p>
-                  </div>
-               </div>
-            </div>
-            <div class="item wow fadeInLeft">
-               <div class="service_item">
-                  <img src="https://gosocial.co.id/assets/landing/image/service_how4.png" alt="Image" />
-                  <div class="text">
-                     <h2>4. Tracking Progress</h2>
-                     <p>Anda dapat melakukan tracking progress order melalui dashboard user.</p>
-                  </div>
-               </div>
-            </div>
-            <div class="item wow fadeInLeft">
-               <div class="service_item">
-                  <img src="https://gosocial.co.id/assets/landing/image/service_how5.png" alt="Image" />
-                  <div class="text">
-                     <h2>5. Selesai</h2>
-                     <p>Tunggu pesanan sesuai dengan timeline dan order anda selesai.</p>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<section id="price" class="sm_new_service_area">
-   <div class="container">
-      <div class="sme_ig_service_tab_info">
-         <div class="new_section_title_two new_section_title_three text-center">
-            <h6 style=" ">Pricing for every need</h6>
-            <h2 class="title">Paket Harga Instagram</h2>
-            <div class="line"><span class="one"></span><span class="two"></span></div>
-         </div>
-         <div class="row">
-            <div class="col-md-12 items-align-center">
-               <div class="text-center m-t-30 m-b-40">
-                                         
-                  <a class="service-menu-group selected" href="javascript:void(0);" data-card="tab-24c714ccb3857346b52bfe17e287d210">
-                     <div class="media align-items-center">
-                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
-                           <i class="anticon anticon-user-add font-size-30"></i>
-                        </div>
-                        <span class="text-service mb-0">Followers</span>
-                     </div>
-                  </a>
-                       
-                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-9a58cd04b44f059473246a8e5c0ebb4b">
-                     <div class="media align-items-center">
-                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
-                           <i class="anticon anticon-plus-circle font-size-30"></i>
-                        </div>
-                        <span class="text-service mb-0">Future Post Likes</span>
-                     </div>
-                  </a>
-                       
-                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-4dc08a3361d5cb9c87822dbd8495ac4e">
-                     <div class="media align-items-center">
-                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
-                           <i class="anticon anticon-info-circle font-size-30"></i>
-                        </div>
-                        <span class="text-service mb-0">Instagram Reels</span>
-                     </div>
-                  </a>
-                       
-                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-02f6764170a227c14779d7b9af488b70">
-                     <div class="media align-items-center">
-                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
-                           <i class="anticon anticon-heart font-size-30"></i>
-                        </div>
-                        <span class="text-service mb-0">Post Likes</span>
-                     </div>
-                  </a>
-                       
-                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-2b6878c42c03e731668a0a8c2cc8bf3c">
-                     <div class="media align-items-center">
-                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
-                           <i class="anticon anticon-eye font-size-30"></i>
-                        </div>
-                        <span class="text-service mb-0">Post Views</span>
-                     </div>
-                  </a>
-                                                   </div>
-            </div>
-            <div class="col-md-12">
-               <div class="tab-content new_service_content">
-                           
-                  <div class="card-service active" id="tab-24c714ccb3857346b52bfe17e287d210" sub-id="1">                                    
-                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
-                        <div class="btn-group btn-group-social">
-                                                      <button type="button" social-id="2" class="social-attr btn btn-default btn-lg biru active">
-                           <span>Followers Mix</span>
-                           </button>
-                                                      <button type="button" social-id="1" class="social-attr btn btn-default btn-lg biru">
-                           <span>Followers Indonesia</span>
-                           </button>
-                                                   </div>
-                     </div>
-                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
-                     <div class="row field-blank" style="display:none;">
-                        <div class="col-12">
-                           <div class="m-t-20 text-center">
-                              <h4 class="m-t-30 field-blank-text">Services</h4>
-                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="row field-loading" style="display:none;">
-                        <div class="col-md-12 text-center">
-                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
-                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
-                           </div>
-                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
-                        </div>
-                     </div>
-                     <div class="row new_price_info field-service" style="display:none;">
-                        <div class="col-sm-12">
-                           <div class="new_price_item2">
-                              <div class="row flex-display">
-                                 <div class="col-md-12 card-head2 bg-wrapper">
-                                    <div class="col-md-6 bg-price">
-                                       <div class="row" style="display:flex;">
-                                          <div class="col-md-2 col-xs-2">
-                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
-                                                <div class="vertical-default font-slider" id="slider-24c714ccb3857346b52bfe17e287d210"></div>
-                                             </div>
-                                          </div>
-                                          <div class="col-md-10 col-xs-10 deskripsi">
-                                             <h1><span class="package-name"></span></h1>
-                                             <h4 class="package-detail"></h4>
-                                             <ul class="desk-price">
-                                             </ul>                               
-                                             <div class="price">
-                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
-                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
-                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
-                                    </div>
-                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                           
-                  <div class="card-service" style="display:none;"" id="tab-9a58cd04b44f059473246a8e5c0ebb4b" sub-id="21">                                    
-                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
-                        <div class="btn-group btn-group-social">
-                                                      <button type="button" social-id="17" class="social-attr btn btn-default btn-lg biru active">
-                           <span>10 Kuota Autolikes Post</span>
-                           </button>
-                                                      <button type="button" social-id="18" class="social-attr btn btn-default btn-lg biru">
-                           <span>20 Kuota Autolikes Post</span>
-                           </button>
-                                                   </div>
-                     </div>
-                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
-                     <div class="row field-blank" style="display:none;">
-                        <div class="col-12">
-                           <div class="m-t-20 text-center">
-                              <h4 class="m-t-30 field-blank-text">Services</h4>
-                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="row field-loading" style="display:none;">
-                        <div class="col-md-12 text-center">
-                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
-                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
-                           </div>
-                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
-                        </div>
-                     </div>
-                     <div class="row new_price_info field-service" style="display:none;">
-                        <div class="col-sm-12">
-                           <div class="new_price_item2">
-                              <div class="row flex-display">
-                                 <div class="col-md-12 card-head2 bg-wrapper">
-                                    <div class="col-md-6 bg-price">
-                                       <div class="row" style="display:flex;">
-                                          <div class="col-md-2 col-xs-2">
-                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
-                                                <div class="vertical-default font-slider" id="slider-9a58cd04b44f059473246a8e5c0ebb4b"></div>
-                                             </div>
-                                          </div>
-                                          <div class="col-md-10 col-xs-10 deskripsi">
-                                             <h1><span class="package-name"></span></h1>
-                                             <h4 class="package-detail"></h4>
-                                             <ul class="desk-price">
-                                             </ul>                               
-                                             <div class="price">
-                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
-                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
-                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
-                                    </div>
-                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                           
-                  <div class="card-service" style="display:none;"" id="tab-4dc08a3361d5cb9c87822dbd8495ac4e" sub-id="22">                                    
-                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
-                        <div class="btn-group btn-group-social">
-                                                      <button type="button" social-id="20" class="social-attr btn btn-default btn-lg biru active">
-                           <span>Reels Views</span>
-                           </button>
-                                                      <button type="button" social-id="21" class="social-attr btn btn-default btn-lg biru">
-                           <span>Reels Likes</span>
-                           </button>
-                                                   </div>
-                     </div>
-                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
-                     <div class="row field-blank" style="display:none;">
-                        <div class="col-12">
-                           <div class="m-t-20 text-center">
-                              <h4 class="m-t-30 field-blank-text">Services</h4>
-                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="row field-loading" style="display:none;">
-                        <div class="col-md-12 text-center">
-                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
-                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
-                           </div>
-                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
-                        </div>
-                     </div>
-                     <div class="row new_price_info field-service" style="display:none;">
-                        <div class="col-sm-12">
-                           <div class="new_price_item2">
-                              <div class="row flex-display">
-                                 <div class="col-md-12 card-head2 bg-wrapper">
-                                    <div class="col-md-6 bg-price">
-                                       <div class="row" style="display:flex;">
-                                          <div class="col-md-2 col-xs-2">
-                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
-                                                <div class="vertical-default font-slider" id="slider-4dc08a3361d5cb9c87822dbd8495ac4e"></div>
-                                             </div>
-                                          </div>
-                                          <div class="col-md-10 col-xs-10 deskripsi">
-                                             <h1><span class="package-name"></span></h1>
-                                             <h4 class="package-detail"></h4>
-                                             <ul class="desk-price">
-                                             </ul>                               
-                                             <div class="price">
-                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
-                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
-                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
-                                    </div>
-                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                           
-                  <div class="card-service" style="display:none;"" id="tab-02f6764170a227c14779d7b9af488b70" sub-id="2">                                    
-                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
-                        <div class="btn-group btn-group-social">
-                                                      <button type="button" social-id="3" class="social-attr btn btn-default btn-lg biru active">
-                           <span>Likes Indonesia</span>
-                           </button>
-                                                   </div>
-                     </div>
-                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
-                     <div class="row field-blank" style="display:none;">
-                        <div class="col-12">
-                           <div class="m-t-20 text-center">
-                              <h4 class="m-t-30 field-blank-text">Services</h4>
-                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="row field-loading" style="display:none;">
-                        <div class="col-md-12 text-center">
-                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
-                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
-                           </div>
-                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
-                        </div>
-                     </div>
-                     <div class="row new_price_info field-service" style="display:none;">
-                        <div class="col-sm-12">
-                           <div class="new_price_item2">
-                              <div class="row flex-display">
-                                 <div class="col-md-12 card-head2 bg-wrapper">
-                                    <div class="col-md-6 bg-price">
-                                       <div class="row" style="display:flex;">
-                                          <div class="col-md-2 col-xs-2">
-                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
-                                                <div class="vertical-default font-slider" id="slider-02f6764170a227c14779d7b9af488b70"></div>
-                                             </div>
-                                          </div>
-                                          <div class="col-md-10 col-xs-10 deskripsi">
-                                             <h1><span class="package-name"></span></h1>
-                                             <h4 class="package-detail"></h4>
-                                             <ul class="desk-price">
-                                             </ul>                               
-                                             <div class="price">
-                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
-                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
-                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
-                                    </div>
-                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                           
-                  <div class="card-service" style="display:none;"" id="tab-2b6878c42c03e731668a0a8c2cc8bf3c" sub-id="3">                                    
-                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
-                        <div class="btn-group btn-group-social">
-                                                      <button type="button" social-id="5" class="social-attr btn btn-default btn-lg biru active">
-                           <span>Views Indonesia</span>
-                           </button>
-                                                   </div>
-                     </div>
-                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
-                     <div class="row field-blank" style="display:none;">
-                        <div class="col-12">
-                           <div class="m-t-20 text-center">
-                              <h4 class="m-t-30 field-blank-text">Services</h4>
-                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="row field-loading" style="display:none;">
-                        <div class="col-md-12 text-center">
-                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
-                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
-                           </div>
-                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
-                        </div>
-                     </div>
-                     <div class="row new_price_info field-service" style="display:none;">
-                        <div class="col-sm-12">
-                           <div class="new_price_item2">
-                              <div class="row flex-display">
-                                 <div class="col-md-12 card-head2 bg-wrapper">
-                                    <div class="col-md-6 bg-price">
-                                       <div class="row" style="display:flex;">
-                                          <div class="col-md-2 col-xs-2">
-                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
-                                                <div class="vertical-default font-slider" id="slider-2b6878c42c03e731668a0a8c2cc8bf3c"></div>
-                                             </div>
-                                          </div>
-                                          <div class="col-md-10 col-xs-10 deskripsi">
-                                             <h1><span class="package-name"></span></h1>
-                                             <h4 class="package-detail"></h4>
-                                             <ul class="desk-price">
-                                             </ul>                               
-                                             <div class="price">
-                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
-                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
-                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
-                                    </div>
-                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                                 </div>
-            </div>
-         </div>
-      </div>
-   </div>
-   
-</section>
-<section class="chose_service_area">
-   <div class="container">
-      <div class="section-title wow fadeInUp">
-         <p>Service Features</p>
-         <h2 class="title">Keunggulan SME GoSocial</h2>
-      </div>
-      <div class="row">
-      <div class="col-md-4 col-xs-6 chose-item">
-            <div class="perfect-item">
-               <div class="media">
-                  <div class="media-left">
-                     <img src="https://gosocial.co.id/assets/landing/image/sme_platform.svg" alt="Image">
-                  </div>
-                  <div class="media-body">
-                     <h3>Platform Otomatis</h3>
-                     <p>Didukung sistem order dan tracking project otomatis yang online 24 jam, memungkinkan order kapanpun & dimanapun.
-                     </p>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-4 col-xs-6 chose-item">
-            <div class="perfect-item">
-               <div class="media">
-                  <div class="media-left">
-                     <img src="https://gosocial.co.id/assets/landing/image/sme_pay.svg" alt="Image">
-                  </div>
-                  <div class="media-body">
-                     <h3>Berbagai Metode Pembayaran</h3>
-                     <p>Didukung berbagai pilihan metode pembayaran otomatis yang memudahkan dan mempercepat transaksi.
-                     </p>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-4 col-xs-6 chose-item">
-            <div class="perfect-item">
-               <div class="media">
-                  <div class="media-left">
-                     <img src="https://gosocial.co.id/assets/landing/image/sme_moneyback.svg" alt="Image">
-                  </div>
-                  <div class="media-body">
-                     <h3>Garansi 30 Hari</h3>
-                     <p>Semua layanan SME bergaransi hingga 30 hari (FREE REFILL / REFUND).<br/>Terjamin untuk bisnis & profesional!.
-                     </p>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-4 col-xs-6 chose-item">
-            <div class="perfect-item">
-               <div class="media">
-                  <div class="media-left">
-                     <img src="https://gosocial.co.id/assets/landing/image/sme_quality.svg" alt="Image">
-                  </div>
-                  <div class="media-body">
-                     <h3>Quality #1 for Business</h3>
-                     <p>Layanan dari GoSocial dijamin berkualitas Enterprise, karena layanan telah melewati riset dan pengembangan yang matang.
-                     </p>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-4 col-xs-6 chose-item">
-            <div class="perfect-item">
-               <div class="media">
-                  <div class="media-left">
-                     <img src="https://gosocial.co.id/assets/landing/image/sme_save.svg" alt="Image">
-                  </div>
-                  <div class="media-body">
-                     <h3>Akun 100% Aman</h3>
-                     <p>Diproses dengan metode legal dan tanpa E-mail maupun Password menjamin keamanan akun anda dari resiko Hack / Banned.
-                     </p>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-md-4 col-xs-6 chose-item">
-            <div class="perfect-item">
-               <div class="media">
-                  <div class="media-left">
-                     <img src="https://gosocial.co.id/assets/landing/image/sme_notif.svg" alt="Image">
-                  </div>
-                  <div class="media-body">
-                     <h3>Fitur Notifikasi</h3>
-                     <p>Dapatkan pemberitahuan terkini mengenai status order / project yang berjalan saat ini melalui E-mail & SMS.
-                     </p>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<section class="chose_service_area">
-   <div class="container">
-      <div class="section-title wow fadeInUp">
-         <p>Social Media Lainnya</p>
-         <h2 class="title">Tersedia Juga Untuk Social Media Lainnya</h2>
-      </div>
-      <div class="row">
-         <div class="containcard">
-                  <div class="card">
-            <div class="face face1">
-                <div class="content">
-                    <div class="icon facebookcon">
-                        <i class="fa fa-facebook-square" aria-hidden="true"></i>
-                    </div>
-                </div>
-            </div>
-            <div class="face face2">
-                <div class="content">
-                    <h3>
-                        <a href="https://gosocial.co.id/service/social-media-engagement/facebook" class="titlesosial">Facebook</a>
-                    </h3>
-                    <p>Likes Fanpage Facebook | Likes Status / Post Facebook</p>
-                </div>
-            </div>
-         </div>
-         <div class="card">
-            <div class="face face1">
-                <div class="content">
-                    <div class="icon youtubecon">
-                        <i class="fa fa-youtube" aria-hidden="true"></i>
-                    </div>
-                </div>
-            </div>
-            <div class="face face2">
-                <div class="content">
-                    <h3>
-                        <a href="https://gosocial.co.id/service/social-media-engagement/youtube" class="titlesosial">Youtube</a>
-                    </h3>
-                    <p>Subscribers Youtube | Viewers Youtube | Likes Youtube</p>
-                </div>
-            </div>
-         </div>
-         <div class="card">
-            <div class="face face1">
-                <div class="content">
-                    <div class="icon twittercon">
-                        <i class="fa fa-twitter-square" aria-hidden="true"></i>
-                    </div>
-                </div>
-            </div>
-            <div class="face face2">
-                <div class="content">
-                    <h3>
-                        <a href="https://gosocial.co.id/service/social-media-engagement/twitter" class="titlesosial">Twitter</a>
-                    </h3>
-                    <p>Followers Twitter | Retweets Twitter | Likes Twitter</p>
-                </div>
-            </div>
-         </div>
-               </div>
-      </div>
-   </div>
-</section>
-<section class="faq_area sec-pad ">
-   <div class="container">
-       <div class="section-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-           <p>FAQ</p>
-           <h2 class="title">Pertanyaan Umum SME</h2>
-       </div>
-       <div class="row">
-           <div class="col-md-5 col-md-offset-1 faq_img">
-                <div class="panel-group faq-inner-accordion-left" id="accordion" role="tablist">
-                  <div class="panel panel-default">
-                     <div class="panel-heading" role="tab">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse1" href="#"
-                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
-                           class="lnr lnr-chevron-up"></i><i
-                           class="lnr lnr-chevron-down"></i><strong>Apa keuntungan membeli Followers, dsb?</strong>
-                           </a>
-                        </h4>
-                     </div>
-                     <div id="collapse1" class="panel-collapse collapse" aria-expanded="false" role="tabpanel">
-                        <div class="panel-body">Membeli followers / interaksi secara instant dapat membuat akun lebih kredibel dan terpercaya terutama bagi bisnis,
-                           serta dapat meningkatkan jangkauan post secara luas.
-                           <br/><br/>Ditambah algoritma Social Media sekarang sangat selektif
-                           menampilkan konten yang relevan untuk pengguna dengan cara mensortir berdasarkan interaksi terbanyak.
-                           <br /><br /><b>Membeli Followers bukan untuk membuatnya menjadi pembeli atau
-                           mendatangkan pembeli melainkan untuk meningkatkan kepercayaan calon customer
-                           anda!</b>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="panel panel-default">
-                     <div class="panel-heading" role="tab">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse2" href="#"
-                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
-                           class="lnr lnr-chevron-up"></i><i
-                           class="lnr lnr-chevron-down"></i><strong>Apa perbedaan layanan dari GoSocial?</strong></a>
-                        </h4>
-                     </div>
-                     <div id="collapse2" class="panel-collapse collapse" aria-expanded="false" role="tabpanel">
-                        <div class="panel-body">GoSocial hadir untuk memberikan kualitas layanan yang lebih baik dan ekslusif
-                           untuk keperluan profesional / bisnis dibanding penyedia lain yang sudah ada diluar sana.
-                           <br/><br/>
-                           Kami memberikan garansi hingga 30 hari yang tidak mungkin didapatkan di penyedia lainnya.
-                        </div>
-                     </div>
-                  </div>
-                  <div class="panel panel-default">
-                     <div class="panel-heading" role="tab">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse3" href="#"
-                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
-                           class="lnr lnr-chevron-up"></i><i
-                           class="lnr lnr-chevron-down"></i><strong>Berapa lama proses pengerjaan?</strong>
-                           </a>
-                        </h4>
-                     </div>
-                     <div id="collapse3" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
-                        <div class="panel-body">Kami menghadirkan layanan berkualitas dengan metode yang aman untuk
-                           akun anda.
-                           <br /><br />Lama proses tergantung dari jumlah, update metode dari pihak Social Media, dan antrian di server. Namun kami sudah membuat estimasi pengerjaan
-                           yang dapat dilacak pada dashboard user anda setelah
-                           checkout.
-                        </div>
-                     </div>
-                  </div>
-                  <div class="panel panel-default">
-                     <div class="panel-heading" role="tab">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse4" href="#"
-                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
-                           class="lnr lnr-chevron-up"></i><i
-                           class="lnr lnr-chevron-down"></i><strong>Apakah perlu
-                           E-mail & Password? </strong> </a>
-                        </h4>
-                     </div>
-                     <div id="collapse4" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
-                        <div class="panel-body">Layanan ini <b>dijamin 100% Aman</b> karena kami selalu melakukan
-                           update metode proses yang legal dan sesuai dengan ketentuan dari pihak Social Media.
-                           <br /><br />Anda juga <b>tidak perlu mengirimkan E-mail maupun Password</b> karena kami
-                           hanya membutuhkan link/username target saja.
-                        </div>
-                     </div>
-                  </div>
-               </div>
-           </div>
-           
-           <div class="col-md-5">
-               <div class="panel-group faq-inner-accordion-right" id="accordion" role="tablist">
-                  <div class="panel panel-default">
-                     <div class="panel-heading" role="tab">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse5" href="#"
-                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
-                           class="lnr lnr-chevron-up"></i><i
-                           class="lnr lnr-chevron-down"></i><strong>Apakah legal membeli Followers, dsb?
-                           </strong> </a>
-                        </h4>
-                     </div>
-                     <div id="collapse5" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
-                        <div class="panel-body">Membeli Followers dsb adalah tindakan legal dan tidak melanggar hukum,
-                           meskipun bertentangan dengan panduan pengguna Social Media yang bersangkutan terkait "Dishonest Behaviour".
-                           <br /><br />Tentunya memiliki resiko seperti penangguhan akun / blokir sementara dsb, namun hal tersebut dapat dihindari
-                           dengan memesan dari penyedia terpercaya seperti GoSocial.
-                        </div>
-                     </div>
-                  </div>
-                  <div class="panel panel-default">
-                     <div class="panel-heading" role="tab">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse6" href="#"
-                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
-                           class="lnr lnr-chevron-up"></i><i
-                           class="lnr lnr-chevron-down"></i><strong>Apakah jumlah Followers atau interaksi bisa turun? </strong> </a>
-                        </h4>
-                     </div>
-                     <div id="collapse6" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
-                        <div class="panel-body">Kami hanya menyediakan layanan yang berkualitas dan terjamin!
-                           Meskipun Followers dapat unfollow dikarenakan faktor dari user yang memang ingin
-                           un-follow maupun dari Instagram yang menghapus akun yang tidak aktif lagi / interaksi dianggap SPAM.
-                           <br /><br /> Oleh karena itu kami akan memantau order anda dalam 1 minggu setelahnya
-                           untuk memastikan jumlah followers / interaksi yang didapat sesuai dan tidak berkurang.
-                           <br/><br/><b>FREE REFILL / Garansi jika berkurang selama durasi tersebut.</b>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="panel panel-default">
-                     <div class="panel-heading" role="tab">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse7" href="#"
-                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
-                           class="lnr lnr-chevron-up"></i><i
-                           class="lnr lnr-chevron-down"></i><strong>Apakah beresiko di Banned oleh  Instagram? </strong> </a>
-                        </h4>
-                     </div>
-                     <div id="collapse7" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
-                        <div class="panel-body">Tentunya resiko seperti penangguhan akun / blokir sementara dsb, dapat terjadi jika menyalahi panduan komunitas di Social Media yang bersangkutan.
-                           <br/><br/>Namun hal tersebut dapat dihindari dengan memesan dari penyedia terpercaya seperti GoSocial.
-                           Tidak ada resiko jika anda menggunakan layanan kami! Anda aman dari
-                           resiko Banned, Hacking, dsb.
-                           <br /><br /> Kami juga memberikan jaminan 7 Hari <b>Money-Back Guarantee</b> jika yang
-                           anda dapatkan tidak sesuai dengan yang diharapkan / ketentuan kami.
-                        </div>
-                     </div>
-                  </div>
-                  <div class="panel panel-default">
-                     <div class="panel-heading" role="tab">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse8" href="#"
-                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
-                           class="lnr lnr-chevron-up"></i><i
-                           class="lnr lnr-chevron-down"></i><strong>Apa semua dapat membeli Followers / interaksi?</strong> </a>
-                        </h4>
-                     </div>
-                     <div id="collapse8" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
-                        <div class="panel-body">Tidak, sistem akan mendeteksi dan tidak akan menerima order dari akun yang memuat konten atau keperluan
-                           seperti Pornografi, Judi, Menjual barang ilegal, Pemenangan perlombaan / kontes, dan tindakan ilegal lainnya.
-                           <br/><br/>GoSocial sama sekali tidak mendukung tindakan yang mengarah kepada perilaku tidak jujur (Dishonest Behaviour),
-                           layanan ini dibuat untuk meningkatkan jangkauan dan kredibilitas akun bisnis untuk keperluan Social Media Marketing.
-                           <br/><br/><b>Layanan ini bukan dimaksudkan untuk "Fake Review" dan sebagainya!</b>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</section>
-<section>
-        <div class="container repuso">
-            <div class="section-title wow fadeInUp new_section_title">
-               <p>Apa kata mereka?</p>
-            </div>
-                <!-- Begin widget code -->
-<div data-rw-inline="15111" data-website-id="1083"></div>
-<script type="text/javascript" src="https://repuso.com/widgets/inline.js"></script>
-<!-- End widget code -->
-        </div>
-</section>
-<section class="sm_subscribe_area">
-    <div class="sub_illustration_bg"></div>
-    <img class="man_img wow fadeInLeft" src="https://gosocial.co.id/assets/landing/image/sme_man.png" alt="img">
-    <img class="cup_img wow fadeInUp" src="https://gosocial.co.id/assets/landing/image/2019/03/cup2.png" alt="img">
+            </nav>
+        </header>
+        <!--========== END HEADER TRANSPARENT ==========-->
+<!--========== Breadcrumbs v5 ==========-->
+<section class="breadcrumbs-v5 breadcrumbs-v5-bg-img-instagram">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <div class="sm_subscribe_text">
-                    <h6>Newsletter</h6>
-                    <h2>Love Offers And Discounts ? Subscribe And Save</h2>
+        <h1 class="breadcrumbs-v5-title">Jasa Tambah Followers Instagram</h1>
+        <span class="breadcrumbs-v5-subtitle">Daftar harga layanan untuk meningkatkan followers/paid followers Instagram aktif Indonesia dan Mix Worldwide.</span>
+    </div>
+</section>
+<!--========== End Breadcrumbs v5 ==========-->
+<!--========== PAGE CONTENT ==========-->
+<!-- Process v3 -->
+<section class="content-md container">
+    <!-- Heading v1 -->
+    <div class="heading-v1 text-center margin-b-70">
+        <h3 class="heading-v1-title">Cara Pemesanan Yang Mudah</h3>
+        <p class="heading-v1-text">Ikuti langkah-langkah dibawah ini untuk melakukan pemesanan layanan kami.</p>
+    </div>
+    <!-- End Heading v1 -->
+
+    <!-- Process v3 -->
+    <div class="clearfix">
+        <div class="row process-v3-border">
+            <div class="col-md-3 col-sm-6 md-margin-b-50">
+                <div class="process-v3">
+                    <img class="process-v3-element radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/service/1.png" alt="">
+                    <h3 class="process-v3-title">1. Pilih Layanan</h3>
+                    <p>Pilih layanan yang anda inginkan, sesuaikan dengan budget dan kebutuhan anda.</p>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <div id="subscribe_load" style="position: absolute;z-index: 9999;display: none;">
-                    <img src="https://my.sendinblue.com/public/theme/version4/assets/images/loader_sblue.gif" style="display: block;margin-left: auto;margin-right: auto;position: relative;top: 40%;">
+            <div class="col-md-3 col-sm-6 md-margin-b-50">
+                <div class="process-v3">
+                    <img class="process-v3-element radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/service/2.png" alt="">
+                    <h3 class="process-v3-title">2. Pesan</h3>
+                    <p>Lakukan pemesanan mengisi form "Pemesanan" di website www.jasaallsosmed.co.id.</p>
                 </div>
-                <div class="view-messages" style=" margin:5px 0;"> </div>
-                <form class="sm_subscribe_form noauto"><input name="email" type="email" placeholder="Alamat Email"><button type="submit" class="subscribe_btn">Subscribe</button></form>
+            </div>
+            <div class="col-md-3 col-sm-6 sm-margin-b-50">
+                <div class="process-v3">
+                    <img class="process-v3-element radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/service/3.png" alt="">
+                    <h3 class="process-v3-title">3. Bayar</h3>
+                    <p>Lakukan pembayaran sesuai invoice, pembayaran akan terdeteksi otomatis tanpa perlu konfirmasi pembayaran.</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="process-v3">
+                    <img class="process-v3-element radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/service/4.png" alt="">
+                    <h3 class="process-v3-title">4. Proses & Selesai</h3>
+                    <p>Tunggu proses dilakukan oleh sistem kami, dalam waktu yang singkat pesanan anda sudah selesai.</p>
+                </div>
+            </div>
+        </div>
+        <!--// end row -->
+        <!-- End Process v3 -->
+    </div>
+</section>
+<!-- End Process v3 -->
+<!-- Slider Block -->
+<article class="bg-color-sky-light">
+    <div class="content-md container">
+        <div class="row">
+            <div class="col-md-6 md-margin-b-30">
+                <div id="slider-block" class="carousel slide carousel-fade" data-ride="carousel">
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <img class="img-responsive" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/ig-fact-1.jpg" alt="Fakta Instagram terbaru tahun 2019">
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/ig-fact-2.jpg" alt="Statistik pengguna Instagram yang terbaru">
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/ig-fact-3.jpg" alt="Jual Followers Instagram Murah">
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/ig-fact-4.jpg" alt="Fakta Data Pengguna Instagram sebelumnya">
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/faktainstagram1.png" alt="Fakta Data Pengguna Instagram">
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/faktainstagram2.png" alt="Fakta Data Pengguna Berdasarkan Umur di Instagram">
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/faktainstagram3.png" alt="Fakta Konten Paling Banyak Disukai di Instagram">
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/faktainstagram4.png" alt="Fakta Instagram Secara Global">
+                        </div>
+                    </div>
+                    <!-- End Wrapper for slides -->
+
+                    <!-- Controls -->
+                    <a class="left carousel-control theme-carousel-control-v1 radius-3" href="#slider-block" role="button" data-slide="prev">
+                        <span class="carousel-control-arrows-v1 radius-3 fa fa-angle-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control theme-carousel-control-v1 radius-3" href="#slider-block" role="button" data-slide="next">
+                        <span class="carousel-control-arrows-v1 radius-3 fa fa-angle-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                    <!-- End Controls -->
+
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators theme-carousel-indicators-v5">
+                        <li data-target="#slider-block" data-slide-to="0" class="active">
+                            <img class="theme-carousel-indicators-item radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/ig-fact-1.jpg" alt="Jual IG Followers">
+                        </li>
+                        <li data-target="#slider-block" data-slide-to="1">
+                            <img class="theme-carousel-indicators-item radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/ig-fact-2.jpg" alt="Instagram Followers Indonesia Bu">
+                        </li>
+                        <li data-target="#slider-block" data-slide-to="2">
+                            <img class="theme-carousel-indicators-item radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/ig-fact-3.jpg" alt="Jual Likes Instagram Murah">
+                        </li>
+                        <li data-target="#slider-block" data-slide-to="3">
+                            <img class="theme-carousel-indicators-item radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/ig-fact-4.jpg" alt="Jual Followers Indonesia">
+                        </li>
+                        <li data-target="#slider-block" data-slide-to="4">
+                            <img class="theme-carousel-indicators-item radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/faktainstagram1.png" alt="Fakta Instagram 1">
+                        </li>
+                        <li data-target="#slider-block" data-slide-to="5">
+                            <img class="theme-carousel-indicators-item radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/faktainstagram2.png" alt="Fakta Instagram 2">
+                        </li>
+                        <li data-target="#slider-block" data-slide-to="6">
+                            <img class="theme-carousel-indicators-item radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/faktainstagram3.png" alt="Fakta Instagram 3">
+                        </li>
+                        <li data-target="#slider-block" data-slide-to="7">
+                            <img class="theme-carousel-indicators-item radius-circle" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/faktainstagram4.png" alt="Fakta Instagram 4">
+                        </li>
+                    </ol>
+                    <!-- End Indicators -->
+                </div>
+            </div>
+            <div class="col-md-6">
+                <!-- Slider Block Content -->
+                <!-- Heading v1 -->
+                <div class="heading-v1 margin-b-20">
+                    <h2 class="heading-v1-title">Jual / Beli Followers Instagram<br>
+                        Layanan Peningkatan Followers Instagram</h2>
+                </div>
+                <!-- End Heading v1 -->
+
+                <div class="margin-b-20">
+                    <p>Kami menyediakan berbagai layanan yang dapat meningkatkan <b>Followers</b> untuk akun Instagram anda.
+                        <br><br>
+                        Saat ini kami menyediakan berbagai layanan untuk meningkatkan followers untuk akun Instagram baik akun pribadi, public figure, instansi resmi, komunitas, bisnis, maupun brand. Terpercaya sekaligus pusat dari ratusan reseller di Indonesia.
+                    </p>
+                    <ul class="list-unstyled lists-base margin-b-30">
+                        <li><i class="lists-item-element fa fa-angle-double-right"></i><b>Followers Instagram Indonesia</b></li>
+                        <p>Layanan peningkatan Followers dari akun Real atau Aktif Human Indonesia. Menggunakan metode legal dan tanpa password!</p>
+                        <li><i class="lists-item-element fa fa-angle-double-right"></i><b>Followers Mix Worldwide</b></li>
+                        <p>Merupakan layanan peningkatan followers dari akun Mix/Campuran Aktif dan Pasif worldwide/global/seluruh dunia. Harga lebih murah! proses lebih cepat!</p>
+                    </ul>
+                    <p>Saat ini kami merupakan penyedia satu-satunya peningkatan followers Instagram Indonesia hingga 20K/akun sekaligus pusat dari ratusan reseller. 100% Diproses dengan metode legal dan Tanpa Password hanya butuh username/URL photo<br>
+                        Dengan mempunyai followers yang banyak kepercayaan calon konsumen akan meningkat!.
+                    </p>
+                </div>
+                <a class="btn-base-bg btn-base-md radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang!</a>
+                <!-- End Slider Block Content -->
             </div>
         </div>
     </div>
+</article>
+<!-- End Slider Block -->
+
+
+<!-- Effective Design -->
+<div class="container margin-t-80">
+    <!-- Heading v1 -->
+    <div class="heading-v1 text-center margin-b-80">
+        <h2 class="heading-v1-title">Cara Menambah Followers Instagram</h2>
+    </div>
+    <!-- End Heading v1 -->
+
+    <div class="row margin-b-60">
+        <div class="col-sm-6 sm-margin-b-30">
+            <p class="line-height-2">Jumlah followers pada akun Instagram merupakan salah satu indikator yang penting, oleh karena itu dengan memilik followers yang banyak, akan meningkatkan daya saing dan kepercayaan terutama bagi public figure maupun pelaku bisnis. Namun untuk menambah followers ig secara ogranik sangatlah membutuhkan tenaga, biaya dan waktu yang tidak sedikit. <br /><br />
+                lalu bagaimana <b>Cara Menambah Followers Instagram</b> dengan mudah dan cepat?<br />
+                Gunakan jasa peningkatan followers yang aman dan terpercaya sejak 2015 dari Jasa All Sosmed.
+                Kami akan membantu Anda untuk meningkatkan followers Instagram akun secara mudah dan cepat, cukup kirim username saja dan kami akan memprosesnya.</p>
+        </div>
+        <div class="col-sm-6">
+            <p>Apa kata mereka yang telah menggunakan layanan <b>Beli Followers Instagram</b> dan puas dengan pelayanan kami?</p>
+            <br />
+            <!-- Begin Repuso widget code -->
+            <div data-repuso-inline="4790"></div>
+            <script type="text/javascript" src="https://repuso.com/widgets/inline.js"></script>
+            <!-- End Repuso widget code -->
+        </div>
+    </div>
+    <!-- end row -->
+
+    <div class="center-block overflow-h">
+        <img class="img-responsive wow fadeInUp" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa-instagram/fadeup-ig.png" alt="Beli Followers Instagram - Jasa All Sosmed" data-wow-duration=".2" data-wow-delay=".1s">
+    </div>
+</div>
+<!-- End Effective Design -->
+
+
+<!-- Divider v1 -->
+<div class="divider-v1">
+    <div class="divider-v1-element">Followers Instagram Real Aktif Indonesia</div>
+</div>
+<!-- End Divider v1 -->
+<section class="bg-color-sky-light">
+    <div class="content-md container margin-b-30">
+
+        <h3 class="font-size-24">Followers Real Human/Aktif Indonesia</h3>
+        <p><b>Followers real human/aktif Indonesia</b>, merupakan followers yang aktif di Instagram setiap harinya dan merupakan orang Indonesia,
+            followers jenis ini dapat berinteraksi seperti likes, dan komentar.
+            Followers aktif Indonesia juga mempunyai daya beli karena merupakan real akun aktif.<br>
+            <br><br><i>*Harga/paket di halaman ini dapat berubah sewaktu-waktu, harga/paket yang berlaku adalah pada form pemesanan</i>
+        </p>
+    </div>
 </section>
-<footer class="footer_area_two">
-   <div class="footer_top">
-      <div class="illustration_bg"></div>
-      <div class="container">
-         <div class="row d_flex">
-            <div class="col-md-3 col-xs-6 lang_container">
-               <div class="widget widget1 about_us_widget">
-                  <a href="#" class="f_logo">
-                  <img src="https://gosocial.co.id/assets/landing/image/logo.png" alt="f-logo">
-                  </a>
-                  <p>
-                     GoSocial merupakan creative digital agency yang membantu dalam melakukan Social Media Activation, Social Media Management, Social Media Marketing, Social Media Optimization, hingga berbagai kebutuhan Digital Marketing lainnya.                  </p>
-               </div>
-               <div class="lang-dropdown">
-                  <div class="dropbtn">
-                                          <img src="https://cdn.wpml.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/id.png"
-                        alt="Bahasa" class="flag-language">
-                     Bahasa
-                     <i class="fa fa-caret-down" id="lang-arrow"></i>
-                                       </div>
-                  <div id="myDropdown" class="dropdown-content">
-                     <a href="https://gosocial.co.id/lang/id" active>
-                     <img src="https://cdn.wpml.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/id.png"
-                        alt="Bahasa" class="flag-language"> Bahasa
-                     </a>
-                     
-                  </div>
-               </div>
+
+<!-- IG FOLL INDO -->
+<!-- Parameter to slice per 3 data -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">100 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real/Aktif Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">30.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun aktif Indonesia</li>
+                                                                <li>Bisa berinteraksi likes/komentar</li>
+                                                                <li>Max Order /per akun 4K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 1-3 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-3 col-xs-6">
-               <div class="service_wedget">
-                  <h3 class="f_title">Layanan Kami</h3>
-                  <div class="menu-service-menu-container">
-                     <ul id="menu-service-menu">
-                                                <li class="menu-item"><a title="Social Media Engagement" href="https://gosocial.co.id/service/social-media-engagement">Social Media Engagement</a></li>
-                                                <li class="menu-item"><a title="Branding &amp; Design" href="https://gosocial.co.id/service/branding-design">Branding &amp; Design</a></li>
-                                                <li class="menu-item"><a title="Digital Campaign" href="https://gosocial.co.id/service/digital-campaign">Digital Campaign</a></li>
-                                                <li class="menu-item"><a title="Social Media Management" href="https://gosocial.co.id/service/social-media-management">Social Media Management</a></li>
-                                             </ul>
-                  </div>
-               </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">250 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real/Aktif Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">65.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun aktif Indonesia</li>
+                                                                <li>Bisa berinteraksi likes/komentar</li>
+                                                                <li>Max Order /per akun 4K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 1-4 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
             </div>
-            <div class="clearfix"></div>
-            <div class="col-md-3 col-xs-6">
-               <div class="service_wedget">
-                  <h3 class="f_title">Tautan</h3>
-                  <div class="menu-helpful-links-container">
-                     <ul id="menu-helpful-links" class="">
-                        <li class="menu-item"><a href="https://gosocial.co.id/about-us">Tentang Kami</a></li>
-                        <li class="menu-item"><a href="https://gosocial.co.id/contact-us">Hubungi Kami</a></li>
-                        <li class="menu-item"><a href="https://gosocial.co.id/knowledge-base">Pusat Bantuan</a></li>
-                        <li class="menu-item"><a href="https://gosocial.co.id/blog">Blog</a></li>
-                        <li class="menu-item"><a href="https://gosocial.co.id/case-study">Studi Kasus</a></li>
-                        <li class="menu-item"><a href="https://gosocial.co.id/portofolio">Portofolio</a></li>
-                     </ul>
-                  </div>
-               </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">500 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real/Aktif Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">110.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun aktif Indonesia</li>
+                                                                <li>Bisa berinteraksi likes/komentar</li>
+                                                                <li>Max Order /per akun 4K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 2-4 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-3 col-xs-6">
-               <div class="service_wedget">
-                  <h3 class="f_title">Lokasi</h3>
-                  <div class="menu-support-container">
-                     <p><b>Office:</b><br/>
-                        Bumi Mandiri Tower 2, 12th Floor<br/>Jl. Panglima Sudirman Kav. 66-68 Surabaya - 60271
-                        <br/>
-                        <br/><b>Studio:</b><br/>
-                        Jl. Puri Sukolilo Utara II No. 507 Surabaya - 60111
-                     </p>
-                  </div>
-               </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">1000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real/Aktif Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">190.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun aktif Indonesia</li>
+                                                                <li>Bisa berinteraksi likes/komentar</li>
+                                                                <li>Max Order /per akun 4K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-6 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
-   </div>
-   <div class="footer_bottom_two">
-      <div class="container">
-         <div class="row">
-            <div class="col-md-12 bottom_line">
-               <hr />
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">1500 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real/Aktif Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">285.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun aktif Indonesia</li>
+                                                                <li>Bisa berinteraksi likes/komentar</li>
+                                                                <li>Max Order /per akun 4K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-7 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-xs-6">
-               <p>GoSocial adalah merek milik PT Nusa Digital Media © 2020 GoSocial<br/><small>Terdaftar pada Direktorat Jendral Kekayaan Intelektual Republik Indonesia.</small></p>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">2000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real/Aktif Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">375.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun aktif Indonesia</li>
+                                                                <li>Bisa berinteraksi likes/komentar</li>
+                                                                <li>Max Order /per akun 4K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-7 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-xs-6 text-right">
-               <div class="social_footer">
-                  <ul>
-                     <li class="follow_text">Ikuti Kami</li>
-                     <li><a href="https://www.facebook.com/gosocialid/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                     <li><a href="https://www.linkedin.com/company/gosocialid" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                     <li><a href="https://instagram.com/gosocial.id" target="_blank"><i class="fa fa-instagram"></i></a></li>
-               </ul>
-                 <small><a href="https://gosocial.co.id/privacy">Kebijakan Privasi</a> - 
-                  <a href="https://gosocial.co.id/terms">Ketentuan Layanan</a></small>
-               </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+<!-- END IG FOLL INDO -->
+
+
+<!-- Divider v1 -->
+<div class="divider-v1">
+    <div class="divider-v1-element">Followers Instagram Indonesia Packages</div>
+</div>
+<!-- End Divider v1 -->
+<section class="bg-color-sky-light">
+    <div class="content-md container margin-b-30">
+        <h3 class="font-size-24">Followers Real Indonesia Packages</h3>
+        <p><b>Followers Real Indonesia Packages</b>, merupakan followers Real/Aktif Indonesia dengan cara via Tag Account (Akun Pemesan dipromosikan via Tag Account).
+            Followers Indonesia Packages dapat digunakan untuk meningkatkan kepercayaan dan kredibilitas. Followers jenis ini dapat berinteraksi seperti likes, dan komentar.
+            Followers aktif Indonesia juga mempunyai daya beli karena merupakan real akun aktif.
+            <br><br><i>*Harga/paket di halaman ini dapat berubah sewaktu-waktu, harga/paket yang berlaku adalah pada form pemesanan</i>
+        </p>
+    </div>
+</section>
+
+<!-- IG FOLL PACKAGES -->
+<!-- Parameter to slice per 3 data -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">1000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Indonesia Packages</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">219.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Real/Aktif Indonesia Dominan Permanent</li>
+                                                                <li>Dapat berinteraksi likes/komentar</li>
+                                                                <li>Akun Pemesan akan ditag random Artis/Selebgram, mohon tag diterima/jangan ditolak</li>
+                                                                <li>Mohon akun Tidak diprivate atau Ganti Username</li>
+                                                                <li>Max Order /per akun 100K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 2-3 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
-   </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">2000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Indonesia Packages</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">409.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Real/Aktif Indonesia Dominan Permanent</li>
+                                                                <li>Dapat berinteraksi likes/komentar</li>
+                                                                <li>Akun Pemesan akan ditag random Artis/Selebgram, mohon tag diterima/jangan ditolak</li>
+                                                                <li>Mohon akun Tidak diprivate atau Ganti Username</li>
+                                                                <li>Max Order /per akun 100K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-5 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">4000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Indonesia Packages</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">779.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Real/Aktif Indonesia Dominan Permanent</li>
+                                                                <li>Dapat berinteraksi likes/komentar</li>
+                                                                <li>Akun Pemesan akan ditag random Artis/Selebgram, mohon tag diterima/jangan ditolak</li>
+                                                                <li>Mohon akun Tidak diprivate atau Ganti Username</li>
+                                                                <li>Max Order /per akun 100K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 4-7 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">7000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Indonesia Packages</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">1.379.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Real/Aktif Indonesia Dominan Permanent</li>
+                                                                <li>Dapat berinteraksi likes/komentar</li>
+                                                                <li>Akun Pemesan akan ditag random Artis/Selebgram, mohon tag diterima/jangan ditolak</li>
+                                                                <li>Mohon akun Tidak diprivate atau Ganti Username</li>
+                                                                <li>Max Order /per akun 100K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 5-8 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">10000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Indonesia Packages</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">1.879.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Real/Aktif Indonesia Dominan Permanent</li>
+                                                                <li>Dapat berinteraksi likes/komentar</li>
+                                                                <li>Akun Pemesan akan ditag random Artis/Selebgram, mohon tag diterima/jangan ditolak</li>
+                                                                <li>Mohon akun Tidak diprivate atau Ganti Username</li>
+                                                                <li>Max Order /per akun 100K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 6-9 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">15000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Indonesia Packages</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">2.879.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Real/Aktif Indonesia Dominan Permanent</li>
+                                                                <li>Dapat berinteraksi likes/komentar</li>
+                                                                <li>Akun Pemesan akan ditag random Artis/Selebgram, mohon tag diterima/jangan ditolak</li>
+                                                                <li>Mohon akun Tidak diprivate atau Ganti Username</li>
+                                                                <li>Max Order /per akun 100K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 10-20 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">30000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Indonesia Packages</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">5.479.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Real/Aktif Indonesia Dominan Permanent</li>
+                                                                <li>Dapat berinteraksi likes/komentar</li>
+                                                                <li>Akun Pemesan akan ditag random Artis/Selebgram, mohon tag diterima/jangan ditolak</li>
+                                                                <li>Mohon akun Tidak diprivate atau Ganti Username</li>
+                                                                <li>Max Order /per akun 100K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 20-30 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">50000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real/Aktif Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">7.979.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Real/Aktif Indonesia Dominan Permanent</li>
+                                                                <li>Dapat berinteraksi likes/komentar</li>
+                                                                <li>Akun Pemesan akan ditag random Artis/Selebgram, mohon tag diterima/jangan ditolak</li>
+                                                                <li>Mohon akun Tidak diprivate atau Ganti Username</li>
+                                                                <li>Max Order /per akun 100K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 20-30 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">75000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real/Aktif Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">9.979.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Real/Aktif Indonesia Dominan Permanent</li>
+                                                                <li>Dapat berinteraksi likes/komentar</li>
+                                                                <li>Akun Pemesan akan ditag random Artis/Selebgram, mohon tag diterima/jangan ditolak</li>
+                                                                <li>Mohon akun Tidak diprivate atau Ganti Username</li>
+                                                                <li>Max Order /per akun 100K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 10-20 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+<!-- END IG FOLL PACKAGES -->
+
+
+<!-- Divider v1 -->
+<div class="divider-v1">
+    <div class="divider-v1-element">Followers Instagram Indonesia Gender (Pria/Wanita)</div>
+</div>
+<!-- End Divider v1 -->
+<section class="bg-color-sky-light">
+    <div class="content-md container margin-b-30">
+        <h3 class="font-size-24">Followers Real Indonesia Gender (Pria/Wanita)</h3>
+        <p><b>Followers Real Indonesia Gender (Pria/Wanita)</b>, merupakan followers Real/Aktif Indonesia yang dapat memilih jenis gender tertentu (Pria/Wanita) untuk melakukan follow ke akun anda.
+            Followers Real Indonesia Gender (Pria/Wanita) dapat digunakan untuk meningkatkan kepercayaan dan kredibilitas. Followers jenis ini dapat berinteraksi seperti likes, dan komentar.
+            Followers aktif Indonesia juga mempunyai daya beli karena merupakan real akun aktif.
+            <br><br><i>*Harga/paket di halaman ini dapat berubah sewaktu-waktu, harga/paket yang berlaku adalah pada form pemesanan</i>
+        </p>
+    </div>
+</section>
+
+<!-- IG FOLL GENDER -->
+<!-- Parameter to slice per 3 data -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">100 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">25.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun real Indonesia</li>
+                                                                <li>Max Order /per akun 10K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 2-3 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">250 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">50.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun real Indonesia</li>
+                                                                <li>Max Order /per akun 10K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-4 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">500 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">90.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun real Indonesia</li>
+                                                                <li>Max Order /per akun 10K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-5 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">1000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">170.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun real Indonesia</li>
+                                                                <li>Max Order /per akun 10K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-6 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">2500 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">410.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun real Indonesia</li>
+                                                                <li>Max Order /per akun 10K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-7 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">5000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">800.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun real Indonesia</li>
+                                                                <li>Max Order /per akun 10K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 5-10 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">10000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Real Indonesia</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">1.500.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>99% akun real Indonesia</li>
+                                                                <li>Max Order /per akun 10K (Sementara)</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 5-10 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                                <!-- Pricing List v1 -->
+                    <div class="col-md-4 md-no-space md-margin-b-30">
+                        <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                            <div class="pricing-list-v1-body">
+                                <div class="pricing-list-v1-header">
+                                    <div class="margin-b-30">
+                                        <h4 class="pricing-list-v1-header-title">Comming Soon</h4>
+                                        <p class="pricing-list-v1-header-subtitle">Real Indonesia</p>
+                                    </div>
+                                    <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                                    <span class="pricing-list-v1-header-price">-</span><br>
+                                </div>
+                                <div class="pricing-list-v1-content">
+                                    <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                                        <li>Investasi 1x di akun Anda</li>
+                                                                                <li>99% akun real Indonesia</li>
+                                                                                <li>Max Order /per akun 10K (Sementara)</li>
+                                                                                                                        <li><b>Lama Proses -</b></li>
+                                    </ul>
+                                    <a class="btn-dark-bg btn-base-sm radius-3" href="#" disabled>SOLD OUT</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Pricing List v1 -->
+                                <!-- Pricing List v1 -->
+                    <div class="col-md-4 md-no-space md-margin-b-30">
+                        <div class="pricing-list-v1   text-center">
+                            <div class="pricing-list-v1-body">
+                                <div class="pricing-list-v1-header">
+                                    <div class="margin-b-30">
+                                        <h4 class="pricing-list-v1-header-title">Comming Soon</h4>
+                                        <p class="pricing-list-v1-header-subtitle">Real Indonesia</p>
+                                    </div>
+                                    <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                                    <span class="pricing-list-v1-header-price">-</span><br>
+                                </div>
+                                <div class="pricing-list-v1-content">
+                                    <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                                        <li>Investasi 1x di akun Anda</li>
+                                                                                <li>99% akun real Indonesia</li>
+                                                                                <li>Max Order /per akun 10K (Sementara)</li>
+                                                                                                                        <li><b>Lama Proses -</b></li>
+                                    </ul>
+                                    <a class="btn-dark-bg btn-base-sm radius-3" href="#" disabled>SOLD OUT</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Pricing List v1 -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+<!-- END IG FOLL GENDER -->
+
+
+<!-- Divider v1 -->
+<div class="divider-v1">
+    <div class="divider-v1-element">Followers Instagram Mix</div>
+</div>
+<!-- End Divider v1 -->
+<section class="bg-color-sky-light">
+    <div class="content-md container margin-b-30">
+        <h3 class="font-size-24">Followers Mix</h3>
+        <p><b>Followers Mix/Campuran</b>, merupakan followers campuran dari akun real dan juga pasif (lebih dominan akun real namun dari seluruh dunia/worldwide).
+            Followers mix dapat digunakan untuk meningkatkan kepercayaan dan kredibilitas terhadap akun anda, dengan jumlah followers yang banyak akan membuat audience anda tertarik untuk menfollow akun anda dan membeli produk anda.
+            <br><br><i>*Harga/paket di halaman ini dapat berubah sewaktu-waktu, harga/paket yang berlaku adalah pada form pemesanan</i>
+        </p>
+    </div>
+</section>
+
+<!-- IG FOLL GENDER -->
+<!-- Parameter to slice per 3 data -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">100 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Mix/Campuran</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">25.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Mix aktif &amp; pasif worldwide</li>
+                                                                <li>Tidak bisa berinteraksi likes/komentar</li>
+                                                                <li>Bergaransi 15 hari</li>
+                                                                <li>Max Order /per akun 10K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-5 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">250 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Mix/Campuran</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">45.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Mix aktif &amp; pasif worldwide</li>
+                                                                <li>Tidak bisa berinteraksi likes/komentar</li>
+                                                                <li>Bergaransi 15 hari</li>
+                                                                <li>Max Order /per akun 10K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-5 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">500 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Mix/Campuran</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">85.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Mix aktif &amp; pasif worldwide</li>
+                                                                <li>Tidak bisa berinteraksi likes/komentar</li>
+                                                                <li>Bergaransi 15 hari</li>
+                                                                <li>Max Order /per akun 10K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 3-5 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">1000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Mix/Campuran</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">160.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Mix aktif &amp; pasif worldwide</li>
+                                                                <li>Tidak bisa berinteraksi likes/komentar</li>
+                                                                <li>Bergaransi 15 hari</li>
+                                                                <li>Max Order /per akun 10K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 5-8 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">2500 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Mix/Campuran</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">390.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Mix aktif &amp; pasif worldwide</li>
+                                                                <li>Tidak bisa berinteraksi likes/komentar</li>
+                                                                <li>Bergaransi 15 hari</li>
+                                                                <li>Max Order /per akun 10K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 7-12 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">5000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Mix/Campuran</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">760.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Mix aktif &amp; pasif worldwide</li>
+                                                                <li>Tidak bisa berinteraksi likes/komentar</li>
+                                                                <li>Bergaransi 15 hari</li>
+                                                                <li>Max Order /per akun 10K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 9-13 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+    <!-- Pricing List v1 -->
+    <div class="content-md container margin-b-30">
+        <div class="row d-flex justify-content-center">
+            <!-- Parameter to show different style pricelist -->
+                        <!-- Pricing List v1 -->
+            <div class="col-md-4 md-no-space md-margin-b-30">
+                <div class="pricing-list-v1   text-center">
+                    <div class="pricing-list-v1-body">
+                        <div class="pricing-list-v1-header">
+                            <div class="margin-b-30">
+                                <h4 class="pricing-list-v1-header-title">10000 Followers</h4>
+                                <p class="pricing-list-v1-header-subtitle">Mix/Campuran</p>
+                            </div>
+                            <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                            <span class="pricing-list-v1-header-price">1.450.000</span><br>
+                        </div>
+                        <div class="pricing-list-v1-content">
+                            <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                <li>Investasi 1x di akun Anda</li>
+                                                                <li>Mix aktif &amp; pasif worldwide</li>
+                                                                <li>Tidak bisa berinteraksi likes/komentar</li>
+                                                                <li>Bergaransi 15 hari</li>
+                                                                <li>Max Order /per akun 10K</li>
+                                                                
+                                                                                                    <li><b>Lama Proses 11-16 Hari</b></li>
+                                                                                            </ul>
+                                                        <a class="btn-dark-bg btn-base-sm radius-3" href="https://jasaallsosmed.co.id/order">Pesan Sekarang</a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Pricing List v1 -->
+            
+            <!-- Check the rest of pricelist -->
+                                <!-- Pricing List v1 -->
+                    <div class="col-md-4 md-no-space md-margin-b-30">
+                        <div class="pricing-list-v1 pricing-list-v1-active  text-center">
+                            <div class="pricing-list-v1-body">
+                                <div class="pricing-list-v1-header">
+                                    <div class="margin-b-30">
+                                        <h4 class="pricing-list-v1-header-title">Comming Soon</h4>
+                                        <p class="pricing-list-v1-header-subtitle">Mix/Campuran</p>
+                                    </div>
+                                    <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                                    <span class="pricing-list-v1-header-price">-</span><br>
+                                </div>
+                                <div class="pricing-list-v1-content">
+                                    <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                                        <li>Investasi 1x di akun Anda</li>
+                                                                                <li>Mix aktif &amp; pasif worldwide</li>
+                                                                                <li>Tidak bisa berinteraksi likes/komentar</li>
+                                                                                <li>Bergaransi 15 hari</li>
+                                                                                <li>Max Order /per akun 10K</li>
+                                                                                                                        <li><b>Lama Proses -</b></li>
+                                    </ul>
+                                    <a class="btn-dark-bg btn-base-sm radius-3" href="#" disabled>SOLD OUT</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Pricing List v1 -->
+                                <!-- Pricing List v1 -->
+                    <div class="col-md-4 md-no-space md-margin-b-30">
+                        <div class="pricing-list-v1   text-center">
+                            <div class="pricing-list-v1-body">
+                                <div class="pricing-list-v1-header">
+                                    <div class="margin-b-30">
+                                        <h4 class="pricing-list-v1-header-title">Comming Soon</h4>
+                                        <p class="pricing-list-v1-header-subtitle">Mix/Campuran</p>
+                                    </div>
+                                    <span class="pricing-list-v1-header-price-sign">Rp.</span>
+                                    <span class="pricing-list-v1-header-price">-</span><br>
+                                </div>
+                                <div class="pricing-list-v1-content">
+                                    <ul class="list-unstyled pricing-list-v1-content-list">
+                                                                                                                        <li>Investasi 1x di akun Anda</li>
+                                                                                <li>Mix aktif &amp; pasif worldwide</li>
+                                                                                <li>Tidak bisa berinteraksi likes/komentar</li>
+                                                                                <li>Bergaransi 15 hari</li>
+                                                                                <li>Max Order /per akun 10K</li>
+                                                                                                                        <li><b>Lama Proses -</b></li>
+                                    </ul>
+                                    <a class="btn-dark-bg btn-base-sm radius-3" href="#" disabled>SOLD OUT</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Pricing List v1 -->
+                        <!-- END Check the rest of pricelist -->
+
+        </div>
+    </div>
+    <!-- End Pricing List v1 -->
+<!-- END IG FOLL GENDER -->
+
+
+<!-- Divider v1 -->
+<div class="divider-v1">
+    <div class="divider-v1-element">Auto Followers</div>
+</div>
+<!-- End Divider v1 -->
+<section class="bg-color-sky-light">
+    <div class="content-md container margin-b-30">
+        <h3 class="font-size-24">Auto Followers Instagram</h3>
+        <p>Layanan terbaru untuk meningkatkan followers secara otomatis dan terjadwal, proses yang lebih aman dan terlihat lebih natural / organik. Dengan sistem peningkatan bertahap, maka tidak akan terlihat bahwa akun tersebut membeli Followers Instagram.
+            Sistem auto followers akan bekerja cukup dengan memberikan username ketika pemesanan, dan kemudian memilih berapa jumlah Followers yang akan ditingkatkan setiap harinya, hingga jumlah akhir terpenuhi sesuai waktu yang anda inginkan.
+
+            <br><br><i>*Silahkan hubungi kami untuk pemesanan layanan Auto Followers Instagram, karena harga belum bisa ditampilkan di website.</i>
+        </p>
+    </div>
+</section>
+
+
+<section id="layanan">
+    <!-- Heading v2 -->
+    <!-- Add a ".heading-v2-white" class next to ".heading-v2" to apply the white version -->
+    <div class="bg-color-sky-light">
+        <div class="content-md container">
+            <div class="heading-v2">
+                <h2 class="heading-v2-title">Daftar Layanan Instagram</h2>
+                <p class="heading-v2-text">Menyediakan layanan paling lengkap dan terupdate di 2020!</p>
+            </div>
+        </div>
+    </div>
+    <!-- End Heading v2 -->
+</section>
+
+<!-- Theme Portfolio -->
+<div class="content-sm container">
+    <div class="theme-portfolio">
+        <!-- Portfolio 4 Columns Grid Filter -->
+        <div id="portfolio-4-col-grid-filter" class="cbp-l-filters-alignCenter">
+            <div data-filter=".instagram" class="cbp-filter-item-active cbp-filter-item">
+                Instagram <div class="cbp-filter-counter"></div>
+            </div>
+        </div>
+        <!-- End Portfolio 4 Columns Grid Filter -->
+        <!-- Portfolio 4 Columns Grid -->
+        <div id="portfolio-4-col-grid" class="cbp">
+            <!-- Instagram -->
+            <div class="cbp-item instagram theme-portfolio-item-v2 theme-portfolio-item-xs">
+                <div class="cbp-caption">
+                    <div class="cbp-caption-defaultWrap theme-portfolio-active-wrap">
+                        <img src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa/jasa-instagram-followers.jpg" alt="Jasa Followers Instagram">
+                        <div class="theme-icons-wrap theme-portfolio-lightbox">
+                            <a class="cbp-lightbox" href="https://jasaallsosmed.co.id/services/instagram/follower" data-title="Portfolio">
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="theme-portfolio-title-heading">
+                    <h4 class="theme-portfolio-title"><a href="https://jasaallsosmed.co.id/services/instagram/follower">Jasa Followers Instagram</a></h4>
+                    <span class="theme-portfolio-subtitle">Meningkatkan Followers Instagram secara instant dari akun Indonesia atau Mix.</span>
+                </div>
+            </div>
+
+            <div class="cbp-item instagram theme-portfolio-item-v2 theme-portfolio-item-xs">
+                <div class="cbp-caption">
+                    <div class="cbp-caption-defaultWrap theme-portfolio-active-wrap">
+                        <img src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa/jasa-instagram-likes.jpg" alt="Jasa Likes Instagram">
+                        <div class="theme-icons-wrap theme-portfolio-lightbox">
+                            <a class="cbp-lightbox" href="https://jasaallsosmed.co.id/services/instagram/autolike" data-title="Portfolio">
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="theme-portfolio-title-heading">
+                    <h4 class="theme-portfolio-title"><a href="https://jasaallsosmed.co.id/services/instagram/autolike">Jasa Likes Instagram</a></h4>
+                    <span class="theme-portfolio-subtitle">Meningkatkan Likes foto Instagram secara instant dengan auto likes dari akun Indonesia atau Mix.</span>
+                </div>
+            </div>
+
+            <div class="cbp-item instagram theme-portfolio-item-v2 theme-portfolio-item-xs">
+                <div class="cbp-caption">
+                    <div class="cbp-caption-defaultWrap theme-portfolio-active-wrap">
+                        <img src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa/jasa-instagram-comments.jpg" alt="Jasa Komentar Instagram">
+                        <div class="theme-icons-wrap theme-portfolio-lightbox">
+                            <a class="cbp-lightbox" href="https://jasaallsosmed.co.id/services/instagram/comments" data-title="Portfolio">
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="theme-portfolio-title-heading">
+                    <h4 class="theme-portfolio-title"><a href="https://jasaallsosmed.co.id/services/instagram/comments">Jasa Komentar Instagram</a></h4>
+                    <span class="theme-portfolio-subtitle">Meningkatkan Komentar foto Instagram secara instant dari akun Indonesia atau Mix.</span>
+                </div>
+            </div>
+
+            <div class="cbp-item instagram theme-portfolio-item-v2 theme-portfolio-item-xs">
+                <div class="cbp-caption">
+                    <div class="cbp-caption-defaultWrap theme-portfolio-active-wrap">
+                        <img src="https://jasaallsosmed.co.id/Ark-landing/assets/img/jasa/jasa-instagram-views.jpg" alt="Jasa Views Instagram">
+                        <div class="theme-icons-wrap theme-portfolio-lightbox">
+                            <a class="cbp-lightbox" href="https://jasaallsosmed.co.id/services/instagram/views" data-title="Portfolio">
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="theme-portfolio-title-heading">
+                    <h4 class="theme-portfolio-title"><a href="https://jasaallsosmed.co.id/services/instagram/views">Jasa Views Instagram</a> <small>*NEW</small></h4>
+                    <span class="theme-portfolio-subtitle">Meningkatkan Views video atau story Instagram secara instant dari akun Indonesia atau Mix.</span>
+                </div>
+            </div>
+            <!-- End Instagram -->
+        </div>
+        <!-- End Portfolio 4 Columns Grid -->
+    </div>
+</div>
+<!-- End Theme Portfolio -->
+</div>
+
+
+<!-- Services v11 -->
+<div class="bg-color-sky-light">
+    <div class="content-md container-fluid">
+        <!-- Heading v1 -->
+        <div class="heading-v1 text-center margin-b-80">
+            <h2 class="heading-v1-title">Keunggulan Jasa All Sosmed</h2>
+            <p class="heading-v1-text">Kami menawarkan berbagai keunggulan dan keuntungan menggunakan layanan social media marketing instant dari Jasa All Sosmed.</p>
+        </div>
+        <!-- End Heading v1 -->
+
+        <div class="row">
+            <div class="col-sm-4 no-space">
+                <!-- Services v11 -->
+                <section class="services-v11 bg-color-base services-v11-equal-height">
+                    <div class="margin-b-30">
+                        <span class="services-v11-subtitle">Apakah Akun Aman?</span>
+                        <h3 class="services-v11-title">Akun 100% Aman</h3>
+                        <p class="services-v11-text">Dengan metode pengerjaan/proses secara LEGAL dan tidak melanggar ketentuan Sosial Media, hanya membutuhkan link akun anda tanpa password jadi 100% akun anda aman tanpa resiko.</p>
+                    </div>
+                </section>
+                <!-- End Services v11 -->
+            </div>
+            <div class="col-sm-4 no-space">
+                <!-- Services v11 -->
+                <section class="services-v11 bg-color-blue-light services-v11-equal-height">
+                    <div class="margin-b-30">
+                        <span class="services-v11-subtitle">Apakah Ada Garansi?</span>
+                        <h3 class="services-v11-title">Bergaransi 7 Hari</h3>
+                        <p class="services-v11-text">Layanan di Jasa All Sosmed bergaransi 7 hari sejak pesanan selesai diproses. *Syarat dan ketentuan berlaku.</p>
+
+                    </div>
+                </section>
+                <!-- End Services v11 -->
+            </div>
+            <div class="col-sm-4 no-space">
+                <!-- Services v11 -->
+                <section class="services-v11 bg-color-purple services-v11-equal-height">
+                    <div class="margin-b-30">
+                        <span class="services-v11-subtitle">Berapa Lama Proses?</span>
+                        <h3 class="services-v11-title">Proses Cepat & Otomatis</h3>
+                        <p class="services-v11-text">Pembayaran akan dicek otomatis oleh sistem dan akan selesai diproses tergantung jumlah dan jenis layanan yang anda pilih.</p>
+
+                    </div>
+                </section>
+                <!-- End Services v11 -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Services v11 -->
+<!--========== END PAGE CONTENT ==========-->
+
+<!-- Clients v1 -->
+<div class="bg-color-sky-light">
+    <div class="content-md container">
+        <div class="heading-v1 text-center margin-b-50">
+            <h2 class="heading-v1-title">Our Client</h2>
+            <p class="heading-v1-text">Beberapa klien yang telah menggunakan layanan kami.</p>
+        </div>
+        <div class="row">
+            <div class="col-sm-12 col-lg-8 col-lg-offset-2">
+                <!-- Owl Carousel Clients Five Item -->
+                <ul class="list-inline owl-carousel-clients-five-item clients-v1">
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client1-active.jpg" alt="Indomaret">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client1.jpg" alt="Indomaret">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client2-active.jpg" alt="Garmin">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client2.jpg" alt="Garmin">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client3-active.jpg" alt="Hngry.now">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client3.jpg" alt="Hngry.now">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client4-active.jpg" alt="Pertamina">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client4.jpg" alt="Pertamina">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client5-active.jpg" alt="Telkom Indonesia">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client5.jpg" alt="Telkom Indonesia">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client6-active.jpg" alt="Goon">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client6.jpg" alt="Goon">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client7-active.jpg" alt="SUZUKI">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client7.jpg" alt="SUZUKI">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client8-active.jpg" alt="RCTI">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client8.jpg" alt="RCTI">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client9-active.jpg" alt="Garuda Food">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client9.jpg" alt="Garuda Food">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client10-active.jpg" alt="Bluebird">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client10.jpg" alt="Bluebird">
+                        </div>
+                    </li>
+
+                    <!--  <li class="item">
+                            <div class="clients-v1-item">
+                                <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client11-active.jpg" alt="Nuvo Family">
+                                <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client11.jpg" alt="Nuvo Family">
+                            </div>
+                        </li> -->
+
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client12-active.jpg" alt="Kredible">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client12.jpg" alt="Kredible">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client13-active.jpg" alt="Rumah Sakit JIH">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client13.jpg" alt="Rumah Sakit JIH">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client14-active.jpg" alt="Gerry">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client14.jpg" alt="Gerry">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client15-active.jpg" alt="Huawei Indonesia">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client15.jpg" alt="Huawei Indonesia">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client16-active.jpg" alt="Permata Hati">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client16.jpg" alt="Permata Hati">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client17-active.jpg" alt="Japan Endless Travel">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client17.jpg" alt="Japan Endless Travel">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client18-active.jpg" alt="Fuji Shop Indonesia">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client18.jpg" alt="Fuji Shop Indonesia">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client19-active.jpg" alt="Dua Kelinci">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client19.jpg" alt="Dua Kelinci">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client20-active.jpg" alt="Wakuliner">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client20.jpg" alt="Wakuliner">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client21-active.jpg" alt="Deka Wafers">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client21.jpg" alt="Deka Wafers">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client22-active.jpg" alt="Fuso">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client22.jpg" alt="Fuso">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client23-active.jpg" alt="Brother">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client23.jpg" alt="Brother">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client24-active.jpg" alt="Tiketcom">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client24.jpg" alt="Tiketcom">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client25-active.jpg" alt="Pizza Hut">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client25.jpg" alt="Pizza Hut">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client26-active.jpg" alt="Uzone Id">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client26.jpg" alt="Uzone Id">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client27-active.jpg" alt="Axis Id">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client27.jpg" alt="Axis Id">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client28-active.jpg" alt="Midea">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client28.jpg" alt="Midea">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client29-active.jpg" alt="Fifgroup">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client29.jpg" alt="Fifgroup">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client30-active.jpg" alt="Fifada">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client30.jpg" alt="Fifada">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client31-active.jpg" alt="Oxone">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client31.jpg" alt="Oxone">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client32-active.jpg" alt="Midea">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client32.jpg" alt="Oxone">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client33-active.jpg" alt="Sahabat Pegadaian">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client33.jpg" alt="Oxone">
+                        </div>
+                    </li>
+                    <li class="item">
+                        <div class="clients-v1-item">
+                            <img class="clients-v1-img clients-v1-img-default" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client34-active.jpg" alt="Aice Indonesia">
+                            <img class="clients-v1-img clients-v1-img-active" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/clients/client34.jpg" alt="Oxone">
+                        </div>
+                    </li>
+                </ul>
+                <!-- End Owl Carousel Clients Five Item -->
+            </div>
+        </div>
+        <!--// end row-->
+    </div>
+</div>
+<!-- End Clients v1 -->
+
+<!--========== FOOTER V6 ==========-->
+<footer id="footer" class="footer-v8">
+    <div class="content-sm container">
+        <div class="row">
+            <!-- Logo -->
+            <div class="col-md-3 col-sm-6 md-margin-b-50">
+                <a href="#">
+                    <img class="footer-v8-logo-img" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/setting/company-logobakulan.png" alt="Jasa All Sosmed - Solusi Social Media Marketing Terbaik">
+                </a>
+                <p class="margin-b-30">
+                    Jasa All Sosmed merupakan penyedia jasa digital marketing instant engagement untuk social media terbaik no.1 di Indonesia yang sudah dipercaya lebih dari 50000 klien sejak tahun 2015 dengan sistem yang serba otomatis.
+                </p>
+                <h3 class="footer-v8-title">Follow Us</h3>
+                <!-- Theme Icons White Background -->
+                <ul class="list-inline ul-li-lr-0">
+                    <li class="theme-icons-wrap"><a href="https://www.instagram.com/jasa_all_sosmed.co.id/"><i class="theme-icons theme-icons-white-bg theme-icons-sm radius-3 fa fa-instagram"></i></a></li>
+                    <li class="theme-icons-wrap"><a href="https://twitter.com/Jasa_All_Sosmed"><i class="theme-icons theme-icons-white-bg theme-icons-sm radius-3 fa fa-twitter"></i></a></li>
+                    <li class="theme-icons-wrap"><a href="https://web.facebook.com/JasaAllSosmed"><i class="theme-icons theme-icons-white-bg theme-icons-sm radius-3 fa fa-facebook"></i></a></li>
+                    <li class="theme-icons-wrap"><a href="https://www.youtube.com/channel/UCJ1buG0FgpXDxGP54imKEfA"><i class="theme-icons theme-icons-white-bg theme-icons-sm radius-3 fa fa-youtube"></i></a></li>
+                </ul>
+            </div>
+            <!-- End Logo -->
+
+            <!-- Footer Link List -->
+            <div class="col-md-3 col-xs-6 xs-full-width md-margin-b-30">
+                <h3 class="footer-v6-title">Links</h3>
+                <ul class="list-unstyled footer-link-v6-list">
+                    <li class="footer-link-v6-list-item">
+                        <i class="footer-news-list-icon fa fa-angle-right"></i>
+                        <a class="footer-link-v6-list-link" href="https://jasaallsosmed.co.id/reseller">Program Mitra</a>
+                    </li>
+                    <li class="footer-link-v6-list-item">
+                        <i class="footer-news-list-icon fa fa-angle-right"></i>
+                        <a class="footer-link-v6-list-link" href="https://jasaallsosmed.co.id/testimonial">Testimonial</a>
+                    </li>
+                    <li class="footer-link-v6-list-item">
+                        <i class="footer-news-list-icon fa fa-angle-right"></i>
+                        <a class="footer-link-v6-list-link" href="https://jasaallsosmed.co.id/blog">Blog</a>
+                    </li>
+                    <li class="footer-link-v6-list-item">
+                        <i class="footer-news-list-icon fa fa-angle-right"></i>
+                        <a class="footer-link-v6-list-link" href="https://jasaallsosmed.co.id/faq">F.A.Q</a>
+                    </li>
+                    <li class="footer-link-v6-list-item">
+                        <i class="footer-news-list-icon fa fa-angle-right"></i>
+                        <a class="footer-link-v6-list-link" href="https://jasaallsosmed.co.id/promo">Promo</a>
+                    </li>
+                    <li class="footer-link-v6-list-item">
+                        <i class="footer-news-list-icon fa fa-angle-right"></i>
+                        <a class="footer-link-v6-list-link" href="https://jasaallsosmed.co.id/terms">Kebijakan Layanan</a>
+                    </li>
+                    <li class="footer-link-v6-list-item">
+                        <i class="footer-news-list-icon fa fa-angle-right"></i>
+                        <a class="footer-link-v6-list-link" href="https://jasaallsosmed.co.id/privacy">Privacy Policy</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- End Footer Link List -->
+
+            <!-- Footer Link List -->
+            <div class="col-md-3 col-xs-6 xs-full-width xs-margin-b-30">
+                <h3 class="footer-v6-title">Informasi Kontak</h3>
+                <div class="footer-v8-contact-info-bg">
+                    <ul class="list-unstyled footer-v8-contact-info">
+                        <li class="footer-v8-contact-info-item">
+                            <i class="footer-v8-contact-info-icon fa fa-clock-o"></i>
+                            <div class="footer-v8-contact-info-media">
+                                <p class="footer-v8-contact-info-text"><b>Jam kerja:</b><br />09.00 s/d 21.00 WIB setiap harinya</p>
+                            </div>
+                        </li>
+                        <li class="footer-v8-contact-info-item">
+                            <i class="footer-v8-contact-info-icon fa fa-phone"></i>
+                            <div class="footer-v8-contact-info-media">
+                                <p class="footer-v8-contact-info-text"><b>Whatsapp</b> (notification only):<br />+62 812 4000 0903</p>
+                            </div>
+                        </li>
+                        <li class="footer-v8-contact-info-item">
+                            <i class="footer-v8-contact-info-icon fa fa-envelope-o"></i>
+                            <div class="footer-v8-contact-info-media">
+                                <p class="footer-v8-contact-info-text"><b>E-mail:</b><br />contact@jasaallsosmed.co.id</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- End Footer Link List -->
+
+            <!-- Link List -->
+            <div class="col-md-3 col-xs-6 xs-full-width">
+                <h3 class="footer-v6-title">Didukung Oleh</h3>
+                <a href="https://smmreseller.co.id">
+                    <img src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/smmreseller.png" alt="SMM Reseller Panel Indonesia" width="135" style="border: 0px;"></a>
+                <br><br>
+                <img src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/gcp.png" alt="Google Cloud Platform" width="135" style="border: 0px;">
+                <br><br>
+                <a href="https://globalsign.ssllabs.com/analyze.html?d=jasaallsosmed.co.id" rel=”nofollow” target="_blank">
+                    <img src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/global-sign.png" alt="SSL Certificate" width="135" style="border: 0px;"></a>
+                <br><br>
+            </div>
+        </div>
+    </div>
+
+    <!-- Copyright -->
+    <div class="footer-v8-payment">
+        <div class="container text-center">
+            <h5><b>Accepted Payment Method</b></h5>
+            <img border="0" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/bca.png" width="80px" alt="Bank BCA" hspace="5" />
+            <img border="0" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/mandiri.png" width="80px" alt="Bank Mandiri" hspace="5" />
+            <img border="0" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/bni.png" width="80px" alt="Bank BNI" hspace="5" />
+            <img border="0" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/bri.png" width="80px" alt="Bank BRI" hspace="5" />
+            <img border="0" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/ovo.png" width="80px" alt="E-wallet Ovo" hspace="5" />
+            <img border="0" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/linkaja.png" width="80px" alt="E-wallet Linkaja" hspace="5" />
+            <img border="0" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/dana.png" width="80px" alt="E-wallet Dana" hspace="5" />
+            <img border="0" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/shopeepay.png" width="80px" alt="E-wallet ShopeePay" hspace="5" />
+            <img border="0" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/gopay.png" width="80px" alt="E-wallet Gopay" hspace="5" />
+            <img border="0" src="https://jasaallsosmed.co.id/Ark-landing/assets/img/footer/alfamart.png" width="80px" alt="Alfamart" hspace="5" />
+            <br>
+        </div>
+    </div>
+    <!-- Copyright -->
+    <div class="footer-v8-copyright">
+        <div class="container text-center">
+            <p class="margin-b-0">&#169; Jasa All Sosmed 2022. All Rights Reserved.</p>
+        </div>
+    </div>
+    <!-- Copyright -->
+
 </footer>
-   <div id="myModalPetunjuk" class="modal">
-      <div class="modal-content">
-         <span class="close petunjuk">&times;</span>
-         <h4 class="modal-title text-center" id="myModalLabel">Petunjuk Pilih Paket</h4>
-         <div class="modal-body">
-            <div class="row">
-               <div class="col-md-4 text-center">
-                  <a>
-                     <img class="helpimg2" src="https://gosocial.co.id/assets/landing/image/step1.png" alt="">
-                     <div id='mylink'></div>
-                  </a>
-                  <h3>Tahap 1</h3>
-                  <p style="line-height:20px;"><small>Geser Toggle switch atau tombol lingkaran keatas dan kebawah untuk memilih paket dan harga yang anda inginkan.</small></p>
-               </div>
-               <div class="col-md-4 text-center">
-                  <a><img class="helpimg2" src="https://gosocial.co.id/assets/landing/image/step2.png" alt=""></a>
-                  <h3>Tahap 2</h3>
-                  <p style="line-height:20px;"><small>Setelah selesai pilih paket, kemudian klik tombol order sekarang untuk pesan.</small></p>
-               </div>
-               <div class="col-md-4 text-center">
-                  <a><img class="helpimg" src="https://gosocial.co.id/assets/landing/image/step3.png" alt=""></a>
-                  <h3>Tahap 3</h3>
-                  <p style="line-height:20px;"><small>Jika anda belum login, maka anda diarahkan terlebih dahulu ke halaman login. Jika sudah login, anda diarahkan ke halaman order</small></p>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-   <div id="myModal" class="modal">
-      <div class="modal-content">
-         <span class="close">&times;</span>
-         <h4 class="modal-title text-center" id="myModalLabel">Pilih cara kami untuk membantu:</h4>
-         <div class="modal-body">
-            <div class="row">
-               <div class="col-md-4 text-center">
-                  <a class="chat-button chatbtn">
-                     <img class="helpimg" src="https://gosocial.co.id/assets/landing/image/live-chat.png" alt="Livechat">
-                     <div id='mylink'></div>
-                  </a>
-                  <h3>Live Chat</h3>
-                  <p><small>Bantuan secara real-time mulai pk 09.00 s/d 21.00 W.I.B</small></p>
-               </div>
-               <div class="col-md-4 text-center">
-                  <a href="https://gosocial.co.id/contact-us"><img class="helpimg" src="https://gosocial.co.id/assets/landing/image/mail.png" alt="Penawaran Digital Marketing"></a>
-                  <h3>Contact Us</h3>
-                  <p><small>Bantuan melalui E-mail untuk inquiry / penawaran</small></p>
-               </div>
-               <div class="col-md-4 text-center">
-                  <a href="https://gosocial.co.id/knowledge-base"><img class="helpimg" src="https://gosocial.co.id/assets/landing/image/book.png" alt="Knowledge Base"></a>
-                  <h3>Knowledge Base</h3>
-                  <p><small>Layanan pusat bantuan yang disediakan pihak GoSocial</small></p>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-   <script>
-      $(".btndrop").click(function(){
-      $(".btndrop").addClass("open");
-      });
-    </script>
+
+<!--========== END FOOTER V6 ==========-->
+</div>
+<!-- END WRAPPER -->
+
+
+<!-- BASE URL Global Variable -->
 <script>
-  window.intercomSettings = {
-    app_id: "xex4cmbc"
-      };
+    var BASE_URL = "https:\/\/jasaallsosmed.co.id";
 </script>
-<script>
-(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/xex4cmbc';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
-</script>
-<script src="https://gosocial.co.id/assets/landing/js/jquery-2.x-git.min.js"></script>
-<script src="https://gosocial.co.id/assets/landing/js/bootstrap.min.js"></script>
-<script src="https://gosocial.co.id/assets/landing/js/owl.carousel.min.js"></script>
-<script src="https://gosocial.co.id/assets/landing/js/wow.js"></script>
-<script src="https://gosocial.co.id/assets/landing/js/parallax.js"></script>
-<script src="https://gosocial.co.id/assets/landing/js/jquery.counterup.min.js"></script>    
-<script src="https://gosocial.co.id/assets/landing/js/jquery.waypoints.min.js"></script>
-<script src="https://gosocial.co.id/assets/landing/vendors/particles/particles.js"></script>
-<script src="https://gosocial.co.id/assets/landing/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
-<script src="https://gosocial.co.id/assets/landing/js/custom.js"></script>
-<script src="https://gosocial.co.id/assets/landing/js/BeerSlider.js"></script>
-<script src="https://gosocial.co.id/route-group"></script>
-<script src="https://gosocial.co.id/assets/landing/js/page/subscribe_email.js"></script>
-<script src="https://gosocial.co.id/assets/landing/js/nouislider.min.js"></script>
-<script src="https://gosocial.co.id/assets/landing/js/page/sub-project.js"></script>
+
+<!-- Start of LiveChat code -->
 <script type="text/javascript">
-$.ajaxSetup({
-    headers: {
-        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
-    }
-});
+    window.$crisp = [];
+    window.CRISP_WEBSITE_ID = "6921a884-26c1-46b8-9bab-0f982d92f648";
+    (function() {
+        d = document;
+        s = d.createElement("script");
+        s.src = "https://client.crisp.chat/l.js";
+        s.async = 1;
+        d.getElementsByTagName("head")[0].appendChild(s);
+    })();
 </script>
-<script src="https://gosocial.co.id/assets/js/main.js"></script></body>
+<!-- End of LiveChat code -->
+
+<!--Bar Livechat, analitic mbek testimoni-->
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-71326776-2', 'auto');
+    ga('send', 'pageview');
+</script>
+<!--Bar Livechat, analitic mbek testimoni-->
+
+<!-- Pop Up Modal -->
+<script type="text/javascript">
+    $(function() {
+        $(".btn-close").on('click', function() {
+            $(this).parent().remove();
+            $(".pop-bg").remove();
+        })
+        $(".pop-bg").on('click', function() {
+            $(this).remove();
+            $(".pop-cont").remove();
+        })
+                    // $('.pop-cont').on('click', function() {
+            //     window.open('https://jasaallsosmed.co.id/order', '_parent');
+            // })
+            })
+</script>
+<!-- Pop Up Modal -->
+
+
+<!--========== JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) ==========-->
+<!-- CORE PLUGINS -->
+<!--[if lt IE 9]>
+<script src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/html5shiv.js"></script>
+<script src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/jquery.migrate.min.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- END CORE PLUGINS -->
+
+<!-- PAGE LEVEL PLUGINS -->
+<script src="https://repuso.com/widgets/collect.js" async></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/jquery.back-to-top.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/jquery.smooth-scroll.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/jquery.wow.min.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/jquery.equal-height.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/jquery.appear.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/jquery.html5.video.vide.js"></script>
+<!-- END PAGE LEVEL PLUGINS -->
+
+<!-- PAGE LEVEL SCRIPTS -->
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/app.js?1641019254"></script>
+<!-- <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/components/header-sticky.js"></script> ##Header Shrink##-->
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/components/scrollbar.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/components/magnific-popup.js"></script>
+    <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/portfolio/portfolio-4-col-grid.js?v.2505"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/components/equal-height.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/components/progress-bar.js"></script>
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/owl-carousel/owl.carousel.min.js"></script>
+<!-- END PAGE LEVEL SCRIPTS -->
+<!--========== END JAVASCRIPTS ==========-->
+<!-- <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/badgeig.js"></script> -->
+<script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/scripts/components/owl-carousel.js"></script>
+<!-- page plugins js -->
+<script src="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/popper.js/dist/umd/popper.min.js"></script>
+<!-- <script src="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/bootstrap/dist/js/bootstrap.js"></script> -->
+<script src="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/PACE/pace.min.js"></script>
+<script src="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/twitter-bootstrap-wizard/jquery.bootstrap.wizard.min.js"></script>
+<!-- Select 2 plugins -->
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+<!-- <script type="text/javascript" src="https://jasaallsosmed.co.id/Ark-landing/assets/plugins/select2/js/select2.min.js"></script> -->
+
+<!-- page js -->
+<!-- <script src="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/jquery/dist/jquery.min.js"></script> -->
+<script src="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/perfect-scrollbar/js/perfect-scrollbar.jquery.js"></script>
+<script src="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/app.js"></script>
+<script src="https://jasaallsosmed.co.id/Ark-landing/assets/theme-forest/form-wizard.js"></script>
+
+<!-- Custom JS -->
+<!-- END Custom JS -->
+
+<!-- Notification Beamer JS -->
+<script src="https://jasaallsosmed.co.id/Ark-landing/assets/app/js/notification.js?1641019254"></script>
+
+</body>
+<!-- END BODY -->
+
 </html>
