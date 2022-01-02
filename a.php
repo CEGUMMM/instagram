@@ -1,86 +1,4376 @@
 
-<!DOCTYPE html><html lang="id-ID"><head itemscope="itemscope" itemtype="http://schema.org/WebSite"><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="profile" href="https://gmpg.org/xfn/11"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="followersindo - Beli Followers Instagram Aktif Garansi 30 Hari Gratis"><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /><meta itemprop="name" content="followersindo" /><meta itemprop="url" content="https://followersindo.com/" /><title>Beli Followers Instagram Indonesia Termurah - Followersindo</title><style id="rocket-critical-css">.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;overflow-wrap:normal!important;word-wrap:normal!important;padding:0;position:absolute!important;width:1px}:root{--woocommerce:#a46497;--wc-green:#7ad03a;--wc-red:#a00;--wc-orange:#ffba00;--wc-blue:#2ea2cc;--wc-primary:#a46497;--wc-primary-text:#fff;--wc-secondary:#ebe9eb;--wc-secondary-text:#515151;--wc-highlight:#77a464;--wc-highligh-text:#fff;--wc-content-bg:#fff;--wc-subtext:#767676}:root{--woocommerce:#a46497;--wc-green:#7ad03a;--wc-red:#a00;--wc-orange:#ffba00;--wc-blue:#2ea2cc;--wc-primary:#a46497;--wc-primary-text:#fff;--wc-secondary:#ebe9eb;--wc-secondary-text:#515151;--wc-highlight:#77a464;--wc-highligh-text:#fff;--wc-content-bg:#fff;--wc-subtext:#767676}.screen-reader-text{clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute!important;width:1px;word-wrap:normal!important}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}figure,main,section{display:block}template{display:none}a{background-color:transparent}strong{font-weight:700}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}button{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button{-webkit-appearance:button}button::-moz-focus-inner{border:0;padding:0}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}figure{margin:0}img{vertical-align:middle}h1,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1,h3{margin-top:20px;margin-bottom:10px}h1{font-size:36px}h3{font-size:24px}p{margin:0 0 10px}mark{background-color:#fcf8e3;padding:.2em}.text-left{text-align:left}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.row{margin-left:-15px;margin-right:-15px}.fade{opacity:0}.collapse{display:none}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav&gt;li{position:relative;display:block}.nav&gt;li&gt;a{position:relative;display:block;padding:10px 15px}.navbar-collapse{overflow-x:visible;padding-right:15px;padding-left:15px;border-top:1px solid transparent;-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.1);-webkit-overflow-scrolling:touch}@media (min-width:1200px){.navbar-collapse{width:auto;border-top:0;-webkit-box-shadow:none;box-shadow:none}.navbar-collapse.collapse{display:block;height:auto;padding-bottom:0;overflow:visible}}.container:before,.container:after,.container-fluid:before,.container-fluid:after,.row:before,.row:after,.nav:before,.nav:after,.navbar-collapse:before,.navbar-collapse:after{content:" ";display:table}.container:after,.container-fluid:after,.row:after,.nav:after,.navbar-collapse:after{clear:both}@-ms-viewport{width:device-width}.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}#lqd-gdpr{font-size:0.9em!important}:root{--color-font:#626974;--color-primary:#184341;--color-link:#5b7bfb;--color-link-hover:#181b31;--color-gradient-start:#007fff;--color-gradient-stop:#ff4d54;--lqd-site-width:1140px;--lqd-z-index:20;--lqd-sticky-header-height:0;--lqd-snickersbar-animation-time:1.2s;--lqd-snickersbar-stay-time:4s;--lqd-menu-items-top-padding:10px;--lqd-menu-items-bottom-padding:10px;--lqd-menu-items-left-padding:15px;--lqd-menu-items-right-padding:15px;--lqd-cc-bc:var(--color-primary);--lqd-cc-bg:var(--color-primary);--lqd-cc-size-outer:35px;--lqd-cc-size-inner:7px;--lqd-cc-bw:1px;--lqd-cc-br:calc(var(--lqd-cc-size-outer) / 2);--lqd-cc-active-bc:var(--color-primary);--lqd-cc-active-bg:var(--color-primary);--lqd-cc-active-bw:1px;--lqd-cc-active-circle-color:#fff;--lqd-cc-active-circle-txt:#000;--lqd-cc-active-arrow-color:#fff}.will-change{will-change:transform,opacity}.z-index-2{z-index:2}.round{border-radius:4px!important}.circle{border-radius:50em!important}@media screen and (max-width:479px){#lqd-gdpr{text-align:center;border-radius:4px}.lqd-gdpr-inner{flex-direction:column}}html,body{max-width:100vw}html{font-size:100%;overflow-x:hidden}body{font-family:"Rubik",sans-serif;font-size:18px;line-height:1.7;font-weight:400;color:var(--color-font);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}#wrap,#lqd-site-content{position:relative}#lqd-site-content{z-index:2;background-color:#fff}#lqd-contents-wrap:before,#lqd-contents-wrap:after{content:"";display:table}#lqd-contents-wrap:after{clear:both}#lqd-contents-wrap&gt;p{display:none}#lqd-contents-wrap&gt;p:last-of-type:before,#lqd-contents-wrap&gt;p:last-of-type:after{content:"";display:table}#lqd-contents-wrap&gt;p:last-of-type:after{clear:both}@media screen and (min-width:992px){.vc_col-md-1\/5{width:20%}}a{text-decoration:none;color:var(--color-link)}img{max-width:100%;height:auto}.screen-reader-text{clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute!important;top:0;left:0;width:1px;word-wrap:normal!important}p{margin-bottom:1.5em}h1,h3{font-family:"Manrope",sans-serif;margin:1em 0 .5em;font-weight:600;line-height:1.2em;color:#181b31}h1{margin-top:0;font-size:52px}h3{font-size:32px}.ld-lazyload{opacity:.0001}.ld-lazyload.loaded{opacity:1}.header-module{display:inline-flex;padding-top:10px;padding-bottom:10px;position:relative;flex-direction:column;align-items:center;justify-content:center}.module-primary-nav{padding-top:0;padding-bottom:0}.navbar-collapse{flex:1 auto;padding:0;overflow:visible}.main-nav{flex:1 auto;flex-wrap:nowrap;margin-inline-start:auto;margin-inline-end:auto}.main-nav&gt;li{position:relative;flex-direction:column}.main-nav&gt;li,.main-nav&gt;li&gt;a{display:flex}.main-nav&gt;li&gt;a{flex:1 auto;flex-direction:row;padding:var(--lqd-menu-items-top-padding,10px) var(--lqd-menu-items-right-padding,15px) var(--lqd-menu-items-bottom-padding,10px) var(--lqd-menu-items-left-padding,15px);overflow:hidden;color:#a7a9b8;white-space:nowrap}.main-nav&gt;li.current-menu-item&gt;a{color:#184341}.lqd-mobile-sec .ld-cart-product-name{grid-area:product-name}.lqd-mobile-sec dl.variation,.lqd-mobile-sec .ld-cart-product-extra{grid-area:product-extra}.lqd-mobile-sec .ld-cart-product-price{grid-area:product-price;justify-content:center;align-items:flex-end;line-height:1;text-align:end}.btn{display:inline-flex;padding:0;position:relative;border:1px solid var(--color-primary);border-radius:0;font-size:1em;white-space:nowrap;overflow:hidden;color:var(--color-primary)}.btn&gt;span:not(.btn-icon):not(.btn-txt){display:inline-flex;padding:1.15em 2.1em;border-radius:inherit;border-color:inherit;align-items:center}.btn.round{border-radius:4px}.btn.border-none{border-width:0}.btn.border-none&gt;span:not(.btn-icon):not(.btn-txt){margin:0}.btn-lg&gt;span:not(.btn-icon):not(.btn-txt){padding:1.3em 2.7em}.btn-icon{display:inline-flex;align-items:center;justify-content:center;font-size:1em;letter-spacing:0;background-size:99.99%!important}.btn-icon i{position:relative;z-index:3}.btn-txt+.btn-icon{margin-inline-end:0;margin-inline-start:8px}.btn-icon,.btn-txt{position:relative;z-index:3}.btn-txt span{display:block}.btn-icon-solid .btn-icon{width:2.5em;height:2.5em;margin-inline-start:20px;border:1px solid;margin-top:-5%;margin-bottom:-5%}.btn-icon-circle .btn-icon{border-radius:50%}.btn-icon-solid .btn-icon{border:none;background-color:var(--color-primary);color:#fff}.btn-solid{box-shadow:0 0 0 rgba(0,0,0,0)}.btn-solid{overflow:hidden;background:var(--color-primary);color:#fff}.btn-naked{border:none}.btn-naked&gt;span:not(.btn-icon):not(.btn-txt){padding:0}.btn-naked{overflow:visible}.btn-gradient-bg{display:inline-block;width:100%;height:100%;border-radius:inherit;position:absolute;top:0;left:0;z-index:0;background:linear-gradient(to right,var(--color-gradient-start) 0%,var(--color-gradient-stop) 100%)}.btn-gradient-bg-hover{z-index:1;opacity:0;background:linear-gradient(to right,var(--color-gradient-stop) 0%,var(--color-gradient-start) 100%)}.btn-hover-txt-switch .btn-txt:after{content:attr(data-text);display:inline-block;position:absolute;white-space:nowrap;top:50%}.btn-hover-txt-switch .btn-txt:after{opacity:0}.btn-hover-txt-switch-y .btn-txt:after{left:50%;transform:translate(-50%,100%)}@media all and (max-width:992px){.btn{white-space:normal}.btn-lg&gt;span{padding:1.15em 2.5em}}.iconbox{display:flex;margin-bottom:2em;position:relative;align-items:center;justify-content:center;flex-direction:column;text-align:center}.iconbox .iconbox-icon-container,.iconbox&gt;h3{position:relative;z-index:2}.iconbox h3{display:inline-block;margin:0 0 .7em;font-size:24px;line-height:1.5em}.iconbox .iconbox-icon-container{display:flex;margin-bottom:.5em;border:0 solid #f2f4f7;align-items:center;justify-content:center;font-size:40px;line-height:1em;color:var(--color-primary)}.iconbox .iconbox-icon-container img{height:auto;position:relative;z-index:2}.iconbox-icon-wrap:before,.iconbox-icon-wrap:after{content:"";display:table}.iconbox-icon-wrap:after{clear:both}.iconbox-bubble{padding:0;background:none}.iconbox-heading-sm h3{font-size:20px}.iconbox-sm .iconbox-icon-container img{width:60px}.iconbox-sm .iconbox-icon-container{font-size:25px}@media screen and (max-width:540px){.iconbox-contents-show-onhover.iconbox-bubble{width:100%}}.lqd-tabs-pane{display:none}.carousel-items{display:flex;flex-wrap:nowrap}.carousel-items:before,.carousel-items:after{content:none}.carousel-items:not(.flickity-enabled){overflow:hidden}.carousel-item{display:flex;flex-direction:column;align-items:stretch;justify-content:center;flex:1 0}.carousel-item-content,.carousel-item-inner{width:100%;min-height:inherit;position:relative}.carousel-item-content{white-space:nowrap}.carousel-item-content&gt;*{white-space:normal}@media screen and (max-width:767px){.carousel-item:not([class*=col-xs]){width:100%}}@media screen and (max-width:768px){.carousel-container{max-width:100vw}}.lqd-imggrp-img-container{display:inline-flex;max-width:100%;position:relative;border-radius:inherit;align-items:center;justify-content:center}.lqd-imggrp-single{display:block;position:relative}.lqd-imggrp-single .lqd-imggrp-img-container,.lqd-imggrp-single figure,.lqd-imggrp-single figure img{border-radius:inherit}.lqd-imggrp-single figure{width:100%}.lqd-imggrp-single figure{display:inline-block;margin:0!important}.lqd-imggrp-single[data-float]{--float-animation-ease:ease;--float-animate-from:0%;--float-animate-to:3%;--float-delay:0s;animation:lqdFIFloatOne 1s var(--float-animation-ease) infinite alternate;animation-delay:var(--float-delay)}@media screen and (max-width:991px){.lqd-imggrp-img-container{flex-direction:column}}@media screen and (min-width:768px){.lqd-blog-post-style-3 .lqd-post-media{grid-area:media;margin-bottom:0}.lqd-blog-post-style-3 .lqd-post-header{grid-area:header;display:block;padding-inline-end:25px}.lqd-blog-post-style-3 .entry-meta{grid-area:meta}}.ld-fancy-heading{position:relative}.ld-fancy-heading .ld-fh-element{margin-top:0;margin-bottom:.5em}.ld-fh-element{display:inline-block;position:relative}.split-unit,.split-inner{text-decoration:inherit}.ld-fancy-heading .split-inner{display:block}@media screen and (min-width:480px){.ld-fancy-heading .lqd-lines{white-space:nowrap}}[data-custom-animations=true]:not(.vc_row):not(.ca-initvalues-applied):not(.wpb_wrapper){opacity:0!important}.lity{position:fixed;z-index:999;top:0;right:0;bottom:0;left:0;outline:none!important;opacity:0;visibility:hidden}.lity-wrap{display:grid;place-items:center;position:absolute;z-index:999;top:0;right:0;bottom:0;left:0;outline:none!important}.lity-loader{z-index:9991;color:#fff;position:absolute;top:50%;margin-top:-.8em;width:100%;text-align:center;font-size:14px;font-family:Arial,Helvetica,sans-serif;opacity:0}.lity-container{display:inline-block;position:relative;z-index:9992;max-width:100%;max-height:100%;outline:none!important;white-space:normal;background:#fff}.lity-content{z-index:9993;width:100%;height:100%;overflow-y:auto;overscroll-behavior:contain}.lity-close{z-index:9994;width:35px;height:35px;position:fixed;right:30px;top:30px;text-decoration:none;padding:0;color:#fff;font-style:normal;font-size:35px!important;font-family:Arial,Baskerville,monospace!important;line-height:35px;border:0;background:none;outline:none;box-shadow:none}.lity-backdrop{display:block;width:100vw;height:100vh;position:fixed;top:0;left:0;background-color:rgba(0,0,0,.8)}.lity .lity-close{padding:0!important;border:none!important;background:none!important}.lity[data-modal-type=default]{perspective:1200px}.lity[data-modal-type=default] .lity-container{border-radius:4px;box-shadow:0 20px 65px -5px rgba(0,0,0,.5)}.lity[data-modal-type=default] .lity-content{max-height:90vh}@media (min-width:768px){[data-modal-type=default] .lity-container{width:750px}}@media (min-width:992px){[data-modal-type=default] .lity-container{width:970px}}@media (min-width:1200px){[data-modal-type=default] .lity-container{width:1170px}}.lqd-highlight,.lqd-highlight-txt{background:inherit}.lqd-highlight-txt{position:relative;z-index:1}.lqd-highlight-inner{display:inline-block;width:100%;height:100%;position:absolute;bottom:0;left:0;z-index:0;background-color:var(--color-primary);color:var(--color-primary);opacity:0;transform-origin:left center}.lqd-highlight-inner svg{display:none}.lqd-highlight-underline .lqd-highlight-inner{height:.275em}.lqd-highlight-grow-left .lqd-highlight-inner{opacity:1!important}.lqd-highlight-grow-left .lqd-highlight-inner{transform:scaleX(0)}.is-in-view .lqd-highlight-inner{opacity:1;transform:scale(1,1)!important}.is-in-view .lqd-highlight-inner svg&gt;path{-webkit-clip-path:polygon(0 0,100% 0,100% 100%,0% 100%);clip-path:polygon(0 0,100% 0,100% 100%,0% 100%)}[data-split-text=true] .lqd-highlight-inner{opacity:0}.lqd-highlight{display:inline-block;padding:0 .125em;position:relative;color:inherit}[data-split-text=true] .lqd-highlight .lqd-highlight-inner{opacity:0}.lqd-highlight:only-child{padding:0 .1em}@media screen and (max-width:479px){.wpb_single_image img{max-width:100%!important}}.vc_column_container{display:flex;align-items:flex-start}.container:before,.container:after{content:none}.vc_row{display:flex;flex-wrap:wrap;position:relative}#lqd-contents-wrap&gt;.vc_row{margin-inline-start:0;margin-inline-end:0}.vc_row&gt;.container-fluid{flex-grow:1}.ld-row{display:flex;flex-wrap:wrap}.ld-row:before,.ld-row:after{content:none}.ld-container.container-fluid{width:100%}@media screen and (max-width:767px){.vc_row&gt;.ld-container{flex-grow:1}}@media screen and (max-width:479px){.ld-container{max-width:100%}}@media (min-width:1200px){.justify-content-lg-center{justify-content:center!important}.align-items-lg-stretch{align-items:stretch!important}}.text-left{text-align:start!important}.text-left.wpb_column .wpb_wrapper.vc_figure{justify-content:flex-start}@media (min-width:1200px){.text-lg-right{text-align:end!important}}.pos-stc{position:static!important}@media screen and (max-width:991px){body{overflow-x:hidden}#wrap{overflow:hidden}}@media screen and (max-width:991px){h1{font-size:40px}h3{font-size:24px}}@media screen and (max-width:768px){.woocommerce .woocommerce-cart-form table.shop_table tr.cart_item td.product-img{grid-area:image}.woocommerce .woocommerce-cart-form table.shop_table tr.cart_item td.product-name{padding-inline-start:0;grid-area:info}.woocommerce .woocommerce-cart-form table.shop_table tr.cart_item td.product-quantity{grid-area:qty;margin-top:10px}.woocommerce .woocommerce-cart-form table.shop_table tr.cart_item td.product-subtotal{grid-area:price}.woocommerce .woocommerce-cart-form table.shop_table tr.cart_item td.product-remove{padding:0;background:none;grid-area:remove}}.screen-reader-text{position:absolute;top:-10000em;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}:root{--page-title-display:block}:root{--lqd-color-primary:#097DEA;--lqd-color-primary-rgb:#097dea;--lqd-txt-btn:#000;--lqd-txt-nav:#404040;--lqd-txt-btn-nav:#404040;--lqd-txt-grid:rgba(0,0,0,.85);--lqd-txt-popup-title:#000;--lqd-txt-popup-label-group:rgba(0,0,0,.75);--lqd-txt-popup-label-opt:rgba(0,0,0,.65);--lqd-txt-popup-label-tab:#676767;--lqd-txt-toggle:rgba(0,0,0,.65);--lqd-txt-btnset:#333;--lqd-txt-active:#fff;--lqd-txt-control:#fff;--lqd-txt-inputs:#000;--lqd-txt-panel-title:#000;--lqd-txt-panel-controls:#2f313b;--lqd-txt-css-editor-inputs:rgba(0,0,0,.6);--lqd-txt-responsive-params:rgba(0,0,0,.65);--lqd-txt-templates-filter:#8e8e8e;--lqd-txt-templates-tabs:rgba(0,0,0,.6);--lqd-txt-template-item-title:#000;--lqd-txt-template-item-cat:rgba(0,0,0,.45);--lqd-bg-popup:#f4f4f4;--lqd-bg-popup-header:#f4f4f4;--lqd-bg-grid:rgba(0,0,0,.02);--lqd-bg-nav:#fff;--lqd-bg-btn:#fff;--lqd-bg-nav-hover:rgba(0,0,0,.1);--lqd-bg-popup-dropdown:#fff;--lqd-bg-toggle:#ebebeb;--lqd-bg-toggle-handle:#fff;--lqd-bg-slider-handle:#27292c;--lqd-bg-active:#000;--lqd-bg-control:#27292c;--lqd-bg-css-editor-margin:#f0f0f0;--lqd-bg-css-editor-border:#f7f7f7;--lqd-bg-css-editor-padding:#fff;--lqd-bg-css-editor-inputs:#fff;--lqd-bg-responsive-params:#eee;--lqd-bg-backdrop-panels:rgba(0,0,0,.75);--lqd-bg-backdrop:rgba(255,255,255,.75);--lqd-bg-backdrop-opposite:rgba(0,0,0,.5);--lqd-bg-toggle-nolabel:#e2e2e2;--lqd-bg-templates-header:#fff;--lqd-bg-templates-body:#f4f5f9;--lqd-bg-templates-sidebar:#27292c;--lqd-bg-template-item:#fff;--lqd-bg-desc:rgba(0,0,0,.4);--lqd-bg-btn-save:#313131;--lqd-bg-preloader:rgba(255,255,255,.85);--lqd-outline-nav:#ededed;--lqd-outline-popup-opts:rgba(0,0,0,.21);--lqd-outline-popup-divider:#d3d3d3;--lqd-outline-btnset:rgba(0,0,0,.11);--lqd-outline-css-editor-margin:#f0f0f0;--lqd-outline-css-editor-border:#f7f7f7;--lqd-outline-css-editor-padding:#fff;--lqd-outline-css-editor-inputs:#d8d8d8;--lqd-active-txt-btn:#fff;--lqd-active-txt-grid:#fff;--lqd-active-txt-popup-label-tab:#000;--lqd-active-txt-toggle:#fff;--lqd-active-txt-btnset:#fff;--lqd-active-txt-templates-filter:#fff;--lqd-active-txt-templates-tabs:#000;--lqd-active-bg-btn:#000;--lqd-active-bg-grid:#000;--lqd-active-bg-toggle:#3e3e3e;--lqd-active-bg-toggle-handle:#fff;--lqd-active-bg-btnset:#4A4A4A;--lqd-active-bg-toggle-nolabel:#3b3b3b;--lqd-active-outline-popup-opts:rgba(0,0,0,.5);--lqd-sidebaractive-bg-nav:#27292c;--lqd-sidebaractive-width-navbar:670px;--lqd-dragging-bg-carousel-item:#313131;--lqd-height-navbar:55px;--lqd-sidebar-width:370px;--lqd-shadow-popup:10px 15px 90px rgba(0,0,0,.12);--lqd-radius-popup:4px;--lqd-url-arrow-down:url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M5%206l5%205%205-5%202%201-7%207-7-7%202-1z%22%20fill%3D%22%23555%22%2F%3E%3C%2Fsvg%3E);--lqd-url-nav-logo-color:url(https://followersindo.com/wp-content/plugins/liquid_js_composer/assets/liquid/logo/liquid-logo.svg);--lqd-url-nav-logo:url(https://followersindo.com/wp-content/plugins/liquid_js_composer/assets/liquid/logo/liquid-logo-white.svg);--lqd-url-nav-spinner:url(https://followersindo.com/wp-content/plugins/liquid_js_composer/assets/vc/loaders/spinner.svg);--expo-out:cubic-bezier(.19,1,.22,1)}@media (max-width:767px){.vc_hidden-xs{display:none!important}}@media (min-width:768px) and (max-width:991px){.vc_hidden-sm{display:none!important}}@media (min-width:992px) and (max-width:1199px){.vc_hidden-md{display:none!important}}@media (min-width:1200px){.vc_hidden-lg{display:none!important}}.vc_column_container{width:100%}.vc_col-lg-6,.vc_col-md-9,.vc_col-sm-12,.vc_col-sm-4,.vc_col-sm-6{min-height:1px;padding-left:15px;padding-right:15px;box-sizing:border-box}.vc_col-md-1\/5{position:relative;min-height:1px;padding-left:15px;padding-right:15px;box-sizing:border-box}@media (min-width:768px){.vc_col-sm-12{width:100%}.vc_col-sm-6{width:50%}.vc_col-sm-4{width:33.33333333%}}@media (min-width:992px){.vc_col-md-9{width:75%}.vc_col-md-offset-3{margin-left:25%}.vc_col-md-1\/5{float:left}.vc_col-md-1\/5{width:20%}}@media (min-width:1200px){.vc_col-lg-6{width:50%}}.wpb_content_element{margin-bottom:35px}.vc_inner{margin-inline-start:-15px;margin-inline-end:-15px}.wpb_wrapper{position:relative}.vc_column_container{display:flex}.vc_column-inner{display:flex;width:100%;flex-direction:column;flex-grow:1;position:relative}.vc_row-o-content-middle&gt;.vc_column_container&gt;.vc_column-inner{justify-content:center}.vc_row-o-content-middle:not(.vc_row-o-equal-height)&gt;.vc_column_container{align-items:center}.wpb_single_image{display:flex;margin-bottom:0}.wpb_single_image img{height:auto;max-width:100%;vertical-align:top;border-radius:inherit}.wpb_single_image .vc_single_image-wrapper{margin-bottom:35px;display:inline-flex;flex-direction:column;vertical-align:top;max-width:100%}.wpb_single_image.vc_align_center .vc_figure{justify-content:center}.wpb_single_image .vc_figure{display:inline-flex;vertical-align:top;margin:0;max-width:100%;flex-grow:1}.lqd-gdpr-accept{padding:8px 23px;border:none;border-radius:50em;background:#eff3f5;font-size:14px;line-height:1em;color:#184341}.lqd-gdpr-left{padding-right:16px}.lqd-gdpr-inner{display:flex;align-items:center}#lqd-gdpr{padding:10px 10px 10px 20px;border-radius:50px;position:fixed;bottom:3.5rem;left:50%;z-index:10152;background-color:#fff;font-size:11px;line-height:1.5em;color:rgba(0,0,0,.86);box-shadow:0 20px 60px rgba(92,107,149,.15);opacity:0;visibility:hidden;transform:translate(-50%,50%)}#lqd-gdpr,#lqd-gdpr:before,#lqd-gdpr:after,#lqd-gdpr *,#lqd-gdpr *:before,#lqd-gdpr *:after{box-sizing:border-box}#lqd-gdpr.lqd-gdpr-visible{opacity:1;visibility:visible;transform:translate(-50%,0)}@font-face{font-family:'lqd-essentials';src:url(https://followersindo.com/wp-content/themes/hub/assets/vendors/liquid-icon/lqd-essentials/fonts/lqd-essentials.woff2) format("woff2");font-weight:400;font-style:normal}.lqd-icn-ess{display:inline-block;font:normal normal normal 1em/1 'lqd-essentials';speak:none;text-transform:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-lqd-pen::before{content:"\ea16"}</style><link rel="preload" href="https://fonts.googleapis.com/css?family=Dosis%3Ainherit%2C400%7CNunito%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&subset=" as="style" onload="this.onload=null;this.rel='stylesheet'" /><link rel="preload" href="https://followersindo.com/wp-content/cache/min/1/b3a804d4eece5bc3d48429ccf272f543.css" as="style" onload="this.onload=null;this.rel='stylesheet'" data-minify="1" /><meta name="description" content="Beli Followers Instagram Indonesia Termurah dengan sistem pesananan otomatis 24 jam dan pelayanan CS selama 8 jam penuh." /><link rel="canonical" href="https://followersindo.com/" /><meta property="og:locale" content="id_ID" /><meta property="og:type" content="website" /><meta property="og:title" content="Beli Followers Instagram Indonesia Termurah - Followersindo" /><meta property="og:description" content="Beli Followers Instagram Indonesia Termurah dengan sistem pesananan otomatis 24 jam dan pelayanan CS selama 8 jam penuh." /><meta property="og:url" content="https://followersindo.com/" /><meta property="og:site_name" content="followersindo" /><meta property="article:publisher" content="https://www.facebook.com/Followersindocom/" /><meta property="article:modified_time" content="2021-12-22T02:33:03+00:00" /><meta property="og:image" content="https://followersindo.com/wp-content/uploads/2016/12/fbshare.jpg" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="800" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@Followrsindo" /><meta name="twitter:label1" content="Estimasi waktu membaca" /><meta name="twitter:data1" content="9 menit" /> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://followersindo.com/#website","url":"https://followersindo.com/","name":"followersindo","description":"Beli Followers Instagram Aktif Garansi 30 Hari Gratis","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://followersindo.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"id-ID"},{"@type":"WebPage","@id":"https://followersindo.com/#webpage","url":"https://followersindo.com/","name":"Beli Followers Instagram Indonesia Termurah - Followersindo","isPartOf":{"@id":"https://followersindo.com/#website"},"datePublished":"2019-11-06T11:23:10+00:00","dateModified":"2021-12-22T02:33:03+00:00","description":"Beli Followers Instagram Indonesia Termurah dengan sistem pesananan otomatis 24 jam dan pelayanan CS selama 8 jam penuh.","breadcrumb":{"@id":"https://followersindo.com/#breadcrumb"},"inLanguage":"id-ID","potentialAction":[{"@type":"ReadAction","target":["https://followersindo.com/"]}]},{"@type":"BreadcrumbList","@id":"https://followersindo.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script> <link rel='dns-prefetch' href='//fonts.googleapis.com' /><link rel="alternate" type="application/rss+xml" title="followersindo &raquo; Feed" href="https://followersindo.com/feed/" /><link rel="alternate" type="application/rss+xml" title="followersindo &raquo; Umpan Komentar" href="https://followersindo.com/comments/feed/" /><link rel="preload" href="https://followersindo.com/wp-content/themes/hub/assets/vendors/liquid-icon/lqd-essentials/fonts/lqd-essentials.woff2" as="font" type="font/woff2" crossorigin><style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important}</style><style id='wp-block-library-theme-inline-css' type='text/css'>#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}</style><link rel='preload' id='woocommerce-smallscreen-css'  href='https://followersindo.com/wp-content/cache/busting/1/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen-5.8.0.css' as="style" onload="this.onload=null;this.rel='stylesheet'" type='text/css' media='only screen and (max-width: 768px)' /><style id='woocommerce-inline-inline-css' type='text/css'>.woocommerce form .form-row .required{visibility:visible}</style><style id='elementor-frontend-inline-css' type='text/css'>@font-face{font-family:eicons;src:url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}.elementor-kit-5{--e-global-color-primary:#7635EE;--e-global-color-secondary:#4A2170;--e-global-color-text:#525F7F;--e-global-color-accent:#2865FA;--e-global-color-beffa05:#112446;--e-global-typography-primary-font-family:"Nunito";--e-global-typography-primary-font-weight:400;--e-global-typography-text-font-family:"Nunito";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:1.8em;--e-global-typography-accent-font-family:"Nunito";--e-global-typography-accent-font-weight:400;color:var(--e-global-color-text);font-family:var(--e-global-typography-text-font-family),Sans-serif;font-size:var(--e-global-typography-text-font-size);font-weight:var(--e-global-typography-text-font-weight);line-height:var(--e-global-typography-text-line-height)}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-size:16px;line-height:1.35em;color:#000;background-color:#1124460A;border-radius:100px 100px 100px 100px}.elementor-kit-5 button:hover,.elementor-kit-5 button:focus,.elementor-kit-5 input[type="button"]:hover,.elementor-kit-5 input[type="button"]:focus,.elementor-kit-5 input[type="submit"]:hover,.elementor-kit-5 input[type="submit"]:focus,.elementor-kit-5 .elementor-button:hover,.elementor-kit-5 .elementor-button:focus{color:#FFF;background-color:var(--e-global-color-primary)}.elementor-section.elementor-section-boxed>.elementor-container{max-width:1140px}.elementor-widget:not(:last-child){margin-bottom:0}{}h1.entry-title{display:var(--page-title-display)}@media(max-width:1199px){.elementor-kit-5{font-size:var(--e-global-typography-text-font-size);line-height:var(--e-global-typography-text-line-height)}.elementor-section.elementor-section-boxed>.elementor-container{max-width:1024px}}@media(max-width:767px){.elementor-kit-5{font-size:var(--e-global-typography-text-font-size);line-height:var(--e-global-typography-text-line-height)}.elementor-section.elementor-section-boxed>.elementor-container{max-width:767px}}</style><style id='rocket-lazyload-inline-css' type='text/css'>.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://followersindo.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}.wp-has-aspect-ratio .rll-youtube-player{position:absolute;padding-bottom:0;width:100%;height:100%;top:0;bottom:0;left:0;right:0;</style> <script type='text/javascript' src='https://followersindo.com/wp-content/cache/busting/1/wp-includes/js/jquery/jquery.min-3.6.0.js' id='jquery-core-js'></script> <script type='text/javascript' id='wc-add-to-cart-js-extra'>/* <![CDATA[ */ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Lihat keranjang","cart_url":"https:\/\/followersindo.com","is_cart":"","cart_redirect_after_add":"no"}; /* ]]> */</script> <link rel="https://api.w.org/" href="https://followersindo.com/wp-json/" /><link rel="alternate" type="application/json" href="https://followersindo.com/wp-json/wp/v2/pages/85139" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://followersindo.com/xmlrpc.php?rsd" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://followersindo.com/wp-includes/wlwmanifest.xml" /><meta name="generator" content="WordPress 5.8.2" /><meta name="generator" content="WooCommerce 5.8.0" /><link rel='shortlink' href='https://followersindo.com/' /><link rel="alternate" type="application/json+oembed" href="https://followersindo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffollowersindo.com%2F" /><link rel="alternate" type="text/xml+oembed" href="https://followersindo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffollowersindo.com%2F&#038;format=xml" />  <script data-no-minify="1" async src="https://followersindo.com/wp-content/cache/busting/1/gtm-7015b8ccfe64c5ecae6c66e3f2b32f29.js"></script> <script>window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<!DOCTYPE html>
+<html lang="en-US" class="no-js" itemscope itemtype="https://schema.org/WebPage" >
 
-  gtag('config', 'UA-68538756-1');</script>  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-809456240"></script> <script>window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<head>
 
-  gtag('config', 'AW-809456240');</script> <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=wYi7q1NErb205V" style="display:none" height="1" width="1" alt="" /></noscript><head>  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '1912677362333752'); // Insert your pixel ID here.
-fbq('track', 'PageView');</script> <noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1912677362333752&ev=PageView&noscript=1"
-/></noscript></head><link rel="shortcut icon" href="" /> <noscript><style>.woocommerce-product-gallery{opacity:1!important}</style></noscript><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/><meta name="generator" content="Powered by Slider Revolution 6.5.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." /><link rel="icon" href="https://followersindo.com/wp-content/uploads/2016/12/cropped-logo1-32x32.png" sizes="32x32" /><link rel="icon" href="https://followersindo.com/wp-content/uploads/2016/12/cropped-logo1-192x192.png" sizes="192x192" /><link rel="apple-touch-icon" href="https://followersindo.com/wp-content/uploads/2016/12/cropped-logo1-180x180.png" /><meta name="msapplication-TileImage" content="https://followersindo.com/wp-content/uploads/2016/12/cropped-logo1-270x270.png" /><style id='liquid-stylesheet-inline-css' type='text/css'>@font-face{font-family:"Glacial Indifference";src:;font-weight:;font-display:swap}:root{--lqd-cc-active-bw:1px}@media screen and (min-width:992px){body.has-sidebar #lqd-contents-wrap{padding-top:25px}}@media (min-width:1200px){.is-stuck>.elementor>.elementor-section-wrap>.elementor-section:not(.lqd-stickybar-wrap){background:#FFFFFFF2!important}}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1635239929532{padding-right:25px!important;padding-left:25px!important}.vc_custom_1610628944366{padding-top:55px!important;padding-bottom:30px!important}.vc_custom_1605398700956{padding-bottom:40px!important}.vc_custom_1615552552691{padding-top:80px!important;padding-bottom:40px!important;background-color:#122339!important}.vc_custom_1605398402233{padding-top:60px!important;padding-bottom:20px!important}.vc_custom_1602665216151{margin-top:60px!important;padding-top:100px!important;padding-bottom:100px!important;background-color:#f0f1f7!important}.vc_custom_1614328250330{padding-top:60px!important;background-image:url(http://new.followersindo.com/wp-content/uploads/2019/11/circles.svg?id=51)!important;background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important}.vc_custom_1634809010825{background-color:#34364d!important}.vc_custom_1637388545211{margin-right:8px!important;margin-bottom:10px!important;padding-right:0.75em!important;padding-left:0.75em!important}.vc_custom_1573390155543{margin-bottom:35px!important}.vc_custom_1573390147676{margin-bottom:35px!important}.vc_custom_1573390136561{margin-bottom:35px!important}.vc_custom_1573390164945{margin-bottom:35px!important}.vc_custom_1573390174949{margin-bottom:35px!important}.vc_custom_1637388562879{margin-right:8px!important;margin-bottom:10px!important;padding-right:0.75em!important;padding-left:0.75em!important}.vc_custom_1614328086557{margin-bottom:35px!important}.vc_custom_1614691180474{background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important}.vc_custom_1614691201000{background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important}.vc_custom_1614691213574{background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important}.vc_custom_1614691226593{background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important}.vc_custom_1605398444640{margin-bottom:45px!important}.vc_custom_1573390261312{margin-bottom:45px!important}.vc_custom_1637375832284{padding-right:0.75em!important;padding-left:0.75em!important}.vc_custom_1573118821882{margin-bottom:50px!important}.vc_custom_1573121760798{margin-bottom:50px!important}.vc_custom_1605398055025{margin-bottom:20px!important}.vc_custom_1573123868086{margin-bottom:30px!important}.vc_custom_1634550574274{margin-top:35px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1590403536897{margin-bottom:45px!important}.vc_custom_1590403736353{margin-bottom:40px!important}</style><noscript><style>.wpb_animate_when_almost_visible{opacity:1}</style></noscript><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player,[data-lazy-src]{display:none!important}</style></noscript><script>/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
-(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
-var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
-return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
-if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
-setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
-var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
-if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
-else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))</script> </head><body class="home page-template-default page page-id-85139 wp-embed-responsive theme-hub woocommerce-no-js sidebar-widgets-outline lazyload-enabled mob-menu-slideout-over wpb-js-composer js-comp-ver-6.6.0 vc_responsive elementor-default elementor-kit-5 elementor-page elementor-page-85139" dir="ltr" itemscope="itemscope" itemtype="http://schema.org/WebPage" data-mobile-nav-breakpoint="1200" data-mobile-nav-style="modern" data-mobile-nav-scheme="dark" data-mobile-nav-trigger-alignment="right" data-mobile-header-scheme="gray" data-mobile-logo-alignment="default" data-mobile-nav-align="center" data-overlay-onmobile="false"><div><div class="screen-reader-text">Skip links</div><ul class="liquid-skip-link screen-reader-text"><li><a href="#primary-nav" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#lqd-site-content" class="screen-reader-shortcut"> Skip to content</a></li></ul></div><div id="wrap"><main class="content" id="lqd-site-content"><div id="lqd-contents-wrap"><p><style>@media (min-width:768px){.liquid-row-responsive-61d175316cd0a{padding-right:25px!important;padding-left:25px!important}}</style><section class="vc_row liquid-row-responsive-61d175316cd0a liquid-row-shadowbox-61d175316cd3e"><div class="ld-container container"><div class="row ld-row ld-row-outer"><div class="wpb_column vc_column_container vc_col-sm-4 liquid-column-61d17531869fd"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_spacer_61d1753186b26{height:24px}</style><div class="ld-empty-space ld_spacer_61d1753186b26"></div><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d1753189dfb"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="112" height="21" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Logo-Followersindo-1.png" data-aspect="" /></div></figure></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 liquid-column-61d175318a402"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_header_menu_61d175318a5c5>li>a{font-size:16px;font-weight:500;letter-spacing:.01em}.ld_header_menu_61d175318a5c5 .nav-item-children>li>a{font-size:14px}.ld_header_menu_61d175318a5c5>li>a,.navbar-fullscreen .ld_header_menu_61d175318a5c5>li>a{color:rgb(0,0,0)}.ld_header_menu_61d175318a5c5>li:hover>a,.navbar-fullscreen .ld_header_menu_61d175318a5c5>li>a:hover{color:rgba(0,0,0,.7)}.ld_header_menu_61d175318a5c5>li.is-active>a,.ld_header_menu_61d175318a5c5>li.current_page_item>a,.ld_header_menu_61d175318a5c5>li.current-menu-item>a,.ld_header_menu_61d175318a5c5>li.current-menu-ancestor>a,.navbar-fullscreen .ld_header_menu_61d175318a5c5>li.is-active>a,.navbar-fullscreen .ld_header_menu_61d175318a5c5>li.current_page_item>a,.navbar-fullscreen .ld_header_menu_61d175318a5c5>li.current-menu-item>a,.navbar-fullscreen .ld_header_menu_61d175318a5c5>li.current-menu-ancestor>a{color:rgba(0,0,0,.7)}.ld_header_menu_61d175318a5c5{--lqd-menu-items-top-padding:20px;--lqd-menu-items-right-padding:20px;--lqd-menu-items-bottom-padding:20px;--lqd-menu-items-left-padding:20px}</style><div class="header-module module-primary-nav pos-stc"><div class="collapse navbar-collapse lqd-submenu-cover  " id="main-header-collapse" aria-expanded="false" role="navigation"><ul id="primary-nav" class="main-nav lqd-menu-counter-right ld_header_menu_61d175318a5c5 main-nav-hover-default nav align-items-lg-stretch justify-content-lg-center" data-submenu-options='{"toggleType":"fade","handler":"mouse-in-out"}' data-localscroll="true" data-localscroll-options='{"itemsSelector": "> li > a", "trackWindowScroll": true}'><li id="menu-item-85260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-85139 current_page_item menu-item-85260"><a href="https://followersindo.com/" aria-current="page">Home</a></li><li id="menu-item-85679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-85679"><a href="https://followersindo.com/iklan-followers-instagram-garansi/">Promo<span class="submenu-expander"></span></a><ul class="nav-item-children"><li id="menu-item-85674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85674"><a href="https://followersindo.com/iklan-followers-gratis-likes/">Promo Followers Gratis Likes</a></li><li id="menu-item-85671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85671"><a href="https://followersindo.com/iklan-followers-instagram-garansi/">Promo Followers Instagram Garansi</a></li><li id="menu-item-85672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85672"><a href="https://followersindo.com/iklan-auto-likes-instagram/">Promo Auto Likes Instagram</a></li><li id="menu-item-85673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85673"><a href="https://followersindo.com/iklan-likes-instagram/">Promo Likes Instagram</a></li></ul></li><li id="menu-item-85356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85356"><a href="https://followersindo.com/service/">Service</a></li><li id="menu-item-85259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85259"><a href="https://followersindo.com/about/">About</a></li><li id="menu-item-85261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85261"><a href="https://followersindo.com/testimoni/">Testimony</a></li></ul></div></div><style>.ld_spacer_61d1753190ee6{height:24px}</style><div class="ld-empty-space ld_spacer_61d1753190ee6"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs text-lg-right liquid-column-61d1753191458"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div class="header-module module-button"><style>.ld_button_61d1753191b2b.btn-icon-solid .btn-icon{background:rgb(117,29,216)}.ld_button_61d1753191b2b.btn-icon-circle.btn-icon-ripple .btn-icon:before{border-color:rgb(0,0,0)}.ld_button_61d1753191b2b .btn-icon{color:rgb(255,255,255);width:46px!important;height:46px!important;box-shadow:0 15px 25px 0 rgba(0,0,0,.05)}.ld_button_61d1753191b2b:hover .btn-icon{color:rgb(0,0,0)}.ld_button_61d1753191b2b.btn-icon-solid:hover .btn-icon{background:rgb(255,255,255)}.ld_button_61d1753191b2b{color:rgb(0,0,0)}.ld_button_61d1753191b2b{font-size:16px}.ld_button_61d1753191b2b{font-size:16px}</style><a href="https://api.whatsapp.com/send/?phone=6282140853171&#038;text&#038;app_absent=0" target="_blank" class="btn btn-naked btn-hover-txt-liquid-x-alt btn-icon-custom-size btn-icon-circle btn-icon-solid btn-has-label ld_header_button_61d175319163a ld_button_61d1753191b2b" > <span> <span class="btn-txt" data-text="Let&#039;s Chat" data-split-text="true"
-data-split-options='{"type": "chars, words"}'>Let's Chat</span> <span class="btn-icon"><i class="lqd-icn-ess icon-lqd-pen"></i></span> </span> </a></div></div></div></div></div></div></section><section class="vc_row vc_custom_1635239929532 liquid-row-shadowbox-61d1753194e5a"><div class="ld-container container"><div class="row ld-row ld-row-outer"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 liquid-column-61d17531953c8"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_fancy_heading_61d1753195597 h3{color:rgb(0,0,0);background:rgb(245,245,245)}.ld_fancy_heading_61d1753195597 h3{font-size:14px}.ld_fancy_heading_61d1753195597 h3{padding-top:0.3em!important;padding-right:1em!important;padding-bottom:0.3em!important;padding-left:1em!important}.ld_fancy_heading_61d1753195597 h3{margin-bottom:1.85em!important}.ld_fancy_heading_61d1753195597 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753195597 h3{font-size:14px}.ld_fancy_heading_61d1753195597 h3{padding-top:0.3em!important;padding-right:1em!important;padding-bottom:0.3em!important;padding-left:1em!important}.ld_fancy_heading_61d1753195597 h3{margin-bottom:1.85em!important}</style><div class="ld-fancy-heading ld-fh-has-fill ld_fancy_heading_61d1753195597"><h3 class="ld-fh-element circle lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Garansi 30 Hari</span></h3></div><style>.ld_fancy_heading_61d17531961e4 h1{font-size:13vw}@media (min-width:768px){.ld_fancy_heading_61d17531961e4 h1{font-size:11vw}}@media (min-width:992px){.ld_fancy_heading_61d17531961e4 h1{font-size:65px}}.ld_fancy_heading_61d17531961e4 h1{line-height:1.1em}.ld_fancy_heading_61d17531961e4 h1{--element-line-height:1.1em}.ld_fancy_heading_61d17531961e4 h1{margin-bottom:0.2em!important}.ld_fancy_heading_61d17531961e4 .lqd-highlight-inner{height:.275em;bottom:5px;background:rgba(98,73,201,.21)}.ld_fancy_heading_61d17531961e4 h1{font-size:13vw}@media (min-width:768px){.ld_fancy_heading_61d17531961e4 h1{font-size:11vw}}@media (min-width:992px){.ld_fancy_heading_61d17531961e4 h1{font-size:65px}}.ld_fancy_heading_61d17531961e4 h1{line-height:1.1em}.ld_fancy_heading_61d17531961e4 h1{--element-line-height:1.1em}.ld_fancy_heading_61d17531961e4 h1{margin-bottom:0.2em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531961e4"><h1 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left lqd-highlight-reset-onhover text-decoration-default lqd-split-lines" data-inview="true" data-transition-delay="true" data-delay-options='{"elements":".lqd-highlight-inner","delayType":"transition"}'  data-split-text="true" data-split-options='{"type":"lines"}'> Beli Followers Instagram <mark class="lqd-highlight"><span class="lqd-highlight-txt"  >Terbaik</span><span class="lqd-highlight-inner"><svg xmlns="http://www.w3.org/2000/svg" width="235.509" height="13.504" viewBox="0 0 235.509 13.504" aria-hidden="true" preserveAspectRatio="none"><path d="M163,.383a13.044,13.044,0,0,1,1.517-.072,3.528,3.528,0,0,1,1.237-.134q.618.044,1.237.044a.249.249,0,0,1-.1.178.337.337,0,0,0-.1.266q3.092.088,6.184-.044T178.953.4l-.206-.088a12,12,0,0,0,4.123,0,13.467,13.467,0,0,1,5.772,0q1.443-.178,2.68-.266A5.978,5.978,0,0,1,193.8.4,16.707,16.707,0,0,1,198.01.045q2.164.088,4.844.088-.618.088-.824.134L201.412.4a3.893,3.893,0,0,0,2.061,0,5.413,5.413,0,0,1,1.649-.356q.618.088,1.134.178a9.762,9.762,0,0,0,1.544.09,17,17,0,0,1,3.092-.266q1.649,0,3.5.178,2.886.088,5.875.044t5.875-.222q0,.088.206.088h.412a21.975,21.975,0,0,0,2.577.889A12.458,12.458,0,0,1,232.12,2.18a3.962,3.962,0,0,1,1.031.622A3.349,3.349,0,0,1,234.8,3.825a5.079,5.079,0,0,1,.618,1.111q.412.534-1.031.98-1.031.444-.618.98a2.09,2.09,0,0,1,.206.889q0,.444.825.889.618.8-.206,1.245l-1.237.534q-1.443-.088-2.68-.134a17.255,17.255,0,0,1-2.267-.222,3.128,3.128,0,0,0-.928-.044,3.129,3.129,0,0,1-.928-.044q-2.267-.178-4.432-.266T217.7,9.476q-1.649-.088-2.886-.088a17.343,17.343,0,0,1-2.474-.178q-3.916,0-7.73-.088t-7.73-.266l-12.471-.178q-6.287-.088-12.883-.088h-1.958q-.928,0-1.958.088h-2.061q-1.031,0-2.061-.088-2.68-.088-5.256-.134t-5.256.044h-5.462q-2.577,0-5.462.088-4.535.088-8.76.178t-8.554.088q-2.886.088-5.875.088t-5.875.088q-1.443.088-2.886.134t-3.092.044q-4.741.178-9.791.312t-9.791.312q-2.267.088-4.329.088T78.77,10.1q-4.329.266-8.863.49t-9.276.49q-1.237.088-2.68.134a24.356,24.356,0,0,0-2.683.224q-2.68.178-5.462.312t-5.668.4q-2.474.266-4.741.312t-4.741.044q-1.031-.088-1.958-.134a9.684,9.684,0,0,1-1.958-.312,12.5,12.5,0,0,0-1.443-.312q-.825-.134-1.856-.31-2.886.356-6.39.666t-6.8.845a26.709,26.709,0,0,1-2.886.356,20.758,20.758,0,0,1-9.482-.889Q.232,11.962.026,11.25T1.263,9.917q0-.266.825-.266a13.039,13.039,0,0,0,2.886-.444A17.187,17.187,0,0,1,7.86,8.672q3.092-.266,6.184-.8,1.649-.178,3.3-.312t3.5-.312q4.123-.354,8.039-.712t8.039-.622q9.478-.8,18.758-1.338,2.68-.178,5.153-.356t4.741-.356q2.474-.178,5.05-.356T75.88,3.24h1.34a4.829,4.829,0,0,0,1.34-.178q2.267-.178,4.329-.222t4.329-.134a7.256,7.256,0,0,1,2.267,0,3.459,3.459,0,0,0,1.031-.088,6.009,6.009,0,0,1,2.37-.266,14.745,14.745,0,0,0,2.783-.088q1.649,0,2.474.088a1.308,1.308,0,0,1,.185.011,1.226,1.226,0,0,1,.33-.1,3.656,3.656,0,0,0,.515-.088,4.433,4.433,0,0,1,2.886.266q.412-.088,1.031-.178l1.237-.178q.412,0,1.031.044a5.761,5.761,0,0,0,1.237-.044q2.886-.088,5.772-.044a53.829,53.829,0,0,0,5.772-.222,9.505,9.505,0,0,1,1.34-.088h1.34a4.428,4.428,0,0,1,.821-.258l.825-.178a15.178,15.178,0,0,1,1.855.444,3.028,3.028,0,0,1,1.031-.534,4.039,4.039,0,0,1,1.443-.178,6.158,6.158,0,0,1,1.649.178,5.05,5.05,0,0,0,2.267.268q1.855-.088,3.813-.134T138.13,1.2q1.031,0,2.164-.044t2.37-.044q-.206-.088.412-.534h3.092q.412,0,.309.266t.928,0a5.845,5.845,0,0,1,1.443,0,31.833,31.833,0,0,0,5.359.088,21.471,21.471,0,0,1,6.8.178,5.236,5.236,0,0,0,1.031-.4q.412-.222.825-.4a.694.694,0,0,1,.137.07Z" transform="translate(0 0.002)"/></svg></span></mark></h1></div><style>.ld_fancy_heading_61d1753196ceb p{font-size:20px}.ld_fancy_heading_61d1753196ceb p{line-height:30px}.ld_fancy_heading_61d1753196ceb p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d1753196ceb p{padding-right:18%!important}}.ld_fancy_heading_61d1753196ceb p{margin-bottom:1.35em!important}.ld_fancy_heading_61d1753196ceb .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753196ceb p{font-size:20px}.ld_fancy_heading_61d1753196ceb p{line-height:30px}.ld_fancy_heading_61d1753196ceb p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d1753196ceb p{padding-right:18%!important}}.ld_fancy_heading_61d1753196ceb p{margin-bottom:1.35em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753196ceb"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default lqd-split-lines"   data-split-text="true" data-split-options='{"type":"lines"}'> <span style="font-weight: 400">Dijamin 100% aman karena <strong>tanpa password</strong>, </span><strong>tidak menambah following </strong>dan simple dengan sistem <strong>fast checkout!</strong></p></div><div data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".wpb_column","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"x":-35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"x":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}' class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d17531992ba"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d17531b21d4"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_button_61d17531b23ca.btn-icon-solid .btn-icon{background:rgb(18,35,57)}.ld_button_61d17531b23ca.btn-icon-circle.btn-icon-ripple .btn-icon:before{border-color:rgb(18,35,57)}.ld_button_61d17531b23ca{background-color:rgb(18,35,57);border-color:rgb(18,35,57)}.ld_button_61d17531b23ca:hover{background-color:rgb(239,75,121);border-color:rgb(239,75,121)}.ld_button_61d17531b23ca .btn-gradient-bg-hover{background:-webkit-linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%);background:linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%)}.ld_button_61d17531b23ca .btn-gradient-border defs stop:first-child{stop-color:rgb(18,35,57)}.ld_button_61d17531b23ca .btn-gradient-border defs stop:last-child{stop-color:rgb(18,35,57)}.ld_button_61d17531b23ca:hover .btn-gradient-border defs stop:first-child{stop-color:rgb(239,75,121)}.ld_button_61d17531b23ca:hover .btn-gradient-border defs stop:last-child{stop-color:rgb(198,123,255)}.ld_button_61d17531b23ca{font-size:15px}.ld_button_61d17531b23ca{letter-spacing:.02em}.ld_button_61d17531b23ca{font-size:15px}.ld_button_61d17531b23ca{letter-spacing:.02em}.ld_button_61d17531b23ca{font-size:15px}.ld_button_61d17531b23ca{letter-spacing:.02em}</style><a href="https://order.followersindo.com/shop2.php/dashboard" target="_blank" class="btn btn-solid btn-hover-txt-switch btn-hover-txt-switch-y btn-lg round border-none btn-has-label ld_button_61d17531b23ca vc_custom_1637388545211" > <span> <span class="btn-txt" data-text="Order Sekarang" data-split-text="true"
-data-split-options='{"type": "chars, words"}'>Order Sekarang</span> <span class="btn-gradient-bg btn-gradient-bg-hover"></span> </span> </a></div></div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 liquid-column-61d17531b5cfc"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>@media (min-width:992px){.ld_images_group_element_61d17531b5ecd{margin-right:-45%!important;margin-left:-15%!important}}@media (min-width:992px){.ld_images_group_element_61d17531b5ecd{margin-right:-45%!important;margin-left:-15%!important}}</style><div id="ld_images_group_element_61d17531b5ecd" class="lqd-imggrp-single ld_images_group_element_61d17531b5ecd"  data-float="ease" ><div class="lqd-imggrp-img-container"    ><figure ><img width="573" height="653" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class=" ld-lazyload" alt="" data-src="https://followersindo.com/wp-content/uploads/2021/10/header-landing-page.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/header-landing-page-263x300.png 263w, https://followersindo.com/wp-content/uploads/2021/10/header-landing-page-899x1024.png 899w, https://followersindo.com/wp-content/uploads/2021/10/header-landing-page.png 1146w" data-aspect="" /></figure></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d17531b73bf{padding-top:55px!important;padding-bottom:55px!important}}</style><section id="features" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".wpb_column","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}' class="vc_row z-index-2 vc_custom_1610628944366 liquid-row-responsive-61d17531b73bf liquid-row-shadowbox-61d17531b73e2"><div class="ld-container container"><div class="row ld-row ld-row-outer"><style>@media (min-width:992px){.liquid-column-responsive-61d17531b7937>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-1/5 liquid-column-61d17531b7935 liquid-column-responsive-61d17531b7937"><div class="vc_column-inner  vc_custom_1573390155543" ><div class="wpb_wrapper"  ><style>.ld_icon_box_61d17531b7b4b h3{margin-bottom:px}.ld_icon_box_61d17531b7b4b .iconbox-icon-container{border-radius:px}.ld_icon_box_61d17531b7b4b .iconbox-icon-container img,.ld_icon_box_61d17531b7b4b .iconbox-icon-container>svg{width:80px!important}</style><div class="iconbox text-align-default iconbox-sm iconbox-heading-sm iconbox-bubble iconbox-contents-show-onhover ld_icon_box_61d17531b7b4b" id="ld_icon_box_61d17531b7b4b"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-instagram.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-instagram.png" class="liquid-image-icon" /></noscript></span></div><h3 class="">Instagram</h3><div class="contents"><h6>INSTAGRAM</h6><hr /><p>Followers Garansi, Likes Garansi, Auto Likes, Comments, Views, Reels &amp; IGTV</p></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d17531b8ec3>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-1/5 liquid-column-61d17531b8ec0 liquid-column-responsive-61d17531b8ec3"><div class="vc_column-inner  vc_custom_1573390147676" ><div class="wpb_wrapper"  ><style>.ld_icon_box_61d17531b908b h3{margin-bottom:px}.ld_icon_box_61d17531b908b .iconbox-icon-container{border-radius:px}.ld_icon_box_61d17531b908b .iconbox-icon-container img,.ld_icon_box_61d17531b908b .iconbox-icon-container>svg{width:80px!important}</style><div class="iconbox text-align-default iconbox-sm iconbox-heading-sm iconbox-bubble iconbox-contents-show-onhover ld_icon_box_61d17531b908b" id="ld_icon_box_61d17531b908b"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-tiktok.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-tiktok.png" class="liquid-image-icon" /></noscript></span></div><h3 class="">Tiktok</h3><div class="contents"><h6>TIKTOK</h6><hr /><p>Followers, Likes &amp; Views</p></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d17531bd014>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-1/5 liquid-column-61d17531bd011 liquid-column-responsive-61d17531bd014"><div class="vc_column-inner  vc_custom_1573390136561" ><div class="wpb_wrapper"  ><style>.ld_icon_box_61d17531bd1cf h3{margin-bottom:px}.ld_icon_box_61d17531bd1cf .iconbox-icon-container{border-radius:px}.ld_icon_box_61d17531bd1cf .iconbox-icon-container img,.ld_icon_box_61d17531bd1cf .iconbox-icon-container>svg{width:75px!important}</style><div class="iconbox text-align-default iconbox-sm iconbox-heading-sm iconbox-bubble iconbox-contents-show-onhover ld_icon_box_61d17531bd1cf" id="ld_icon_box_61d17531bd1cf"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-youtube.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-youtube.png" class="liquid-image-icon" /></noscript></span></div><h3 class="">YouTube</h3><div class="contents"><h6>YOUTUBE</h6><hr /><p>Views Video</p></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d17531bdf95>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-1/5 liquid-column-61d17531bdf92 liquid-column-responsive-61d17531bdf95"><div class="vc_column-inner  vc_custom_1573390164945" ><div class="wpb_wrapper"  ><style>.ld_icon_box_61d17531be146 h3{margin-bottom:px}.ld_icon_box_61d17531be146 .iconbox-icon-container{border-radius:px}.ld_icon_box_61d17531be146 .iconbox-icon-container img,.ld_icon_box_61d17531be146 .iconbox-icon-container>svg{width:75px!important}</style><div class="iconbox text-align-default iconbox-sm iconbox-heading-sm iconbox-bubble iconbox-contents-show-onhover ld_icon_box_61d17531be146" id="ld_icon_box_61d17531be146"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-shopee.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-shopee.png" class="liquid-image-icon" /></noscript></span></div><h3 class="">Shopee</h3><div class="contents"><h6>SHOPEE</h6><hr /><p>Followers &amp; Likes</p></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d17531beb9b>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-1/5 liquid-column-61d17531beb98 liquid-column-responsive-61d17531beb9b"><div class="vc_column-inner  vc_custom_1573390174949" ><div class="wpb_wrapper"  ><style>.ld_icon_box_61d17531bed43 h3{margin-bottom:px}.ld_icon_box_61d17531bed43 .iconbox-icon-container{border-radius:px}.ld_icon_box_61d17531bed43 .iconbox-icon-container img,.ld_icon_box_61d17531bed43 .iconbox-icon-container>svg{width:75px!important}</style><div class="iconbox text-align-default iconbox-sm iconbox-heading-sm iconbox-bubble iconbox-contents-show-onhover ld_icon_box_61d17531bed43" id="ld_icon_box_61d17531bed43"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-tokopedia.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-tokopedia.png" class="liquid-image-icon" /></noscript></span></div><h3 class="">Tokopedia</h3><div class="contents"><h6>TOKOPEDIA</h6><hr /><p>Maintenance</p></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d17531c3f18{padding-bottom:90px!important}}</style><section class="vc_row vc_custom_1605398700956 liquid-row-responsive-61d17531c3f18 liquid-row-shadowbox-61d17531c3f3b"><div class="ld-container container"><div class="row ld-row ld-row-outer vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-0 vc_col-md-6 text-center liquid-column-61d17531c44bc"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div id="ld_images_group_container_61d17531c461a" class="lqd-imggrp-container ld_images_group_container_61d17531c461a"   ><div class="lqd-imggrp-inner"><div id="ld_images_group_element_61d17531c4856" class="lqd-imggrp-single ld_images_group_element_61d17531c4856" data-roundness="4"  ><div class="lqd-imggrp-img-container"    ><figure ><img width="329" height="641" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class=" ld-lazyload" alt="Beli Followers Instagram Indonesia" data-src="https://followersindo.com/wp-content/uploads/2021/11/opening-followersindo.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/11/opening-followersindo-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/11/opening-followersindo-526x1024.png 526w, https://followersindo.com/wp-content/uploads/2021/11/opening-followersindo.png 658w" data-aspect="" /></figure></div></div></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d17531c7297>.vc_column-inner{padding-right:7%!important;padding-left:12%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 text-center text-md-left liquid-column-61d17531c7294 liquid-column-responsive-61d17531c7297 lqd-column-top-onmobile"><div class="vc_column-inner  " ><div class="wpb_wrapper"  data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","delay":"160","ease":"power4.out","direction":"forward","initValues":{"y":30,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'><style>.ld_fancy_heading_61d17531c7507 h6{background:rgb(228,230,255)}.ld_fancy_heading_61d17531c7507 h6{font-size:13px}.ld_fancy_heading_61d17531c7507 h6{letter-spacing:.05em}.ld_fancy_heading_61d17531c7507 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d17531c7507 h6{margin-bottom:1.75em!important}.ld_fancy_heading_61d17531c7507 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531c7507 h6{font-size:13px}.ld_fancy_heading_61d17531c7507 h6{letter-spacing:.05em}.ld_fancy_heading_61d17531c7507 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d17531c7507 h6{margin-bottom:1.75em!important}</style><div class="ld-fancy-heading ld-fh-has-fill text-uppercase ld_fancy_heading_61d17531c7507"><h6 class="ld-fh-element circle lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Apa sih</h6></div><style>.ld_fancy_heading_61d17531c9099 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d17531c9099 h2{font-size:39px}}.ld_fancy_heading_61d17531c9099 h2{margin-bottom:0.75em!important}.ld_fancy_heading_61d17531c9099 .lqd-highlight-inner{height:.275em;bottom:8px;background:rgba(71,79,199,.28)}.ld_fancy_heading_61d17531c9099 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d17531c9099 h2{font-size:39px}}.ld_fancy_heading_61d17531c9099 h2{margin-bottom:0.75em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531c9099"><h2 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-bottom lqd-highlight-reset-onhover text-decoration-default" data-inview="true" data-transition-delay="true" data-delay-options='{"elements":".lqd-highlight-inner","delayType":"transition"}'  > <mark class="lqd-highlight"><span class="lqd-highlight-txt"  >Followersindo</span><span class="lqd-highlight-inner"><svg xmlns="http://www.w3.org/2000/svg" width="235.509" height="13.504" viewBox="0 0 235.509 13.504" aria-hidden="true" preserveAspectRatio="none"><path d="M163,.383a13.044,13.044,0,0,1,1.517-.072,3.528,3.528,0,0,1,1.237-.134q.618.044,1.237.044a.249.249,0,0,1-.1.178.337.337,0,0,0-.1.266q3.092.088,6.184-.044T178.953.4l-.206-.088a12,12,0,0,0,4.123,0,13.467,13.467,0,0,1,5.772,0q1.443-.178,2.68-.266A5.978,5.978,0,0,1,193.8.4,16.707,16.707,0,0,1,198.01.045q2.164.088,4.844.088-.618.088-.824.134L201.412.4a3.893,3.893,0,0,0,2.061,0,5.413,5.413,0,0,1,1.649-.356q.618.088,1.134.178a9.762,9.762,0,0,0,1.544.09,17,17,0,0,1,3.092-.266q1.649,0,3.5.178,2.886.088,5.875.044t5.875-.222q0,.088.206.088h.412a21.975,21.975,0,0,0,2.577.889A12.458,12.458,0,0,1,232.12,2.18a3.962,3.962,0,0,1,1.031.622A3.349,3.349,0,0,1,234.8,3.825a5.079,5.079,0,0,1,.618,1.111q.412.534-1.031.98-1.031.444-.618.98a2.09,2.09,0,0,1,.206.889q0,.444.825.889.618.8-.206,1.245l-1.237.534q-1.443-.088-2.68-.134a17.255,17.255,0,0,1-2.267-.222,3.128,3.128,0,0,0-.928-.044,3.129,3.129,0,0,1-.928-.044q-2.267-.178-4.432-.266T217.7,9.476q-1.649-.088-2.886-.088a17.343,17.343,0,0,1-2.474-.178q-3.916,0-7.73-.088t-7.73-.266l-12.471-.178q-6.287-.088-12.883-.088h-1.958q-.928,0-1.958.088h-2.061q-1.031,0-2.061-.088-2.68-.088-5.256-.134t-5.256.044h-5.462q-2.577,0-5.462.088-4.535.088-8.76.178t-8.554.088q-2.886.088-5.875.088t-5.875.088q-1.443.088-2.886.134t-3.092.044q-4.741.178-9.791.312t-9.791.312q-2.267.088-4.329.088T78.77,10.1q-4.329.266-8.863.49t-9.276.49q-1.237.088-2.68.134a24.356,24.356,0,0,0-2.683.224q-2.68.178-5.462.312t-5.668.4q-2.474.266-4.741.312t-4.741.044q-1.031-.088-1.958-.134a9.684,9.684,0,0,1-1.958-.312,12.5,12.5,0,0,0-1.443-.312q-.825-.134-1.856-.31-2.886.356-6.39.666t-6.8.845a26.709,26.709,0,0,1-2.886.356,20.758,20.758,0,0,1-9.482-.889Q.232,11.962.026,11.25T1.263,9.917q0-.266.825-.266a13.039,13.039,0,0,0,2.886-.444A17.187,17.187,0,0,1,7.86,8.672q3.092-.266,6.184-.8,1.649-.178,3.3-.312t3.5-.312q4.123-.354,8.039-.712t8.039-.622q9.478-.8,18.758-1.338,2.68-.178,5.153-.356t4.741-.356q2.474-.178,5.05-.356T75.88,3.24h1.34a4.829,4.829,0,0,0,1.34-.178q2.267-.178,4.329-.222t4.329-.134a7.256,7.256,0,0,1,2.267,0,3.459,3.459,0,0,0,1.031-.088,6.009,6.009,0,0,1,2.37-.266,14.745,14.745,0,0,0,2.783-.088q1.649,0,2.474.088a1.308,1.308,0,0,1,.185.011,1.226,1.226,0,0,1,.33-.1,3.656,3.656,0,0,0,.515-.088,4.433,4.433,0,0,1,2.886.266q.412-.088,1.031-.178l1.237-.178q.412,0,1.031.044a5.761,5.761,0,0,0,1.237-.044q2.886-.088,5.772-.044a53.829,53.829,0,0,0,5.772-.222,9.505,9.505,0,0,1,1.34-.088h1.34a4.428,4.428,0,0,1,.821-.258l.825-.178a15.178,15.178,0,0,1,1.855.444,3.028,3.028,0,0,1,1.031-.534,4.039,4.039,0,0,1,1.443-.178,6.158,6.158,0,0,1,1.649.178,5.05,5.05,0,0,0,2.267.268q1.855-.088,3.813-.134T138.13,1.2q1.031,0,2.164-.044t2.37-.044q-.206-.088.412-.534h3.092q.412,0,.309.266t.928,0a5.845,5.845,0,0,1,1.443,0,31.833,31.833,0,0,0,5.359.088,21.471,21.471,0,0,1,6.8.178,5.236,5.236,0,0,0,1.031-.4q.412-.222.825-.4a.694.694,0,0,1,.137.07Z" transform="translate(0 0.002)"/></svg></span></mark> itu?</h2></div><style>.ld_fancy_heading_61d17531ca09c p{font-size:17px}@media (min-width:992px){.ld_fancy_heading_61d17531ca09c p{font-size:19px}}.ld_fancy_heading_61d17531ca09c p{line-height:1.5em}.ld_fancy_heading_61d17531ca09c p{--element-line-height:1.5em}.ld_fancy_heading_61d17531ca09c p{margin-bottom:2em!important}.ld_fancy_heading_61d17531ca09c .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531ca09c p{font-size:17px}@media (min-width:992px){.ld_fancy_heading_61d17531ca09c p{font-size:19px}}.ld_fancy_heading_61d17531ca09c p{line-height:1.5em}.ld_fancy_heading_61d17531ca09c p{--element-line-height:1.5em}.ld_fancy_heading_61d17531ca09c p{margin-bottom:2em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531ca09c"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Kami adalah jasa yang bisa meningkatkan social media branding kamu, khususnya di instagram. Kami sudah menemanimu sejak tahun 2012 dan sekarang kami juga bisa bantu meningkatkan tidak hanya di instagram, tetapi juga di tiktok, youtube bahkan di marketplace!</p></div><style>.ld_button_61d17531cb285.btn-icon-solid .btn-icon{background:rgb(18,35,57)}.ld_button_61d17531cb285.btn-icon-circle.btn-icon-ripple .btn-icon:before{border-color:rgb(18,35,57)}.ld_button_61d17531cb285{background-color:rgb(18,35,57);border-color:rgb(18,35,57)}.ld_button_61d17531cb285:hover{background-color:rgb(239,75,121);border-color:rgb(239,75,121)}.ld_button_61d17531cb285 .btn-gradient-bg-hover{background:-webkit-linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%);background:linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%)}.ld_button_61d17531cb285 .btn-gradient-border defs stop:first-child{stop-color:rgb(18,35,57)}.ld_button_61d17531cb285 .btn-gradient-border defs stop:last-child{stop-color:rgb(18,35,57)}.ld_button_61d17531cb285:hover .btn-gradient-border defs stop:first-child{stop-color:rgb(239,75,121)}.ld_button_61d17531cb285:hover .btn-gradient-border defs stop:last-child{stop-color:rgb(198,123,255)}.ld_button_61d17531cb285{font-size:15px}.ld_button_61d17531cb285{letter-spacing:.02em}.ld_button_61d17531cb285{font-size:15px}.ld_button_61d17531cb285{letter-spacing:.02em}.ld_button_61d17531cb285{font-size:15px}.ld_button_61d17531cb285{letter-spacing:.02em}</style><a href="https://order.followersindo.com/shop2.php/dashboard" target="_blank" class="btn btn-solid btn-hover-txt-switch btn-hover-txt-switch-y btn-lg round border-none btn-has-label ld_button_61d17531cb285 vc_custom_1637388562879" > <span> <span class="btn-txt" data-text="Kepoin Followersindo" data-split-text="true"
-data-split-options='{"type": "chars, words"}'>Kepoin Followersindo</span> <span class="btn-gradient-bg btn-gradient-bg-hover"></span> </span> </a><style>.ld_spacer_61d17531cbaf3{height:32px}</style><div class="ld-empty-space ld_spacer_61d17531cbaf3"></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d17531cc0aa{padding-top:60px!important;padding-bottom:40px!important}}</style><section class="vc_row liquid-row-responsive-61d17531cc0aa liquid-row-shadowbox-61d17531cc0ce"><div class="ld-container container"><div class="row ld-row ld-row-outer vc_row-o-content-middle vc_row-flex"><style>@media (min-width:992px){.liquid-column-responsive-61d17531cc6f7>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 liquid-column-61d17531cc6f4 liquid-column-responsive-61d17531cc6f7"><div class="vc_column-inner  vc_custom_1614328086557" ><div class="wpb_wrapper"  data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'><style>.ld_fancy_heading_61d17531cc8f4 h6{background:rgb(228,230,255)}.ld_fancy_heading_61d17531cc8f4 h6{font-size:13px}.ld_fancy_heading_61d17531cc8f4 h6{letter-spacing:.05em}.ld_fancy_heading_61d17531cc8f4 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d17531cc8f4 h6{margin-bottom:1.75em!important}.ld_fancy_heading_61d17531cc8f4 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531cc8f4 h6{font-size:13px}.ld_fancy_heading_61d17531cc8f4 h6{letter-spacing:.05em}.ld_fancy_heading_61d17531cc8f4 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d17531cc8f4 h6{margin-bottom:1.75em!important}</style><div class="ld-fancy-heading ld-fh-has-fill text-uppercase ld_fancy_heading_61d17531cc8f4"><h6 class="ld-fh-element circle lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Boosting Interaksi Social Media</span></h6></div><style>.ld_fancy_heading_61d17531cf101 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d17531cf101 h2{font-size:39px}}@media (min-width:992px){.ld_fancy_heading_61d17531cf101 h2{padding-right:16%!important}}.ld_fancy_heading_61d17531cf101 h2{margin-bottom:0.3em!important}.ld_fancy_heading_61d17531cf101 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531cf101 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d17531cf101 h2{font-size:39px}}@media (min-width:992px){.ld_fancy_heading_61d17531cf101 h2{padding-right:16%!important}}.ld_fancy_heading_61d17531cf101 h2{margin-bottom:0.3em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531cf101"><h2 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Tidak Pernah Semudah Ini!</b></h2></div><style>.ld_fancy_heading_61d17531d05a4 p{font-size:20px}.ld_fancy_heading_61d17531d05a4 p{line-height:30px}.ld_fancy_heading_61d17531d05a4 p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d17531d05a4 p{padding-right:18%!important}}@media (min-width:992px){.ld_fancy_heading_61d17531d05a4 p{margin-bottom:3.35em!important}}.ld_fancy_heading_61d17531d05a4 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531d05a4 p{font-size:20px}.ld_fancy_heading_61d17531d05a4 p{line-height:30px}.ld_fancy_heading_61d17531d05a4 p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d17531d05a4 p{padding-right:18%!important}}@media (min-width:992px){.ld_fancy_heading_61d17531d05a4 p{margin-bottom:3.35em!important}}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531d05a4"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Nikmati nyaman dan simple nya menambah interaksi semua social media kamu dengan memakai semua benefit yang ada!</span></p></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d17531d1a13"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style></style><style>.ld_tabs_61d17531dd71f .lqd-tabs-nav>li>a,.ld_tabs_61d17531dd71f .lqd-tabs-nav .h3{font-size:18px}</style><div class="lqd-tabs lqd-tabs-style-8 d-flex flex-wrap ld_tabs_61d17531dd71f" data-tabs-options='{"trigger":"hover"}'><nav class="lqd-tabs-nav-wrap"><ul class="reset-ul lqd-tabs-nav d-flex flex-column " role="tablist"><li data-controls="lqd-1596809948239-f44fa49f-7b20" role="presentation" class="ld_tab_section-61d17531d1d44 active"><a class="d-flex align-items-center py-1 mb-2" href="#lqd-1596809948239-f44fa49f-7b20" aria-expanded="false" aria-controls="lqd-1596809948239-f44fa49f-7b20" role="tab" data-toggle="tab"><span class="lqd-tabs-nav-txt">Garansi Uang Kembali</span></a></li><li data-controls="1573116931246-223ad582-bec1" role="presentation" class="ld_tab_section-61d17531d5a26"><a class="d-flex align-items-center py-1 mb-2" href="#1573116931246-223ad582-bec1" aria-expanded="false" aria-controls="1573116931246-223ad582-bec1" role="tab" data-toggle="tab"><span class="lqd-tabs-nav-txt">Garansi Sampai 30 Hari</span></a></li><li data-controls="lqd-1596809947757-075a2f8b-e9f7" role="presentation" class="ld_tab_section-61d17531d7b6b"><a class="d-flex align-items-center py-1 mb-2" href="#lqd-1596809947757-075a2f8b-e9f7" aria-expanded="false" aria-controls="lqd-1596809947757-075a2f8b-e9f7" role="tab" data-toggle="tab"><span class="lqd-tabs-nav-txt">Diskon Voucher</span></a></li><li data-controls="lqd-1596809947262-c71cef6d-495d" role="presentation" class="ld_tab_section-61d17531da000"><a class="d-flex align-items-center py-1 mb-2" href="#lqd-1596809947262-c71cef6d-495d" aria-expanded="false" aria-controls="lqd-1596809947262-c71cef6d-495d" role="tab" data-toggle="tab"><span class="lqd-tabs-nav-txt">Aplikasi Android</span></a></li></ul></nav><div class="lqd-tabs-content pl-md-6"><div id="lqd-1596809948239-f44fa49f-7b20" role="tabpanel" class="lqd-tabs-pane fade active in"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d17531d210c"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:992px){.liquid-column-responsive-61d17531d2924>.vc_column-inner{margin-top:-58%!important}}@media (min-width:1200px){.liquid-column-responsive-61d17531d2924>.vc_column-inner{padding-left:100px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-3 vc_col-md-9 text-left liquid-column-61d17531d291f liquid-column-responsive-61d17531d2924 vc_col-has-fill"><div class="vc_column-inner vc_custom_1614691180474" style="background-position:center top !important;"><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531d58c9"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/11/garansi-refund.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/11/garansi-refund.png 658w, https://followersindo.com/wp-content/uploads/2021/11/garansi-refund-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/11/garansi-refund-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div></div></div></div></div><div id="1573116931246-223ad582-bec1" role="tabpanel" class="lqd-tabs-pane fade"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d17531d5e0d"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:992px){.liquid-column-responsive-61d17531d6383>.vc_column-inner{margin-top:-58%!important}}@media (min-width:1200px){.liquid-column-responsive-61d17531d6383>.vc_column-inner{padding-left:100px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-3 vc_col-md-9 text-left liquid-column-61d17531d6380 liquid-column-responsive-61d17531d6383 vc_col-has-fill"><div class="vc_column-inner vc_custom_1614691201000" style="background-position:center top !important;"><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531d7a8d"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan.png 601w, https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div></div></div></div></div><div id="lqd-1596809947757-075a2f8b-e9f7" role="tabpanel" class="lqd-tabs-pane fade"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d17531d7ec4"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:992px){.liquid-column-responsive-61d17531d83ee>.vc_column-inner{margin-top:-58%!important}}@media (min-width:1200px){.liquid-column-responsive-61d17531d83ee>.vc_column-inner{padding-left:100px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-3 vc_col-md-9 text-left liquid-column-61d17531d83eb liquid-column-responsive-61d17531d83ee vc_col-has-fill"><div class="vc_column-inner vc_custom_1614691213574" style="background-position:center top !important;"><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531d9eb8"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia Terbaik" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher.png 601w, https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div></div></div></div></div><div id="lqd-1596809947262-c71cef6d-495d" role="tabpanel" class="lqd-tabs-pane fade"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d17531da51b"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:992px){.liquid-column-responsive-61d17531daccf>.vc_column-inner{margin-top:-58%!important}}@media (min-width:1200px){.liquid-column-responsive-61d17531daccf>.vc_column-inner{padding-left:100px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-3 vc_col-md-9 text-left liquid-column-61d17531daccc liquid-column-responsive-61d17531daccf vc_col-has-fill"><div class="vc_column-inner vc_custom_1614691226593" style="background-position:center top !important;"><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531dd609"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/aplikasi-android-1.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/aplikasi-android-1.png 601w, https://followersindo.com/wp-content/uploads/2021/10/aplikasi-android-1-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/aplikasi-android-1-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d17531de069{margin-top:50px!important;margin-bottom:50px!important;padding-top:110px!important;padding-bottom:0px!important}}</style><section id="explore" style="background:linear-gradient(295deg, rgb(59,65,87) 0.3184713375796178%, rgb(50,51,74) 51.366487733877385%, rgb(64, 74, 99) 99.36305732484077%);" data-bg-image="url" class="vc_row vc_custom_1615552552691 liquid-row-responsive-61d17531de069 liquid-row-shadowbox-61d17531de0a2 vc_row-has-fill vc_row-has-bg"><div class="one-row_top_divider " style="height:56px;"><svg width="1440" height="151" viewBox="0 0 1440 151" fill="#ffffff" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"> <path opacity="0.18" d="M0 97.8837H1439.96L1440 67.2712C1440 67.2712 1245.81 74.8642 1058.09 42.8292C832.056 4.26251 655.629 41.2185 630.846 45.4009C570.573 55.5822 479.478 87.5499 177.446 55.1029C64.351 41.2516 0 47.3878 0 47.3878V97.8837Z"/> <path d="M1440 150.004H0.039L0 86.6423C0 86.6423 184.667 102.389 363.176 36.0472C578.117 -43.8091 745.921 32.6886 769.451 41.3864C826.745 62.4698 913.412 128.631 1200.63 61.4617C1308.2 32.7572 1440 36.0421 1440 36.0421V150.004Z"/> </svg></div><div class="one-row_bottom_divider " style="height:54px;"><svg width="1440" fill="#ffffff" height="150" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"  viewBox="0 0 1440 150"> <path d="M 0 26.1978 C 275.76 83.8152 430.707 65.0509 716.279 25.6386 C 930.422 -3.86123 1210.32 -3.98357 1439 9.18045 C 2072.34 45.9691 2201.93 62.4429 2560 26.198 V 172.199 L 0 172.199 V 26.1978 Z"> <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="10s" values="M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z; M0 86.3149C316 86.315 444 159.155 884 51.1554C1324 -56.8446 1320.29 34.1214 1538 70.4063C1814 116.407 2156 188.408 2560 86.315V232.317L0 232.316V86.3149Z; M0 53.6584C158 11.0001 213 0 363 0C513 0 855.555 115.001 1154 115.001C1440 115.001 1626 -38.0004 2560 53.6585V199.66L0 199.66V53.6584Z; M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z"> </animate> </path> </svg></div><div class="ld-container container"><div class="row ld-row ld-row-outer vc_row-o-content-bottom vc_row-flex"><style>@media (min-width:992px){.liquid-column-responsive-61d17531de9b5>.vc_column-inner{margin-bottom:180px!important;padding-right:15px!important;padding-left:15px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4 text-center text-md-left liquid-column-61d17531de9b0 liquid-column-responsive-61d17531de9b5"><div class="vc_column-inner  vc_custom_1605398444640" ><div class="wpb_wrapper"  data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'><style>.ld_fancy_heading_61d17531ded14 h6{color:rgb(255,255,255);background:rgba(0,0,0,.11)}.ld_fancy_heading_61d17531ded14 h6{font-size:13px}.ld_fancy_heading_61d17531ded14 h6{letter-spacing:.05em}.ld_fancy_heading_61d17531ded14 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d17531ded14 h6{margin-bottom:1.75em!important}.ld_fancy_heading_61d17531ded14 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531ded14 h6{font-size:13px}.ld_fancy_heading_61d17531ded14 h6{letter-spacing:.05em}.ld_fancy_heading_61d17531ded14 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d17531ded14 h6{margin-bottom:1.75em!important}</style><div class="ld-fancy-heading ld-fh-has-fill text-uppercase ld_fancy_heading_61d17531ded14"><h6 class="ld-fh-element circle lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Boosting Interaksi Social Media</span></h6></div><style>.ld_fancy_heading_61d17531df18c h2{color:rgb(255,255,255)}.ld_fancy_heading_61d17531df18c h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d17531df18c h2{font-size:39px}}@media (min-width:1200px){.ld_fancy_heading_61d17531df18c h2{padding-right:10%!important}}.ld_fancy_heading_61d17531df18c h2{margin-bottom:0.3em!important}.ld_fancy_heading_61d17531df18c .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531df18c h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d17531df18c h2{font-size:39px}}@media (min-width:1200px){.ld_fancy_heading_61d17531df18c h2{padding-right:10%!important}}.ld_fancy_heading_61d17531df18c h2{margin-bottom:0.3em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531df18c"><h2 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Lebih Murah, Lebih Mudah</b></h2></div><style>.ld_fancy_heading_61d17531df54c p{color:rgba(255,255,255,.9)}.ld_fancy_heading_61d17531df54c p{font-size:20px}.ld_fancy_heading_61d17531df54c p{line-height:30px}.ld_fancy_heading_61d17531df54c p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d17531df54c p{padding-right:18%!important}}.ld_fancy_heading_61d17531df54c p{margin-bottom:1.5em!important}.ld_fancy_heading_61d17531df54c .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531df54c p{font-size:20px}.ld_fancy_heading_61d17531df54c p{line-height:30px}.ld_fancy_heading_61d17531df54c p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d17531df54c p{padding-right:18%!important}}.ld_fancy_heading_61d17531df54c p{margin-bottom:1.5em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531df54c"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Semua yang kamu butuhkan ada disini dengan kualitas terbaik, proses tercepat, harga terjangkau, dan garansi sampai 30 hari!</span></p></div><style>.ld_button_61d17531df84c.btn-icon-solid .btn-icon{background:rgb(255,255,255)}.ld_button_61d17531df84c.btn-icon-circle.btn-icon-ripple .btn-icon:before{border-color:rgb(255,255,255)}.ld_button_61d17531df84c .btn-icon{color:rgb(18,35,57);margin-inline-start:15px!important}.ld_button_61d17531df84c:hover .btn-icon{color:rgb(255,255,255)}.ld_button_61d17531df84c{background-color:rgb(255,255,255);border-color:rgb(255,255,255);color:rgb(18,35,57)}.ld_button_61d17531df84c:hover{background-color:rgb(239,75,121);border-color:rgb(239,75,121)}.ld_button_61d17531df84c .btn-gradient-bg-hover{background:-webkit-linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%);background:linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%)}.ld_button_61d17531df84c .btn-gradient-border defs stop:first-child{stop-color:rgb(255,255,255)}.ld_button_61d17531df84c .btn-gradient-border defs stop:last-child{stop-color:rgb(255,255,255)}.ld_button_61d17531df84c:hover .btn-gradient-border defs stop:first-child{stop-color:rgb(239,75,121)}.ld_button_61d17531df84c:hover .btn-gradient-border defs stop:last-child{stop-color:rgb(198,123,255)}.ld_button_61d17531df84c{font-size:16px}</style><a href="https://order.followersindo.com/shop2.php/dashboard" target="_blank" class="btn btn-solid btn-hover-txt-switch btn-hover-txt-switch-y circle border-none btn-hover-reveal btn-has-label ld_button_61d17531df84c vc_custom_1637375832284" > <span> <span class="btn-txt" data-text="Get started" data-split-text="true"
-data-split-options='{"type": "chars, words"}'>Get started</span> <span class="btn-icon"><i class="lqd-icn-ess icon-md-arrow-forward"></i></span> <span class="btn-gradient-bg btn-gradient-bg-hover"></span> </span> </a></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d17531e2ff5>.vc_column-inner{margin-bottom:-110px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-5 vc_col-md-offset-0 vc_col-md-4 vc_col-sm-offset-0 vc_col-xs-offset-2 vc_col-xs-8 liquid-column-61d17531e2ff0 liquid-column-responsive-61d17531e2ff5"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.carousel-container.mobile-carousel .carousel-item{width:100%;flex-basis:100%;padding-inline-start:15px;padding-inline-end:15px}.carousel-container.mobile-carousel .carousel-items{margin-inline-start:-15px;margin-inline-end:-15px}.mobile-carousel.carousel-dots{position:relative;top:auto;right:auto;bottom:-25px;left:auto}</style><div id="mobile-carousel" class="carousel-container carousel-nav-left carousel-nav-mobile-center no carousel-nav-md carousel-dots-mobile-center carousel-dots-style1 carousel-dots-mobile-outside disable-cc mobile-carousel"><div class="carousel-items disable-cc"  data-lqd-flickity='{"cellSelector":".carousel-item","cellAlign":"left","prevNextButtons":false,"pageDots":false,"groupCells":false,"wrapAround":true,"autoPlay":4000,"pauseAutoPlayOnHover":false,"buttonsAppendTo":"self","addSlideNumbersToArrows":false,"dotsIndicator":"dots","numbersStyle":"circle","dotsAppendTo":"self"}' data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".flickity-slider > .carousel-item","duration":700,"delay":100,"ease":"power4.out","initValues":{"scale":1},"animations":{"scale":1}}'><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531e40a6"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/11/garansi-refund.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/11/garansi-refund.png 658w, https://followersindo.com/wp-content/uploads/2021/11/garansi-refund-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/11/garansi-refund-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531e4c27"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/checkout-1.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/checkout-1.png 658w, https://followersindo.com/wp-content/uploads/2021/10/checkout-1-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/checkout-1-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531e56ee"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="beli followers Instagram Indonesia termurah" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Customer-Support.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Customer-Support.png 658w, https://followersindo.com/wp-content/uploads/2021/10/Customer-Support-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/Customer-Support-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531e5e4d"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia Terbaik" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher.png 601w, https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531e68f3"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia murah" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/top-up.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/top-up.png 658w, https://followersindo.com/wp-content/uploads/2021/10/top-up-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/top-up-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531e9fc2"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/sistem-24-jam.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/sistem-24-jam.png 658w, https://followersindo.com/wp-content/uploads/2021/10/sistem-24-jam-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/sistem-24-jam-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531ea75e"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan.png 601w, https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531eb161"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia murah" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/estimasi-kecepatan.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/estimasi-kecepatan.png 658w, https://followersindo.com/wp-content/uploads/2021/10/estimasi-kecepatan-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/estimasi-kecepatan-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531ebb8d"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/aplikasi-followersindo.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/aplikasi-followersindo.png 601w, https://followersindo.com/wp-content/uploads/2021/10/aplikasi-followersindo-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/aplikasi-followersindo-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17531ec56c"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="beli followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/manual-order.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/manual-order.png 658w, https://followersindo.com/wp-content/uploads/2021/10/manual-order-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/manual-order-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d17531efe36>.vc_column-inner{margin-bottom:200px!important;padding-right:15px!important;padding-left:15px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-7 vc_col-md-4 liquid-column-61d17531efe34 liquid-column-responsive-61d17531efe36"><div class="vc_column-inner  vc_custom_1573390261312" ><div class="wpb_wrapper"  ><div class="vc_row vc_inner vc_row-fluid vc_custom_1573118821882 liquid-row-shadowbox-61d17531f01f9"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d17531f0655" id="carousel-nav-container"><div class="vc_column-inner " ><div class="wpb_wrapper" ></div></div></div></div></div></div><style>.carousel-container.ld_carousel_tab_61d1753208d8d .carousel-item{width:100%;flex-basis:100%;padding-inline-start:15px;padding-inline-end:15px}.carousel-container.ld_carousel_tab_61d1753208d8d .carousel-items{margin-inline-start:-15px;margin-inline-end:-15px}.ld_carousel_tab_61d1753208d8d.carousel-dots-mobile .flickity-page-dots .dot{background-color:rgba(255,255,255,.75)}.ld_carousel_tab_61d1753208d8d.carousel-dots-mobile .flickity-page-dots .dot.is-selected{background-color:rgb(255,255,255)}.ld_carousel_tab_61d1753208d8d.carousel-dots{position:relative;top:auto;right:auto;bottom:-25px;left:auto}@media (min-width:992px){.carousel-container.ld_carousel_tab_61d1753208d8d .carousel-item{width:100%;flex-basis:100%}}</style><div id="ld_carousel_tab_61d1753208d8d" class="carousel-container carousel-nav-left carousel-nav-mobile-center no carousel-nav-md carousel-dots-mobile-center carousel-dots-style1 carousel-dots-mobile-outside disable-cc ld_carousel_tab_61d1753208d8d"><div class="carousel-items disable-cc"  data-lqd-flickity='{"cellSelector":".carousel-item","cellAlign":"left","prevNextButtons":false,"pageDots":false,"groupCells":false,"wrapAround":true,"autoPlay":4000,"pauseAutoPlayOnHover":false,"buttonsAppendTo":"self","addSlideNumbersToArrows":false,"dotsIndicator":"dots","numbersStyle":"circle","dotsAppendTo":"self"}' data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".flickity-slider > .carousel-item","duration":"1800","startDelay":"600","delay":"80","ease":"power4.out","initValues":{"x":35,"opacity":0},"animations":{"x":0,"opacity":1}}'><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d17531f1f38 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d17531f1f38 h5{margin-bottom:1.25em!important}.ld_fancy_heading_61d17531f1f38 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531f1f38 h5{margin-bottom:1.25em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531f1f38"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Garansi Uang Kembali</b></h5></div><style>.ld_fancy_heading_61d17531f24b7 p{color:rgba(255,255,255,.7)}.ld_fancy_heading_61d17531f24b7 p{font-size:16px}.ld_fancy_heading_61d17531f24b7 p{line-height:28px}.ld_fancy_heading_61d17531f24b7 p{--element-line-height:28px}.ld_fancy_heading_61d17531f24b7 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531f24b7 p{font-size:16px}.ld_fancy_heading_61d17531f24b7 p{line-height:28px}.ld_fancy_heading_61d17531f24b7 p{--element-line-height:28px}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531f24b7"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Jika pesanan kamu tidak masuk selama lebih dari 7 hari, maka dana kamu akan dikembalikan 100% dan ditambahkan ke saldo akun kamu</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d17531f2c22 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d17531f2c22 h5{margin-bottom:1.25em!important}.ld_fancy_heading_61d17531f2c22 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531f2c22 h5{margin-bottom:1.25em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531f2c22"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Simple, Tanpa Ribet</b></h5></div><style>.ld_fancy_heading_61d17531f2e14 p{color:rgba(255,255,255,.7)}.ld_fancy_heading_61d17531f2e14 p{font-size:16px}.ld_fancy_heading_61d17531f2e14 p{line-height:28px}.ld_fancy_heading_61d17531f2e14 p{--element-line-height:28px}.ld_fancy_heading_61d17531f2e14 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531f2e14 p{font-size:16px}.ld_fancy_heading_61d17531f2e14 p{line-height:28px}.ld_fancy_heading_61d17531f2e14 p{--element-line-height:28px}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531f2e14"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Fast checkout, langsung bayar sesuai nominal. Tanpa biaya pendaftaran membership.</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d17531f3510 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d17531f3510 h5{margin-bottom:1.25em!important}.ld_fancy_heading_61d17531f3510 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531f3510 h5{margin-bottom:1.25em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531f3510"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>CS Support</b></h5></div><style>.ld_fancy_heading_61d17531f371c p{color:rgba(255,255,255,.7)}.ld_fancy_heading_61d17531f371c p{font-size:16px}.ld_fancy_heading_61d17531f371c p{line-height:28px}.ld_fancy_heading_61d17531f371c p{--element-line-height:28px}.ld_fancy_heading_61d17531f371c .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531f371c p{font-size:16px}.ld_fancy_heading_61d17531f371c p{line-height:28px}.ld_fancy_heading_61d17531f371c p{--element-line-height:28px}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531f371c"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Pelayanan terbaik dengan customer service 8 jam yang akan membantu menyelesaikan semua permasalahan kamu.</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d17531f3dfd h5{color:rgb(255,255,255)}.ld_fancy_heading_61d17531f3dfd h5{margin-bottom:1.25em!important}.ld_fancy_heading_61d17531f3dfd .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531f3dfd h5{margin-bottom:1.25em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531f3dfd"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Kode Voucher</b></h5></div><style>.ld_fancy_heading_61d17531f4008 p{color:rgba(255,255,255,.7)}.ld_fancy_heading_61d17531f4008 p{font-size:16px}.ld_fancy_heading_61d17531f4008 p{line-height:28px}.ld_fancy_heading_61d17531f4008 p{--element-line-height:28px}.ld_fancy_heading_61d17531f4008 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17531f4008 p{font-size:16px}.ld_fancy_heading_61d17531f4008 p{line-height:28px}.ld_fancy_heading_61d17531f4008 p{--element-line-height:28px}</style><div class="ld-fancy-heading ld_fancy_heading_61d17531f4008"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Dapatkan tambahan diskon spesial untuk layanan tertentu setiap bulan!</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d17532004f3 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d17532004f3 h5{margin-bottom:1.25em!important}.ld_fancy_heading_61d17532004f3 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17532004f3 h5{margin-bottom:1.25em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17532004f3"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Sistem Deposit</b></h5></div><style>.ld_fancy_heading_61d17532006ec p{color:rgba(255,255,255,.7)}.ld_fancy_heading_61d17532006ec p{font-size:16px}.ld_fancy_heading_61d17532006ec p{line-height:28px}.ld_fancy_heading_61d17532006ec p{--element-line-height:28px}.ld_fancy_heading_61d17532006ec .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17532006ec p{font-size:16px}.ld_fancy_heading_61d17532006ec p{line-height:28px}.ld_fancy_heading_61d17532006ec p{--element-line-height:28px}</style><div class="ld-fancy-heading ld_fancy_heading_61d17532006ec"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Mau stok saldo dulu? bisa dong! gampang tinggal chat ke admin untuk isi saldo. Order layanan kapan aja sesuka hati dengan menggunakan saldo!</p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d1753203a3c h5{color:rgb(255,255,255)}.ld_fancy_heading_61d1753203a3c .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753203a3c"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>24 Jam Non-stop</b></h5></div><style>.ld_fancy_heading_61d1753203c31 p{color:rgb(255,255,255)}.ld_fancy_heading_61d1753203c31 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753203c31"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Dilengkapi dengan sistem pemesanan otomatis 24 jam non-stop, bisa dipakai kapanpun dan dimanapun!</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d1753204302 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d1753204302 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753204302"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Garansi 30 Hari</b></h5></div><style>.ld_fancy_heading_61d17532044e8 p{color:rgb(255,255,255)}.ld_fancy_heading_61d17532044e8 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d17532044e8"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Layanan dengan tanda khusus akan dapat jaminan pengisian ulang jika pesanan berkurang lebih dari 40%.</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d1753204bc3 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d1753204bc3 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753204bc3"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Proses Tercepat</b></h5></div><style>.ld_fancy_heading_61d1753204dae p{color:rgb(255,255,255)}.ld_fancy_heading_61d1753204dae .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753204dae"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Pesanan diproses dengan sistem otomatis, tanpa menunggu respon admin!</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d175320546f h5{color:rgb(255,255,255)}.ld_fancy_heading_61d175320546f .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d175320546f"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Aplikasi Android</b></h5></div><style>.ld_fancy_heading_61d1753205665 p{color:rgb(255,255,255)}.ld_fancy_heading_61d1753205665 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753205665"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Menambah interaksi social media makin simple dan gampang dengan aplikasi Android.</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d1753205d6f h5{color:rgb(255,255,255)}.ld_fancy_heading_61d1753205d6f .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753205d6f"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Manual Order</b></h5></div><style>.ld_fancy_heading_61d1753208b78 p{color:rgb(255,255,255)}.ld_fancy_heading_61d1753208b78 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753208b78"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Mau makin simple tanpa harus order sendiri? Order manual aja! Hemat waktu, nggak pake ribet!</span></p></div></div></div></div></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d175320c32f{padding-top:120px!important;padding-bottom:80px!important}}</style><section class="vc_row vc_custom_1605398402233 liquid-row-responsive-61d175320c32f liquid-row-shadowbox-61d175320c354"><div class="ld-container container"><div class="row ld-row ld-row-outer vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-3 vc_col-md-6 text-center liquid-column-61d175320c900"><div class="vc_column-inner  vc_custom_1573121760798" ><div class="wpb_wrapper"  data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'><style>.ld_fancy_heading_61d175320cad0 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d175320cad0 h2{font-size:39px}}@media (min-width:1200px){.ld_fancy_heading_61d175320cad0 h2{padding-right:10%!important;padding-left:10%!important}}.ld_fancy_heading_61d175320cad0 h2{margin-bottom:0.3em!important}.ld_fancy_heading_61d175320cad0 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d175320cad0 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d175320cad0 h2{font-size:39px}}@media (min-width:1200px){.ld_fancy_heading_61d175320cad0 h2{padding-right:10%!important;padding-left:10%!important}}.ld_fancy_heading_61d175320cad0 h2{margin-bottom:0.3em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d175320cad0"><h2 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Beli Followers Instagram secepat Beli Cilok</b></h2></div><style>.ld_spacer_61d175320d740{height:32px}</style><div class="ld-empty-space ld_spacer_61d175320d740"></div><div class="wpb_video_widget wpb_content_element vc_clearfix   vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center" ><div class="wpb_wrapper"><div class="wpb_video_wrapper"><div class="rll-youtube-player" data-id="1x8IFInNYaw" data-query="feature=oembed"></div><noscript><iframe title="Tutorial Order di Followersindo" width="780" height="439" src="https://www.youtube.com/embed/1x8IFInNYaw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></noscript></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d175321115e"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".wpb_column","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":60,"rotationX":-25,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"rotationX":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}' class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d1753211528"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner vc_row-o-equal-height vc_row-flex"><style>.liquid-column-61d1753211a2c{--lqd-move-onhover-val:-5px}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 liquid-column-61d1753211a2c lqd-column-move-onhover"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_icon_box_61d1753211bbd h3{margin-bottom:15px;font-size:22px}.ld_icon_box_61d1753211bbd{background:rgb(255,255,255)}.ld_icon_box_61d1753211bbd .iconbox-icon-container{border-radius:px}.ld_icon_box_61d1753211bbd .iconbox-icon-container img,.ld_icon_box_61d1753211bbd .iconbox-icon-container>svg{width:60px!important}</style><div class="iconbox iconbox-side text-align-default iconbox-round iconbox-shadow iconbox-xs iconbox-filled ld_icon_box_61d1753211bbd" id="ld_icon_box_61d1753211bbd"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-instagram.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-instagram.png" class="liquid-image-icon" /></noscript></span></div><div class="contents"><h3 class="">Pilih Layanan</h3><p><span style="font-size: 18px">Tersedia banyak layanan dengan kualitas dan harga terjangkau. Pilih dan order layanan yang paling cocok buat kamu!</span></p></div></div></div></div></div><style>.liquid-column-61d1753213618{--lqd-move-onhover-val:-5px}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 liquid-column-61d1753213618 lqd-column-move-onhover"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_icon_box_61d17532137b4 h3{margin-bottom:15px;font-size:22px}.ld_icon_box_61d17532137b4{background:rgb(255,255,255)}.ld_icon_box_61d17532137b4 .iconbox-icon-container{border-radius:px}.ld_icon_box_61d17532137b4 .iconbox-icon-container img,.ld_icon_box_61d17532137b4 .iconbox-icon-container>svg{width:60px!important}</style><div class="iconbox iconbox-side text-align-default iconbox-round iconbox-shadow iconbox-xs iconbox-filled ld_icon_box_61d17532137b4" id="ld_icon_box_61d17532137b4"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/login.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/login.png" class="liquid-image-icon" /></noscript></span></div><div class="contents"><h3 class="">Login / Register</h3><p><span style="font-size: 18px">Daftar sekarang dan lengkapi data diri kamu untuk transaksi yang lebih mudah! Bisa deposit juga loh!</span></p></div></div></div></div></div><style>.liquid-column-61d1753214afe{--lqd-move-onhover-val:-5px}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 liquid-column-61d1753214afe lqd-column-move-onhover"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_icon_box_61d1753214cad h3{margin-bottom:15px;font-size:22px}.ld_icon_box_61d1753214cad{background:rgb(255,255,255)}.ld_icon_box_61d1753214cad .iconbox-icon-container{border-radius:px}.ld_icon_box_61d1753214cad .iconbox-icon-container img,.ld_icon_box_61d1753214cad .iconbox-icon-container>svg{width:60px!important}</style><div class="iconbox iconbox-side text-align-default iconbox-round iconbox-shadow iconbox-xs iconbox-filled ld_icon_box_61d1753214cad" id="ld_icon_box_61d1753214cad"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/checkout.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/checkout.png" class="liquid-image-icon" /></noscript></span></div><div class="contents"><h3 class="">Waktunya Checkout</h3><p><span style="font-size: 18px">Bayar sesuai jumlah pesanan dengan metode pembayaran favorit kamu!</span></p></div></div></div></div></div><style>.liquid-column-61d1753215a33{--lqd-move-onhover-val:-5px}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 liquid-column-61d1753215a33 lqd-column-move-onhover"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_icon_box_61d1753215bcf h3{margin-bottom:15px;font-size:22px}.ld_icon_box_61d1753215bcf{background:rgb(255,255,255)}.ld_icon_box_61d1753215bcf .iconbox-icon-container{border-radius:px}.ld_icon_box_61d1753215bcf .iconbox-icon-container img,.ld_icon_box_61d1753215bcf .iconbox-icon-container>svg{width:60px!important}</style><div class="iconbox iconbox-side text-align-default iconbox-round iconbox-shadow iconbox-xs iconbox-filled ld_icon_box_61d1753215bcf" id="ld_icon_box_61d1753215bcf"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer" x="0px" y="0px" width="512" height="512" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"> <polygon fill="#CCE4FF" points="46,42 46,44 36,54 54,54 54,10 46,10 "/> <rect x="16" y="16" fill="#CCE4FF" width="24" height="8"/> <path fill="#007AFF" d="M54,9h-8H10c-0.553,0-1,0.447-1,1v44c0,0.553,0.447,1,1,1h26h18c0.553,0,1-0.447,1-1V10  C55,9.447,54.553,9,54,9z M35.586,53H35V43h5h5v0.586L35.586,53z M11,11h34v30h-5H16c-0.553,0-1,0.447-1,1s0.447,1,1,1h17v4H16  c-0.553,0-1,0.447-1,1s0.447,1,1,1h17v4H11V11z M53,53H38.414l8.293-8.293C46.895,44.52,47,44.266,47,44V11h6V53z"/> <path fill="#007AFF" d="M16,25h24c0.553,0,1-0.447,1-1v-8c0-0.553-0.447-1-1-1H16c-0.553,0-1,0.447-1,1v8C15,24.553,15.447,25,16,25  z M17,17h22v6H17V17z"/> <path fill="#007AFF" d="M16,31h24c0.553,0,1-0.447,1-1s-0.447-1-1-1H16c-0.553,0-1,0.447-1,1S15.447,31,16,31z"/> <path fill="#007AFF" d="M16,37h24c0.553,0,1-0.447,1-1s-0.447-1-1-1H16c-0.553,0-1,0.447-1,1S15.447,37,16,37z"/> </svg> </span></div><div class="contents"><h3 class="">Pesanan Diproses</h3><p><span style="font-size: 18px">Sambil main game atau nyantai di rumah, pesanan kamu akan terproses secara otomatis dan masuk tanpa harus kamu check secara berkala!</span></p></div></div></div></div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d1753227dc2"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div class="ld-particles-container lqd-particles-as-bg ld_particles_61d1753227f45"><div class="ld-particles-inner" id="lqd-1573116461865-696cc286-8ad9" data-particles="true" data-particles-options='{"particles":{"number":{"value":4},"color":{"value":["#fda44c","#4cfd89","#0fbbb4"]},"shape":{"type":["circle"]},"size":{"value":4},"move":{"enable":true,"direction":"none","speed":1,"random":true,"out_mode":"out"}},"interactivity":[],"retina_detect":true,"asBG":true}'></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d17532299c9{margin-top:60px!important;margin-bottom:60px!important;padding-top:100px!important;padding-bottom:100px!important}}</style><section data-bg-image="url" class="vc_row vc_custom_1602665216151 liquid-row-responsive-61d17532299c9 liquid-row-shadowbox-61d17532299f0 vc_row-has-fill vc_row-has-bg vc_column-gap-0"><div class="ld-container container-fluid"><div class="row ld-row ld-row-outer"><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d1753229f44"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div id="ld_carousel_gallery_61d175322a05e" class="ld-carousel-phone ld-carousel-phone-style-2 ld_carousel_gallery_61d175322a05e"><div class="ld-carousel-phone-inner"><div class="mockup-container"><div class="mockup-inner"><figure class="text-center"> <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/themes/hub/assets/img/mockups/phone/mockup-1.png" alt="Phone"><noscript><img src="https://followersindo.com/wp-content/themes/hub/assets/img/mockups/phone/mockup-1.png" alt="Phone"></noscript></figure></div></div><div class="mockup-content-container"><div class="mockup-content-inner"><div class="carousel-container carousel-nav-floated carousel-nav-middle carousel-nav-bordered carousel-nav-circle carousel-nav-sm"><div class="carousel-items row" data-lqd-flickity='{ "groupCells": false, "wrapAround": true, "cellAlign": "center" }'><div class="carousel-item col-xs-12"><figure><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="attachment-full size-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-4.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-4.png 658w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-4-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-4-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></figure></div><div class="carousel-item col-xs-12"><figure><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="attachment-full size-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/tesimoni-customer-2.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/tesimoni-customer-2.png 658w, https://followersindo.com/wp-content/uploads/2021/10/tesimoni-customer-2-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/tesimoni-customer-2-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></figure></div><div class="carousel-item col-xs-12"><figure><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="attachment-full size-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-1.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-1.png 658w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-1-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-1-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></figure></div><div class="carousel-item col-xs-12"><figure><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="attachment-full size-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-3.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-3.png 658w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-3-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-3-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></figure></div></div></div></div></div></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d175322d661{padding-top:80px!important;padding-bottom:80px!important}}</style><section id="testimonials" data-row-bg="http://new.followersindo.com/wp-content/uploads/2019/11/circles.svg?id=51" style="background-position:center center !important;" data-bg-image="url" class="vc_row vc_custom_1614328250330 liquid-row-responsive-61d175322d661 liquid-row-shadowbox-61d175322d684 vc_row-has-fill vc_row-has-bg lqd-has-bg-markup row-bg-appended"><span class="row-bg-loader"></span><div class="row-bg-wrap"><div class="row-bg-inner"><figure class="row-bg" ></figure></div></div><div class="ld-container container"><div class="row ld-row ld-row-outer"><style>@media (min-width:992px){.liquid-column-responsive-61d175322dc8d>.vc_column-inner{margin-bottom:80px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-2 vc_col-md-8 text-center liquid-column-61d175322dc8b liquid-column-responsive-61d175322dc8d"><div class="vc_column-inner  vc_custom_1605398055025" ><div class="wpb_wrapper"  data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'><style>.ld_fancy_heading_61d175322de15 h6{background:rgb(228,230,255)}.ld_fancy_heading_61d175322de15 h6{font-size:13px}.ld_fancy_heading_61d175322de15 h6{letter-spacing:.05em}.ld_fancy_heading_61d175322de15 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d175322de15 h6{margin-bottom:1.75em!important}.ld_fancy_heading_61d175322de15 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d175322de15 h6{font-size:13px}.ld_fancy_heading_61d175322de15 h6{letter-spacing:.05em}.ld_fancy_heading_61d175322de15 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d175322de15 h6{margin-bottom:1.75em!important}</style><div class="ld-fancy-heading ld-fh-has-fill text-uppercase ld_fancy_heading_61d175322de15"><h6 class="ld-fh-element circle lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Apa kata mereka</h6></div><style>.ld_fancy_heading_61d175322fb8c h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d175322fb8c h2{font-size:39px}}.ld_fancy_heading_61d175322fb8c .lqd-highlight-inner svg{height:.275em}.ld_fancy_heading_61d175322fb8c h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d175322fb8c h2{font-size:39px}}.ld_fancy_heading_61d175322fb8c .lqd-highlight-inner{bottom:0}.ld_fancy_heading_61d175322fb8c h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d175322fb8c h2{font-size:39px}}</style><div class="ld-fancy-heading ld_fancy_heading_61d175322fb8c"><h2 class="ld-fh-element lqd-highlight-custom-underline lqd-highlight-grow-left text-decoration-default"   > <b>tentang Followersindo</b></h2></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-1 vc_col-md-10 liquid-column-61d1753231325"><div class="vc_column-inner  vc_custom_1573123868086" ><div class="wpb_wrapper"  ><style>.carousel-container.ld_carousel_tab_61d17532683ea .carousel-item{width:100%;flex-basis:100%;padding-inline-start:15px;padding-inline-end:15px}.carousel-container.ld_carousel_tab_61d17532683ea .carousel-items{margin-inline-start:-15px;margin-inline-end:-15px}.ld_carousel_tab_61d17532683ea.carousel-nav .flickity-prev-next-button svg{fill:rgb(29,39,78)}.ld_carousel_tab_61d17532683ea.carousel-nav .flickity-prev-next-button{color:rgb(29,39,78)}.ld_carousel_tab_61d17532683ea.carousel-nav .flickity-prev-next-button.previous:after{background:rgb(29,39,78)}.ld_carousel_tab_61d17532683ea.carousel-dots{position:relative;top:auto;right:auto;bottom:-25px;left:auto}</style><div id="ld_carousel_tab_61d17532683ea" class="carousel-container carousel-nav-floated carousel-nav-center carousel-nav-mobile-center carousel-nav-middle no carousel-nav-xl carousel-dots-mobile-center carousel-dots-style1 carousel-dots-mobile-outside ld_carousel_tab_61d17532683ea"><div class="carousel-items"  data-lqd-flickity='{"cellSelector":".carousel-item","cellAlign":"left","prevNextButtons":true,"pageDots":false,"groupCells":true,"wrapAround":true,"adaptiveHeight":true,"autoPlay":5000,"pauseAutoPlayOnHover":false,"navArrow":"6","buttonsAppendTo":"self","addSlideNumbersToArrows":false,"navOffsets":{"prev":"-10%","next":"-10%"},"dotsIndicator":"dots","numbersStyle":"circle","dotsAppendTo":"self"}' data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".flickity-slider > .carousel-item","duration":"1800","delay":"100","ease":"power4.out","initValues":{"y":35,"opacity":0},"animations":{"y":0,"opacity":1}}'><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d1753235cff"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d1753236157>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d1753236157>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d1753236154 liquid-column-responsive-61d1753236157"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d175323657b"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d17532369dc>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 text-center text-md-left liquid-column-61d17532369d9 liquid-column-responsive-61d17532369dc"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d1753236b4f p{color:rgb(77,85,116)}.ld_fancy_heading_61d1753236b4f p{font-size:22px}.ld_fancy_heading_61d1753236b4f p{line-height:33px}.ld_fancy_heading_61d1753236b4f p{--element-line-height:33px}.ld_fancy_heading_61d1753236b4f p{margin-bottom:1em!important}.ld_fancy_heading_61d1753236b4f .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753236b4f p{font-size:22px}.ld_fancy_heading_61d1753236b4f p{line-height:33px}.ld_fancy_heading_61d1753236b4f p{--element-line-height:33px}.ld_fancy_heading_61d1753236b4f p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753236b4f"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Ga nyangka banget! Followers nya masuk dalam hitungan menit! Lebih stabil dan nggak gampang drop juga!! Makasihhh Followersindo!</p></div><style>.ld_fancy_heading_61d1753236db2 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d1753236db2 h5{font-size:15px}.ld_fancy_heading_61d1753236db2 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753236db2 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753236db2"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Maria, Selebgram</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d17532389da"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d1753238e04>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d1753238e04>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d1753238e01 liquid-column-responsive-61d1753238e04"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d175323922a"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-Shopee.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-Shopee.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-Shopee-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d1753239720>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d175323971c liquid-column-responsive-61d1753239720"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d1753239963 p{color:rgb(77,85,116)}.ld_fancy_heading_61d1753239963 p{font-size:22px}.ld_fancy_heading_61d1753239963 p{line-height:33px}.ld_fancy_heading_61d1753239963 p{--element-line-height:33px}.ld_fancy_heading_61d1753239963 p{margin-bottom:1em!important}.ld_fancy_heading_61d1753239963 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753239963 p{font-size:22px}.ld_fancy_heading_61d1753239963 p{line-height:33px}.ld_fancy_heading_61d1753239963 p{--element-line-height:33px}.ld_fancy_heading_61d1753239963 p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753239963"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Cara ordernya simple! Nggak usah rempong buka laptop, cukup pake HP! Apalagi ada aplikasi apk nya! Makin betah dehh ordernya!</p></div><style>.ld_fancy_heading_61d1753239c2f h5{color:rgb(29,39,78)}.ld_fancy_heading_61d1753239c2f h5{font-size:15px}.ld_fancy_heading_61d1753239c2f .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753239c2f h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753239c2f"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Clarissa, Owner Olshop</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d1753241103"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d1753241527>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d1753241527>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d1753241525 liquid-column-responsive-61d1753241527"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d175324193c"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-Tiktok.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-Tiktok.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-Tiktok-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d1753241d8c>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d1753241d89 liquid-column-responsive-61d1753241d8c"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d1753241ef7 p{color:rgb(77,85,116)}.ld_fancy_heading_61d1753241ef7 p{font-size:22px}.ld_fancy_heading_61d1753241ef7 p{line-height:33px}.ld_fancy_heading_61d1753241ef7 p{--element-line-height:33px}.ld_fancy_heading_61d1753241ef7 p{margin-bottom:1em!important}.ld_fancy_heading_61d1753241ef7 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753241ef7 p{font-size:22px}.ld_fancy_heading_61d1753241ef7 p{line-height:33px}.ld_fancy_heading_61d1753241ef7 p{--element-line-height:33px}.ld_fancy_heading_61d1753241ef7 p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753241ef7"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Ga rugi udh 2 th langganan di Followersindo! View nya masuk cepet banget! Baru upload langsung masuk wus wuss! Makin gencar nih endorse-an dari tiktok! Makasihh Followersindo!!</p></div><style>.ld_fancy_heading_61d175324214c h5{color:rgb(29,39,78)}.ld_fancy_heading_61d175324214c h5{font-size:15px}.ld_fancy_heading_61d175324214c .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d175324214c h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d175324214c"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Annisa, Selebtok</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d175324a961"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d175324ad68>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d175324ad68>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d175324ad66 liquid-column-responsive-61d175324ad68"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d175324b15b"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-YouTube.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-YouTube.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-YouTube-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d175324b505>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d175324b503 liquid-column-responsive-61d175324b505"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d175324b651 p{color:rgb(77,85,116)}.ld_fancy_heading_61d175324b651 p{font-size:22px}.ld_fancy_heading_61d175324b651 p{line-height:33px}.ld_fancy_heading_61d175324b651 p{--element-line-height:33px}.ld_fancy_heading_61d175324b651 p{margin-bottom:1em!important}.ld_fancy_heading_61d175324b651 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d175324b651 p{font-size:22px}.ld_fancy_heading_61d175324b651 p{line-height:33px}.ld_fancy_heading_61d175324b651 p{--element-line-height:33px}.ld_fancy_heading_61d175324b651 p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d175324b651"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Akhirnyaa channel YouTube aku bisa monetise min!! Makasih banyak bantuannya!</p></div><style>.ld_fancy_heading_61d175324b8aa h5{color:rgb(29,39,78)}.ld_fancy_heading_61d175324b8aa h5{font-size:15px}.ld_fancy_heading_61d175324b8aa .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d175324b8aa h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d175324b8aa"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Randy, YouTuber</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d1753252ca5"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d1753253129>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d1753253129>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d1753253126 liquid-column-responsive-61d1753253129"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17532535a3"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/11/testimoni-11.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/11/testimoni-11.png 537w, https://followersindo.com/wp-content/uploads/2021/11/testimoni-11-300x291.png 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d17532539f3>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d17532539f1 liquid-column-responsive-61d17532539f3"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d1753253b55 p{color:rgb(77,85,116)}.ld_fancy_heading_61d1753253b55 p{font-size:22px}.ld_fancy_heading_61d1753253b55 p{line-height:33px}.ld_fancy_heading_61d1753253b55 p{--element-line-height:33px}.ld_fancy_heading_61d1753253b55 p{margin-bottom:1em!important}.ld_fancy_heading_61d1753253b55 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753253b55 p{font-size:22px}.ld_fancy_heading_61d1753253b55 p{line-height:33px}.ld_fancy_heading_61d1753253b55 p{--element-line-height:33px}.ld_fancy_heading_61d1753253b55 p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753253b55"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Pelayanan CS nya memuaskan banget, aktif nanya dan bisa ditangani manual! Btw, ada nomor pribadinya nggak mbak CS? hehehe</p></div><style>.ld_fancy_heading_61d1753253dd1 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d1753253dd1 h5{font-size:15px}.ld_fancy_heading_61d1753253dd1 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753253dd1 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753253dd1"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Arfan, Influencer</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d175325b3e6"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d175325b83a>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d175325b83a>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d175325b838 liquid-column-responsive-61d175325b83a"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d175325bc75"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/11/testimoni-5.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/11/testimoni-5.png 537w, https://followersindo.com/wp-content/uploads/2021/11/testimoni-5-300x291.png 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d175325c097>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d175325c080 liquid-column-responsive-61d175325c097"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d175325c23c p{color:rgb(77,85,116)}.ld_fancy_heading_61d175325c23c p{font-size:22px}.ld_fancy_heading_61d175325c23c p{line-height:33px}.ld_fancy_heading_61d175325c23c p{--element-line-height:33px}.ld_fancy_heading_61d175325c23c p{margin-bottom:1em!important}.ld_fancy_heading_61d175325c23c .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d175325c23c p{font-size:22px}.ld_fancy_heading_61d175325c23c p{line-height:33px}.ld_fancy_heading_61d175325c23c p{--element-line-height:33px}.ld_fancy_heading_61d175325c23c p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d175325c23c"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Horee sekarang ada aplikasi Android nya juga! Makin simple dan gampang banget!</p></div><style>.ld_fancy_heading_61d175325c488 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d175325c488 h5{font-size:15px}.ld_fancy_heading_61d175325c488 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d175325c488 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d175325c488"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Vanessa, Influencer</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d17532630e8"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d175326358c>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d175326358c>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d175326358a liquid-column-responsive-61d175326358c"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d17532639c4"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-Tokopedia.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-Tokopedia.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-Tokopedia-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d1753263eb7>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d1753263eb4 liquid-column-responsive-61d1753263eb7"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d1753264120 p{color:rgb(77,85,116)}.ld_fancy_heading_61d1753264120 p{font-size:22px}.ld_fancy_heading_61d1753264120 p{line-height:33px}.ld_fancy_heading_61d1753264120 p{--element-line-height:33px}.ld_fancy_heading_61d1753264120 p{margin-bottom:1em!important}.ld_fancy_heading_61d1753264120 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753264120 p{font-size:22px}.ld_fancy_heading_61d1753264120 p{line-height:33px}.ld_fancy_heading_61d1753264120 p{--element-line-height:33px}.ld_fancy_heading_61d1753264120 p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753264120"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Makasih banget Followersindo! Sekarang olshop aku makin berkembang dan orderan juga makin banyak! Imbang banget sama aku ngiklannya!</p></div><style>.ld_fancy_heading_61d175326444f h5{color:rgb(29,39,78)}.ld_fancy_heading_61d175326444f h5{font-size:15px}.ld_fancy_heading_61d175326444f .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d175326444f h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d175326444f"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Vano, Business Owner</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d1753267191"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d17532675ea>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d17532675ea>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d17532675e7 liquid-column-responsive-61d17532675ea"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d1753267a3f"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d1753267e5c>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d1753267e5a liquid-column-responsive-61d1753267e5c"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d1753267fb2 p{color:rgb(77,85,116)}.ld_fancy_heading_61d1753267fb2 p{font-size:22px}.ld_fancy_heading_61d1753267fb2 p{line-height:33px}.ld_fancy_heading_61d1753267fb2 p{--element-line-height:33px}.ld_fancy_heading_61d1753267fb2 p{margin-bottom:1em!important}.ld_fancy_heading_61d1753267fb2 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753267fb2 p{font-size:22px}.ld_fancy_heading_61d1753267fb2 p{line-height:33px}.ld_fancy_heading_61d1753267fb2 p{--element-line-height:33px}.ld_fancy_heading_61d1753267fb2 p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753267fb2"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Bagus banget pelayanan dan layanannya! Cepet banget dan fast respon!</p></div><style>.ld_fancy_heading_61d1753268248 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d1753268248 h5{font-size:15px}.ld_fancy_heading_61d1753268248 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753268248 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753268248"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Firanisa, Influencer</h5></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d175326bfce>.vc_column-inner{margin-top:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_hidden-xs liquid-column-61d175326bfcb liquid-column-responsive-61d175326bfce"><div class="vc_column-inner  vc_custom_1634550574274" ><div class="wpb_wrapper"  ><style>.carousel-container.ld_carousel_tab_61d175327d01e .carousel-item{width:33.333333333333%;flex-basis:33.333333333333%;padding-inline-start:20px;padding-inline-end:20px}.carousel-container.ld_carousel_tab_61d175327d01e .carousel-items{margin-inline-start:-20px;margin-inline-end:-20px}.ld_carousel_tab_61d175327d01e.carousel-dots{position:relative;top:auto;right:auto;bottom:-25px;left:auto}@media (min-width:768px){.carousel-container.ld_carousel_tab_61d175327d01e .carousel-item{width:25%;flex-basis:25%}}@media (min-width:992px){.carousel-container.ld_carousel_tab_61d175327d01e .carousel-item{width:16.666666666667%;flex-basis:16.666666666667%}}</style><div id="ld_carousel_tab_61d175327d01e" class="carousel-container carousel-nav-left carousel-nav-mobile-center no carousel-nav-md carousel-dots-mobile-center carousel-dots-style1 carousel-dots-mobile-outside ld_carousel_tab_61d175327d01e"><div class="carousel-items"  data-lqd-flickity='{"cellSelector":".carousel-item","cellAlign":"left","prevNextButtons":false,"pageDots":false,"groupCells":true,"wrapAround":true,"equalHeightCells":true,"middleAlignContent":true,"pauseAutoPlayOnHover":false,"buttonsAppendTo":"self","addSlideNumbersToArrows":false,"dotsIndicator":"dots","numbersStyle":"circle","dotsAppendTo":"self"}' data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".flickity-slider > .carousel-item","duration":"1800","delay":"180","ease":"power4.out","initValues":{"opacity":0},"animations":{"opacity":1}}'><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d1753271008"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/dropcam.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/dropcam.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d1753271cc2"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/amazon-4.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/amazon-4.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d17532727aa"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/cisco-2-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/cisco-2-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d1753278699"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/amd-logo-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/amd-logo-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d17532792b1"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/logitech-2-1-3-1.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/logitech-2-1-3-1.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d175327c91a"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/Spotify-2-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/Spotify-2-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d175327cfe7"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/cisco-2-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/cisco-2-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs liquid-column-61d175327dffd"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_images_group_container_61d175327e101{position:absolute}.ld_images_group_container_61d175327e101{right:-130px!important;bottom:-180px!important}</style><div id="ld_images_group_container_61d175327e101" class="lqd-imggrp-container ld_images_group_container_61d175327e101"  data-move-element='{ "target": ".ld-container", "type": "insertBefore" }' ><div class="lqd-imggrp-inner"><div id="ld_images_group_element_61d175327e2db" class="lqd-imggrp-single hidden-xs hidden-sm ld_images_group_element_61d175327e2db"   ><div class="lqd-imggrp-img-container"    ><figure class="loaded"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2019/11/illust-3.svg" class="attachment-full size-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2019/11/illust-3.svg" class="attachment-full size-full" alt="" loading="lazy" /></noscript></figure></div></div></div></div></div></div></div></div></div></section><section class="vc_row liquid-row-shadowbox-61d1753282132"><div class="ld-container container"><div class="row ld-row ld-row-outer"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs liquid-column-61d1753282723"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div id="lqd-gdpr" class="lqd-gdpr ld_gdpr_box_61d1753282827"><div class="lqd-gdpr-inner"><div class="lqd-gdpr-left"> We use cookies to provide the best web experience possible .</div><div class="lqd-gdpr-right"> <button class="lqd-gdpr-accept"></button></div></div></div></div></div></div></div></div></section><section style="background:rgb(52, 54, 77);" data-bg-image="url" class="vc_row vc_custom_1634809010825 liquid-row-shadowbox-61d1753282c8c vc_row-has-fill vc_row-has-bg"><div class="ld-container container"><div class="row ld-row ld-row-outer"><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d17532831ac"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_spacer_61d17532832f8{height:40px}</style><div class="ld-empty-space ld_spacer_61d17532832f8"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 text-center liquid-column-61d17532837c8"><div class="vc_column-inner  vc_custom_1590403536897" ><div class="wpb_wrapper"  ><style>.ld_social_icons_61d17532838e9{font-size:23px}.ld_social_icons_61d17532838e9 a{width:!important;height:!important}.ld_social_icons_61d17532838e9 li a{color:#b5b5b5!important;border-color:!important;background-color:!important}.ld_social_icons_61d17532838e9 li a:hover{border-color:!important;color:#ffffff!important;background-color:!important}</style><ul class="social-icon social-icon-border-none social-icon-md ld_social_icons_61d17532838e9" id=ld_social_icons_61d17532838e9><li><a href="https://www.facebook.com/Followersindocom/" target="_blank"><i class="fab fa-facebook"></i></a></li><li><a href="https://www.instagram.com/cvsbo/" target="_blank"><i class="fab fa-instagram"></i></a></li><li><a href="https://api.whatsapp.com/send/?phone=6282140853171&#038;text&#038;app_absent=0" target="_blank"><i class="fab fa-whatsapp"></i></a></li><li><a href="https://api.whatsapp.com/send/?phone=6287751159902&#038;text&#038;app_absent=0" target="_blank"><i class="fab fa-whatsapp"></i></a></li></ul></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 text-center liquid-column-61d1753283e74"><div class="vc_column-inner  vc_custom_1590403736353" ><div class="wpb_wrapper"  ><style>.ld_custom_menu_61d1753283fe9>ul>li>a{color:rgba(255,255,255,.7)}.ld_custom_menu_61d1753283fe9{margin-inline-start:-29px;margin-inline-end:-29px}.ld_custom_menu_61d1753283fe9 li{margin-inline-start:29px;margin-inline-end:29px}.lqd-stickybar>.lqd-head-col>.header-module>.ld_custom_menu_61d1753283fe9 li{margin-top:29px;margin-bottom:29px}.ld_custom_menu_61d1753283fe9>ul>li>a:hover,.ld_custom_menu_61d1753283fe9 li.is-active>a{color:rgb(255,255,255)}</style><div
-class="lqd-fancy-menu lqd-custom-menu lqd-menu-td-none ld_custom_menu_61d1753283fe9"
-><ul id="ld_custom_menu_61d1753283fe9" class="reset-ul inline-nav  " ><li id="menu-item-85339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85339"><a href="https://followersindo.com/service/">Service</a></li><li id="menu-item-85341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85341"><a href="https://followersindo.com/about/">About</a></li><li id="menu-item-85357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85357"><a href="https://followersindo.com/blog-id/">Blog</a></li><li id="menu-item-85511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85511"><a href="https://followersindo.com/followersindo/">followersindo</a></li><li id="menu-item-85566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85566"><a href="https://followersindo.com/iklan-followers-gratis-likes/">Promo Followers Gratis Likes</a></li><li id="menu-item-85612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85612"><a href="https://followersindo.com/iklan-likes-instagram/">Promo Likes Instagram</a></li><li id="menu-item-85630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85630"><a href="https://followersindo.com/iklan-auto-likes-instagram/">Promo Auto Likes Instagram</a></li><li id="menu-item-85647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85647"><a href="https://followersindo.com/iklan-followers-instagram-garansi/">Promo Followers Instagram Garansi</a></li></ul></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 text-center liquid-column-61d1753291e4e"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_fancy_heading_61d1753291fb8 p{margin-bottom:20px!important}.ld_fancy_heading_61d1753291fb8 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753291fb8 p{margin-bottom:20px!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753291fb8"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Followersindo All Right Served 2021</p></div><style>.ld_fancy_heading_61d17532951e7 p{margin-bottom:0px!important}.ld_fancy_heading_61d17532951e7 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d17532951e7 p{margin-bottom:0px!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d17532951e7"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Jalan Raya Sawojajar 15</p></div><style>.ld_fancy_heading_61d1753297095 p{margin-bottom:20px!important}.ld_fancy_heading_61d1753297095 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753297095 p{margin-bottom:20px!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753297095"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Kota Malang, Jawa Timur, Indonesia</p></div><style>.ld_fancy_heading_61d1753297746 p{margin-bottom:20px!important}.ld_fancy_heading_61d1753297746 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d1753297746 p{margin-bottom:20px!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d1753297746"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a3c5cccfcfccd4c6d1d0cacdc7ccc0cccee3c4cec2cacf8dc0ccce">[email&#160;protected]</a></p></div></div></div></div></div></div></section></div></main><style>.main-footer{background:linear-gradient(120deg,rgb(73,83,121) .9554140127388535%,rgb(59,65,87) 49.32336503533041%,rgb(58,66,95) 99.36305732484077%);color:#fff}.main-footer a:not(.btn){color:#fff}.main-footer a:not(.btn):hover{color:#fff}</style><footer class="main-footer site-footer footer" id="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter"></footer><div id="lqd-gdpr" class="lqd-gdpr"><div class="lqd-gdpr-inner"><div class="lqd-gdpr-left"> 🍪 This website uses cookies to improve your web experience.</div><div class="lqd-gdpr-right"> <button class="lqd-gdpr-accept"> Accept </button></div></div></div></div><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=wYi7q1NErb205V" style="display:none" height="1" width="1" alt="" /></noscript><div class="mobmenu-overlay"></div><div class="mob-menu-header-holder mobmenu"  data-menu-display="mob-menu-slideout-over" data-open-icon="down-open" data-close-icon="up-open"><div  class="mobmenul-container"><a href="#" class="mobmenu-left-bt mobmenu-trigger-action" data-panel-target="mobmenu-left-panel" aria-label="Left Menu Button"><i class="mob-icon-menu mob-menu-icon"></i><i class="mob-icon-cancel-1 mob-cancel-button"></i></a></div><div class="mob-menu-logo-holder"><a href="https://followersindo.com" class="headertext"><span>followersindo</span></a></div><div class="mobmenur-container"></div></div><div class="mobmenu-left-alignment mobmenu-panel mobmenu-left-panel  "> <a href="#" class="mobmenu-left-bt" aria-label="Left Menu Button"><i class="mob-icon-cancel-1 mob-cancel-button"></i></a><div class="mobmenu-content"><div class="menu-menu-container"><ul id="mobmenuleft" role="menubar" aria-label="Main navigation for mobile devices"><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-85139 current_page_item menu-item-85260"><a href="https://followersindo.com/" role="menuitem" class="">Home</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-85679"><a href="https://followersindo.com/iklan-followers-instagram-garansi/" role="menuitem" class="">Promo</a><ul  role='menu' class="sub-menu "><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85674"><a href="https://followersindo.com/iklan-followers-gratis-likes/" role="menuitem" class="">Promo Followers Gratis Likes</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85671"><a href="https://followersindo.com/iklan-followers-instagram-garansi/" role="menuitem" class="">Promo Followers Instagram Garansi</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85672"><a href="https://followersindo.com/iklan-auto-likes-instagram/" role="menuitem" class="">Promo Auto Likes Instagram</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85673"><a href="https://followersindo.com/iklan-likes-instagram/" role="menuitem" class="">Promo Likes Instagram</a></li></ul></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85356"><a href="https://followersindo.com/service/" role="menuitem" class="">Service</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85259"><a href="https://followersindo.com/about/" role="menuitem" class="">About</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85261"><a href="https://followersindo.com/testimoni/" role="menuitem" class="">Testimony</a></li></ul></div></div><div class="mob-menu-left-bg-holder"></div></div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/html" id="wpb-modifications"></script> <style id='rs-plugin-settings-inline-css' type='text/css'></style> <script type='text/javascript' id='contact-form-7-js-extra'>/* <![CDATA[ */ var wpcf7 = {"api":{"root":"https:\/\/followersindo.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"}; /* ]]> */</script> <script type='text/javascript' id='woocommerce-js-extra'>/* <![CDATA[ */ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"}; /* ]]> */</script> <script type='text/javascript' id='wc-cart-fragments-js-extra'>/* <![CDATA[ */ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_a7e161f8dad5566fdd83a6fab869af91","fragment_name":"wc_fragments_a7e161f8dad5566fdd83a6fab869af91","request_timeout":"5000"}; /* ]]> */</script> <script type='text/javascript' id='liquid_filter_ajax-js-extra'>/* <![CDATA[ */ var wcLiquid = {"ajaxUrl":"https:\/\/followersindo.com\/wp-admin\/admin-ajax.php","termId":"","paged":"1","options":{"wcHiddenSidebar":"off","wcAjaxFilter":"off","wcAjaxPagination":"off","wcAjaxPaginationType":"classic","wcAjaxPaginationButtonText":"Load more products"}}; /* ]]> */</script> <script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key' id='google-maps-api-js'></script> <script type='text/javascript' id='liquid-theme-js-extra'>/* <![CDATA[ */ var liquidTheme = {"uris":{"ajax":"\/wp-admin\/admin-ajax.php"}}; /* ]]> */</script> <template id="lqd-snickersbar"><div class="lqd-snickersbar d-flex flex-wrap lqd-snickersbar-in" data-item-id><div class="lqd-snickersbar-inner d-flex flex-wrap align-items-center"><div class="lqd-snickersbar-detail"><p class="hidden lqd-snickersbar-addding-temp my-0">Adding {{itemName}} to cart</p><p class="hidden lqd-snickersbar-added-temp my-0">Added {{itemName}} to cart</p><p class="my-0 lqd-snickersbar-msg d-flex align-items-center my-0"></p><p class="my-0 lqd-snickersbar-msg-done d-flex align-items-center my-0"></p></div><div class="lqd-snickersbar-ext ml-4"></div></div></div> </template><div class="lity" role="dialog" aria-label="Dialog Window (Press escape to close)" tabindex="-1" data-modal-type="default"><div class="lity-backdrop"></div><div class="lity-wrap" data-lity-close role="document"><div class="lity-loader" aria-hidden="true">Loading...</div><div class="lity-container"><div class="lity-content"></div></div> <button class="lity-close" type="button" aria-label="Close (Press escape to close)" data-lity-close>&times;</button></div></div><script>window.lazyLoadOptions = {
-                elements_selector: "img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",
-                data_src: "lazy-src",
-                data_srcset: "lazy-srcset",
-                data_sizes: "lazy-sizes",
-                skip_invisible: false,
-                class_loading: "lazyloading",
-                class_loaded: "lazyloaded",
-                threshold: 300,
-                callback_load: function(element) {
-                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
-                        if (element.classList.contains("lazyloaded") ) {
-                            if (typeof window.jQuery != "undefined") {
-                                if (jQuery.fn.fitVids) {
-                                    jQuery(element).parent().fitVids();
-                                }
+<meta charset="UTF-8" /><link data-optimized="2" rel="stylesheet" href="https://www.indodigitalads.com/wp-content/litespeed/css/d555cc1dc4b238ce22015532d07781c4.css?ver=0d331" />
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="shortcut icon" href="https://www.indodigitalads.com/wp-content/uploads/2018/07/favicon-bali-digital-ads.png" type="image/x-icon" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Beli Followers Instagram | Tambah Followers Instagram | Indo Digital Ads</title>
+	<meta name="description" content="Kami jasa Followers Instagram akan membantu Anda untuk menambah jumlah followers Instagram Anda. Beli Followers Instagram Sekarang Juga!" />
+	<link rel="canonical" href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Beli Followers Instagram | Tambah Followers Instagram | Indo Digital Ads" />
+	<meta property="og:description" content="Kami jasa Followers Instagram akan membantu Anda untuk menambah jumlah followers Instagram Anda. Beli Followers Instagram Sekarang Juga!" />
+	<meta property="og:url" content="https://www.indodigitalads.com/jasa-tambah-followers-instagram/" />
+	<meta property="og:site_name" content="Indo Digital Ads" />
+	<meta property="article:modified_time" content="2021-12-01T10:24:09+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@balidigitalads" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://www.indodigitalads.com/#/schema/person/3cc273581b4b90379cf92e8c449e8201","name":"Indo Digital Ads","image":{"@type":"ImageObject","@id":"https://www.indodigitalads.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/a769fd39af12b23ea4e0749f8dde7c36?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/a769fd39af12b23ea4e0749f8dde7c36?s=96&d=mm&r=g","caption":"Indo Digital Ads"},"logo":{"@id":"https://www.indodigitalads.com/#personlogo"},"description":"Indo Digital Ads adalah Agency Digital Marketing di Indonesia. Partner Resmi Google yang menyediakan jasa pendaftaran Google maps, jasa beriklan di Google, jasa beriklan di Facebook, jasa beriklan di Instagram, jasa tambah likes Fanspage, dan jasa tambah followers Instagram.","sameAs":["https://www.indodigitalads.com"]},{"@type":"WebSite","@id":"https://www.indodigitalads.com/#website","url":"https://www.indodigitalads.com/","name":"Indo Digital Ads","description":"Digital Marketing Agency","publisher":{"@id":"https://www.indodigitalads.com/#/schema/person/3cc273581b4b90379cf92e8c449e8201"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.indodigitalads.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.indodigitalads.com/jasa-tambah-followers-instagram/#webpage","url":"https://www.indodigitalads.com/jasa-tambah-followers-instagram/","name":"Beli Followers Instagram | Tambah Followers Instagram | Indo Digital Ads","isPartOf":{"@id":"https://www.indodigitalads.com/#website"},"datePublished":"2018-07-07T15:01:45+00:00","dateModified":"2021-12-01T10:24:09+00:00","description":"Kami jasa Followers Instagram akan membantu Anda untuk menambah jumlah followers Instagram Anda. Beli Followers Instagram Sekarang Juga!","breadcrumb":{"@id":"https://www.indodigitalads.com/jasa-tambah-followers-instagram/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.indodigitalads.com/jasa-tambah-followers-instagram/"]}]},{"@type":"BreadcrumbList","@id":"https://www.indodigitalads.com/jasa-tambah-followers-instagram/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.indodigitalads.com/"},{"@type":"ListItem","position":2,"name":"Jasa Tambah Followers Instagram"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link href='https://connect.facebook.net' rel='preconnect' />
+<link href='https://fonts.gstatic.com' crossorigin='anonymous' rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Indo Digital Ads &raquo; Feed" href="https://www.indodigitalads.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Indo Digital Ads &raquo; Comments Feed" href="https://www.indodigitalads.com/comments/feed/" />
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v7.3.0 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-124581106-1"  type="text/javascript" data-cfasync="false" data-wpfc-render="false" async></script>
+			<script type="text/javascript" data-cfasync="false" data-wpfc-render="false">
+				var em_version = '7.3.0';
+				var em_track_user = true;
+				var em_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-124581106-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						if ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						window[ disableStrs[ index ] ] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						document.cookie = disableStrs[ index ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[ disableStrs[ index ] ] = true;
+					}
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.ExactMetricsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if ( em_track_user ) {
+					function __gtagDataLayer() {
+						dataLayer.push( arguments );
+					}
+
+					function __gtagTracker( type, name, parameters ) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply( null, arguments );
+							return;
+						}
+
+						if ( type === 'event' ) {
+							
+															parameters.send_to = exactmetrics_frontend.ua;
+								__gtagDataLayer( type, name, parameters );
+													} else {
+							__gtagDataLayer.apply( null, arguments );
+						}
+					}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dNDMyYj' : true,
+											} );
+															__gtagTracker( 'config', 'UA-124581106-1', {"forceSSL":"true"} );
+										window.gtag = __gtagTracker;											(function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( 'pageview' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[2] ) {
+												hitObject = {
+													'eventAction': 'page_view',
+													'page_path' : arguments[2],
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
+										if ( 'undefined' !== typeof arguments[1].hitType ) {
+											hitObject = arguments[1];
+											if ( 'pageview' === hitObject.hitType ) {
+												hitObject.eventAction = 'page_view';
+											}
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var arg, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+										'page' : 'page_path',
+										'location' : 'page_location',
+										'title' : 'page_title',
+									};
+									for ( arg in args ) {
+																				if ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {
+											hit[gaMap[arg]] = args[arg];
+										} else {
+											hit[arg] = args[arg];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						})();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+				<!-- / Google Analytics by ExactMetrics -->
+		
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+
+
+
+
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+
+
+
+
+
+
+
+<link rel='stylesheet' id='mfn-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A1%2C300%2C400%2C400italic%2C500%2C700%2C700italic%7CLora%3A1%2C300%2C400%2C400italic%2C500%2C700%2C700italic&#038;display=swap&#038;ver=5.8.2' type='text/css' media='all' />
+
+<style id='mfn-dynamic-inline-css' type='text/css'>
+html{background-color:#FCFCFC}#Wrapper,#Content,.mfn-popup .mfn-popup-content,.mfn-off-canvas-sidebar .mfn-off-canvas-content-wrapper,.mfn-cart-holder,.mfn-header-login,#Top_bar .search_wrapper,#Top_bar .top_bar_right .mfn-live-search-box,.column_livesearch .mfn-live-search-wrapper,.column_livesearch .mfn-live-search-box{background-color:#FCFCFC}body:not(.template-slider) #Header{min-height:250px}body.header-below:not(.template-slider) #Header{padding-top:250px}#Footer .widgets_wrapper{padding:20px 0}body,button,span.date_label,.timeline_items li h3 span,input[type="submit"],input[type="reset"],input[type="button"],input[type="text"],input[type="password"],input[type="tel"],input[type="email"],textarea,select,.offer_li .title h3{font-family:"Roboto",Helvetica,Arial,sans-serif}#menu > ul > li > a,a.action_button,#overlay-menu ul li a{font-family:"Arial",Helvetica,Arial,sans-serif}#Subheader .title{font-family:"Lora",Helvetica,Arial,sans-serif}h1,h2,h3,h4,.text-logo #logo{font-family:"Roboto",Helvetica,Arial,sans-serif}h5,h6{font-family:"Roboto",Helvetica,Arial,sans-serif}blockquote{font-family:"Roboto",Helvetica,Arial,sans-serif}.chart_box .chart .num,.counter .desc_wrapper .number-wrapper,.how_it_works .image .number,.pricing-box .plan-header .price,.quick_fact .number-wrapper,.woocommerce .product div.entry-summary .price{font-family:"Roboto",Helvetica,Arial,sans-serif}body{font-size:14px;line-height:25px;font-weight:400;letter-spacing:0px}.big{font-size:16px;line-height:28px;font-weight:400;letter-spacing:0px}#menu > ul > li > a,a.action_button,#overlay-menu ul li a{font-size:15px;font-weight:400;letter-spacing:0px}#overlay-menu ul li a{line-height:22.5px}#Subheader .title{font-size:30px;line-height:35px;font-weight:400;letter-spacing:1px;font-style:italic}h1,.text-logo #logo{font-size:48px;line-height:50px;font-weight:400;letter-spacing:0px}h2{font-size:30px;line-height:34px;font-weight:300;letter-spacing:0px}h3,.woocommerce ul.products li.product h3,.woocommerce #customer_login h2{font-size:25px;line-height:29px;font-weight:300;letter-spacing:0px}h4,.woocommerce .woocommerce-order-details__title,.woocommerce .wc-bacs-bank-details-heading,.woocommerce .woocommerce-customer-details h2{font-size:21px;line-height:25px;font-weight:500;letter-spacing:0px}h5{font-size:15px;line-height:25px;font-weight:700;letter-spacing:0px}h6{font-size:14px;line-height:25px;font-weight:400;letter-spacing:0px}#Intro .intro-title{font-size:70px;line-height:70px;font-weight:400;letter-spacing:0px}@media only screen and (min-width:768px) and (max-width:959px){body{font-size:13px;line-height:21px;letter-spacing:0px}.big{font-size:14px;line-height:24px;letter-spacing:0px}#menu > ul > li > a,a.action_button,#overlay-menu ul li a{font-size:13px;letter-spacing:0px}#overlay-menu ul li a{line-height:19.5px;letter-spacing:0px}#Subheader .title{font-size:26px;line-height:30px;letter-spacing:1px}h1,.text-logo #logo{font-size:41px;line-height:43px;letter-spacing:0px}h2{font-size:26px;line-height:29px;letter-spacing:0px}h3,.woocommerce ul.products li.product h3,.woocommerce #customer_login h2{font-size:21px;line-height:25px;letter-spacing:0px}h4,.woocommerce .woocommerce-order-details__title,.woocommerce .wc-bacs-bank-details-heading,.woocommerce .woocommerce-customer-details h2{font-size:18px;line-height:21px;letter-spacing:0px}h5{font-size:13px;line-height:21px;letter-spacing:0px}h6{font-size:13px;line-height:21px;letter-spacing:0px}#Intro .intro-title{font-size:60px;line-height:60px;letter-spacing:0px}blockquote{font-size:15px}.chart_box .chart .num{font-size:45px;line-height:45px}.counter .desc_wrapper .number-wrapper{font-size:45px;line-height:45px}.counter .desc_wrapper .title{font-size:14px;line-height:18px}.faq .question .title{font-size:14px}.fancy_heading .title{font-size:38px;line-height:38px}.offer .offer_li .desc_wrapper .title h3{font-size:32px;line-height:32px}.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3{font-size:32px;line-height:32px}.pricing-box .plan-header h2{font-size:27px;line-height:27px}.pricing-box .plan-header .price > span{font-size:40px;line-height:40px}.pricing-box .plan-header .price sup.currency{font-size:18px;line-height:18px}.pricing-box .plan-header .price sup.period{font-size:14px;line-height:14px}.quick_fact .number{font-size:80px;line-height:80px}.trailer_box .desc h2{font-size:27px;line-height:27px}.widget > h3{font-size:17px;line-height:20px}}@media only screen and (min-width:480px) and (max-width:767px){body{font-size:13px;line-height:19px;letter-spacing:0px}.big{font-size:13px;line-height:21px;letter-spacing:0px}#menu > ul > li > a,a.action_button,#overlay-menu ul li a{font-size:13px;letter-spacing:0px}#overlay-menu ul li a{line-height:19.5px;letter-spacing:0px}#Subheader .title{font-size:23px;line-height:26px;letter-spacing:1px}h1,.text-logo #logo{font-size:36px;line-height:38px;letter-spacing:0px}h2{font-size:23px;line-height:26px;letter-spacing:0px}h3,.woocommerce ul.products li.product h3,.woocommerce #customer_login h2{font-size:19px;line-height:22px;letter-spacing:0px}h4,.woocommerce .woocommerce-order-details__title,.woocommerce .wc-bacs-bank-details-heading,.woocommerce .woocommerce-customer-details h2{font-size:16px;line-height:19px;letter-spacing:0px}h5{font-size:13px;line-height:19px;letter-spacing:0px}h6{font-size:13px;line-height:19px;letter-spacing:0px}#Intro .intro-title{font-size:53px;line-height:53px;letter-spacing:0px}blockquote{font-size:14px}.chart_box .chart .num{font-size:40px;line-height:40px}.counter .desc_wrapper .number-wrapper{font-size:40px;line-height:40px}.counter .desc_wrapper .title{font-size:13px;line-height:16px}.faq .question .title{font-size:13px}.fancy_heading .title{font-size:34px;line-height:34px}.offer .offer_li .desc_wrapper .title h3{font-size:28px;line-height:28px}.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3{font-size:28px;line-height:28px}.pricing-box .plan-header h2{font-size:24px;line-height:24px}.pricing-box .plan-header .price > span{font-size:34px;line-height:34px}.pricing-box .plan-header .price sup.currency{font-size:16px;line-height:16px}.pricing-box .plan-header .price sup.period{font-size:13px;line-height:13px}.quick_fact .number{font-size:70px;line-height:70px}.trailer_box .desc h2{font-size:24px;line-height:24px}.widget > h3{font-size:16px;line-height:19px}}@media only screen and (max-width:479px){body{font-size:13px;line-height:19px;letter-spacing:0px}.big{font-size:13px;line-height:19px;letter-spacing:0px}#menu > ul > li > a,a.action_button,#overlay-menu ul li a{font-size:13px;letter-spacing:0px}#overlay-menu ul li a{line-height:19.5px;letter-spacing:0px}#Subheader .title{font-size:18px;line-height:21px;letter-spacing:1px}h1,.text-logo #logo{font-size:29px;line-height:30px;letter-spacing:0px}h2{font-size:18px;line-height:20px;letter-spacing:0px}h3,.woocommerce ul.products li.product h3,.woocommerce #customer_login h2{font-size:15px;line-height:19px;letter-spacing:0px}h4,.woocommerce .woocommerce-order-details__title,.woocommerce .wc-bacs-bank-details-heading,.woocommerce .woocommerce-customer-details h2{font-size:13px;line-height:19px;letter-spacing:0px}h5{font-size:13px;line-height:19px;letter-spacing:0px}h6{font-size:13px;line-height:19px;letter-spacing:0px}#Intro .intro-title{font-size:42px;line-height:42px;letter-spacing:0px}blockquote{font-size:13px}.chart_box .chart .num{font-size:35px;line-height:35px}.counter .desc_wrapper .number-wrapper{font-size:35px;line-height:35px}.counter .desc_wrapper .title{font-size:13px;line-height:26px}.faq .question .title{font-size:13px}.fancy_heading .title{font-size:30px;line-height:30px}.offer .offer_li .desc_wrapper .title h3{font-size:26px;line-height:26px}.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3{font-size:26px;line-height:26px}.pricing-box .plan-header h2{font-size:21px;line-height:21px}.pricing-box .plan-header .price > span{font-size:32px;line-height:32px}.pricing-box .plan-header .price sup.currency{font-size:14px;line-height:14px}.pricing-box .plan-header .price sup.period{font-size:13px;line-height:13px}.quick_fact .number{font-size:60px;line-height:60px}.trailer_box .desc h2{font-size:21px;line-height:21px}.widget > h3{font-size:15px;line-height:18px}}.with_aside .sidebar.columns{width:23%}.with_aside .sections_group{width:77%}.aside_both .sidebar.columns{width:18%}.aside_both .sidebar.sidebar-1{margin-left:-82%}.aside_both .sections_group{width:64%;margin-left:18%}@media only screen and (min-width:1240px){#Wrapper,.with_aside .content_wrapper{max-width:1240px}.section_wrapper,.container{max-width:1220px}.layout-boxed.header-boxed #Top_bar.is-sticky{max-width:1240px}}@media only screen and (max-width:767px){.section_wrapper,.container,.four.columns .widget-area{max-width:480px !important}}.button-default .button,.button-flat .button,.button-round .button{background-color:#f7f7f7;color:#747474}.button-stroke .button{border-color:#f7f7f7;color:#747474}.button-stroke .button:hover{background-color:#f7f7f7;color:#fff}.button-default .button_theme,.button-default button,.button-default input[type="button"],.button-default input[type="reset"],.button-default input[type="submit"],.button-flat .button_theme,.button-flat button,.button-flat input[type="button"],.button-flat input[type="reset"],.button-flat input[type="submit"],.button-round .button_theme,.button-round button,.button-round input[type="button"],.button-round input[type="reset"],.button-round input[type="submit"],.woocommerce #respond input#submit,.woocommerce a.button:not(.default),.woocommerce button.button,.woocommerce input.button,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover{color:#ffffff}.button-stroke .button_theme:hover,.button-stroke button:hover,.button-stroke input[type="submit"]:hover,.button-stroke input[type="reset"]:hover,.button-stroke input[type="button"]:hover,.button-stroke .woocommerce #respond input#submit:hover,.button-stroke .woocommerce a.button:not(.default):hover,.button-stroke .woocommerce button.button:hover,.button-stroke.woocommerce input.button:hover{color:#ffffff !important}.button-stroke .button_theme:hover .button_icon i{color:#ffffff !important}.button-default .single_add_to_cart_button,.button-flat .single_add_to_cart_button,.button-round .single_add_to_cart_button,.button-default .woocommerce .button:disabled,.button-flat .woocommerce .button:disabled,.button-round .woocommerce .button:disabled,.button-default .woocommerce .button.alt .button-flat .woocommerce .button.alt,.button-round .woocommerce .button.alt{color:#ffffff!important}.action_button,.action_button:hover{background-color:#f7f7f7;color:#747474}.button-stroke a.action_button{border-color:#f7f7f7}.button-stroke a.action_button:hover{background-color:#f7f7f7!important}.footer_button{color:#65666C!important;background-color:transparent;box-shadow:none!important}.footer_button:after{display:none!important}.button-custom .button,.button-custom .action_button,.button-custom .footer_button,.button-custom button,.button-custom input[type="button"],.button-custom input[type="reset"],.button-custom input[type="submit"],.button-custom .woocommerce #respond input#submit,.button-custom .woocommerce a.button,.button-custom .woocommerce button.button,.button-custom .woocommerce input.button{font-family:Roboto;font-size:14px;line-height:14px;font-weight:400;letter-spacing:0px;padding:12px 20px 12px 20px;border-width:0px;border-radius:0px}.button-custom .button{color:#626262;background-color:#dbdddf;border-color:transparent}.button-custom .button:hover{color:#626262;background-color:#d3d3d3;border-color:transparent}.button-custom .button_theme,.button-custom button,.button-custom input[type="button"],.button-custom input[type="reset"],.button-custom input[type="submit"],.button-custom .woocommerce #respond input#submit,.button-custom .woocommerce a.button:not(.default),.button-custom .woocommerce button.button,.button-custom .woocommerce input.button{color:#ffffff;background-color:#0095eb;border-color:transparent}.button-custom .button_theme:hover,.button-custom button:hover,.button-custom input[type="button"]:hover,.button-custom input[type="reset"]:hover,.button-custom input[type="submit"]:hover,.button-custom .woocommerce #respond input#submit:hover,.button-custom .woocommerce a.button:not(.default):hover,.button-custom .woocommerce button.button:hover,.button-custom .woocommerce input.button:hover{color:#ffffff;background-color:#007cc3;border-color:transparent}.button-custom .action_button{color:#626262;background-color:#dbdddf;border-color:transparent}.button-custom .action_button:hover{color:#626262;background-color:#d3d3d3;border-color:transparent}.button-custom .single_add_to_cart_button,.button-custom .woocommerce .button:disabled,.button-custom .woocommerce .button.alt{line-height:14px!important;padding:12px 20px 12px 20px!important;color:#ffffff!important;background-color:#0095eb!important}.button-custom .single_add_to_cart_button:hover,.button-custom .woocommerce .button:disabled:hover,.button-custom .woocommerce .button.alt:hover{color:#ffffff!important;background-color:#007cc3!important}#Top_bar #logo,.header-fixed #Top_bar #logo,.header-plain #Top_bar #logo,.header-transparent #Top_bar #logo{height:60px;line-height:60px;padding:15px 0}.logo-overflow #Top_bar:not(.is-sticky) .logo{height:90px}#Top_bar .menu > li > a{padding:15px 0}.menu-highlight:not(.header-creative) #Top_bar .menu > li > a{margin:20px 0}.header-plain:not(.menu-highlight) #Top_bar .menu > li > a span:not(.description){line-height:90px}.header-fixed #Top_bar .menu > li > a{padding:30px 0}@media only screen and (max-width:767px){.mobile-header-mini #Top_bar #logo{height:50px!important;line-height:50px!important;margin:5px 0}}.twentytwenty-before-label::before{content:"Before"}.twentytwenty-after-label::before{content:"After"}.image_frame,.wp-caption{border-width:0px}.alert{border-radius:0px}#Top_bar .top_bar_right .top-bar-right-input input{width:200px}.mfn-live-search-box .mfn-live-search-list{max-height:300px}#Side_slide{right:-250px;width:250px}#Side_slide.left{left:-250px}.blog-teaser li .desc-wrapper .desc{background-position-y:-1px}@media only screen and ( max-width:767px ){}@media only screen and (min-width:1240px){body:not(.header-simple) #Top_bar #menu{display:block!important}.tr-menu #Top_bar #menu{background:none!important}#Top_bar .menu > li > ul.mfn-megamenu > li{float:left}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-1{width:100%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-2{width:50%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-3{width:33.33%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-4{width:25%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-5{width:20%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-6{width:16.66%}#Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto;border-width:0 1px 0 0}#Top_bar .menu > li > ul.mfn-megamenu > li:last-child > ul{border:0}#Top_bar .menu > li > ul.mfn-megamenu > li > ul li{width:auto}#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400;background:none}#Top_bar .menu > li > ul.mfn-megamenu a .menu-arrow{display:none}.menuo-right #Top_bar .menu > li > ul.mfn-megamenu{left:0;width:98%!important;margin:0 1%;padding:20px 0}.menuo-right #Top_bar .menu > li > ul.mfn-megamenu-bg{box-sizing:border-box}#Top_bar .menu > li > ul.mfn-megamenu-bg{padding:20px 166px 20px 20px;background-repeat:no-repeat;background-position:right bottom}.rtl #Top_bar .menu > li > ul.mfn-megamenu-bg{padding-left:166px;padding-right:20px;background-position:left bottom}#Top_bar .menu > li > ul.mfn-megamenu-bg > li{background:none}#Top_bar .menu > li > ul.mfn-megamenu-bg > li a{border:none}#Top_bar .menu > li > ul.mfn-megamenu-bg > li > ul{background:none!important;-webkit-box-shadow:0 0 0 0;-moz-box-shadow:0 0 0 0;box-shadow:0 0 0 0}.mm-vertical #Top_bar .container{position:relative}.mm-vertical #Top_bar .top_bar_left{position:static}.mm-vertical #Top_bar .menu > li ul{box-shadow:0 0 0 0 transparent!important;background-image:none}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu{padding:20px 0}.mm-vertical.header-plain #Top_bar .menu > li > ul.mfn-megamenu{width:100%!important;margin:0}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li{display:table-cell;float:none!important;width:10%;padding:0 15px;border-right:1px solid rgba(0,0,0,0.05)}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li:last-child{border-right-width:0}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li.hide-border{border-right-width:0}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li a{border-bottom-width:0;padding:9px 15px;line-height:120%}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{font-weight:700}.rtl .mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li:first-child{border-right-width:0}.rtl .mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li:last-child{border-right-width:1px}.header-plain:not(.menuo-right) #Header .top_bar_left{width:auto!important}.header-stack.header-center #Top_bar #menu{display:inline-block!important}.header-simple #Top_bar #menu{display:none;height:auto;width:300px;bottom:auto;top:100%;right:1px;position:absolute;margin:0}.header-simple #Header a.responsive-menu-toggle{display:block;right:10px}.header-simple #Top_bar #menu > ul{width:100%;float:left}.header-simple #Top_bar #menu ul li{width:100%;padding-bottom:0;border-right:0;position:relative}.header-simple #Top_bar #menu ul li a{padding:0 20px;margin:0;display:block;height:auto;line-height:normal;border:none}.header-simple #Top_bar #menu ul li a:after{display:none}.header-simple #Top_bar #menu ul li a span{border:none;line-height:44px;display:inline;padding:0}.header-simple #Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:0;top:0;width:44px;height:44px;line-height:44px;font-size:30px;font-weight:300;text-align:center;cursor:pointer;color:#444;opacity:0.33}.header-simple #Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}.header-simple #Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}.header-simple #Top_bar #menu ul li.hover a{border-bottom:0}.header-simple #Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}.header-simple #Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin:0!important;width:auto!important;background-image:none}.header-simple #Top_bar #menu ul li ul li{width:100%!important;display:block;padding:0}.header-simple #Top_bar #menu ul li ul li a{padding:0 20px 0 30px}.header-simple #Top_bar #menu ul li ul li a .menu-arrow{display:none}.header-simple #Top_bar #menu ul li ul li a span{padding:0}.header-simple #Top_bar #menu ul li ul li a span:after{display:none!important}.header-simple #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}.header-simple #Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}.header-simple #Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}.header-simple #Top_bar #menu ul li ul li ul li a{padding:0 20px 0 40px}.rtl.header-simple #Top_bar #menu{left:1px;right:auto}.rtl.header-simple #Top_bar a.responsive-menu-toggle{left:10px;right:auto}.rtl.header-simple #Top_bar #menu ul li.submenu .menu-toggle{left:0;right:auto}.rtl.header-simple #Top_bar #menu ul li ul{left:auto!important;right:0!important}.rtl.header-simple #Top_bar #menu ul li ul li a{padding:0 30px 0 20px}.rtl.header-simple #Top_bar #menu ul li ul li ul li a{padding:0 40px 0 20px}.menu-highlight #Top_bar .menu > li{margin:0 2px}.menu-highlight:not(.header-creative) #Top_bar .menu > li > a{padding:0;-webkit-border-radius:5px;border-radius:5px}.menu-highlight #Top_bar .menu > li > a:after{display:none}.menu-highlight #Top_bar .menu > li > a span:not(.description){line-height:50px}.menu-highlight #Top_bar .menu > li > a span.description{display:none}.menu-highlight.header-stack #Top_bar .menu > li > a{margin:10px 0!important}.menu-highlight.header-stack #Top_bar .menu > li > a span:not(.description){line-height:40px}.menu-highlight.header-transparent #Top_bar .menu > li > a{margin:5px 0}.menu-highlight.header-simple #Top_bar #menu ul li,.menu-highlight.header-creative #Top_bar #menu ul li{margin:0}.menu-highlight.header-simple #Top_bar #menu ul li > a,.menu-highlight.header-creative #Top_bar #menu ul li > a{-webkit-border-radius:0;border-radius:0}.menu-highlight:not(.header-fixed):not(.header-simple) #Top_bar.is-sticky .menu > li > a{margin:10px 0!important;padding:5px 0!important}.menu-highlight:not(.header-fixed):not(.header-simple) #Top_bar.is-sticky .menu > li > a span{line-height:30px!important}.header-modern.menu-highlight.menuo-right .menu_wrapper{margin-right:20px}.menu-line-below #Top_bar .menu > li > a:after{top:auto;bottom:-4px}.menu-line-below #Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:-4px}.menu-line-below-80 #Top_bar:not(.is-sticky) .menu > li > a:after{height:4px;left:10%;top:50%;margin-top:20px;width:80%}.menu-line-below-80-1 #Top_bar:not(.is-sticky) .menu > li > a:after{height:1px;left:10%;top:50%;margin-top:20px;width:80%}.menu-link-color #Top_bar .menu > li > a:after{display:none!important}.menu-arrow-top #Top_bar .menu > li > a:after{background:none repeat scroll 0 0 rgba(0,0,0,0)!important;border-color:#ccc transparent transparent;border-style:solid;border-width:7px 7px 0;display:block;height:0;left:50%;margin-left:-7px;top:0!important;width:0}.menu-arrow-top #Top_bar.is-sticky .menu > li > a:after{top:0!important}.menu-arrow-bottom #Top_bar .menu > li > a:after{background:none!important;border-color:transparent transparent #ccc;border-style:solid;border-width:0 7px 7px;display:block;height:0;left:50%;margin-left:-7px;top:auto;bottom:0;width:0}.menu-arrow-bottom #Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:0}.menuo-no-borders #Top_bar .menu > li > a span{border-width:0!important}.menuo-no-borders #Header_creative #Top_bar .menu > li > a span{border-bottom-width:0}.menuo-no-borders.header-plain #Top_bar a#header_cart,.menuo-no-borders.header-plain #Top_bar a#search_button,.menuo-no-borders.header-plain #Top_bar .wpml-languages,.menuo-no-borders.header-plain #Top_bar a.action_button{border-width:0}.menuo-right #Top_bar .menu_wrapper{float:right}.menuo-right.header-stack:not(.header-center) #Top_bar .menu_wrapper{margin-right:150px}body.header-creative{padding-left:50px}body.header-creative.header-open{padding-left:250px}body.error404,body.under-construction,body.template-blank,body.under-construction.header-rtl.header-creative.header-open{padding-left:0!important;padding-right:0!important}.header-creative.footer-fixed #Footer,.header-creative.footer-sliding #Footer,.header-creative.footer-stick #Footer.is-sticky{box-sizing:border-box;padding-left:50px}.header-open.footer-fixed #Footer,.header-open.footer-sliding #Footer,.header-creative.footer-stick #Footer.is-sticky{padding-left:250px}.header-rtl.header-creative.footer-fixed #Footer,.header-rtl.header-creative.footer-sliding #Footer,.header-rtl.header-creative.footer-stick #Footer.is-sticky{padding-left:0;padding-right:50px}.header-rtl.header-open.footer-fixed #Footer,.header-rtl.header-open.footer-sliding #Footer,.header-rtl.header-creative.footer-stick #Footer.is-sticky{padding-right:250px}#Header_creative{background-color:#fff;position:fixed;width:250px;height:100%;left:-200px;top:0;z-index:9002;-webkit-box-shadow:2px 0 4px 2px rgba(0,0,0,.15);box-shadow:2px 0 4px 2px rgba(0,0,0,.15)}#Header_creative .container{width:100%}#Header_creative .creative-wrapper{opacity:0;margin-right:50px}#Header_creative a.creative-menu-toggle{display:block;width:34px;height:34px;line-height:34px;font-size:22px;text-align:center;position:absolute;top:10px;right:8px;border-radius:3px}.admin-bar #Header_creative a.creative-menu-toggle{top:42px}#Header_creative #Top_bar{position:static;width:100%}#Header_creative #Top_bar .top_bar_left{width:100%!important;float:none}#Header_creative #Top_bar .logo{float:none;text-align:center;margin:15px 0}#Header_creative #Top_bar #menu{background-color:transparent}#Header_creative #Top_bar .menu_wrapper{float:none;margin:0 0 30px}#Header_creative #Top_bar .menu > li{width:100%;float:none;position:relative}#Header_creative #Top_bar .menu > li > a{padding:0;text-align:center}#Header_creative #Top_bar .menu > li > a:after{display:none}#Header_creative #Top_bar .menu > li > a span{border-right:0;border-bottom-width:1px;line-height:38px}#Header_creative #Top_bar .menu li ul{left:100%;right:auto;top:0;box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03);-webkit-box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03)}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu{margin:0;width:700px!important}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu > li > ul{left:0}#Header_creative #Top_bar .menu li ul li a{padding-top:9px;padding-bottom:8px}#Header_creative #Top_bar .menu li ul li ul{top:0}#Header_creative #Top_bar .menu > li > a span.description{display:block;font-size:13px;line-height:28px!important;clear:both}#Header_creative #Top_bar .top_bar_right{width:100%!important;float:none;height:auto;margin-bottom:35px;text-align:center;padding:0 20px;top:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}#Header_creative #Top_bar .top_bar_right:before{content:none}#Header_creative #Top_bar .top_bar_right .top_bar_right_wrapper{flex-wrap:wrap;justify-content:center}#Header_creative #Top_bar .top_bar_right .top-bar-right-icon,#Header_creative #Top_bar .top_bar_right .wpml-languages,#Header_creative #Top_bar .top_bar_right .top-bar-right-button,#Header_creative #Top_bar .top_bar_right .top-bar-right-input{min-height:30px;margin:5px}#Header_creative #Top_bar .search_wrapper{left:100%;top:auto}#Header_creative #Top_bar .banner_wrapper{display:block;text-align:center}#Header_creative #Top_bar .banner_wrapper img{max-width:100%;height:auto;display:inline-block}#Header_creative #Action_bar{display:none;position:absolute;bottom:0;top:auto;clear:both;padding:0 20px;box-sizing:border-box}#Header_creative #Action_bar .contact_details{text-align:center;margin-bottom:20px}#Header_creative #Action_bar .contact_details li{padding:0}#Header_creative #Action_bar .social{float:none;text-align:center;padding:5px 0 15px}#Header_creative #Action_bar .social li{margin-bottom:2px}#Header_creative #Action_bar .social-menu{float:none;text-align:center}#Header_creative #Action_bar .social-menu li{border-color:rgba(0,0,0,.1)}#Header_creative .social li a{color:rgba(0,0,0,.5)}#Header_creative .social li a:hover{color:#000}#Header_creative .creative-social{position:absolute;bottom:10px;right:0;width:50px}#Header_creative .creative-social li{display:block;float:none;width:100%;text-align:center;margin-bottom:5px}.header-creative .fixed-nav.fixed-nav-prev{margin-left:50px}.header-creative.header-open .fixed-nav.fixed-nav-prev{margin-left:250px}.menuo-last #Header_creative #Top_bar .menu li.last ul{top:auto;bottom:0}.header-open #Header_creative{left:0}.header-open #Header_creative .creative-wrapper{opacity:1;margin:0!important}.header-open #Header_creative .creative-menu-toggle,.header-open #Header_creative .creative-social{display:none}.header-open #Header_creative #Action_bar{display:block}body.header-rtl.header-creative{padding-left:0;padding-right:50px}.header-rtl #Header_creative{left:auto;right:-200px}.header-rtl #Header_creative .creative-wrapper{margin-left:50px;margin-right:0}.header-rtl #Header_creative a.creative-menu-toggle{left:8px;right:auto}.header-rtl #Header_creative .creative-social{left:0;right:auto}.header-rtl #Footer #back_to_top.sticky{right:125px}.header-rtl #popup_contact{right:70px}.header-rtl #Header_creative #Top_bar .menu li ul{left:auto;right:100%}.header-rtl #Header_creative #Top_bar .search_wrapper{left:auto;right:100%}.header-rtl .fixed-nav.fixed-nav-prev{margin-left:0!important}.header-rtl .fixed-nav.fixed-nav-next{margin-right:50px}body.header-rtl.header-creative.header-open{padding-left:0;padding-right:250px!important}.header-rtl.header-open #Header_creative{left:auto;right:0}.header-rtl.header-open #Footer #back_to_top.sticky{right:325px}.header-rtl.header-open #popup_contact{right:270px}.header-rtl.header-open .fixed-nav.fixed-nav-next{margin-right:250px}#Header_creative.active{left:-1px}.header-rtl #Header_creative.active{left:auto;right:-1px}#Header_creative.active .creative-wrapper{opacity:1;margin:0}.header-creative .vc_row[data-vc-full-width]{padding-left:50px}.header-creative.header-open .vc_row[data-vc-full-width]{padding-left:250px}.header-open .vc_parallax .vc_parallax-inner{left:auto;width:calc(100% - 250px)}.header-open.header-rtl .vc_parallax .vc_parallax-inner{left:0;right:auto}#Header_creative.scroll{height:100%;overflow-y:auto}#Header_creative.scroll:not(.dropdown) .menu li ul{display:none!important}#Header_creative.scroll #Action_bar{position:static}#Header_creative.dropdown{outline:none}#Header_creative.dropdown #Top_bar .menu_wrapper{float:left}#Header_creative.dropdown #Top_bar #menu ul li{position:relative;float:left}#Header_creative.dropdown #Top_bar #menu ul li a:after{display:none}#Header_creative.dropdown #Top_bar #menu ul li a span{line-height:38px;padding:0}#Header_creative.dropdown #Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:0;top:0;width:38px;height:38px;line-height:38px;font-size:26px;font-weight:300;text-align:center;cursor:pointer;color:#444;opacity:0.33}#Header_creative.dropdown #Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}#Header_creative.dropdown #Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}#Header_creative.dropdown #Top_bar #menu ul li.hover a{border-bottom:0}#Header_creative.dropdown #Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}#Header_creative.dropdown #Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin-left:0!important;width:auto!important;background-image:none}#Header_creative.dropdown #Top_bar #menu ul li ul li{width:100%!important}#Header_creative.dropdown #Top_bar #menu ul li ul li a{padding:0 10px;text-align:center}#Header_creative.dropdown #Top_bar #menu ul li ul li a .menu-arrow{display:none}#Header_creative.dropdown #Top_bar #menu ul li ul li a span{padding:0}#Header_creative.dropdown #Top_bar #menu ul li ul li a span:after{display:none!important}#Header_creative.dropdown #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}#Header_creative.dropdown #Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}#Header_creative.dropdown #Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}#Header_creative{transition:left .5s ease-in-out,right .5s ease-in-out}#Header_creative .creative-wrapper{transition:opacity .5s ease-in-out,margin 0s ease-in-out .5s}#Header_creative.active .creative-wrapper{transition:opacity .5s ease-in-out,margin 0s ease-in-out}}@media only screen and (min-width:1240px){#Top_bar.is-sticky{position:fixed!important;width:100%;left:0;top:-60px;height:60px;z-index:701;background:#fff;opacity:.97;-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,0.1);-moz-box-shadow:0 2px 5px 0 rgba(0,0,0,0.1);box-shadow:0 2px 5px 0 rgba(0,0,0,0.1)}.layout-boxed.header-boxed #Top_bar.is-sticky{max-width:1240px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}#Top_bar.is-sticky .top_bar_left,#Top_bar.is-sticky .top_bar_right,#Top_bar.is-sticky .top_bar_right:before{background:none;box-shadow:unset}#Top_bar.is-sticky .logo{width:auto;margin:0 30px 0 20px;padding:0}#Top_bar.is-sticky #logo,#Top_bar.is-sticky .custom-logo-link{padding:5px 0!important;height:50px!important;line-height:50px!important}.logo-no-sticky-padding #Top_bar.is-sticky #logo{height:60px!important;line-height:60px!important}#Top_bar.is-sticky #logo img.logo-main{display:none}#Top_bar.is-sticky #logo img.logo-sticky{display:inline;max-height:35px}.logo-sticky-width-auto #Top_bar.is-sticky #logo img.logo-sticky{width:auto}#Top_bar.is-sticky .menu_wrapper{clear:none}#Top_bar.is-sticky .menu_wrapper .menu > li > a{padding:15px 0}#Top_bar.is-sticky .menu > li > a,#Top_bar.is-sticky .menu > li > a span{line-height:30px}#Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:-4px}#Top_bar.is-sticky .menu > li > a span.description{display:none}#Top_bar.is-sticky .secondary_menu_wrapper,#Top_bar.is-sticky .banner_wrapper{display:none}.header-overlay #Top_bar.is-sticky{display:none}.sticky-dark #Top_bar.is-sticky,.sticky-dark #Top_bar.is-sticky #menu{background:rgba(0,0,0,.8)}.sticky-dark #Top_bar.is-sticky .menu > li:not(.current-menu-item) > a{color:#fff}.sticky-dark #Top_bar.is-sticky .top_bar_right .top-bar-right-icon{color:rgba(255,255,255,.9)}.sticky-dark #Top_bar.is-sticky .top_bar_right .top-bar-right-icon svg .path{stroke:rgba(255,255,255,.9)}.sticky-dark #Top_bar.is-sticky .wpml-languages a.active,.sticky-dark #Top_bar.is-sticky .wpml-languages ul.wpml-lang-dropdown{background:rgba(0,0,0,0.1);border-color:rgba(0,0,0,0.1)}.sticky-white #Top_bar.is-sticky,.sticky-white #Top_bar.is-sticky #menu{background:rgba(255,255,255,.8)}.sticky-white #Top_bar.is-sticky .menu > li:not(.current-menu-item) > a{color:#222}.sticky-white #Top_bar.is-sticky .top_bar_right .top-bar-right-icon{color:rgba(0,0,0,.8)}.sticky-white #Top_bar.is-sticky .top_bar_right .top-bar-right-icon svg .path{stroke:rgba(0,0,0,.8)}.sticky-white #Top_bar.is-sticky .wpml-languages a.active,.sticky-white #Top_bar.is-sticky .wpml-languages ul.wpml-lang-dropdown{background:rgba(255,255,255,0.1);border-color:rgba(0,0,0,0.1)}}@media only screen and (min-width:768px) and (max-width:1240px){.header_placeholder{height:0!important}}@media only screen and (max-width:1239px){#Top_bar #menu{display:none;height:auto;width:300px;bottom:auto;top:100%;right:1px;position:absolute;margin:0}#Top_bar a.responsive-menu-toggle{display:block}#Top_bar #menu > ul{width:100%;float:left}#Top_bar #menu ul li{width:100%;padding-bottom:0;border-right:0;position:relative}#Top_bar #menu ul li a{padding:0 25px;margin:0;display:block;height:auto;line-height:normal;border:none}#Top_bar #menu ul li a:after{display:none}#Top_bar #menu ul li a span{border:none;line-height:44px;display:inline;padding:0}#Top_bar #menu ul li a span.description{margin:0 0 0 5px}#Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:15px;top:0;width:44px;height:44px;line-height:44px;font-size:30px;font-weight:300;text-align:center;cursor:pointer;color:#444;opacity:0.33}#Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}#Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}#Top_bar #menu ul li.hover a{border-bottom:0}#Top_bar #menu ul li a span:after{display:none!important}#Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}#Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin-left:0!important;width:auto!important;background-image:none!important;box-shadow:0 0 0 0 transparent!important;-webkit-box-shadow:0 0 0 0 transparent!important}#Top_bar #menu ul li ul li{width:100%!important}#Top_bar #menu ul li ul li a{padding:0 20px 0 35px}#Top_bar #menu ul li ul li a .menu-arrow{display:none}#Top_bar #menu ul li ul li a span{padding:0}#Top_bar #menu ul li ul li a span:after{display:none!important}#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}#Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}#Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}#Top_bar #menu ul li ul li ul li a{padding:0 20px 0 45px}.rtl #Top_bar #menu{left:1px;right:auto}.rtl #Top_bar a.responsive-menu-toggle{left:20px;right:auto}.rtl #Top_bar #menu ul li.submenu .menu-toggle{left:15px;right:auto;border-left:none;border-right:1px solid #eee}.rtl #Top_bar #menu ul li ul{left:auto!important;right:0!important}.rtl #Top_bar #menu ul li ul li a{padding:0 30px 0 20px}.rtl #Top_bar #menu ul li ul li ul li a{padding:0 40px 0 20px}.header-shop #Top_bar .top_bar_row_second{display:none}.header-stack .menu_wrapper a.responsive-menu-toggle{position:static!important;margin:11px 0!important}.header-stack .menu_wrapper #menu{left:0;right:auto}.rtl.header-stack #Top_bar #menu{left:auto;right:0}.admin-bar #Header_creative{top:32px}.header-creative.layout-boxed{padding-top:85px}.header-creative.layout-full-width #Wrapper{padding-top:60px}#Header_creative{position:fixed;width:100%;left:0!important;top:0;z-index:1001}#Header_creative .creative-wrapper{display:block!important;opacity:1!important}#Header_creative .creative-menu-toggle,#Header_creative .creative-social{display:none!important;opacity:1!important}#Header_creative #Top_bar{position:static;width:100%}#Header_creative #Top_bar .one{display:flex}#Header_creative #Top_bar #logo,#Header_creative #Top_bar .custom-logo-link{height:50px;line-height:50px;padding:5px 0}#Header_creative #Top_bar #logo img.logo-sticky{max-height:40px!important}#Header_creative #logo img.logo-main{display:none}#Header_creative #logo img.logo-sticky{display:inline-block}.logo-no-sticky-padding #Header_creative #Top_bar #logo{height:60px;line-height:60px;padding:0}.logo-no-sticky-padding #Header_creative #Top_bar #logo img.logo-sticky{max-height:60px!important}#Header_creative #Action_bar{display:none}#Header_creative #Top_bar .top_bar_right:before{content:none}#Header_creative.scroll{overflow:visible!important}}body{--mfn-woo-body-color:#383838;--mfn-woo-heading-color:#161922;--mfn-woo-themecolor:#28be68;--mfn-woo-bg-themecolor:#28be68;--mfn-woo-border-themecolor:#28be68}#Header_wrapper,#Intro{background-color:#000119}#Subheader{background-color:rgba(247,247,247,1)}.header-classic #Action_bar,.header-fixed #Action_bar,.header-plain #Action_bar,.header-split #Action_bar,.header-shop #Action_bar,.header-stack #Action_bar{background-color:#292b33}#Sliding-top{background-color:#545454}#Sliding-top a.sliding-top-control{border-right-color:#545454}#Sliding-top.st-center a.sliding-top-control,#Sliding-top.st-left a.sliding-top-control{border-top-color:#545454}#Footer{background-color:#292b33}.grid .post-item,.masonry:not(.tiles) .post-item,.photo2 .post .post-desc-wrapper{background-color:#ffffff}.portfolio_group .portfolio-item .desc{background-color:#ffffff}.woocommerce ul.products li.product,.shop_slider .shop_slider_ul li .item_wrapper .desc{background-color:transparent}body,ul.timeline_items,.icon_box a .desc,.icon_box a:hover .desc,.feature_list ul li a,.list_item a,.list_item a:hover,.widget_recent_entries ul li a,.flat_box a,.flat_box a:hover,.story_box .desc,.content_slider.carousel  ul li a .title,.content_slider.flat.description ul li .desc,.content_slider.flat.description ul li a .desc,.post-nav.minimal a i{color:#383838}.post-nav.minimal a svg{fill:#383838}.themecolor,.opening_hours .opening_hours_wrapper li span,.fancy_heading_icon .icon_top,.fancy_heading_arrows .icon-right-dir,.fancy_heading_arrows .icon-left-dir,.fancy_heading_line .title,.button-love a.mfn-love,.format-link .post-title .icon-link,.pager-single > span,.pager-single a:hover,.widget_meta ul,.widget_pages ul,.widget_rss ul,.widget_mfn_recent_comments ul li:after,.widget_archive ul,.widget_recent_comments ul li:after,.widget_nav_menu ul,.woocommerce ul.products li.product .price,.shop_slider .shop_slider_ul li .item_wrapper .price,.woocommerce-page ul.products li.product .price,.widget_price_filter .price_label .from,.widget_price_filter .price_label .to,.woocommerce ul.product_list_widget li .quantity .amount,.woocommerce .product div.entry-summary .price,.woocommerce .star-rating span,#Error_404 .error_pic i,.style-simple #Filters .filters_wrapper ul li a:hover,.style-simple #Filters .filters_wrapper ul li.current-cat a,.style-simple .quick_fact .title,.mfn-cart-holder .mfn-ch-content .mfn-ch-product .woocommerce-Price-amount,.woocommerce .comment-form-rating p.stars a:before,.wishlist .wishlist-row .price,.search-results .search-item .post-product-price{color:#28be68}.mfn-wish-button.loved:not(.link) .path{fill:#28be68;stroke:#28be68}.themebg,#comments .commentlist > li .reply a.comment-reply-link,#Filters .filters_wrapper ul li a:hover,#Filters .filters_wrapper ul li.current-cat a,.fixed-nav .arrow,.offer_thumb .slider_pagination a:before,.offer_thumb .slider_pagination a.selected:after,.pager .pages a:hover,.pager .pages a.active,.pager .pages span.page-numbers.current,.pager-single span:after,.portfolio_group.exposure .portfolio-item .desc-inner .line,.Recent_posts ul li .desc:after,.Recent_posts ul li .photo .c,.slider_pagination a.selected,.slider_pagination .slick-active a,.slider_pagination a.selected:after,.slider_pagination .slick-active a:after,.testimonials_slider .slider_images,.testimonials_slider .slider_images a:after,.testimonials_slider .slider_images:before,#Top_bar .header-cart-count,#Top_bar .header-wishlist-count,.mfn-footer-stickymenu ul li a .header-wishlist-count,.mfn-footer-stickymenu ul li a .header-cart-count,.widget_categories ul,.widget_mfn_menu ul li a:hover,.widget_mfn_menu ul li.current-menu-item:not(.current-menu-ancestor) > a,.widget_mfn_menu ul li.current_page_item:not(.current_page_ancestor) > a,.widget_product_categories ul,.widget_recent_entries ul li:after,.woocommerce-account table.my_account_orders .order-number a,.woocommerce-MyAccount-navigation ul li.is-active a,.style-simple .accordion .question:after,.style-simple .faq .question:after,.style-simple .icon_box .desc_wrapper .title:before,.style-simple #Filters .filters_wrapper ul li a:after,.style-simple .article_box .desc_wrapper p:after,.style-simple .sliding_box .desc_wrapper:after,.style-simple .trailer_box:hover .desc,.tp-bullets.simplebullets.round .bullet.selected,.tp-bullets.simplebullets.round .bullet.selected:after,.tparrows.default,.tp-bullets.tp-thumbs .bullet.selected:after{background-color:#28be68}.Latest_news ul li .photo,.Recent_posts.blog_news ul li .photo,.style-simple .opening_hours .opening_hours_wrapper li label,.style-simple .timeline_items li:hover h3,.style-simple .timeline_items li:nth-child(even):hover h3,.style-simple .timeline_items li:hover .desc,.style-simple .timeline_items li:nth-child(even):hover,.style-simple .offer_thumb .slider_pagination a.selected{border-color:#28be68}a{color:#28be68}a:hover{color:#28be68}*::-moz-selection{background-color:#28be68;color:white}*::selection{background-color:#28be68;color:white}.blockquote p.author span,.counter .desc_wrapper .title,.article_box .desc_wrapper p,.team .desc_wrapper p.subtitle,.pricing-box .plan-header p.subtitle,.pricing-box .plan-header .price sup.period,.chart_box p,.fancy_heading .inside,.fancy_heading_line .slogan,.post-meta,.post-meta a,.post-footer,.post-footer a span.label,.pager .pages a,.button-love a .label,.pager-single a,#comments .commentlist > li .comment-author .says,.fixed-nav .desc .date,.filters_buttons li.label,.Recent_posts ul li a .desc .date,.widget_recent_entries ul li .post-date,.tp_recent_tweets .twitter_time,.widget_price_filter .price_label,.shop-filters .woocommerce-result-count,.woocommerce ul.product_list_widget li .quantity,.widget_shopping_cart ul.product_list_widget li dl,.product_meta .posted_in,.woocommerce .shop_table .product-name .variation > dd,.shipping-calculator-button:after,.shop_slider .shop_slider_ul li .item_wrapper .price del,.woocommerce .product .entry-summary .woocommerce-product-rating .woocommerce-review-link,.woocommerce .product.style-default .entry-summary .product_meta .tagged_as,.woocommerce .tagged_as,.wishlist .sku_wrapper,.woocommerce .column_product_rating .woocommerce-review-link,.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__verified,.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__dash,.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__published-date,.testimonials_slider .testimonials_slider_ul li .author span,.testimonials_slider .testimonials_slider_ul li .author span a,.Latest_news ul li .desc_footer,.share-simple-wrapper .icons a{color:#a8a8a8}h1,h1 a,h1 a:hover,.text-logo #logo{color:#161922}h2,h2 a,h2 a:hover{color:#161922}h3,h3 a,h3 a:hover{color:#161922}h4,h4 a,h4 a:hover,.style-simple .sliding_box .desc_wrapper h4{color:#161922}h5,h5 a,h5 a:hover{color:#161922}h6,h6 a,h6 a:hover,a.content_link .title{color:#161922}.woocommerce #customer_login h2{color:#161922} .woocommerce .woocommerce-order-details__title,.woocommerce .wc-bacs-bank-details-heading,.woocommerce .woocommerce-customer-details h2,.woocommerce #respond .comment-reply-title,.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__author{color:#161922} .dropcap,.highlight:not(.highlight_image){background-color:#28be68}.button-default .button_theme,.button-default button,.button-default input[type="button"],.button-default input[type="reset"],.button-default input[type="submit"],.button-flat .button_theme,.button-flat button,.button-flat input[type="button"],.button-flat input[type="reset"],.button-flat input[type="submit"],.button-round .button_theme,.button-round button,.button-round input[type="button"],.button-round input[type="reset"],.button-round input[type="submit"],.woocommerce #respond input#submit,.woocommerce a.button:not(.default),.woocommerce button.button,.woocommerce input.button,.woocommerce #respond input#submit:hover,.woocommerce a.button:not(.default):hover,.woocommerce button.button:hover,.woocommerce input.button:hover{background-color:#28be68}.button-stroke .button_theme,.button-stroke .button_theme .button_icon i,.button-stroke button,.button-stroke input[type="submit"],.button-stroke input[type="reset"],.button-stroke input[type="button"],.button-stroke .woocommerce #respond input#submit,.button-stroke .woocommerce a.button:not(.default),.button-stroke .woocommerce button.button,.button-stroke.woocommerce input.button{border-color:#28be68;color:#28be68 !important}.button-stroke .button_theme:hover,.button-stroke button:hover,.button-stroke input[type="submit"]:hover,.button-stroke input[type="reset"]:hover,.button-stroke input[type="button"]:hover{background-color:#28be68}.button-default .single_add_to_cart_button,.button-flat .single_add_to_cart_button,.button-round .single_add_to_cart_button,.button-default .woocommerce .button:disabled,.button-flat .woocommerce .button:disabled,.button-round .woocommerce .button:disabled,.button-default .woocommerce .button.alt,.button-flat .woocommerce .button.alt,.button-round .woocommerce .button.alt{background-color:#28be68!important}.button-stroke .single_add_to_cart_button:hover,.button-stroke #place_order:hover{background-color:#28be68!important}a.mfn-link{color:#383838}a.mfn-link-2 span,a:hover.mfn-link-2 span:before,a.hover.mfn-link-2 span:before,a.mfn-link-5 span,a.mfn-link-8:after,a.mfn-link-8:before{background:#28be68}a:hover.mfn-link{color:#28be68}a.mfn-link-2 span:before,a:hover.mfn-link-4:before,a:hover.mfn-link-4:after,a.hover.mfn-link-4:before,a.hover.mfn-link-4:after,a.mfn-link-5:before,a.mfn-link-7:after,a.mfn-link-7:before{background:#28be68}a.mfn-link-6:before{border-bottom-color:#28be68}a.mfn-link svg .path{stroke:#28be68}.column_column ul,.column_column ol,.the_content_wrapper:not(.is-elementor) ul,.the_content_wrapper:not(.is-elementor) ol{color:#737E86}hr.hr_color,.hr_color hr,.hr_dots span{color:#28be68;background:#28be68}.hr_zigzag i{color:#28be68}.highlight-left:after,.highlight-right:after{background:#28be68}@media only screen and (max-width:767px){.highlight-left .wrap:first-child,.highlight-right .wrap:last-child{background:#28be68}}#Header .top_bar_left,.header-classic #Top_bar,.header-plain #Top_bar,.header-stack #Top_bar,.header-split #Top_bar,.header-shop #Top_bar,.header-fixed #Top_bar,.header-below #Top_bar,#Header_creative,#Top_bar #menu,.sticky-tb-color #Top_bar.is-sticky{background-color:#ffffff}#Top_bar .wpml-languages a.active,#Top_bar .wpml-languages ul.wpml-lang-dropdown{background-color:#ffffff}#Top_bar .top_bar_right:before{background-color:#e3e3e3}#Header .top_bar_right{background-color:#f5f5f5}#Top_bar .top_bar_right .top-bar-right-icon,#Top_bar .top_bar_right .top-bar-right-icon svg .path{color:#333333;stroke:#333333}#Top_bar .menu > li > a,#Top_bar #menu ul li.submenu .menu-toggle{color:#ffffff}#Top_bar .menu > li.current-menu-item > a,#Top_bar .menu > li.current_page_item > a,#Top_bar .menu > li.current-menu-parent > a,#Top_bar .menu > li.current-page-parent > a,#Top_bar .menu > li.current-menu-ancestor > a,#Top_bar .menu > li.current-page-ancestor > a,#Top_bar .menu > li.current_page_ancestor > a,#Top_bar .menu > li.hover > a{color:#020202}#Top_bar .menu > li a:after{background:#020202}.menuo-arrows #Top_bar .menu > li.submenu > a > span:not(.description)::after{border-top-color:#ffffff}#Top_bar .menu > li.current-menu-item.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current_page_item.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-menu-parent.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-page-parent.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-menu-ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-page-ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current_page_ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.hover.submenu > a > span:not(.description)::after{border-top-color:#020202}.menu-highlight #Top_bar #menu > ul > li.current-menu-item > a,.menu-highlight #Top_bar #menu > ul > li.current_page_item > a,.menu-highlight #Top_bar #menu > ul > li.current-menu-parent > a,.menu-highlight #Top_bar #menu > ul > li.current-page-parent > a,.menu-highlight #Top_bar #menu > ul > li.current-menu-ancestor > a,.menu-highlight #Top_bar #menu > ul > li.current-page-ancestor > a,.menu-highlight #Top_bar #menu > ul > li.current_page_ancestor > a,.menu-highlight #Top_bar #menu > ul > li.hover > a{background:#F2F2F2}.menu-arrow-bottom #Top_bar .menu > li > a:after{border-bottom-color:#020202}.menu-arrow-top #Top_bar .menu > li > a:after{border-top-color:#020202}.header-plain #Top_bar .menu > li.current-menu-item > a,.header-plain #Top_bar .menu > li.current_page_item > a,.header-plain #Top_bar .menu > li.current-menu-parent > a,.header-plain #Top_bar .menu > li.current-page-parent > a,.header-plain #Top_bar .menu > li.current-menu-ancestor > a,.header-plain #Top_bar .menu > li.current-page-ancestor > a,.header-plain #Top_bar .menu > li.current_page_ancestor > a,.header-plain #Top_bar .menu > li.hover > a,.header-plain #Top_bar .wpml-languages:hover,.header-plain #Top_bar .wpml-languages ul.wpml-lang-dropdown{background:#F2F2F2;color:#020202}.header-plain #Top_bar .top_bar_right .top-bar-right-icon:hover{background:#F2F2F2}.header-plain #Top_bar,.header-plain #Top_bar .menu > li > a span:not(.description),.header-plain #Top_bar .top_bar_right .top-bar-right-icon,.header-plain #Top_bar .top_bar_right .top-bar-right-button,.header-plain #Top_bar .top_bar_right .top-bar-right-input,.header-plain #Top_bar .wpml-languages{border-color:#f2f2f2}#Top_bar .menu > li ul{background-color:#F2F2F2}#Top_bar .menu > li ul li a{color:#5f5f5f}#Top_bar .menu > li ul li a:hover,#Top_bar .menu > li ul li.hover > a{color:#28be68}.overlay-menu-toggle{color:#000000 !important;background:transparent}#Overlay{background:rgba(0,149,235,0.95)}#overlay-menu ul li a,.header-overlay .overlay-menu-toggle.focus{color:#FFFFFF}#overlay-menu ul li.current-menu-item > a,#overlay-menu ul li.current_page_item > a,#overlay-menu ul li.current-menu-parent > a,#overlay-menu ul li.current-page-parent > a,#overlay-menu ul li.current-menu-ancestor > a,#overlay-menu ul li.current-page-ancestor > a,#overlay-menu ul li.current_page_ancestor > a{color:#B1DCFB}#Top_bar .responsive-menu-toggle,#Header_creative .creative-menu-toggle,#Header_creative .responsive-menu-toggle{color:#000000;background:transparent}.mfn-footer-stickymenu{background-color:#ffffff}.mfn-footer-stickymenu ul li a,.mfn-footer-stickymenu ul li a .path{color:#333333;stroke:#333333}#Side_slide{background-color:#28be68;border-color:#28be68}#Side_slide,#Side_slide #menu ul li.submenu .menu-toggle,#Side_slide .search-wrapper input.field,#Side_slide a:not(.action_button){color:#ffffff}#Side_slide .extras .extras-wrapper a svg .path{stroke:#ffffff}#Side_slide #menu ul li.hover > .menu-toggle,#Side_slide a.active,#Side_slide a:not(.action_button):hover{color:#020202}#Side_slide .extras .extras-wrapper a:hover svg .path{stroke:#020202}#Side_slide #menu ul li.current-menu-item > a,#Side_slide #menu ul li.current_page_item > a,#Side_slide #menu ul li.current-menu-parent > a,#Side_slide #menu ul li.current-page-parent > a,#Side_slide #menu ul li.current-menu-ancestor > a,#Side_slide #menu ul li.current-page-ancestor > a,#Side_slide #menu ul li.current_page_ancestor > a,#Side_slide #menu ul li.hover > a,#Side_slide #menu ul li:hover > a{color:#020202}#Action_bar .contact_details{color:#bbbbbb}#Action_bar .contact_details a{color:#0095eb}#Action_bar .contact_details a:hover{color:#007cc3}#Action_bar .social li a,#Header_creative .social li a,#Action_bar:not(.creative) .social-menu a{color:#bbbbbb}#Action_bar .social li a:hover,#Header_creative .social li a:hover,#Action_bar:not(.creative) .social-menu a:hover{color:#FFFFFF}#Subheader .title{color:#444444}#Subheader ul.breadcrumbs li,#Subheader ul.breadcrumbs li a{color:rgba(68,68,68,0.6)}#Footer,#Footer .widget_recent_entries ul li a{color:#cccccc}#Footer a{color:#28be68}#Footer a:hover{color:#28be68}#Footer h1,#Footer h1 a,#Footer h1 a:hover,#Footer h2,#Footer h2 a,#Footer h2 a:hover,#Footer h3,#Footer h3 a,#Footer h3 a:hover,#Footer h4,#Footer h4 a,#Footer h4 a:hover,#Footer h5,#Footer h5 a,#Footer h5 a:hover,#Footer h6,#Footer h6 a,#Footer h6 a:hover{color:#ffffff}#Footer .themecolor,#Footer .widget_meta ul,#Footer .widget_pages ul,#Footer .widget_rss ul,#Footer .widget_mfn_recent_comments ul li:after,#Footer .widget_archive ul,#Footer .widget_recent_comments ul li:after,#Footer .widget_nav_menu ul,#Footer .widget_price_filter .price_label .from,#Footer .widget_price_filter .price_label .to,#Footer .star-rating span{color:#28be68}#Footer .themebg,#Footer .widget_categories ul,#Footer .Recent_posts ul li .desc:after,#Footer .Recent_posts ul li .photo .c,#Footer .widget_recent_entries ul li:after,#Footer .widget_mfn_menu ul li a:hover,#Footer .widget_product_categories ul{background-color:#28be68}#Footer .Recent_posts ul li a .desc .date,#Footer .widget_recent_entries ul li .post-date,#Footer .tp_recent_tweets .twitter_time,#Footer .widget_price_filter .price_label,#Footer .shop-filters .woocommerce-result-count,#Footer ul.product_list_widget li .quantity,#Footer .widget_shopping_cart ul.product_list_widget li dl{color:#a8a8a8}#Footer .footer_copy .social li a,#Footer .footer_copy .social-menu a{color:#65666C}#Footer .footer_copy .social li a:hover,#Footer .footer_copy .social-menu a:hover{color:#FFFFFF}#Footer .footer_copy{border-top-color:rgba(255,255,255,0.1)}#Sliding-top,#Sliding-top .widget_recent_entries ul li a{color:#cccccc}#Sliding-top a{color:#0095eb}#Sliding-top a:hover{color:#007cc3}#Sliding-top h1,#Sliding-top h1 a,#Sliding-top h1 a:hover,#Sliding-top h2,#Sliding-top h2 a,#Sliding-top h2 a:hover,#Sliding-top h3,#Sliding-top h3 a,#Sliding-top h3 a:hover,#Sliding-top h4,#Sliding-top h4 a,#Sliding-top h4 a:hover,#Sliding-top h5,#Sliding-top h5 a,#Sliding-top h5 a:hover,#Sliding-top h6,#Sliding-top h6 a,#Sliding-top h6 a:hover{color:#ffffff}#Sliding-top .themecolor,#Sliding-top .widget_meta ul,#Sliding-top .widget_pages ul,#Sliding-top .widget_rss ul,#Sliding-top .widget_mfn_recent_comments ul li:after,#Sliding-top .widget_archive ul,#Sliding-top .widget_recent_comments ul li:after,#Sliding-top .widget_nav_menu ul,#Sliding-top .widget_price_filter .price_label .from,#Sliding-top .widget_price_filter .price_label .to,#Sliding-top .star-rating span{color:#0095eb}#Sliding-top .themebg,#Sliding-top .widget_categories ul,#Sliding-top .Recent_posts ul li .desc:after,#Sliding-top .Recent_posts ul li .photo .c,#Sliding-top .widget_recent_entries ul li:after,#Sliding-top .widget_mfn_menu ul li a:hover,#Sliding-top .widget_product_categories ul{background-color:#0095eb}#Sliding-top .Recent_posts ul li a .desc .date,#Sliding-top .widget_recent_entries ul li .post-date,#Sliding-top .tp_recent_tweets .twitter_time,#Sliding-top .widget_price_filter .price_label,#Sliding-top .shop-filters .woocommerce-result-count,#Sliding-top ul.product_list_widget li .quantity,#Sliding-top .widget_shopping_cart ul.product_list_widget li dl{color:#a8a8a8}blockquote,blockquote a,blockquote a:hover{color:#444444}.portfolio_group.masonry-hover .portfolio-item .masonry-hover-wrapper .hover-desc,.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-title:after,.masonry.tiles .post-item.no-img,.masonry.tiles .post-item.format-quote,.blog-teaser li .desc-wrapper .desc .post-title:after,.blog-teaser li.no-img,.blog-teaser li.format-quote{background:#28be68}.image_frame .image_wrapper .image_links a{background:#28be68;color:#ffffff;border-color:transparent}.image_frame .image_wrapper .image_links a.loading:after{border-color:#ffffff}.image_frame .image_wrapper .image_links a .path{stroke:#ffffff}.image_frame .image_wrapper .image_links a.mfn-wish-button.loved .path{fill:#ffffff;stroke:#ffffff}.image_frame .image_wrapper .image_links a:hover{background:#28be68;color:#ffffff;border-color:transparent}.image_frame .image_wrapper .image_links a:hover .path{stroke:#ffffff}.image_frame{border-color:#f8f8f8}.image_frame .image_wrapper .mask::after{background:rgba(0,0,0,.15)}.sliding_box .desc_wrapper{background:#28be68}.sliding_box .desc_wrapper:after{border-bottom-color:#28be68}.counter .icon_wrapper i{color:#28be68}.quick_fact .number-wrapper{color:#28be68}.progress_bars .bars_list li .bar .progress{background-color:#28be68}a:hover.icon_bar{color:#28be68 !important}a.content_link,a:hover.content_link{color:#28be68}a.content_link:before{border-bottom-color:#28be68}a.content_link:after{border-color:#28be68}.get_in_touch,.infobox{background-color:#28be68}.google-map-contact-wrapper .get_in_touch:after{border-top-color:#28be68}.timeline_items li h3:before,.timeline_items:after,.timeline .post-item:before{border-color:#28be68}.how_it_works .image .number{background:#28be68}.trailer_box .desc .subtitle,.trailer_box.plain .desc .line{background-color:#28be68}.trailer_box.plain .desc .subtitle{color:#28be68}.icon_box .icon_wrapper,.icon_box a .icon_wrapper,.style-simple .icon_box:hover .icon_wrapper{color:#28be68}.icon_box:hover .icon_wrapper:before,.icon_box a:hover .icon_wrapper:before{background-color:#28be68}ul.clients.clients_tiles li .client_wrapper:hover:before{background:#28be68}ul.clients.clients_tiles li .client_wrapper:after{border-bottom-color:#28be68}.list_item.lists_1 .list_left{background-color:#28be68}.list_item .list_left{color:#28be68}.feature_list ul li .icon i{color:#28be68}.feature_list ul li:hover,.feature_list ul li:hover a{background:#28be68}.ui-tabs .ui-tabs-nav li a,.accordion .question .title,.faq .question .title,table th,.fake-tabs > ul li a{color:#444444}.ui-tabs .ui-tabs-nav li.ui-state-active a,.accordion .question.active .title > .acc-icon-plus,.accordion .question.active .title > .acc-icon-minus,.accordion .question.active .title,.faq .question.active .title > .acc-icon-plus,.faq .question.active .title,.fake-tabs > ul li.active a{color:#28be68}.ui-tabs .ui-tabs-nav li.ui-state-active a:after,.fake-tabs > ul li a:after,.fake-tabs > ul li a .number{background:#28be68}body.table-hover:not(.woocommerce-page) table tr:hover td{background:#28be68}.pricing-box .plan-header .price sup.currency,.pricing-box .plan-header .price > span{color:#28be68}.pricing-box .plan-inside ul li .yes{background:#28be68}.pricing-box-box.pricing-box-featured{background:#28be68}.alert_warning{background:#fef8ea}.alert_warning,.alert_warning a,.alert_warning a:hover,.alert_warning a.close .icon{color:#8a5b20}.alert_warning .path{stroke:#8a5b20}.alert_error{background:#fae9e8}.alert_error,.alert_error a,.alert_error a:hover,.alert_error a.close .icon{color:#962317}.alert_error .path{stroke:#962317}.alert_info{background:#efefef}.alert_info,.alert_info a,.alert_info a:hover,.alert_info a.close .icon{color:#57575b}.alert_info .path{stroke:#57575b}.alert_success{background:#eaf8ef}.alert_success,.alert_success a,.alert_success a:hover,.alert_success a.close .icon{color:#3a8b5b}.alert_success .path{stroke:#3a8b5b}input[type="date"],input[type="email"],input[type="number"],input[type="password"],input[type="search"],input[type="tel"],input[type="text"],input[type="url"],select,textarea,.woocommerce .quantity input.qty,.wp-block-search input[type="search"],.dark input[type="email"],.dark input[type="password"],.dark input[type="tel"],.dark input[type="text"],.dark select,.dark textarea{color:#626262;background-color:rgba(239,239,239,1);border-color:#EBEBEB}::-webkit-input-placeholder{color:#929292}::-moz-placeholder{color:#929292}:-ms-input-placeholder{color:#929292}input[type="date"]:focus,input[type="email"]:focus,input[type="number"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="text"]:focus,input[type="url"]:focus,select:focus,textarea:focus{color:#28be68;background-color:rgba(233,245,252,1) !important;border-color:#d5e5ee}:focus::-webkit-input-placeholder{color:#929292}:focus::-moz-placeholder{color:#929292}.select2-container--default .select2-selection--single,.select2-dropdown{background-color:rgba(239,239,239,1);border-color:#EBEBEB}.select2-container--default .select2-selection--single .select2-selection__rendered{color:#626262}.select2-container--default.select2-container--open .select2-selection--single{border-color:#EBEBEB}.select2-container--default .select2-search--dropdown .select2-search__field{color:#626262;background-color:rgba(239,239,239,1);border-color:#EBEBEB}.select2-container--default .select2-search--dropdown .select2-search__field:focus{color:#28be68;background-color:rgba(233,245,252,1) !important;border-color:#d5e5ee} .select2-container--default .select2-results__option[data-selected="true"],.select2-container--default .select2-results__option--highlighted[data-selected]{background-color:#28be68;color:white} .woocommerce span.onsale,.shop_slider .shop_slider_ul li .item_wrapper span.onsale{background-color:#28be68 !important}.woocommerce .widget_price_filter .ui-slider .ui-slider-handle{border-color:#28be68 !important}#mfn-gdpr{background-color:#eef2f5;border-radius:5px;box-shadow:0 15px 30px 0 rgba(1,7,39,.13)}#mfn-gdpr .mfn-gdpr-content,#mfn-gdpr .mfn-gdpr-content h1,#mfn-gdpr .mfn-gdpr-content h2,#mfn-gdpr .mfn-gdpr-content h3,#mfn-gdpr .mfn-gdpr-content h4,#mfn-gdpr .mfn-gdpr-content h5,#mfn-gdpr .mfn-gdpr-content h6,#mfn-gdpr .mfn-gdpr-content ol,#mfn-gdpr .mfn-gdpr-content ul{color:#626262}#mfn-gdpr .mfn-gdpr-content a,#mfn-gdpr a.mfn-gdpr-readmore{color:#161922}#mfn-gdpr .mfn-gdpr-content a:hover,#mfn-gdpr a.mfn-gdpr-readmore:hover{color:#0089f7}#mfn-gdpr .mfn-gdpr-button{background-color:#006edf;color:#ffffff;border-color:transparent}#mfn-gdpr .mfn-gdpr-button:hover{background-color:#0089f7;color:#ffffff;border-color:transparent}@media only screen and ( min-width:768px ){.header-semi #Top_bar:not(.is-sticky){background-color:rgba(255,255,255,0.8)}}@media only screen and ( max-width:767px ){#Top_bar{background-color:#ffffff !important}#Action_bar{background-color:#FFFFFF !important}#Action_bar .contact_details{color:#222222}#Action_bar .contact_details a{color:#000000}#Action_bar .contact_details a:hover{color:#000000}#Action_bar .social li a,#Action_bar .social-menu a{color:#bbbbbb!important}#Action_bar .social li a:hover,#Action_bar .social-menu a:hover{color:#777777!important}}
+form input.display-none{display:none!important}
+</style>
+<style id='mfn-custom-inline-css' type='text/css'>
+#Top_bar .search_wrapper input[type="text"] {
+	color: black !important;
+}
+#Top_bar #searchform i {
+	color: black !important;
+}
+
+@media only screen and (max-width: 768px) { body:not(.template-slider) #Header_wrapper { background: none !important; } }
+@media only screen and (max-width: 768px) { body:not(.template-slider) #Header { min-height: 0 !important; } }
+
+body:not(.template-slider) #Header { min-height: 100px !important; }
+
+
+</style>
+
+<script type='text/javascript' id='exactmetrics-frontend-script-js-extra' src="data:text/javascript;base64,dmFyIGV4YWN0bWV0cmljc19mcm9udGVuZD17ImpzX2V2ZW50c190cmFja2luZyI6InRydWUiLCJkb3dubG9hZF9leHRlbnNpb25zIjoiemlwLG1wMyxtcGVnLHBkZixkb2N4LHBwdHgseGxzeCxyYXIiLCJpbmJvdW5kX3BhdGhzIjoiW3tcInBhdGhcIjpcIlxcXC9nb1xcXC9cIixcImxhYmVsXCI6XCJhZmZpbGlhdGVcIn0se1wicGF0aFwiOlwiXFxcL3JlY29tbWVuZFxcXC9cIixcImxhYmVsXCI6XCJhZmZpbGlhdGVcIn1dIiwiaG9tZV91cmwiOiJodHRwczpcL1wvd3d3LmluZG9kaWdpdGFsYWRzLmNvbSIsImhhc2hfdHJhY2tpbmciOiJmYWxzZSIsInVhIjoiVUEtMTI0NTgxMTA2LTEiLCJ2NF9pZCI6IiJ9" defer></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend-gtag.min.js?ver=7.3.0' id='exactmetrics-frontend-script-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/easy-facebook-likebox/facebook/frontend/assets/js/esf-free-popup.min.js?ver=6.3.1' id='easy-facebook-likebox-popup-script-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='easy-facebook-likebox-public-script-js-extra' src="data:text/javascript;base64,dmFyIHB1YmxpY19hamF4PXsiYWpheF91cmwiOiJodHRwczpcL1wvd3d3LmluZG9kaWdpdGFsYWRzLmNvbVwvd3AtYWRtaW5cL2FkbWluLWFqYXgucGhwIiwiZWZibF9pc19mYl9wcm8iOiIifQ==" defer></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/easy-facebook-likebox/facebook/frontend/assets/js/public.js?ver=6.3.1' id='easy-facebook-likebox-public-script-js' defer data-deferred="1"></script>
+<script   type='text/javascript' id='Popup.js-js-before' src="data:text/javascript;base64,dmFyIHNncGJQdWJsaWNVcmw9Imh0dHBzOlwvXC93d3cuaW5kb2RpZ2l0YWxhZHMuY29tXC93cC1jb250ZW50XC9wbHVnaW5zXC9wb3B1cC1idWlsZGVyXC9wdWJsaWNcLyI7dmFyIFNHUEJfSlNfTE9DQUxJWkFUSU9OPXsiaW1hZ2VTdXBwb3J0QWxlcnRNZXNzYWdlIjoiT25seSBpbWFnZSBmaWxlcyBzdXBwb3J0ZWQiLCJhcmVZb3VTdXJlIjoiQXJlIHlvdSBzdXJlPyIsImFkZEJ1dHRvblNwaW5uZXIiOiJMIiwiYXVkaW9TdXBwb3J0QWxlcnRNZXNzYWdlIjoiT25seSBhdWRpbyBmaWxlcyBzdXBwb3J0ZWQgKGUuZy46IG1wMywgd2F2LCBtNGEsIG9nZykiLCJwdWJsaXNoUG9wdXBCZWZvcmVFbGVtZW50b3IiOiJQbGVhc2UsIHB1Ymxpc2ggdGhlIHBvcHVwIGJlZm9yZSBzdGFydGluZyB0byB1c2UgRWxlbWVudG9yIHdpdGggaXQhIiwicHVibGlzaFBvcHVwQmVmb3JlRGl2aSI6IlBsZWFzZSwgcHVibGlzaCB0aGUgcG9wdXAgYmVmb3JlIHN0YXJ0aW5nIHRvIHVzZSBEaXZpIEJ1aWxkZXIgd2l0aCBpdCEiLCJjbG9zZUJ1dHRvbkFsdFRleHQiOiJDbG9zZSJ9" defer></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/popup-builder/public/js/Popup.js?ver=4.0.6' id='Popup.js-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/popup-builder/public/js/PopupConfig.js?ver=4.0.6' id='PopupConfig.js-js' defer data-deferred="1"></script>
+<script   type='text/javascript' id='PopupBuilder.js-js-before' src="data:text/javascript;base64,dmFyIFNHUEJfUE9QVVBfUEFSQU1TPXsicG9wdXBUeXBlQWdlUmVzdHJpY3Rpb24iOiJhZ2VSZXN0cmljdGlvbiIsImRlZmF1bHRUaGVtZUltYWdlcyI6eyIxIjoiaHR0cHM6XC9cL3d3dy5pbmRvZGlnaXRhbGFkcy5jb21cL3dwLWNvbnRlbnRcL3BsdWdpbnNcL3BvcHVwLWJ1aWxkZXJcL3B1YmxpY1wvaW1nXC90aGVtZV8xXC9jbG9zZS5wbmciLCIyIjoiaHR0cHM6XC9cL3d3dy5pbmRvZGlnaXRhbGFkcy5jb21cL3dwLWNvbnRlbnRcL3BsdWdpbnNcL3BvcHVwLWJ1aWxkZXJcL3B1YmxpY1wvaW1nXC90aGVtZV8yXC9jbG9zZS5wbmciLCIzIjoiaHR0cHM6XC9cL3d3dy5pbmRvZGlnaXRhbGFkcy5jb21cL3dwLWNvbnRlbnRcL3BsdWdpbnNcL3BvcHVwLWJ1aWxkZXJcL3B1YmxpY1wvaW1nXC90aGVtZV8zXC9jbG9zZS5wbmciLCI1IjoiaHR0cHM6XC9cL3d3dy5pbmRvZGlnaXRhbGFkcy5jb21cL3dwLWNvbnRlbnRcL3BsdWdpbnNcL3BvcHVwLWJ1aWxkZXJcL3B1YmxpY1wvaW1nXC90aGVtZV81XC9jbG9zZS5wbmciLCI2IjoiaHR0cHM6XC9cL3d3dy5pbmRvZGlnaXRhbGFkcy5jb21cL3dwLWNvbnRlbnRcL3BsdWdpbnNcL3BvcHVwLWJ1aWxkZXJcL3B1YmxpY1wvaW1nXC90aGVtZV82XC9jbG9zZS5wbmcifSwiaG9tZVBhZ2VVcmwiOiJodHRwczpcL1wvd3d3LmluZG9kaWdpdGFsYWRzLmNvbVwvIiwiaXNQcmV2aWV3IjohMSwiY29udmVydGVkSWRzUmV2ZXJzZSI6W10sImRvbnRTaG93UG9wdXBFeHBpcmVUaW1lIjozNjUsImNvbmRpdGlvbmFsSnNDbGFzc2VzIjpbXSwiZGlzYWJsZUFuYWx5dGljc0dlbmVyYWwiOiExfTt2YXIgU0dQQl9KU19QQUNLQUdFUz17InBhY2thZ2VzIjp7ImN1cnJlbnQiOjEsImZyZWUiOjEsInNpbHZlciI6MiwiZ29sZCI6MywicGxhdGludW0iOjR9LCJleHRlbnNpb25zIjp7Imdlby10YXJnZXRpbmciOiExLCJhZHZhbmNlZC1jbG9zaW5nIjohMX19O3ZhciBTR1BCX0pTX1BBUkFNUz17ImFqYXhVcmwiOiJodHRwczpcL1wvd3d3LmluZG9kaWdpdGFsYWRzLmNvbVwvd3AtYWRtaW5cL2FkbWluLWFqYXgucGhwIiwibm9uY2UiOiI4ZGZjMGIxMjhiIn0=" defer></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/popup-builder/public/js/PopupBuilder.js?ver=4.0.6' id='PopupBuilder.js-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/wpfomify/assets/js/jquery.cookie.js?ver=5.8.2' id='jquery-cookie-script-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/easy-facebook-likebox/frontend/assets/js/imagesloaded.pkgd.min.js?ver=5.8.2' id='imagesloaded.pkgd.min-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='esf-insta-public-js-extra' src="data:text/javascript;base64,dmFyIGVzZl9pbnN0YT17ImFqYXhfdXJsIjoiaHR0cHM6XC9cL3d3dy5pbmRvZGlnaXRhbGFkcy5jb21cL3dwLWFkbWluXC9hZG1pbi1hamF4LnBocCIsInZlcnNpb24iOiJmcmVlIiwibm9uY2UiOiIwZWM1MGI0NTM4In0=" defer></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/easy-facebook-likebox//instagram/frontend/assets/js/esf-insta-public.js?ver=1' id='esf-insta-public-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='rich-reviews-js-extra' src="data:text/javascript;base64,dmFyIHBocF92YXJzPXsiZXhjZXJwdF9sZW5ndGgiOiIxNTAiLCJtYXliZV9zb21lX290aGVyX3N0dWZmIjoiUHJvYmFibHkgTm90In07dmFyIHRyYW5zbGF0aW9uPXsicmVhZF9tb3JlIjoiUmVhZCBNb3JlIiwibGVzcyI6Ikxlc3MifQ==" defer></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/rich-reviews/js/rich-reviews.js?ver=5.8.2' id='rich-reviews-js' defer data-deferred="1"></script>
+<link rel="https://api.w.org/" href="https://www.indodigitalads.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.indodigitalads.com/wp-json/wp/v2/pages/21" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.indodigitalads.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.indodigitalads.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.2" />
+<link rel='shortlink' href='https://wp.me/Pb1lrZ-l' />
+<link rel="alternate" type="application/json+oembed" href="https://www.indodigitalads.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.indodigitalads.com%2Fjasa-tambah-followers-instagram%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.indodigitalads.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.indodigitalads.com%2Fjasa-tambah-followers-instagram%2F&#038;format=xml" />
+<!-- Global site tag (gtag.js) - Google Ads: 951494728 -->
+<script src="https://www.googletagmanager.com/gtag/js?id=AW-951494728" defer data-deferred="1"></script>
+<script src="data:text/javascript;base64,d2luZG93LmRhdGFMYXllcj13aW5kb3cuZGF0YUxheWVyfHxbXTtmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKX0KZ3RhZygnanMnLG5ldyBEYXRlKCkpO2d0YWcoJ2NvbmZpZycsJ0FXLTk1MTQ5NDcyOCcp" defer></script>
+
+<!-- Event snippet for Website traffic conversion page -->
+<script src="data:text/javascript;base64,Z3RhZygnZXZlbnQnLCdjb252ZXJzaW9uJyx7J3NlbmRfdG8nOidBVy05NTE0OTQ3MjgvUFFaQkNMcVdwSUFERU1qUTJzVUQnfSk=" defer></script>
+
+<style type='text/css'>img#wpstats{display:none}</style>
+		<meta name="generator" content="Powered by Slider Revolution 6.2.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript" src="data:text/javascript;base64,ZnVuY3Rpb24gc2V0UkVWU3RhcnRTaXplKGUpe3RyeXt2YXIgcHc9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoZS5jKS5wYXJlbnROb2RlLm9mZnNldFdpZHRoLG5ld2g7cHc9cHc9PT0wfHxpc05hTihwdyk/d2luZG93LmlubmVyV2lkdGg6cHc7ZS50YWJ3PWUudGFidz09PXVuZGVmaW5lZD8wOnBhcnNlSW50KGUudGFidyk7ZS50aHVtYnc9ZS50aHVtYnc9PT11bmRlZmluZWQ/MDpwYXJzZUludChlLnRodW1idyk7ZS50YWJoPWUudGFiaD09PXVuZGVmaW5lZD8wOnBhcnNlSW50KGUudGFiaCk7ZS50aHVtYmg9ZS50aHVtYmg9PT11bmRlZmluZWQ/MDpwYXJzZUludChlLnRodW1iaCk7ZS50YWJoaWRlPWUudGFiaGlkZT09PXVuZGVmaW5lZD8wOnBhcnNlSW50KGUudGFiaGlkZSk7ZS50aHVtYmhpZGU9ZS50aHVtYmhpZGU9PT11bmRlZmluZWQ/MDpwYXJzZUludChlLnRodW1iaGlkZSk7ZS5taD1lLm1oPT09dW5kZWZpbmVkfHxlLm1oPT0iInx8ZS5taD09PSJhdXRvIj8wOnBhcnNlSW50KGUubWgsMCk7aWYoZS5sYXlvdXQ9PT0iZnVsbHNjcmVlbiJ8fGUubD09PSJmdWxsc2NyZWVuIikKbmV3aD1NYXRoLm1heChlLm1oLHdpbmRvdy5pbm5lckhlaWdodCk7ZWxzZXtlLmd3PUFycmF5LmlzQXJyYXkoZS5ndyk/ZS5ndzpbZS5nd107Zm9yKHZhciBpIGluIGUucmwpaWYoZS5nd1tpXT09PXVuZGVmaW5lZHx8ZS5nd1tpXT09PTApZS5nd1tpXT1lLmd3W2ktMV07ZS5naD1lLmVsPT09dW5kZWZpbmVkfHxlLmVsPT09IiJ8fChBcnJheS5pc0FycmF5KGUuZWwpJiZlLmVsLmxlbmd0aD09MCk/ZS5naDplLmVsO2UuZ2g9QXJyYXkuaXNBcnJheShlLmdoKT9lLmdoOltlLmdoXTtmb3IodmFyIGkgaW4gZS5ybClpZihlLmdoW2ldPT09dW5kZWZpbmVkfHxlLmdoW2ldPT09MCllLmdoW2ldPWUuZ2hbaS0xXTt2YXIgbmw9bmV3IEFycmF5KGUucmwubGVuZ3RoKSxpeD0wLHNsO2UudGFidz1lLnRhYmhpZGU+PXB3PzA6ZS50YWJ3O2UudGh1bWJ3PWUudGh1bWJoaWRlPj1wdz8wOmUudGh1bWJ3O2UudGFiaD1lLnRhYmhpZGU+PXB3PzA6ZS50YWJoO2UudGh1bWJoPWUudGh1bWJoaWRlPj1wdz8wOmUudGh1bWJoO2Zvcih2YXIgaSBpbiBlLnJsKW5sW2ldPWUucmxbaV08d2luZG93LmlubmVyV2lkdGg/MDplLnJsW2ldO3NsPW5sWzBdO2Zvcih2YXIgaSBpbiBubClpZihzbD5ubFtpXSYmbmxbaV0+MCl7c2w9bmxbaV07aXg9aX0KdmFyIG09cHc+KGUuZ3dbaXhdK2UudGFidytlLnRodW1idyk/MToocHctKGUudGFidytlLnRodW1idykpLyhlLmd3W2l4XSk7bmV3aD0oZS50eXBlPT09ImNhcm91c2VsIiYmZS5qdXN0aWZ5PT09InRydWUiP2UuZ2hbaXhdOihlLmdoW2l4XSptKSkrKGUudGFiaCtlLnRodW1iaCl9CmlmKHdpbmRvdy5yc19pbml0X2Nzcz09PXVuZGVmaW5lZCl3aW5kb3cucnNfaW5pdF9jc3M9ZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChkb2N1bWVudC5jcmVhdGVFbGVtZW50KCJzdHlsZSIpKTtkb2N1bWVudC5nZXRFbGVtZW50QnlJZChlLmMpLmhlaWdodD1uZXdoO3dpbmRvdy5yc19pbml0X2Nzcy5pbm5lckhUTUwrPSIjIitlLmMrIl93cmFwcGVyIHsgaGVpZ2h0OiAiK25ld2grInB4IH0ifWNhdGNoKGUpe2NvbnNvbGUubG9nKCJGYWlsdXJlIGF0IFByZXNpemUgb2YgU2xpZGVyOiIrZSl9fQ==" defer></script>
+
+</head>
+
+<body class="page-template-default page page-id-21 template-slider  color-custom content-brightness-light input-brightness-light style-default button-default layout-full-width no-content-padding hide-love header-transparent header-fw sticky-header sticky-dark ab-hide subheader-both-center menu-link-color menuo-right mobile-tb-center mobile-side-slide mobile-mini-mr-ll mobile-header-mini be-page-21 be-reg-2513">
+
+
+
+	<!-- mfn_hook_top --><!-- mfn_hook_top -->
+	
+	
+	<div id="Wrapper">
+
+		
+		
+		<div id="Header_wrapper" class="" >
+
+			<header id="Header">
+
+
+<div class="header_placeholder"></div>
+
+<div id="Top_bar" class="loading">
+
+	<div class="container">
+		<div class="column one">
+
+			<div class="top_bar_left clearfix">
+
+				<div class="logo"><a id="logo" href="https://www.indodigitalads.com" title="Indo Digital Ads" data-height="60" data-padding="15"><img class="logo-main scale-with-grid" src="https://www.indodigitalads.com/wp-content/uploads/2019/05/indo-digital-ads.png" data-retina="https://www.indodigitalads.com/wp-content/uploads/2019/05/indo-digital-ads.png" data-height="85" alt="logo indo digital ads, beli followers instagram"  data-no-retina><img class="logo-sticky scale-with-grid" src="https://www.indodigitalads.com/wp-content/uploads/2019/05/indo-digital-ads.png" data-retina="https://www.indodigitalads.com/wp-content/uploads/2019/05/indo-digital-ads.png" data-height="85" alt="logo indo digital ads, beli followers instagram"  data-no-retina><img class="logo-mobile scale-with-grid" src="https://www.indodigitalads.com/wp-content/uploads/2019/05/indo-digital-ads-black.png" data-retina="https://www.indodigitalads.com/wp-content/uploads/2019/05/indo-digital-ads-black.png" data-height="85" alt="logo indo digital ads, beli followers instagram"  data-no-retina><img class="logo-mobile-sticky scale-with-grid" src="https://www.indodigitalads.com/wp-content/uploads/2019/05/indo-digital-ads.png" data-retina="https://www.indodigitalads.com/wp-content/uploads/2019/05/indo-digital-ads.png" data-height="85" alt="logo indo digital ads, beli followers instagram"  data-no-retina></a></div>
+				<div class="menu_wrapper">
+					<nav id="menu"><ul id="menu-menu-utama" class="menu menu-main"><li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="https://www.indodigitalads.com/"><span>Beranda</span></a></li>
+<li id="menu-item-1317" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/profil-kami/"><span>Profil</span></a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/daftar-google-maps/"><span>Daftar Google Maps</span></a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children"><a href="#"><span>Media Sosial</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Clubhouse</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-2515" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-followers-clubhouse/"><span>Followers Clubhouse</span></a></li>
+		<li id="menu-item-3105" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/room-visitor-clubhouse/"><span>Room Visitor Clubhouse</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-3090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Discord</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-3089" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/member-discord/"><span>Member Discord</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-419" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children"><a href="#"><span>Instagram</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item"><a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/"><span>Jasa Tambah Followers Instagram</span></a></li>
+		<li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-like-instagram/"><span>Jasa Like Instagram</span></a></li>
+		<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-auto-like-instagram/"><span>Jasa Auto Like Instagram</span></a></li>
+		<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-view-video-instagram/"><span>Jasa View Video Instagram</span></a></li>
+		<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-comment-instagram/"><span>Jasa Comment Instagram</span></a></li>
+		<li id="menu-item-2070" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-like-comment-instagram/"><span>Jasa Like Comment Instagram</span></a></li>
+		<li id="menu-item-1423" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-live-viewers-instagram/"><span>Beli Live Viewers Instagram</span></a></li>
+		<li id="menu-item-1430" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-views-story-instagram/"><span>Beli Views Story Instagram</span></a></li>
+		<li id="menu-item-2028" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-story-polling-vote-instagram/"><span>Beli Story Polling Vote Instagram</span></a></li>
+		<li id="menu-item-3633" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-instagram-profile-visits/"><span>Beli Instagram Profile Visits</span></a></li>
+		<li id="menu-item-1036" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jual-akun-instagram/"><span>Jual Akun Instagram</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Facebook</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-like-facebook/"><span>Jasa Like Facebook</span></a></li>
+		<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-like-fanspage/"><span>Jasa Like Fanspage</span></a></li>
+		<li id="menu-item-456" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-followers-facebook/"><span>Jasa Tambah Followers Facebook Fanspage</span></a></li>
+		<li id="menu-item-3432" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-views-video-facebook/"><span>Jasa Views Video Facebook</span></a></li>
+		<li id="menu-item-3477" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-tambah-facebook-group-member/"><span>Jasa Tambah Facebook Group Member</span></a></li>
+		<li id="menu-item-1879" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/jasa-tambah-views-facebook-live-streaming/"><span>Jasa Tambah Views Facebook Live Streaming</span></a></li>
+		<li id="menu-item-3321" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/paket-views-live-streaming-facebook/"><span>Paket Views Live Streaming Facebook</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Twitter</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-followers-twitter/"><span>Twitter Followers</span></a></li>
+		<li id="menu-item-446" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/twitter-retweet/"><span>Twitter Retweet</span></a></li>
+		<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/twitter-likes-favorites/"><span>Twitter Likes/Favorites</span></a></li>
+		<li id="menu-item-1206" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/twitter-video-views/"><span>Twitter Video Views</span></a></li>
+		<li id="menu-item-1886" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-twitter-polling-vote/"><span>Twitter Polling Vote</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Youtube</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-2973" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/paket-youtube/"><span>Paket Youtube (Views, Likes, Komentar)</span></a></li>
+		<li id="menu-item-444" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/youtube-views/"><span>Youtube Views</span></a></li>
+		<li id="menu-item-3580" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/youtube-short-video-views/"><span>Youtube Short Video Views</span></a></li>
+		<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/youtube-video-likes/"><span>Youtube Video Likes</span></a></li>
+		<li id="menu-item-442" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/youtube-subscribers/"><span>Youtube Subscribers</span></a></li>
+		<li id="menu-item-1093" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-jam-tayang-youtube/"><span>Youtube Jam Tayang</span></a></li>
+		<li id="menu-item-1153" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/youtube-comments/"><span>Youtube Comments</span></a></li>
+		<li id="menu-item-1894" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/youtube-live-streaming-views/"><span>Youtube Live Streaming Views</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Tik Tok</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-3024" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/paket-tiktok/"><span>Paket TikTok (Views dan Likes)</span></a></li>
+		<li id="menu-item-429" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/tik-tok-followers-fans/"><span>Tik Tok Followers/Fans</span></a></li>
+		<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/tik-tok-likes-hearts/"><span>Tik Tok Likes/Hearts</span></a></li>
+		<li id="menu-item-941" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/tik-tok-views/"><span>Tik Tok Views</span></a></li>
+		<li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/tik-tok-comments/"><span>Tik Tok Comments</span></a></li>
+		<li id="menu-item-2054" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/tik-tok-shares/"><span>Tik Tok Shares</span></a></li>
+		<li id="menu-item-2534" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/tik-tok-live-streming-views/"><span>Tik Tok Live Streming Views</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-1195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Marketplace</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-701" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-followers-shopee/"><span>Followers Shopee</span></a></li>
+		<li id="menu-item-1226" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/produk-likes-shopee/"><span>Produk Likes Shopee</span></a></li>
+		<li id="menu-item-744" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-followers-tokopedia/"><span>Followers Tokopedia</span></a></li>
+		<li id="menu-item-3067" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/diskusi-tokopedia/"><span>Diskusi Tokopedia</span></a></li>
+		<li id="menu-item-746" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-followers-bukalapak/"><span>Followers Bukalapak</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-1122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Telegram</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1123" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-member-channel-grup-telegram/"><span>Member Channel &#038; Grup Telegram</span></a></li>
+		<li id="menu-item-1871" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-posts-view-telegram/"><span>Beli Posts View Telegram</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-1160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Twitch</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1161" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/twitch-followers/"><span>Twitch Followers</span></a></li>
+		<li id="menu-item-3447" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-twitch-channel-views/"><span>Twitch Channel Views</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-1171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Spotify</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1172" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/spotify-followers/"><span>Spotify Followers</span></a></li>
+		<li id="menu-item-1901" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/spotify-playlist-followers/"><span>Spotify Playlist Followers</span></a></li>
+		<li id="menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/spotify-track-plays/"><span>Spotify Track Plays</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-1192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>LinkedIn</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1191" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/linkedin-followers/"><span>LinkedIn Followers</span></a></li>
+		<li id="menu-item-2063" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/linkedin-post-likes/"><span>LinkedIn Post Likes</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-1193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Likee</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1449" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-followers-likee/"><span>Followers Likee</span></a></li>
+		<li id="menu-item-1464" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-like-aplikasi-likee/"><span>Likes Aplikasi Likee</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-1456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Soundcloud</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1455" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-followers-soundcloud/"><span>Beli Followers Soundcloud</span></a></li>
+		<li id="menu-item-1467" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/beli-plays-soundcloud/"><span>Beli Plays Soundcloud</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/blog/"><span>Blog</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.indodigitalads.com/kontak-kami/"><span>Kontak</span></a></li>
+</ul></nav><a class="responsive-menu-toggle" href="#" aria-label="Mobile menu"><i class="icon-menu-fine" aria-hidden="true"></i></a>				</div>
+
+				<div class="secondary_menu_wrapper">
+									</div>
+
+				<div class="banner_wrapper">
+									</div>
+
+			</div>
+
+			<div class="top_bar_right"><div class="top_bar_right_wrapper"><a id="search_button" class="top-bar-right-icon top-bar-right-icon-search" href="#"><svg width="26" viewbox="0 0 26 26" aria-label="Search icon"><defs><style>.path{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:1.5px;}</style></defs><circle class="path" cx="11.35" cy="11.35" r="6"/><line class="path" x1="15.59" y1="15.59" x2="20.65" y2="20.65"/></svg></a></div></div>
+			<div class="search_wrapper">
+				
+<form method="get" id="searchform" action="https://www.indodigitalads.com/">
+
+	
+  <svg class="icon_search" width="26" viewbox="0 0 26 26"><defs><style>.path{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:1.5px;}</style></defs><circle class="path" cx="11.35" cy="11.35" r="6"></circle><line class="path" x1="15.59" y1="15.59" x2="20.65" y2="20.65"></line></svg>
+  <span class="mfn-close-icon icon_close"><span class="icon">✕</span></span>
+
+	<input type="text" class="field" name="s" autocomplete="off" placeholder="Masukkan kata kunci pencarian" />
+	<input type="submit" class="display-none" value="" />
+
+</form>
+			</div>
+
+		</div>
+	</div>
+</div>
+<div class="mfn-main-slider mfn-rev-slider">			<script type="text/javascript" src="//www.indodigitalads.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?rev=6.2.1" defer data-deferred="1"></script>
+			<script type="text/javascript" src="//www.indodigitalads.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?rev=6.2.1" defer data-deferred="1"></script>
+
+			<!-- START Slide Harbolnas REVOLUTION SLIDER 6.2.1 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_14_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;max-width:">
+				<rs-module id="rev_slider_14_1" style="display:none;" data-version="6.2.1">
+					<rs-slides>
+						<rs-slide data-key="rs-14" data-title="Slide" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="//www.indodigitalads.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" title="promo-desember-2021" width="1240" height="500" data-lazyload="//www.indodigitalads.com/wp-content/uploads/2021/11/promo-desember-2021.jpg" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-14-slide-14-layer-34" 
+								data-type="text"
+								data-rsp_ch="on"
+								data-xy="xo:675px,434px,329px,318px;yo:121px,148px,206px,66px;"
+								data-text="s:60,60,52,40;l:22,22,20,22;a:inherit;"
+								data-dim="w:653px,482px,447px,auto;h:24px,24px,21px,auto;"
+								data-frame_0="tp:600;"
+								data-frame_1="x:0,0,0px,0px;y:0,0,0px,0px;tp:600;sR:10;"
+								data-frame_999="o:0;tp:600;st:w;sR:8690;"
+								style="z-index:5;font-family:Arial, Helvetica, sans-serif;"
+							>SPESIAL PROMO  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-14-slide-14-layer-35" 
+								data-type="text"
+								data-color="#000000"
+								data-rsp_ch="on"
+								data-xy="x:c;xo:247px,178px,165px,137px;y:t,t,t,m;yo:300px,323px,340px,-34px;"
+								data-text="s:57,57,38,32;l:25,25,14,20;a:inherit;"
+								data-dim="w:auto,auto,403px,auto;"
+								data-basealign="slide"
+								data-frame_0="tp:600;"
+								data-frame_1="tp:600;sR:10;"
+								data-frame_999="o:0;tp:600;st:w;sR:8690;"
+								style="z-index:6;font-family:Arial, Helvetica, sans-serif;"
+							>DISKON HINGGA 50% !
+ 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-14-slide-14-layer-36" 
+								data-type="text"
+								data-color="#000000"
+								data-rsp_ch="on"
+								data-xy="x:c,c,c,l;xo:244px,173px,172px,299px;yo:361px,380px,394px,211px;"
+								data-text="s:33,33,21,19;l:22,22,14,22;a:inherit;"
+								data-dim="w:auto,auto,403px,auto;"
+								data-frame_0="tp:600;"
+								data-frame_1="x:0,0,0px,0px;y:0,0,0px,0px;tp:600;sR:10;"
+								data-frame_999="o:0;tp:600;st:w;sR:8690;"
+								style="z-index:7;font-family:Arial, Helvetica, sans-serif;"
+							>HANYA UNTUK 100 
+PEMBELI PERTAMA ! 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-14-slide-14-layer-44" 
+								data-type="text"
+								data-color="#000000"
+								data-rsp_ch="on"
+								data-xy="xo:604px,370px,399px,306px;yo:424px,431px,432px,253px;"
+								data-text="s:46,46,21,25;l:22,22,10,22;a:inherit;"
+								data-dim="w:auto,640px,auto,auto;"
+								data-frame_0="tp:600;"
+								data-frame_1="x:0,0,0px,0px;y:0,0,0px,0px;tp:600;sR:10;"
+								data-frame_999="o:0;tp:600;st:w;sR:8690;"
+								style="z-index:8;font-family:Arial, Helvetica, sans-serif;"
+							>PASTIKAN KAMU KEBAGIAN ! 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-14-slide-14-layer-49" 
+								class="rev-btn"
+								data-type="button"
+								data-color="#3db24a"
+								data-xy="xo:803px,553px,428px,355px;yo:474px,513px,476px,301px;"
+								data-text="s:17;l:17;fw:500;a:inherit;"
+								data-vbility="f,f,t,t"
+								data-actions='o:click;a:simplelink;target:_self;url:https://api.whatsapp.com/send?phone=6281239651808&text=Halo%20IndoDigitalAds..;'
+								data-padding="t:12;r:35;b:12;l:35;"
+								data-border="bor:30px,30px,30px,30px;"
+								data-frame_0="tp:600;"
+								data-frame_1="tp:600;sR:10;"
+								data-frame_999="o:0;tp:600;st:w;sR:8690;"
+								data-frame_hover="c:#000;bgc:#fff;boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:0;e:none;"
+								style="z-index:9;background-color:rgba(253,231,67,0.75);font-family:Arial Black, Gadget, sans-serif;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
+							>PESAN SEKARANG! 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-14-slide-14-layer-53" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:98px,16px,4px,4px;yo:77px,224px,173px,23px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:377px,377px,353px,291px;h:443px,443px,415px,342px;"
+								data-frame_0="tp:600;"
+								data-frame_1="tp:600;sR:10;"
+								data-frame_999="o:0;tp:600;st:w;sR:8690;"
+								style="z-index:10;"
+							><img src="//www.indodigitalads.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" width="377" height="443" data-lazyload="//www.indodigitalads.com/wp-content/uploads/2021/02/promo-beli-followers-subscriber-views-like.png" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-14-slide-14-layer-55" 
+								data-type="text"
+								data-rsp_ch="on"
+								data-xy="xo:617px,409px,341px,320px;yo:194px,221px,259px,113px;"
+								data-text="s:70,63,46,37;l:30,27,19,20;a:inherit;"
+								data-dim="w:auto,536px,300px,227px;"
+								data-frame_0="tp:600;"
+								data-frame_1="tp:600;sR:10;"
+								data-frame_999="o:0;tp:600;st:w;sR:8690;"
+								style="z-index:11;font-family:Open Sans;"
+							>END OF YEAR SALE 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+					<rs-progress class="rs-bottom" style="visibility: hidden !important;"></rs-progress>
+				</rs-module>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div></header>
+			
+		</div>
+
+		
+		<!-- mfn_hook_content_before --><!-- mfn_hook_content_before -->
+<div id="Content">
+	<div class="content_wrapper clearfix">
+
+		<div class="sections_group">
+
+			<div class="entry-content" itemprop="mainContentOfPage">
+
+				
+				<div class="mfn-builder-content"><div class="section mcb-section mcb-section-e11f4e415"  style="padding-top:30px;background-color:#ffffff" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-7b8379a7d one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-0dbaae15b one-third column_image"><div class="image_frame image_item no_link scale-with-grid no_border" ><div class="image_wrapper"><img class="scale-with-grid" src="https://www.indodigitalads.com/wp-content/uploads/2018/07/jasa-followers-di-instagram.png" alt="Jasa Tambah Followers Instagram" title=""  /></div></div>
+</div><div class="column mcb-column mcb-item-eb7076c1b two-third column_column"><div class="column_attr clearfix" style=""><h1>Sekarang Kamu BISA Meningkatkan Jumlah Followers dengan CEPAT dan MURAH Tanpa Perlu Password!</h1>
+<p style="text-align: justify;">Followers bertambah hanya dalam hitungan menit ! Yess, bisa banget, BAHKAN BANYAK <b>artis, pebisnis online,</b> dan <b>selemgram</b> yang telah menggunakan jasa kami untuk meningkatkan jumlah followersnya. <br><br>Dengan followers yang banyak, kamu memiliki keuntungan seperti : <b>popularitas meningkat, akun makin terpercaya,</b> dan<b> dapat eksis di dunia Instagram.</b> Jadi, tunggu apa lagi? Beli Followers Instagram Sekarang Juga! <b>Garansi 1000% uang kembali kalau Followers tidak masuk ke Akunmu!</b></p><br>
+<center><a class="button  button_size_2" href="https://api.whatsapp.com/send?phone=6281239651808&#038;text=Halo,%20Saya%20mau%20pesan%20jasa%20tambah%20followers%20Instagram." style="background-color:#fb3958!important;color:#fff;"    ><span class="button_label">Ya, Pesan via WhatsApp!</span></a>
+</center>
+
+</div></div></div></div></div></div><div class="section mcb-section mcb-section-78b6095b0  dark"  style="padding-top:30px;background-color:#dd3333" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-547f8765a one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-a6a459126 one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><div class="fh-top"></div><h2 class="title">BONUS FOLLOWERS DAN LIKES SELAMA BULAN DESEMBER !</h2><div class="inside"><span style="color: #fff;"><h4>TERBATAS, HANYA UNTUK <del>100</del> 48 PEMBELI PERTAMA. PASTIKAN KAMU KEBAGIAN !</h4></span></div></div>
+</div></div></div></div></div><div class="section mcb-section mcb-section-15d367dad"  style="padding-top:30px" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-1ab2d6980 one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-7467cf893 one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><div class="fh-top"></div><h2 class="title">Harga Beli Followers Indonesia (Garansi 30 Hari)</h2><div class="inside"><span style="color: #626262;">Followers Indonesia, merupakan followers campuran dari akun real dan juga pasif dari Indonesia. Followers Indonesia dapat digunakan untuk meningkatkan kepercayaan dan kredibilitas terhadap akun Anda, dengan jumlah followers yang banyak orang akan tertarik untuk menfollow akun Anda dan membeli produk Anda.</span></div></div>
+</div><div class="column mcb-column mcb-item-ab4ccab8e one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-30-ribu.jpg" alt="followers-30-ribu" width="501" height="457"/></div><h2>100 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>30.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 30 Followers</b></li><li><b>+ BONUS 100 Likes Foto</b></li><li>Mix aktif & pasif Indonesia</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-a065e24a7 one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-50-ribu.jpg" alt="followers-50-ribu" width="501" height="457"/></div><h2>300 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>50.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 50 Followers</b></li><li><b>+ BONUS 100 Likes Foto</b></li><li>Mix aktif & pasif Indonesia</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-5eb930a6d one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-100-ribu.jpg" alt="followers-100-ribu" width="501" height="457"/></div><h2>500 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>100.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 100 Followers</b></li><li><b>+ BONUS 100 Likes Foto</b></li><li>Mix aktif & pasif Indonesia</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-894d5801f one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2021/01/beli-followers-indonesia-160-ribu.jpg" alt="beli followers indonesia 160 ribu" width="501" height="457"/></div><h2>1.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>160.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 300 Followers</b></li><li><b>+ BONUS 200 Likes Foto</b></li><li>Mix aktif & pasif Indonesia</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-b69f8efa4 one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2021/01/beli-followers-indonesia-240-ribu.jpg" alt="beli followers indonesia 240 ribu" width="501" height="457"/></div><h2>1.500 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>240.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 500 Followers</b></li><li><b>+ BONUS 200 Likes Foto</b></li><li>Mix aktif & pasif Indonesia</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-e5082a5bb one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2021/01/beli-followers-indonesia-320-ribu.jpg" alt="beli followers indonesia 320 ribu" width="501" height="457"/></div><h2>2.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>320.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 750 Followers</b></li><li><b>+ BONUS 200 Likes Foto</b></li><li>Mix aktif & pasif Indonesia</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-5e3lby31j one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2021/01/beli-followers-indonesia-450-ribu.jpg" alt="beli followers indonesia 450 ribu" width="501" height="457"/></div><h2>3.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>450.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 1.000 Followers</b></li><li><b>+ BONUS 300 Likes Foto</b></li><li>Mix aktif & pasif Indonesia</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 2 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-zbb3jm40t one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2021/01/beli-followers-indonesia-900-ribu.jpg" alt="beli followers indonesia 900 ribu" width="501" height="457"/></div><h2>6.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>900.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 1.500 Followers</b></li><li><b>+ BONUS 600 Likes Foto</b></li><li>Mix aktif & pasif Indonesia</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 2 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-9g0xi99vo one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2021/01/beli-followers-indonesia-1-juta-2-ratus.jpg" alt="beli followers indonesia 1 juta 2 ratus" width="501" height="457"/></div><h2>9.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>1.200.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 2.500 Followers</b></li><li><b>+ BONUS 1.000 Likes Foto</b></li><li>Mix aktif & pasif Indonesia</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 2 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div></div></div></div></div><div class="section mcb-section mcb-section-4l6e9zody"  style="padding-top:30px" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-qsvf0nibe one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-v70eh7igh one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><div class="fh-top"></div><h2 class="title">Harga Beli Followers Mix (Tidak Bergaransi)</h2><div class="inside"><span style="color: #626262;">Followers Mix/Campuran, merupakan followers campuran dari akun real dan juga pasif dari seluruh dunia (worldwide). Followers mix dapat digunakan untuk meningkatkan kepercayaan dan kredibilitas terhadap akun Anda, dengan jumlah followers yang banyak orang akan tertarik untuk menfollow akun Anda dan membeli produk Anda.</span></div></div>
+</div><div class="column mcb-column mcb-item-fd966tbhz one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-30-ribu.jpg" alt="followers-30-ribu" width="501" height="457"/></div><h2>300 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>30.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 20 followers pasif</b></li><li><b>+ BONUS 100 Likes Foto</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-fl4lsg7re one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-50-ribu.jpg" alt="followers-50-ribu" width="501" height="457"/></div><h2>500 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>50.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 50 followers pasif</b></li><li><b>+ BONUS 100 Likes Foto</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-9ryyqoihv one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-100-ribu.jpg" alt="followers-100-ribu" width="501" height="457"/></div><h2>1.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>100.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 100 followers pasif</b></li><li><b>+ BONUS 100 Likes Foto</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-cwg0douhw one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-200ribu.jpg" alt="followers-200ribu" width="501" height="457"/></div><h2>2.500 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>200.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 200 followers pasif</b></li><li><b>+ BONUS 200 Likes Foto</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1-2 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-q6uqbo0mt one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-380ribu.jpg" alt="followers-380ribu" width="501" height="457"/></div><h2>5.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>380.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 300 followers pasif</b></li><li><b>+ BONUS 300 Likes Foto</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 2-3 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-n3gtmthir one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-750ribu.jpg" alt="followers-750ribu" width="501" height="457"/></div><h2>10.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>750.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 500 followers pasif</b></li><li><b>+ BONUS 500 Likes Foto</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 2-4 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div></div></div><div class="wrap mcb-wrap mcb-wrap-lwwu86e21 one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-ytz4y6vqq one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><div class="fh-top"></div><h2 class="title">Harga Beli Followers Mix (Garansi 30 Hari)</h2><div class="inside"><span style="color: #626262;">Followers Mix/Campuran, merupakan followers campuran dari akun real dan juga pasif dari seluruh dunia (worldwide). Followers mix dapat digunakan untuk meningkatkan kepercayaan dan kredibilitas terhadap akun Anda, dengan jumlah followers yang banyak orang akan tertarik untuk menfollow akun Anda dan membeli produk Anda.</span></div></div>
+</div><div class="column mcb-column mcb-item-5bhk8zqkj one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-50-ribu.jpg" alt="followers-50-ribu" width="501" height="457"/></div><h2>300 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>50.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 30 followers pasif</b></li><li><b>+ BONUS 100 Likes Foto</b></li><li><b>Bergaransi 30 Hari 1x Gratis Refill Jika Berkurang 50%</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-3p2k7a4ta one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-100-ribu.jpg" alt="followers-100-ribu" width="501" height="457"/></div><h2>500 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>100.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 100 followers pasif</b></li><li><b>+ BONUS 100 Likes Foto</b></li><li><b>Bergaransi 30 Hari 1x Gratis Refill Jika Berkurang 50%</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-6pf2he7bq one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-200ribu.jpg" alt="followers-200ribu" width="501" height="457"/></div><h2>1.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>200.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 300 followers pasif</b></li><li><b>+ BONUS 100 Likes Foto</b></li><li><b>Bergaransi 30 Hari 1x Gratis Refill Jika Berkurang 50%</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-ihllv3nv1 one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-380ribu.jpg" alt="followers-380ribu" width="501" height="457"/></div><h2>2.500 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>380.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 500 followers pasif</b></li><li><b>+ BONUS 200 Likes Foto</b></li><li><b>Bergaransi 30 Hari 1x Gratis Refill Jika Berkurang 50%</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 1-2 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-jr4858rib one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2019/11/followers-750ribu.jpg" alt="followers-750ribu" width="501" height="457"/></div><h2>5.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>750.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 1.000 followers pasif</b></li><li><b>+ BONUS 300 Likes Foto</b></li><li><b>Bergaransi 30 Hari 1x Gratis Refill Jika Berkurang 50%</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 2-3 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div><div class="column mcb-column mcb-item-gz31rqx5z one-third column_pricing_item"><div class="pricing-box  pricing-box-box"><div class="plan-header"><div class="image"><img src="https://www.indodigitalads.com/wp-content/uploads/2018/12/beli-followers-50000-mix.jpg" alt="Jasa Tambah Followers Instagram" width="" height=""/></div><h2>10.000 Followers</h2><div class="price"><sup class="currency">Rp</sup><span>1.800.000</span><sup class="period"></sup></div><hr class="hr_color" /></div><div class="plan-inside"><ul><li><b>+ BONUS 2.000 followers pasif</b></li><li><b>+ BONUS 500 Likes Foto</b></li><li><b>Bergaransi 30 Hari 1x Gratis Refill Jika Berkurang 50%</b></li><li>Mix aktif & pasif worldwide</li><li>100% Akun Aman</li><li>Meningkatkan Popularitas Akun</li><li>Hanya butuh Username Instagram</li><li>Lama Proses 2-4 Hari</li></ul></div><div class="plan-footer"><a href="https://www.indodigitalads.com/form-jasa-tambah-followers-instagram/" class="button button_theme has-icon" ><span class="button_icon"><i class="icon-basket"></i></span><span class="button_label">Pesan Sekarang!</span></a></div></div>
+</div></div></div></div></div><div class="section mcb-section mcb-section-e77600092  dark"  style="padding-top:30px;background-color:#dd3333" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-9acae03ca one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-465735532 one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><div class="fh-top"></div><h2 class="title">Jaminan Harga Termurah se-Indonesia!</h2><div class="inside"><span style="color: #ffffff;"><h4>Mari bergabung bersama 11.250 pembeli dari seluruh Indonesia. Kami berikan BUKTI bukan JANJI. Kesempatan ini hanya berlaku di bulan DESEMBER SAJA !</h4></span></div></div>
+</div><div class="column mcb-column mcb-item-6491cd0b4 one column_button"><div class="button_align align_center"><a class="button  has-icon button_left button_size_2" href="https://api.whatsapp.com/send?phone=6281239651808&#038;text=Halo,%20Saya%20mau%20pesan%20jasa%20tambah%20followers%20Instagram." style="background-color:#28be68!important;color:#ffffff;"    ><span class="button_icon"><i class="icon-comment-line"  style="color:#ffffff!important;"></i></span><span class="button_label">Ya, Pesan via WhatsApp!</span></a></div>
+</div></div></div></div></div><div class="section mcb-section mcb-section-f4d4a72d4"  style="padding-top:30px;background-color:#f7f7f7" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-140393387 one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-3d1d250e3 one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><div class="fh-top"></div><h2 class="title">6 Alasan Kenapa Anda HARUS BELI SEKARANG</h2></div>
+</div><div class="column mcb-column mcb-item-e7b424f8d one-third column_icon_box"><div class="icon_box icon_position_top no_border"><div class="icon_wrapper"><div class="icon"><i class="icon-money-line"></i></div></div><div class="desc_wrapper"><h4 class="title">Biaya Terjangkau</h4><div class="desc">Biaya tambah followers sangat terjangkau sesuai dengan kebutuhan usaha Anda. </div></div></div>
+</div><div class="column mcb-column mcb-item-63e90cac3 one-third column_icon_box"><div class="icon_box icon_position_top no_border"><div class="icon_wrapper"><div class="icon"><i class="icon-thumbs-up"></i></div></div><div class="desc_wrapper"><h4 class="title">Proses Cepat</h4><div class="desc">Orderan Anda akan kami proses kurang dari 24 Jam setelah Anda melakukan pembayaran.</div></div></div>
+</div><div class="column mcb-column mcb-item-2e5378eb7 one-third column_icon_box"><div class="icon_box icon_position_top no_border"><div class="icon_wrapper"><div class="icon"><i class="icon-users"></i></div></div><div class="desc_wrapper"><h4 class="title">Followers Berkualitas</h4><div class="desc">Followers merupakan akun real worldwide, sehingga dapat melakukan like atau komentar terhadap postingan Anda.</div></div></div>
+</div><div class="column mcb-column mcb-item-10c89449b one-third column_icon_box"><div class="icon_box icon_position_top no_border"><div class="icon_wrapper"><div class="icon"><i class="icon-pocket"></i></div></div><div class="desc_wrapper"><h4 class="title">Ada Garansi</h4><div class="desc">Garansi 1000% uang kembali jika followers tidak masuk ke akun Instagrammu.</div></div></div>
+</div><div class="column mcb-column mcb-item-rp8no99nj one-third column_icon_box"><div class="icon_box icon_position_top no_border"><div class="icon_wrapper"><div class="icon"><i class="icon-user-add"></i></div></div><div class="desc_wrapper"><h4 class="title">Banyak Bonus</h4><div class="desc">Seluruh pelanggan kami berikan BONUS tanpa terkecuali.</div></div></div>
+</div><div class="column mcb-column mcb-item-6egegwcq6 one-third column_icon_box"><div class="icon_box icon_position_top no_border"><div class="icon_wrapper"><div class="icon"><i class="icon-trophy"></i></div></div><div class="desc_wrapper"><h4 class="title">Ribuan Pelanggan Puas</h4><div class="desc">Kami sudah melayani ribuan pelanggan sejak tahun 2013. Kini saatnya Kami melayani Anda !</div></div></div>
+</div></div></div></div></div><div class="section mcb-section mcb-section-048a42493"  style="padding-top:20px" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-eed05e27b one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-89084174d one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><div class="fh-top"></div><h2 class="title">DIPERCAYA LEBIH DARI 11.250 PELANGGAN !</h2></div>
+</div><div class="column mcb-column mcb-item-nupl0vw4g one column_image_gallery">
+			<style type='text/css'>
+				#sc_gallery-5377 {
+					margin: auto;
+				}
+				#sc_gallery-5377 .gallery-item {
+					float: left;
+					margin-top: 10px;
+					text-align: center;
+					width: 33.33%;
+				}
+				#sc_gallery-5377 img {
+					border: 2px solid #cfcfcf;
+				}
+				#sc_gallery-5377 .gallery-caption {
+					margin-left: 0;
+				}
+				/* see sc_gallery() in functions/theme-shortcodes.php */
+			</style>
+		<div id='sc_gallery-5377' class='gallery galleryid-21 gallery-columns-3 gallery-size-medium file'><dl class='gallery-item'>
+				<dt class='gallery-icon landscape'>
+					<a href='https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5.jpg'><img width="300" height="300" src="https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5-300x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5-300x300.jpg 300w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5-1024x1024.jpg 1024w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5-150x150.jpg 150w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5-768x768.jpg 768w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5-146x146.jpg 146w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5-50x50.jpg 50w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5-75x75.jpg 75w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5-85x85.jpg 85w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5-80x80.jpg 80w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni5.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				</dt></dl><dl class='gallery-item'>
+				<dt class='gallery-icon landscape'>
+					<a href='https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6.jpg'><img width="300" height="300" src="https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6-300x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6-300x300.jpg 300w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6-1024x1024.jpg 1024w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6-150x150.jpg 150w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6-768x768.jpg 768w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6-146x146.jpg 146w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6-50x50.jpg 50w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6-75x75.jpg 75w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6-85x85.jpg 85w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6-80x80.jpg 80w, https://www.indodigitalads.com/wp-content/uploads/2021/08/testimoni6.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				</dt></dl><dl class='gallery-item'>
+				<dt class='gallery-icon landscape'>
+					<a href='https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1.jpg'><img width="300" height="300" src="https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1-300x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1-300x300.jpg 300w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1-1024x1024.jpg 1024w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1-150x150.jpg 150w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1-768x768.jpg 768w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1-146x146.jpg 146w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1-50x50.jpg 50w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1-75x75.jpg 75w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1-85x85.jpg 85w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1-80x80.jpg 80w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni1.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				</dt></dl><br style="clear: both" /><dl class='gallery-item'>
+				<dt class='gallery-icon landscape'>
+					<a href='https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2.jpg'><img width="300" height="300" src="https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2-300x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2-300x300.jpg 300w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2-1024x1024.jpg 1024w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2-150x150.jpg 150w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2-768x768.jpg 768w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2-146x146.jpg 146w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2-50x50.jpg 50w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2-75x75.jpg 75w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2-85x85.jpg 85w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2-80x80.jpg 80w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni2.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				</dt></dl><dl class='gallery-item'>
+				<dt class='gallery-icon landscape'>
+					<a href='https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3.jpg'><img width="300" height="300" src="https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3-300x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3-300x300.jpg 300w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3-1024x1024.jpg 1024w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3-150x150.jpg 150w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3-768x768.jpg 768w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3-146x146.jpg 146w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3-50x50.jpg 50w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3-75x75.jpg 75w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3-85x85.jpg 85w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3-80x80.jpg 80w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni3.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				</dt></dl><dl class='gallery-item'>
+				<dt class='gallery-icon landscape'>
+					<a href='https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4.jpg'><img width="300" height="300" src="https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4-300x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4-300x300.jpg 300w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4-1024x1024.jpg 1024w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4-150x150.jpg 150w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4-768x768.jpg 768w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4-146x146.jpg 146w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4-50x50.jpg 50w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4-75x75.jpg 75w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4-85x85.jpg 85w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4-80x80.jpg 80w, https://www.indodigitalads.com/wp-content/uploads/2021/07/testimoni4.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+				</dt></dl><br style="clear: both" />
+			</div>
+</div></div></div></div></div><div class="section mcb-section mcb-section-y52jlnuyo"  style="padding-top:20px" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-bp8e15k7o one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-a7a1fzy7v one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><div class="fh-top"></div><h2 class="title">Bantu Kami Meningkatkan Kualitas</h2></div>
+</div><div class="column mcb-column mcb-item-yyqohbtrs one-fourth column_column"><div class="column_attr clearfix" style=""></div></div><div class="column mcb-column mcb-item-cx6pp8xvg one-second column_tabs"><div class="jq-tabs tabs_wrapper tabs_horizontal"><ul><li><a href="#tab-61d162b37995d-1">Kirim Review</a></li><li><a href="#tab-61d162b37995d-2">Lihat Review</a></li></ul><div id="tab-61d162b37995d-1" > <span id="state"></span> 		<form action="" method="post" enctype="multipart/form-data" class="rr_review_form" id="fprr_review_form">
+            <input type="hidden" id="_wpnonce" name="_wpnonce" value="5347196542" /><input type="hidden" name="_wp_http_referer" value="/jasa-tambah-followers-instagram/" />			<input type="hidden" name="rRating" id="rRating" value="0" />
+			<table class="form_table">
+			
+	<tr class="rr_form_row">
+		<td class="rr_form_heading rr_required" >
+			Nama		</td>
+		<td class="rr_form_input">
+			<span class="form-err"></span>			<input class="rr_small_input" type="text" name="rName" value="" />
+		</td>
+	</tr>
+<tr class="rr_form_row">
+	<td class="rr_form_heading rr_required">Rating</td>
+	<td class="rr_form_input">
+		<span class="form-err"></span>		<div class="rr_stars_container">
+			<span class="rr_star glyphicon glyphicon-star-empty" id="rr_star_1"></span>
+			<span class="rr_star glyphicon glyphicon-star-empty" id="rr_star_2"></span>
+			<span class="rr_star glyphicon glyphicon-star-empty" id="rr_star_3"></span>
+			<span class="rr_star glyphicon glyphicon-star-empty" id="rr_star_4"></span>
+			<span class="rr_star glyphicon glyphicon-star-empty" id="rr_star_5"></span>
+		</div>
+	</td>
+</tr>	<tr class="rr_form_row">
+		<td class="rr_form_heading rr_required">
+			Review Kamu		</td>
+		<td class="rr_form_input">
+			<span class="form-err"></span>			<textarea class="rr_large_input" name="rText" rows="10"></textarea>
+		</td>
+	</tr>                <tr class="rr_form_row rr-honeydo">
+                    <td>
+                        <label class="rr-honeydo" for="org"></label>
+                    </td>
+                    <td>
+                        <input class="rr-honeydo" autocomplete="off" type="text" id="org" name="org" placeholder="Your Organization">
+                    </td>
+                </tr>
+				<tr class="rr_form_row">
+					<td></td>
+					<td class="rr_form_input"><input id="submitReview" name="submitButton" type="submit" value="Kirim"/></td>
+				</tr>
+			</table>
+		</form>
+	</div><div id="tab-61d162b37995d-2" > <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-12-21 06:36:11">
+			<time datetime="Monday, December 21, 2020">
+				Monday, December 21, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Nambahnya cepet, adminnya juga ramah.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Tono			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-08-16 15:05:27">
+			<time datetime="Sunday, August 16, 2020">
+				Sunday, August 16, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>followers bertambah sesuai pesanan. proses cepat dan ada bonusnya, thanks min.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Rian			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-07-07 07:20:56">
+			<time datetime="Tuesday, July 7, 2020">
+				Tuesday, July 7, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantap</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Shandi Kirana			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-07-06 09:58:18">
+			<time datetime="Monday, July 6, 2020">
+				Monday, July 6, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Cepat prosesnya, makasih banyak ya kak..</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Robert			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-07-06 01:39:58">
+			<time datetime="Monday, July 6, 2020">
+				Monday, July 6, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Followersnya cepet banget sampe nya, ini mah harus order lagiiii dan lagi kesini nih.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			ikbalfirmansyaah			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-07-06 00:18:08">
+			<time datetime="Monday, July 6, 2020">
+				Monday, July 6, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Cepet prosesnya 1 hari, no tipu tipu. Recommended!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Rija			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-07-03 11:17:53">
+			<time datetime="Friday, July 3, 2020">
+				Friday, July 3, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Pelayanan ramah, bonus followers lumayan banyak..semoga sukses terus</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Ardi			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-07-03 00:49:52">
+			<time datetime="Friday, July 3, 2020">
+				Friday, July 3, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>makasi min, followersnya sudah bertambah banyak, plus ada bonusannya like nya juga...</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Jeng Dewi			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-29 22:29:09">
+			<time datetime="Monday, June 29, 2020">
+				Monday, June 29, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantap pisan proses nya cepet dan hasil sangat memuaskan. Thanks ya min.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Advan			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-23 15:05:38">
+			<time datetime="Tuesday, June 23, 2020">
+				Tuesday, June 23, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantap lah, bonusnya banyak banget dikasi, adminnya juga ramah, love deh pokoknya!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Akyas			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-23 06:06:05">
+			<time datetime="Tuesday, June 23, 2020">
+				Tuesday, June 23, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Puas banget sama pelayanan Indo Digital Ads, selain banyak bonus, harganya juga bersahabat. Thx ya min.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Fredy			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-23 05:08:07">
+			<time datetime="Tuesday, June 23, 2020">
+				Tuesday, June 23, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Bintang 5 buat kamu min, service memuaskan, followers sudah masuk sesuai order bahkan dilebihin.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Ayu Ida			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-22 04:23:54">
+			<time datetime="Monday, June 22, 2020">
+				Monday, June 22, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Emang keren banget Indo Digital Ads ini, aku total udah 5x belanja layanan followers ig disini, drop nya sedikit dan ada garansinya..</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Desy			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-22 04:17:50">
+			<time datetime="Monday, June 22, 2020">
+				Monday, June 22, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantap, prosesnya cepat dan selalu bisa diandalkan!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Oktavia Putri			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-22 04:15:39">
+			<time datetime="Monday, June 22, 2020">
+				Monday, June 22, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Terima kasih min, Followers Indonesia sudah bertambah sesuai order. lain kali mau beli lagi ah, wkwkkwk</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Devy			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-20 07:26:47">
+			<time datetime="Saturday, June 20, 2020">
+				Saturday, June 20, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantaaaapppppp udah 2x beli disini, jasa followers terbaik yang suka ngasi bonus lebih. thanks kak..</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Yudhi			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-20 07:25:13">
+			<time datetime="Saturday, June 20, 2020">
+				Saturday, June 20, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantaaaapppppp udah 2x beli disini. Harga promo + dapet bonus juga..</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Chici			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-17 02:56:31">
+			<time datetime="Wednesday, June 17, 2020">
+				Wednesday, June 17, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>mantap..memuaskan..udah berkali2 mesen disini..</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			ajo.jorat			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-17 00:48:17">
+			<time datetime="Wednesday, June 17, 2020">
+				Wednesday, June 17, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Recommended, adminnya ramah dan bonusnya mantap!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Linda			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-17 00:45:30">
+			<time datetime="Wednesday, June 17, 2020">
+				Wednesday, June 17, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Situs terpercaya untuk beli followers, prosesnya cepat, bisa bayar via pulsa juga. Thanks ya min...</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Ririn			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-11 05:46:55">
+			<time datetime="Thursday, June 11, 2020">
+				Thursday, June 11, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Penjual terpercaya, selalu ngasi bonus tiap belanja. Terima kasih indo digital ads!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Irvan			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-10 22:09:08">
+			<time datetime="Wednesday, June 10, 2020">
+				Wednesday, June 10, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Asli, dan gak neko2. Pelayanannya jg bagus. Semoga awet2 yah followersnya uhuyy</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			RBT			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-10 10:39:26">
+			<time datetime="Wednesday, June 10, 2020">
+				Wednesday, June 10, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Fast and trusted. Toko jasa followers yang satu2nya ngasi bonus. makasi ya min.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Dion			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-08 03:15:47">
+			<time datetime="Monday, June 8, 2020">
+				Monday, June 8, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Proses cepat gak kaya toko sebelah. Sudah 2x order disini dan selalu puas.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Fitriah			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-07 11:10:40">
+			<time datetime="Sunday, June 7, 2020">
+				Sunday, June 7, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Layanan mantap dan prosesnya juga cepat.. Terimakasih</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Hendra			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-06 00:27:49">
+			<time datetime="Saturday, June 6, 2020">
+				Saturday, June 6, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Membantu bangett ini beneran loh folowers nya bertambah yuu segera yang lain kalo belum pesan skrng jika ingin folowers kalian bertambahh</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			tariana sekarwati			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-05 09:05:24">
+			<time datetime="Friday, June 5, 2020">
+				Friday, June 5, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Fast and good response..pelayanan yang ramah dan memuaskan pelanggan</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Juni Richad Samosir			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-04 11:00:02">
+			<time datetime="Thursday, June 4, 2020">
+				Thursday, June 4, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Terima kasih banyak ya, followers aq sudah masuk semua, bonus like nya juga jgn lupa ya kak..</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Nazilla			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-04 10:56:26">
+			<time datetime="Thursday, June 4, 2020">
+				Thursday, June 4, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Melayani dengan baik saya Sukaa ga pernah kecewa beli followers disini pokonya abangnya baik</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Mayy			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-04 03:14:08">
+			<time datetime="Thursday, June 4, 2020">
+				Thursday, June 4, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Pelayanannya sangat cepat dan terpercaya Mantap!!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Dewi fatimah			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-03 15:42:11">
+			<time datetime="Wednesday, June 3, 2020">
+				Wednesday, June 3, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Terima Kasih banyak IndodigitalAds, sangat membantu!!!! Rekomen bgt</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Zacky			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-01 21:47:25">
+			<time datetime="Monday, June 1, 2020">
+				Monday, June 1, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>sangat bagus.sekali pesan langsung kirim ga sampai nunggu lama</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			agesti			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-01 21:44:06">
+			<time datetime="Monday, June 1, 2020">
+				Monday, June 1, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Sangat puas sekali belanja di Indo Digital Ads, banyak bonusnya, plus pelayananny juga ramah.. tq ya kak.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Eko			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-06-01 21:39:28">
+			<time datetime="Monday, June 1, 2020">
+				Monday, June 1, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Pelayanannya sangat cepat dan adminnya baik. Saya sudah order untuk ke-5 kalinya.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Dinda			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-28 11:27:11">
+			<time datetime="Thursday, May 28, 2020">
+				Thursday, May 28, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Wah terimakasih ya kak, prosesnya sangat cepat, selalu memuaskan kalau belanja disini..</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Deta			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-28 11:21:14">
+			<time datetime="Thursday, May 28, 2020">
+				Thursday, May 28, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Belanja disini bener2 real, saya sudah 4x belanja disini, banyak layanan yg diberikan.. pluss tambah bonus juga.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Wedastra			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-28 05:18:04">
+			<time datetime="Thursday, May 28, 2020">
+				Thursday, May 28, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Recommended services. Harga terjangkau, kualitas terjamin.. thx Indo Digital Ads.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Ita			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-23 04:52:33">
+			<time datetime="Saturday, May 23, 2020">
+				Saturday, May 23, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>pelayanan memuaskan, admin respon cepet baik dan ramah, ga nyesel puas pokonya, makasih admin</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Maay			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-22 13:28:31">
+			<time datetime="Friday, May 22, 2020">
+				Friday, May 22, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Proses cepet banget gila. Sampe kaget.. de best pokoknya. Thanks indodigitalads.com.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Arifin			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-22 11:47:20">
+			<time datetime="Friday, May 22, 2020">
+				Friday, May 22, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Good respon, penjual terpercaya, pelayanan juara.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Andy yudiantoro			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-22 09:18:43">
+			<time datetime="Friday, May 22, 2020">
+				Friday, May 22, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Memang terpercaya disini, pelayanannya ramah, konsultasi dilayani dengan baik, pokoknya recommended deh!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Edhohandy			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-21 02:02:26">
+			<time datetime="Thursday, May 21, 2020">
+				Thursday, May 21, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Saya sudah ber langganan lebih dari 2 tahun. Banyak layanan serupa, tapi ini yang terpercaya.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Debora			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-19 13:04:58">
+			<time datetime="Tuesday, May 19, 2020">
+				Tuesday, May 19, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Terima kasih min, followers sudah masuk, ini sudah orderan ke 3 saya, sukses terus ya min.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Ilyaz19_			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-19 11:39:41">
+			<time datetime="Tuesday, May 19, 2020">
+				Tuesday, May 19, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Followers sudah sukses masuk ke akun aku min, tq banget, bener2 terpercaya!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Andrianto			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-19 11:38:06">
+			<time datetime="Tuesday, May 19, 2020">
+				Tuesday, May 19, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Adminnya fast response dan baik. Selalu kasi bonus tiap order, tq ya kak.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Hendra W			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-19 07:10:53">
+			<time datetime="Tuesday, May 19, 2020">
+				Tuesday, May 19, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Bagus banget kak Cepet+ Aman Pokoknya top deh. Makasih yaa</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Sunny Jovi			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-19 07:09:51">
+			<time datetime="Tuesday, May 19, 2020">
+				Tuesday, May 19, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Puas banget sama indo digital ads, harganya murah, prosesnya juga cepet. Thx ya kak.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Irwan Dirgantara			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-19 06:11:23">
+			<time datetime="Tuesday, May 19, 2020">
+				Tuesday, May 19, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Proses sangat cepat, setelah transfer, orderan langsung diproses, adminnya juga baik.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Ahmad Ariadi			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-19 01:40:05">
+			<time datetime="Tuesday, May 19, 2020">
+				Tuesday, May 19, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Prosesnya cepat, aman, terpercaya</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Alyadhifaputrisyahryan			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-18 13:46:42">
+			<time datetime="Monday, May 18, 2020">
+				Monday, May 18, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Puas banget karna prosesnya cepat, penjual juga fast response.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Linda			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-18 09:11:51">
+			<time datetime="Monday, May 18, 2020">
+				Monday, May 18, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Seneng bisa ketemu Indo Digital Ads, ternyata jasanya real, followers masuk setelah kita bayar, thanks ya!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Diana			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-18 08:47:46">
+			<time datetime="Monday, May 18, 2020">
+				Monday, May 18, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Sudah order untuk yg ke-5 kalinya, selalu dikasi bonus, jadi ketagihan belinya. Makasi ya min..</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Winda			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-18 08:46:13">
+			<time datetime="Monday, May 18, 2020">
+				Monday, May 18, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Pelayanan cepat &amp; OK</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Ayu			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-17 00:35:47">
+			<time datetime="Sunday, May 17, 2020">
+				Sunday, May 17, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Saya sudah pesan 3 kali dari website ini Trusted banget</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Nathania			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-15 03:43:04">
+			<time datetime="Friday, May 15, 2020">
+				Friday, May 15, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Prosesnya cepat,harga bersahabat,aman,terpercaya</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Dwi rahma			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-14 14:22:10">
+			<time datetime="Thursday, May 14, 2020">
+				Thursday, May 14, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Pelayanannya sangat memuaskan</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Aris surya			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-14 12:03:12">
+			<time datetime="Thursday, May 14, 2020">
+				Thursday, May 14, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Prosesnya cepat,harga bersahabat,terpercaya dan aman</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Agi			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-14 08:51:30">
+			<time datetime="Thursday, May 14, 2020">
+				Thursday, May 14, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>So fast and good coorporate.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Nicho			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-13 06:43:40">
+			<time datetime="Wednesday, May 13, 2020">
+				Wednesday, May 13, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Prosesnya cepat, sudah 2 kali order dan akan order lagi</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Dwi Riski Darmawan			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-12 15:46:21">
+			<time datetime="Tuesday, May 12, 2020">
+				Tuesday, May 12, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Prosesnya cepat, penjual terpercaya.. sudah 2x belanja disini dan hasilnya tetep memuaskan. thx ya min.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			anang			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-10 11:29:51">
+			<time datetime="Sunday, May 10, 2020">
+				Sunday, May 10, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Luar biasa, adminnya fast respon. Followers sampai dengan cepat setelah transfer, terima kasih ya min..</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Fatih			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-09 02:38:57">
+			<time datetime="Saturday, May 9, 2020">
+				Saturday, May 9, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Jangan ragu pesan di indodigitalads. Pokoknya worth it dan trusted lah bintang 5 miiin</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Agung			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-08 01:50:16">
+			<time datetime="Friday, May 8, 2020">
+				Friday, May 8, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Sangat membantu untuk kalian yang ingin menambah followerss:-) Sialhkan diorder di sini ..aman dan terpercaya ..dijamin Akun kalian aman</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Wardaningsih			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-05 09:50:24">
+			<time datetime="Tuesday, May 5, 2020">
+				Tuesday, May 5, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Recommended pokoknya, jgn ragu buat pesan</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Rachmad			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-05 07:27:57">
+			<time datetime="Tuesday, May 5, 2020">
+				Tuesday, May 5, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Prosesnya cepat. Mntp</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Fitri			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-02 12:16:58">
+			<time datetime="Saturday, May 2, 2020">
+				Saturday, May 2, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Proses cepat, harga murah, pokoknya mantap!!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Amel			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-02 12:05:58">
+			<time datetime="Saturday, May 2, 2020">
+				Saturday, May 2, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantep bener trusted jos</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Andro			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-02 04:53:35">
+			<time datetime="Saturday, May 2, 2020">
+				Saturday, May 2, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Nggak usah diraguin lagi, no tipu tipu buruan gercep dah</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			RickyAsda			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-05-02 04:13:34">
+			<time datetime="Saturday, May 2, 2020">
+				Saturday, May 2, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Proses cepat, trusted.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Ardhi sr			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-30 08:57:45">
+			<time datetime="Thursday, April 30, 2020">
+				Thursday, April 30, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Konsisten dan terpercaya. Puas banget. Thank you</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Indira			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-30 08:52:57">
+			<time datetime="Thursday, April 30, 2020">
+				Thursday, April 30, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Proses cepat dan terpercaya!!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Samuel			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-29 08:06:01">
+			<time datetime="Wednesday, April 29, 2020">
+				Wednesday, April 29, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Jasa sangat amanah, mudah, dan dapat di percaya guys, langsung aja di coba berapa menit langsung banyak tu followers kalian. Enjoy guysss</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Adidi_			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-29 03:06:40">
+			<time datetime="Wednesday, April 29, 2020">
+				Wednesday, April 29, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Proses mudah dan cepat, respon admin juga cepat. Okelah mantap! Makasih ya~</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Nindi			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-28 14:19:27">
+			<time datetime="Tuesday, April 28, 2020">
+				Tuesday, April 28, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Layanannya cepat dan memuaskan</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Bagus			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-28 08:59:02">
+			<time datetime="Tuesday, April 28, 2020">
+				Tuesday, April 28, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Sangat puas pelayanan ramah dan baik gak nyesel pesen di sini sangat sangat puas sekali makasih min</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Hendra rukma hadi			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-26 07:22:09">
+			<time datetime="Sunday, April 26, 2020">
+				Sunday, April 26, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantappp kerennnn, pengerjaannya fast banget hihihi</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			DIPSY SENJU			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-26 07:17:25">
+			<time datetime="Sunday, April 26, 2020">
+				Sunday, April 26, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Pelayanan bagus, admin ramah, fast respon, dpt bonus pula. Thankyouu!!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Vallerie			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-25 05:07:59">
+			<time datetime="Saturday, April 25, 2020">
+				Saturday, April 25, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Sangat mudah, cepat dan membantu dalam prosesnya. Tanpa ribet.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Stephanie			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-24 13:01:41">
+			<time datetime="Friday, April 24, 2020">
+				Friday, April 24, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantap abis</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Farid			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-24 08:20:06">
+			<time datetime="Friday, April 24, 2020">
+				Friday, April 24, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Saya sangat puas dengan pelayanan admin yg serba cepat. Garansi 1minggu semoga trs naik gak pakai turun.thank you</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Indojavaholiday			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-23 14:34:04">
+			<time datetime="Thursday, April 23, 2020">
+				Thursday, April 23, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Proses yang lancar bahkan bisa dikirim invoice juga. Lanjutkan!</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Aldini			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-22 11:45:22">
+			<time datetime="Wednesday, April 22, 2020">
+				Wednesday, April 22, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Makasih kak ini sangat berguna bagi saya</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Silvi haqqi			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-22 08:53:55">
+			<time datetime="Wednesday, April 22, 2020">
+				Wednesday, April 22, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Terimakasih sekarang instagram saya followersnya udah bertambah</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			MH_muhammad_			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-20 13:49:42">
+			<time datetime="Monday, April 20, 2020">
+				Monday, April 20, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>very fast..ngk nyampe sehari..admin well respons,, very satisfying..nice indodigitalads..</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			ajo.jorat			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-19 12:51:00">
+			<time datetime="Sunday, April 19, 2020">
+				Sunday, April 19, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Trimksh sudah membuat IG saya jadi bnyk yg lihat.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Gloria			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-19 09:43:36">
+			<time datetime="Sunday, April 19, 2020">
+				Sunday, April 19, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Fast respon, cepat, murah</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Dimas Bintang Ramadhan			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-18 21:42:00">
+			<time datetime="Saturday, April 18, 2020">
+				Saturday, April 18, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Baru pertama kali pakai jasa Indo Digital Ads, pelayanannya memuaskan, sesuai ekspektasi, ordernya juga mudah, tinggal WA aja, bisa byar pakai pulsa juga... terima kasih ya mimin....</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Diah			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-18 01:20:53">
+			<time datetime="Saturday, April 18, 2020">
+				Saturday, April 18, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantab gan</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			yos			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-17 05:34:14">
+			<time datetime="Friday, April 17, 2020">
+				Friday, April 17, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantap pelayanannya ramah, begitu selesai transfer followersnya langsung masuk</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Fatma			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-11 09:02:33">
+			<time datetime="Saturday, April 11, 2020">
+				Saturday, April 11, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Sangat baik..cuman ditingkatkan followers nya orang Indonesia kak</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Daniel			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-11 04:54:37">
+			<time datetime="Saturday, April 11, 2020">
+				Saturday, April 11, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Akhirnya dapet akun oke buat nambah follower</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Riana wang			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-11 01:45:45">
+			<time datetime="Saturday, April 11, 2020">
+				Saturday, April 11, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Cepet</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Mputri			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-10 09:25:19">
+			<time datetime="Friday, April 10, 2020">
+				Friday, April 10, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Prosess cepayyy</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Tangsoo			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-08 12:59:26">
+			<time datetime="Wednesday, April 8, 2020">
+				Wednesday, April 8, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantap, pelayanan bintang 5, harga kaki 5.</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			P H			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-08 08:19:58">
+			<time datetime="Wednesday, April 8, 2020">
+				Wednesday, April 8, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Pelayanan sangat baik dan prosesnya sangat cepat</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Novita			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-06 14:29:10">
+			<time datetime="Monday, April 6, 2020">
+				Monday, April 6, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>sangat memuaskan, terpercaya, cepat sekali</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			aji			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-06 12:43:42">
+			<time datetime="Monday, April 6, 2020">
+				Monday, April 6, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>sangat memuaskan, terpercaya, cepat sekali</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			aji			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-04 02:30:46">
+			<time datetime="Saturday, April 4, 2020">
+				Saturday, April 4, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Mantap jiwa</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Kelvin			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-02 13:50:45">
+			<time datetime="Thursday, April 2, 2020">
+				Thursday, April 2, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Proses sangat cepat</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Parramitha Indira			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-02 11:17:25">
+			<time datetime="Thursday, April 2, 2020">
+				Thursday, April 2, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Good banget pokoknya,followers masuk dengan cepat,pokoknya harus banget beli followers disini</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Rifqialrazzak			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-04-01 08:14:28">
+			<time datetime="Wednesday, April 1, 2020">
+				Wednesday, April 1, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Godd job</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Kendrick Yonathan			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-03-31 10:57:26">
+			<time datetime="Tuesday, March 31, 2020">
+				Tuesday, March 31, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Bagus sejauh ini, dapat diandalkan :)</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Dewi			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-03-31 10:18:07">
+			<time datetime="Tuesday, March 31, 2020">
+				Tuesday, March 31, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>bagus sekali layanan terpercaya</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Alif ataur rahamnsyah			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-03-30 10:16:42">
+			<time datetime="Monday, March 30, 2020">
+				Monday, March 30, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Luar bisa, Admin nya fast respon, penambahan followers nya juga gak ada itungan hari, sesuai dengan yg di janjikan</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Dwika			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-03-30 08:20:17">
+			<time datetime="Monday, March 30, 2020">
+				Monday, March 30, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Pelayanan nya memuaskan,cepat,murah.dll</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Rayyan			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-03-30 07:43:30">
+			<time datetime="Monday, March 30, 2020">
+				Monday, March 30, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Ga bakal nyesel, udah beberapa kali pakai jasa ini, hasilnya bertahan lama. Recommended banget. Silahkan Kakak. Juaraaa...</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Zulfi RS			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-03-30 04:04:37">
+			<time datetime="Monday, March 30, 2020">
+				Monday, March 30, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Muanteppppp beberapa menit langsung masuk</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Abizah			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-03-30 02:11:41">
+			<time datetime="Monday, March 30, 2020">
+				Monday, March 30, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>cepet prosesnya.bgus</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Ratna			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+	 </div>
+
+					<!-- clear the floats -->
+					<div class="clear"></div>  <div class="testimonial_group"> 	<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-03-28 13:36:04">
+			<time datetime="Saturday, March 28, 2020">
+				Saturday, March 28, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Terima kasih, pelayanan cepat. Mantap</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Hira			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="testimonial">
+		<h3 class="rr_title"></h3>
+		<div class="clear"></div>
+		<span>
+		<div class="rr_review_post_id" style=&quot;display:none&quot;>
+			<a href="https://www.indodigitalads.com/jasa-tambah-followers-instagram/">
+				Jasa Tambah Followers Instagram			</a>
+		</div>
+			<div class="clear"></div>
+	</span>
+			<span class="rr_date" style="display:none;"><meta content="2020-03-28 13:25:38">
+			<time datetime="Saturday, March 28, 2020">
+				Saturday, March 28, 2020			</time>
+		</span>
+			<div class="stars">
+			&#9733;&#9733;&#9733;&#9733;&#9733;		</div>
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text"  >
+			<span class="drop_cap">“</span>
+			<span>Sesuai dengan yang di jual, followers masuk kurang dari 1 jam</span>”
+		</div>
+			<div class="rr_review_name"> - <span>
+			Kurniasan			</span>
+			</div>
+			<div class="clear"></div>
+		</div>
+					</div>
+				<div class="clear"></div>
+					<style>
+		.stars, .rr_star {
+			color: #ffaf00;
+		}
+	</style>
+	
+
+		<div itemscope itemtype="http://schema.org/Organization">
+			<span itemprop="name" style="display:none">
+				Jasa Tambah Followers Instagram			</span>
+			<div class="star-rating"><span class="screen-reader-text">5.0 rating based on 12,345 ratings</span><div class="star star-full" aria-hidden="true"></div><div class="star star-full" aria-hidden="true"></div><div class="star star-full" aria-hidden="true"></div><div class="star star-full" aria-hidden="true"></div><div class="star star-full" aria-hidden="true"></div></div>		    Overall rating:			<span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+				<strong>
+					<span class="value" itemprop="ratingValue">5</span>
+				</strong> out of				<strong><span itemprop="bestRating">5</span></strong> based on				<span class="votes" itemprop="reviewCount">
+					110				</span> reviews.			</span>
+			<div itemprop="review" itemscope itemtype="http://schema.org/Review">
+				<span itemprop="author" itemscope itemtype="https://schema.org/Person" style="display: none;">
+					<span itemprop="name">Indo Digital Ads</span>
+				</span>
+			</div>
+		</div>
+	</div></div></div><div class="column mcb-column mcb-item-kfa7b57wy one-fourth column_column"><div class="column_attr clearfix" style=""></div></div></div></div></div></div><div class="section mcb-section mcb-section-dioypdjbx"  style="padding-top:30px;background-color:#f9f9f9" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-djoxufsbt one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-h6d3pwecn one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><div class="fh-top"></div><h2 class="title">Pertanyaan Yang Biasa Ditanyakan :</h2></div>
+</div><div class="column mcb-column mcb-item-jest0pqoe one column_faq"><div class="faq"><div class="mfn-acc faq_wrapper"><div class="question"><div class="title"><span class="num">1</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Bagaimana Cara Order Followers Instagram?</div><div class="answer"><p style="text-align: left;">Prosedur pembelian Followers :</p>
+<p style="text-align: left;">1. Infokan jumlah followers yang ingin dipesan.<br>
+2. Konfirmasi username instagram.<br>
+3. Lakukan pembayaran sesuai pesanan.<br>
+4. Orderan kami proses.</p><br>
+<p style="text-align: left;">NB : Akun tidak boleh diprivate selama proses.</p></div></div>
+<div class="question"><div class="title"><span class="num">2</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Apa Syarat &amp; Ketentuan Pembelian Followersnya?</div><div class="answer">Akun tidak boleh diprivate selama proses.</div></div>
+<div class="question"><div class="title"><span class="num">3</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Apakah Akun Instagram saya Aman?</div><div class="answer">Menjaga keamanan akun adalah prioritas utama kami, jika membeli followers di Indo Digital Ads, kami jamin akun instagram kamu 100% aman dan tanpa masalah dikemudian hari.</div></div>
+<div class="question"><div class="title"><span class="num">4</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Apakah ada Garansi?</div><div class="answer">Kami memiliki garansi 30 hari, jika dalam 30 hari kedepan followers berkurang sampai 50%nya dari orderan, maka akan mendapat 1x refill GRATIS,</div></div>
+<div class="question"><div class="title"><span class="num">5</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Bagaimana Cara Pembayarannya?</div><div class="answer">Pembayaran dapat dilakukan via Transfer Bank (BCA, BNI, BRI, dan Mandiri), OVO, Dana, Gopay, dan PayPal. Kemudian konfirmasikan pembayaran Anda ke kami via WhatsApp.</div></div>
+<div class="question"><div class="title"><span class="num">6</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Pembayaran via Transfer</div><div class="answer">Pembayaran dapat ditransfer ke Rekening berikut.<br>
+<br>
+Bank BCA<br>
+A/N : Ida Bagus Yudha Surya Pradipta<br>
+No Rek : 0402495829<br>
+<br>
+Bank BNI<br>
+A/N : Ida Bagus Yudha Surya Pradipta<br>
+No Rek : 0453488897<br>
+<br>
+Bank BRI<br>
+A/N : Ida Bagus Yudha Surya Pradipta<br>
+No Rek : 0017 01 011645 53 1<br>
+<br>
+Bank Mandiri<br>
+A/N : Ida Bagus Yudha Surya Pradipta<br>
+No Rek : 9000007396360<br>
+<br>
+Setelah itu, mohon konfirmasi via WhatsApp jika sudah melakukan pembayaran. Terima kasih.</div></div>
+<div class="question"><div class="title"><span class="num">7</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Pembayaran via OVO, Dana, Gopay</div><div class="answer">Pembayaran via OVO, Dana, Gopay dapat dikirim ke nomor berikut :<br>
+<br>
+081 239 651 808 a.n. Ida Bagus Yudha Surya Pradipta<br>
+<br>
+Setelah itu, mohon konfirmasi via WhatsApp jika sudah melakukan pembayaran. Terima kasih.</div></div>
+<div class="question"><div class="title"><span class="num">8</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Pembayaran via PayPal</div><div class="answer">Pembayaran via PayPal dapat ditransfer melalui link berikut.<br>
+<br>
+PayPal A/N : Indo Digital Ads<br>
+<a href="https://www.paypal.me/indodigitaladscom">https://www.paypal.me/indodigitaladscom</a></div></div>
+<div class="question"><div class="title"><span class="num">9</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Berapa Lama Proses Followers Masuk?</div><div class="answer">Setelah pembayaran, followers akan masuk langsung atau maksimal 1x24 jam. Bisa lebih lama tergantung jumlah orderan di kami.</div></div>
+<div class="question"><div class="title"><span class="num">10</span><i class="icon-plus acc-icon-plus"></i><i class="icon-minus acc-icon-minus"></i>Saya Ingin Konsultasi, Bisa Hubungi Siapa?</div><div class="answer">Silahkan chat kami via WhatsApp jika ada yang belum jelas. </div></div>
+</div></div>
+</div></div></div></div></div><div class="section mcb-section mcb-section-4tqctqb88  dark"  style="padding-top:30px;background-color:#2279be" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-ihwqtg1da one  valign-top clearfix" data-col="one" style=""  ><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-dcsmshupu one column_fancy_heading"><div class="fancy_heading fancy_heading_icon"><div class="fh-top"></div><h2 class="title">Jadi, tunggu apa lagi? WhatsApp sekarang juga!</h2><div class="inside"><span style="color: #ffffff;">Harga berlaku untuk <del>100</del> 48 pemesan tercepat! PASTIKAN Kamu mendapatkan PENAWARAN SPESIAL ini. Garansi 1000% uang kembali kalau Followers tidak masuk ke Akunmu!</span></div></div>
+</div><div class="column mcb-column mcb-item-6840tsvq2 one column_button"><div class="button_align align_center"><a class="button  has-icon button_left button_size_2" href="https://api.whatsapp.com/send?phone=6281239651808&#038;text=Halo,%20Saya%20mau%20pesan%20jasa%20tambah%20followers%20Instagram." style="background-color:#28be68!important;color:#ffffff;"    ><span class="button_icon"><i class="icon-comment-line"  style="color:#ffffff!important;"></i></span><span class="button_label">Ya, Pesan via WhatsApp!</span></a></div>
+</div></div></div></div></div></div><div class="section the_content no_content"><div class="section_wrapper"><div class="the_content_wrapper"></div></div></div>
+				<div class="section section-page-footer">
+					<div class="section_wrapper clearfix">
+
+						<div class="column one page-pager">
+													</div>
+
+					</div>
+				</div>
+
+								
+			</div>
+
+			
+		</div>
+
+		
+	</div>
+</div>
+
+
+<!-- mfn_hook_content_after --><!-- mfn_hook_content_after -->
+
+	<footer id="Footer" class="clearfix">
+
+		
+		<div class="widgets_wrapper"><div class="container"><div class="column one-fourth"><aside id="text-5" class="widget widget_text"><h4>Tentang Kami</h4>			<div class="textwidget"><p>Indo Digital Ads merupakan Digital Marketing Agency yang berdiri sejak tahun 2013. Kami melayani sosial media marketing dan pendaftaran usaha di Google Maps. <a href="https://www.indodigitalads.com/profil-kami/">Selengkapnya.</a></p>
+<p><strong>Jam Kerja :</strong><br />
+Senin &#8211; Jumat (08.00 &#8211; 20.00)<br />
+Sabtu &#8211; Minggu (Libur)</p>
+<p><span style="color: #ff0000;">Diluar jam kerja</span> tetap dibalas, namun slow response.</p>
+</div>
+		</aside><aside id="media_image-2" class="widget widget_media_image"><h4>Menerima Pembayaran</h4><a href="#"><img width="300" height="194" src="https://www.indodigitalads.com/wp-content/uploads/2019/10/menerima-pembayaran-jasa-followers.jpg" class="image wp-image-1292  attachment-full size-full" alt="menerima pembayaran jasa followers" loading="lazy" style="max-width: 100%; height: auto;" title="Menerima Pembayaran" srcset="https://www.indodigitalads.com/wp-content/uploads/2019/10/menerima-pembayaran-jasa-followers.jpg 300w, https://www.indodigitalads.com/wp-content/uploads/2019/10/menerima-pembayaran-jasa-followers-226x146.jpg 226w, https://www.indodigitalads.com/wp-content/uploads/2019/10/menerima-pembayaran-jasa-followers-50x32.jpg 50w, https://www.indodigitalads.com/wp-content/uploads/2019/10/menerima-pembayaran-jasa-followers-116x75.jpg 116w" sizes="(max-width: 300px) 100vw, 300px" /></a></aside></div><div class="column one-fourth"><aside id="widget_mfn_recent_posts-2" class="widget widget_mfn_recent_posts"><h4>Artikel Terbaru</h4><div class="Recent_posts classic"><ul><li class="post format-"><a href="https://www.indodigitalads.com/cara-kerja-dan-harga-akun-youtube-1000-subscriber/"><div class="photo"><img width="80" height="80" src="https://www.indodigitalads.com/wp-content/uploads/2021/12/harga-akun-youtube-1000-subscriber-80x80.jpg" class="scale-with-grid wp-post-image" alt="harga akun youtube 1000 subscriber" loading="lazy" srcset="https://www.indodigitalads.com/wp-content/uploads/2021/12/harga-akun-youtube-1000-subscriber-80x80.jpg 80w, https://www.indodigitalads.com/wp-content/uploads/2021/12/harga-akun-youtube-1000-subscriber-150x150.jpg 150w, https://www.indodigitalads.com/wp-content/uploads/2021/12/harga-akun-youtube-1000-subscriber-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /><span class="c">0</span></div><div class="desc"><h6>Cara Kerja dan Harga Akun YouTube 1000 Subscriber</h6><span class="date"><i class="icon-clock"></i>December 31, 2021</span></div></a></li><li class="post format-"><a href="https://www.indodigitalads.com/bingung-bagaimana-memiliki-jumlah-subscribe-tinggi-begini-tips-ampuhnya/"><div class="photo"><img width="80" height="80" src="https://www.indodigitalads.com/wp-content/uploads/2021/12/harga-1000-subscriber-80x80.jpg" class="scale-with-grid wp-post-image" alt="harga 1000 subscriber" loading="lazy" srcset="https://www.indodigitalads.com/wp-content/uploads/2021/12/harga-1000-subscriber-80x80.jpg 80w, https://www.indodigitalads.com/wp-content/uploads/2021/12/harga-1000-subscriber-150x150.jpg 150w, https://www.indodigitalads.com/wp-content/uploads/2021/12/harga-1000-subscriber-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /><span class="c">0</span></div><div class="desc"><h6>Bingung Bagaimana Memiliki Jumlah Subscribe Tinggi ? Begini Tips Ampuhnya</h6><span class="date"><i class="icon-clock"></i>December 29, 2021</span></div></a></li><li class="post format-"><a href="https://www.indodigitalads.com/tips-beli-followers-instagram-pasif-murah-terpercaya/"><div class="photo"><img width="80" height="80" src="https://www.indodigitalads.com/wp-content/uploads/2021/12/beli-followers-instagram-pasif-murah-80x80.jpg" class="scale-with-grid wp-post-image" alt="beli followers instagram pasif murah" loading="lazy" srcset="https://www.indodigitalads.com/wp-content/uploads/2021/12/beli-followers-instagram-pasif-murah-80x80.jpg 80w, https://www.indodigitalads.com/wp-content/uploads/2021/12/beli-followers-instagram-pasif-murah-150x150.jpg 150w, https://www.indodigitalads.com/wp-content/uploads/2021/12/beli-followers-instagram-pasif-murah-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /><span class="c">0</span></div><div class="desc"><h6>Tips Beli Followers Instagram Pasif Murah Terpercaya</h6><span class="date"><i class="icon-clock"></i>December 27, 2021</span></div></a></li></ul></div>
+</aside></div><div class="column one-fourth"><aside id="easy_facebook_page_plugin-2" class="widget widget_easy_facebook_page_plugin"><h4>Like Fanspage FB</h4><div id="fb-root"></div>
+					<script src="data:text/javascript;base64,KGZ1bmN0aW9uKGQscyxpZCl7dmFyIGpzLGZqcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdO2lmKGQuZ2V0RWxlbWVudEJ5SWQoaWQpKXJldHVybjtqcz1kLmNyZWF0ZUVsZW1lbnQocyk7anMuaWQ9aWQ7anMuYXN5bmM9ITA7anMuc3JjPSIvL2Nvbm5lY3QuZmFjZWJvb2submV0L2VuX1VTL2FsbC5qcyN4ZmJtbD0xJmFwcElkPTM5NTIwMjgxMzg3NjY4OCI7ZmpzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGpzLGZqcyl9KGRvY3VtZW50LCdzY3JpcHQnLCdmYWNlYm9vay1qc3NkaycpKQ==" defer></script> <div class="efbl-like-box 1">
+							<div class="fb-page" data-animclass="fadeIn" data-href="https://www.facebook.com/indodigitalads" data-hide-cover=false data-width="250"   data-height="200" data-show-facepile=true  data-show-posts=false data-adapt-container-width=true data-hide-cta=false data-small-header="true">
+							</div> 
+							
+						</div>
+					</aside><aside id="text-3" class="widget widget_text"><h4>Google Partner</h4>			<div class="textwidget"><p><img loading="lazy" class="alignnone size-medium wp-image-162" src="https://www.indodigitalads.com/wp-content/uploads/2018/07/google-partners-bali-digital-ads-300x169.jpg" alt="" width="250" height="139" srcset="https://www.indodigitalads.com/wp-content/uploads/2018/07/google-partners-bali-digital-ads-260x146.jpg 260w, https://www.indodigitalads.com/wp-content/uploads/2018/07/google-partners-bali-digital-ads-50x28.jpg 50w, https://www.indodigitalads.com/wp-content/uploads/2018/07/google-partners-bali-digital-ads-133x75.jpg 133w" sizes="(max-width: 250px) 100vw, 250px" /></p>
+</div>
+		</aside></div><div class="column one-fourth"><aside id="text-2" class="widget widget_text"><h4>Follow Kami</h4>			<div class="textwidget"><p><a class="twitter-timeline" href="https://twitter.com/indodigitalads?ref_src=twsrc%5Etfw" data-width="300" data-height="325">Tweets by balidigitalads</a> <script charset="utf-8" defer data-deferred="1" data-type="lazy" data-src="https://platform.twitter.com/widgets.js"></script></p>
+</div>
+		</aside></div></div></div>
+		
+			<div class="footer_copy">
+				<div class="container">
+					<div class="column one">
+
+						<a id="back_to_top" class="footer_button" href=""><i class="icon-up-open-big"></i></a>
+						<div class="copyright">
+							© Copyright 2013 - 2021 | Made with <span style="color: #ff0000;">♥</span> for the people of the internet.						</div>
+
+						<ul class="social"></ul>
+					</div>
+				</div>
+			</div>
+
+		
+		
+	</footer>
+
+</div>
+
+<div id="body_overlay"></div>
+
+<div id="Side_slide" class="right dark hide-social" data-width="250"><div class="close-wrapper"><a href="#" class="close"><i class="icon-cancel-fine"></i></a></div><div class="extras"><div class="extras-wrapper"><a class="top-bar-right-icon top-bar-right-icon-search icon search" href="#"><svg width="26" viewbox="0 0 26 26"><defs><style>.path{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:1.5px;}</style></defs><circle class="path" cx="11.35" cy="11.35" r="6"/><line class="path" x1="15.59" y1="15.59" x2="20.65" y2="20.65"/></svg></a></div></div><div class="search-wrapper"><form id="side-form" method="get" action="https://www.indodigitalads.com/"><input type="text" class="field" name="s" placeholder="Masukkan kata kunci pencarian" /><input type="submit" class="display-none" value="" /><a class="submit" href="#"><i class="icon-search-fine"></i></a></form></div><div class="lang-wrapper"></div><div class="menu_wrapper"></div><ul class="social"></ul></div>
+
+
+
+<!-- mfn_hook_bottom --><!-- mfn_hook_bottom -->
+
+
+                <style id="ibx-notification-769-style">
+                    .ibx-notification-popup-769 {
+                                                    background: #ffffff;
+                                                                            color: #000000;
+                                                                            border-radius: 0px;
+                                                                            border-width: 1px;
+                            border-style: solid;
+                            border-color: #dddddd;
+                        
+                                                        -webkit-box-shadow: 0 0 25px 0px rgba(153, 153, 153, 0.3);
+        -moz-box-shadow: 0 0 25px 0px rgba(153, 153, 153, 0.3);
+        -o-box-shadow: 0 0 25px 0px rgba(153, 153, 153, 0.3);
+        box-shadow: 0 0 25px 0px rgba(153, 153, 153, 0.3);
                             }
-                        }
-                    }
-                }
-            };
-        
-        // Listen to the Initialized event
-        window.addEventListener('LazyLoad::Initialized', function (e) {
-            // Get the instance and puts it in the lazyLoadInstance variable
-            var lazyLoadInstance = e.detail.instance;
-        
-            if (window.MutationObserver) {
-                var observer = new MutationObserver(function(mutations) {
-                    mutations.forEach(function(mutation) {
-                        mutation.addedNodes.forEach(function(node) {
-                            if (typeof node.getElementsByTagName !== 'function') {
-                                return;
-                            }
+                    .ibx-notification-popup-769 .ibx-notification-popup-title,
+                    .ibx-notification-popup-769 .ibx-notification-popup-review-name,
+                    .ibx-notification-popup-769 .ibx-notification-popup-review-text {
+                                                    color: #000000;
+                                            }
+                    .ibx-notification-popup-769 .ibx-notification-popup-rating span {
+                                                    color: #000000;
+                                            }
+                    .ibx-notification-popup--769 .ibx-notification-popup-close {
+                                                    color: #000000;
+                                            }
+                    .ibx-notification-popup-769 .ibx-notification-popup-img img {
+                                                    border-radius: 100px;
+                        					}
 
-                            imgs = node.getElementsByTagName('img');
-                            iframes = node.getElementsByTagName('iframe');
-                            rocket_lazy = node.getElementsByClassName('rocket-lazyload');
+											.ibx-notification-popup-769 .ibx-notification-row-first {
+							font-size: 13px;
+						}
+																.ibx-notification-popup-769 .ibx-notification-popup-title.ibx-notification-row-second {
+							font-size: 14px;
+						}
+					                </style>
+                                <script type="text/javascript" src="data:text/javascript;base64,dmFyIGlieF9mb21vPXtub25jZTonMjJkNmE3ZWJlYycsY29udmVyc2lvbnM6Wzc2OV0scmV2aWV3czpbXSxhamF4dXJsOidodHRwczovL3d3dy5pbmRvZGlnaXRhbGFkcy5jb20vd3AtYWRtaW4vYWRtaW4tYWpheC5waHAnLGN1c3RvbV9mb3JtX2RldGFpbHM6W10scG9zdF9pZDoyMSxmb3JtX2NsYXNzZXM6WyJwcC1zdWJzY3JpYmUtZm9ybSIsImZsLXN1YnNjcmliZS1mb3JtIl0sfQ==" defer></script>
+                <div class="sgpb-main-popup-data-container-1111" style="position:fixed;opacity: 0;filter: opacity(0%);transform: scale(0);">
+							<div class="sg-popup-builder-content" id="sg-popup-content-wrapper-1111" data-id="1111" data-events="[{&quot;param&quot;:&quot;load&quot;,&quot;value&quot;:&quot;&quot;,&quot;hiddenOption&quot;:[]}]" data-options="YTo0NDp7czoxNDoic2dwYi1pbWFnZS11cmwiO3M6NzQ6Imh0dHBzOi8vd3d3LmluZG9kaWdpdGFsYWRzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8xMi9saWJ1ci1uYXRhcnUuanBnIjtzOjk6InNncGItdHlwZSI7czo1OiJpbWFnZSI7czoxNToic2dwYi1pcy1wcmV2aWV3IjtzOjE6IjAiO3M6MTQ6InNncGItaXMtYWN0aXZlIjtzOjI6Im9uIjtzOjM0OiJzZ3BiLWJlaGF2aW9yLWFmdGVyLXNwZWNpYWwtZXZlbnRzIjthOjE6e2k6MDthOjE6e2k6MDthOjE6e3M6NToicGFyYW0iO3M6MTI6InNlbGVjdF9ldmVudCI7fX19czoxODoic2dwYi1wb3B1cC16LWluZGV4IjtzOjQ6Ijk5OTkiO3M6MTc6InNncGItcG9wdXAtdGhlbWVzIjtzOjEyOiJzZ3BiLXRoZW1lLTEiO3M6MTg6InNncGItb3ZlcmxheS1jb2xvciI7czowOiIiO3M6MjA6InNncGItb3ZlcmxheS1vcGFjaXR5IjtzOjM6IjAuOCI7czoyNToic2dwYi1jb250ZW50LWN1c3RvbS1jbGFzcyI7czoxNjoic2ctcG9wdXAtY29udGVudCI7czoxMjoic2dwYi1lc2Mta2V5IjtzOjI6Im9uIjtzOjI0OiJzZ3BiLWVuYWJsZS1jbG9zZS1idXR0b24iO3M6Mjoib24iO3M6MjM6InNncGItY2xvc2UtYnV0dG9uLWRlbGF5IjtzOjE6IjAiO3M6MjY6InNncGItY2xvc2UtYnV0dG9uLXBvc2l0aW9uIjtzOjExOiJib3R0b21SaWdodCI7czoyNDoic2dwYi1idXR0b24tcG9zaXRpb24tdG9wIjtzOjA6IiI7czoyNjoic2dwYi1idXR0b24tcG9zaXRpb24tcmlnaHQiO3M6MToiOSI7czoyNzoic2dwYi1idXR0b24tcG9zaXRpb24tYm90dG9tIjtzOjE6IjkiO3M6MjU6InNncGItYnV0dG9uLXBvc2l0aW9uLWxlZnQiO3M6MDoiIjtzOjE3OiJzZ3BiLWJ1dHRvbi1pbWFnZSI7czowOiIiO3M6MjM6InNncGItYnV0dG9uLWltYWdlLXdpZHRoIjtzOjI6IjIxIjtzOjI0OiJzZ3BiLWJ1dHRvbi1pbWFnZS1oZWlnaHQiO3M6MjoiMjEiO3M6MTc6InNncGItYm9yZGVyLWNvbG9yIjtzOjc6IiMwMDAwMDAiO3M6MTg6InNncGItYm9yZGVyLXJhZGl1cyI7czoxOiIwIjtzOjIzOiJzZ3BiLWJvcmRlci1yYWRpdXMtdHlwZSI7czoxOiIlIjtzOjE2OiJzZ3BiLWJ1dHRvbi10ZXh0IjtzOjU6IkNsb3NlIjtzOjE4OiJzZ3BiLW92ZXJsYXktY2xpY2siO3M6Mjoib24iO3M6MjU6InNncGItcG9wdXAtZGltZW5zaW9uLW1vZGUiO3M6MTQ6InJlc3BvbnNpdmVNb2RlIjtzOjMzOiJzZ3BiLXJlc3BvbnNpdmUtZGltZW5zaW9uLW1lYXN1cmUiO3M6NDoiYXV0byI7czoxMDoic2dwYi13aWR0aCI7czo1OiI2NDBweCI7czoxMToic2dwYi1oZWlnaHQiO3M6NToiNDgwcHgiO3M6MTQ6InNncGItbWF4LXdpZHRoIjtzOjA6IiI7czoxNToic2dwYi1tYXgtaGVpZ2h0IjtzOjA6IiI7czoxNDoic2dwYi1taW4td2lkdGgiO3M6MzoiMTIwIjtzOjE1OiJzZ3BiLW1pbi1oZWlnaHQiO3M6MDoiIjtzOjI2OiJzZ3BiLW9wZW4tYW5pbWF0aW9uLWVmZmVjdCI7czo5OiJObyBlZmZlY3QiO3M6Mjc6InNncGItY2xvc2UtYW5pbWF0aW9uLWVmZmVjdCI7czo5OiJObyBlZmZlY3QiO3M6Mjk6InNncGItZW5hYmxlLWNvbnRlbnQtc2Nyb2xsaW5nIjtzOjI6Im9uIjtzOjE2OiJzZ3BiLXBvcHVwLW9yZGVyIjtzOjE6IjAiO3M6MTY6InNncGItcG9wdXAtZGVsYXkiO3M6MToiMCI7czoxMjoic2dwYi1wb3N0LWlkIjtzOjQ6IjExMTEiO3M6MjU6InNncGItZW5hYmxlLXBvcHVwLW92ZXJsYXkiO3M6Mjoib24iO3M6MjI6InNncGItYnV0dG9uLWltYWdlLWRhdGEiO3M6MDoiIjtzOjI2OiJzZ3BiLWJhY2tncm91bmQtaW1hZ2UtZGF0YSI7czowOiIiO3M6MTQ6InNncGJDb25kaXRpb25zIjtOO30=">
+								<div class="sgpb-popup-builder-content-1111 sgpb-popup-builder-content-html"><img width="1" height="1" class="sgpb-preloaded-image-1111" alt="" src="https://www.indodigitalads.com/wp-content/uploads/2021/12/libur-nataru.jpg" style="position:absolute;right:9999999999999px;"></div>
+							</div>
+						  </div><link href="https://fonts.googleapis.com/css?family=Roboto:400%7COpen+Sans:400&#038;display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
 
-                            if ( 0 === imgs.length && 0 === iframes.length && 0 === rocket_lazy.length ) {
-                                return;
-                            }
+		<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				jQuery(sliderID).show().html(err);
+			}
+		}
+		</script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.0' id='tp-tools-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.1' id='revmin-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/wpfomify/assets/js/frontend.js?ver=5.8.2' id='ibx-wpfomo-script-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/plugins/wpfomify/assets/js/frontend-custom-form.js?ver=5.8.2' id='ibx-wpfomo-custom-form-script-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.12.1' id='jquery-ui-tabs-js' defer data-deferred="1"></script>
+<script type='text/javascript' id='mfn-plugins-js-extra' src="data:text/javascript;base64,dmFyIG1mbj17Im1vYmlsZUluaXQiOiIxMjQwIiwicGFyYWxsYXgiOiJ0cmFuc2xhdGUzZCIsInJlc3BvbnNpdmUiOiIxIiwic2lkZWJhclN0aWNreSI6IiIsImxpZ2h0Ym94Ijp7ImRpc2FibGUiOiExLCJkaXNhYmxlTW9iaWxlIjohMSwidGl0bGUiOiExfSwic2xpZGVyIjp7ImJsb2ciOjAsImNsaWVudHMiOjAsIm9mZmVyIjowLCJwb3J0Zm9saW8iOjAsInNob3AiOjAsInNsaWRlciI6MCwidGVzdGltb25pYWxzIjowfSwibGl2ZXNlYXJjaCI6eyJtaW5DaGFyIjozLCJsb2FkUG9zdHMiOjEwLCJ0cmFuc2xhdGlvbiI6eyJwYWdlcyI6IlBhZ2VzIiwiY2F0ZWdvcmllcyI6IkNhdGVnb3JpZXMiLCJwb3J0Zm9saW8iOiJQb3J0Zm9saW8iLCJwb3N0IjoiUG9zdHMiLCJwcm9kdWN0cyI6IlByb2R1Y3RzIn19LCJob21lX3VybCI6IiIsInNpdGVfdXJsIjoiaHR0cHM6XC9cL3d3dy5pbmRvZGlnaXRhbGFkcy5jb20ifQ==" defer></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/themes/betheme/js/plugins.js?ver=25.1.3' id='mfn-plugins-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/themes/betheme/js/menu.js?ver=25.1.3' id='mfn-menu-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/themes/betheme/assets/animations/animations.min.js?ver=25.1.3' id='mfn-animations-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/themes/betheme/assets/jplayer/jplayer.min.js?ver=25.1.3' id='mfn-jplayer-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/themes/betheme/js/parallax/translate3d.js?ver=25.1.3' id='mfn-parallax-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-content/themes/betheme/js/scripts.js?ver=25.1.3' id='mfn-scripts-js' defer data-deferred="1"></script>
+<script   type='text/javascript' src='https://www.indodigitalads.com/wp-includes/js/wp-embed.min.js?ver=5.8.2' id='wp-embed-js' defer data-deferred="1"></script>
+<script type="text/javascript" id="flying-scripts" src="data:text/javascript;base64,Y29uc3QgbG9hZFNjcmlwdHNUaW1lcj1zZXRUaW1lb3V0KGxvYWRTY3JpcHRzLDkqMTAwMCk7Y29uc3QgdXNlckludGVyYWN0aW9uRXZlbnRzPVsibW91c2VvdmVyIiwia2V5ZG93biIsInRvdWNoc3RhcnQiLCJ0b3VjaG1vdmUiLCJ3aGVlbCJdO3VzZXJJbnRlcmFjdGlvbkV2ZW50cy5mb3JFYWNoKGZ1bmN0aW9uKGV2ZW50KXt3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcihldmVudCx0cmlnZ2VyU2NyaXB0TG9hZGVyLHtwYXNzaXZlOiEwfSl9KTtmdW5jdGlvbiB0cmlnZ2VyU2NyaXB0TG9hZGVyKCl7bG9hZFNjcmlwdHMoKTtjbGVhclRpbWVvdXQobG9hZFNjcmlwdHNUaW1lcik7dXNlckludGVyYWN0aW9uRXZlbnRzLmZvckVhY2goZnVuY3Rpb24oZXZlbnQpe3dpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKGV2ZW50LHRyaWdnZXJTY3JpcHRMb2FkZXIse3Bhc3NpdmU6ITB9KX0pfQpmdW5jdGlvbiBsb2FkU2NyaXB0cygpe2RvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoInNjcmlwdFtkYXRhLXR5cGU9J2xhenknXSIpLmZvckVhY2goZnVuY3Rpb24oZWxlbSl7ZWxlbS5zZXRBdHRyaWJ1dGUoInNyYyIsZWxlbS5nZXRBdHRyaWJ1dGUoImRhdGEtc3JjIikpfSl9" defer></script>
+    				<script type="text/javascript" src="data:text/javascript;base64,c2V0UkVWU3RhcnRTaXplKHtjOidyZXZfc2xpZGVyXzE0XzEnLHJsOlsxMjQwLDEwMjQsNzc4LDQ4MF0sZWw6WzYwMCw3NjgsOTYwLDQyMF0sZ3c6WzEzNDAsMTAyNCw3NzgsNjgwXSxnaDpbNjAwLDc2OCw5NjAsNDIwXSx0eXBlOidzdGFuZGFyZCcsanVzdGlmeTonJyxsYXlvdXQ6J2Z1bGx3aWR0aCcsbWg6IjAifSk7dmFyIHJldmFwaTE0LHRwajtqUXVlcnkoZnVuY3Rpb24oKXt0cGo9alF1ZXJ5O3Rwai5ub0NvbmZsaWN0KCk7aWYodHBqKCIjcmV2X3NsaWRlcl8xNF8xIikucmV2b2x1dGlvbj09dW5kZWZpbmVkKXtyZXZzbGlkZXJfc2hvd0RvdWJsZUpxdWVyeUVycm9yKCIjcmV2X3NsaWRlcl8xNF8xIil9ZWxzZXtyZXZhcGkxND10cGooIiNyZXZfc2xpZGVyXzE0XzEiKS5zaG93KCkucmV2b2x1dGlvbih7anNGaWxlTG9jYXRpb246Ii8vd3d3LmluZG9kaWdpdGFsYWRzLmNvbS93cC1jb250ZW50L3BsdWdpbnMvcmV2c2xpZGVyL3B1YmxpYy9hc3NldHMvanMvIix2aXNpYmlsaXR5TGV2ZWxzOiIxMjQwLDEwMjQsNzc4LDQ4MCIsZ3JpZHdpZHRoOiIxMzQwLDEwMjQsNzc4LDY4MCIsZ3JpZGhlaWdodDoiNjAwLDc2OCw5NjAsNDIwIixsYXp5VHlwZToic2luZ2xlIixzcGlubmVyOiJzcGlubmVyMCIsZWRpdG9yaGVpZ2h0OiI2MDAsNzY4LDk2MCw0MjAiLHJlc3BvbnNpdmVMZXZlbHM6IjEyNDAsMTAyNCw3NzgsNDgwIixkaXNhYmxlUHJvZ3Jlc3NCYXI6Im9uIixuYXZpZ2F0aW9uOntvbkhvdmVyU3RvcDohMX0sZmFsbGJhY2tzOnthbGxvd0hUTUw1QXV0b1BsYXlPbkFuZHJvaWQ6ITB9LH0pfX0p" defer></script>
+<script defer data-type="lazy" data-src="https://stats.wp.com/e-202252.js"></script>
+<script src="data:text/javascript;base64,X3N0cT13aW5kb3cuX3N0cXx8W107X3N0cS5wdXNoKFsndmlldycse3Y6J2V4dCcsajonMToxMC40JyxibG9nOicxNjI4NjA0ODMnLHBvc3Q6JzIxJyx0ejonMCcsc3J2Oid3d3cuaW5kb2RpZ2l0YWxhZHMuY29tJ31dKTtfc3RxLnB1c2goWydjbGlja1RyYWNrZXJJbml0JywnMTYyODYwNDgzJywnMjEnXSk=" defer></script>
 
-                            lazyLoadInstance.update();
-                        } );
-                    } );
-                } );
-                
-                var b      = document.getElementsByTagName("body")[0];
-                var config = { childList: true, subtree: true };
-                
-                observer.observe(b, config);
-            }
-        }, false);</script><script data-no-minify="1" async src="https://followersindo.com/wp-content/plugins/wp-rocket/assets/js/lazyload/11.0.3/lazyload.min.js"></script> <script src="https://followersindo.com/wp-content/cache/min/1/4481e23db62fbf5946f1d5d4e5f444fb.js" data-minify="1" defer></script><script>fbq('track', 'ViewContent');</script><script>fbq('track', 'Lead');</script><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis%3Ainherit%2C400%7CNunito%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&subset=" /></noscript><noscript><link rel="stylesheet" href="https://followersindo.com/wp-content/cache/min/1/b3a804d4eece5bc3d48429ccf272f543.css" data-minify="1" /></noscript><noscript><link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://followersindo.com/wp-content/cache/busting/1/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen-5.8.0.css' type='text/css' media='only screen and (max-width: 768px)' /></noscript></body></html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1641116978 -->
+<script src="https://www.indodigitalads.com/wp-content/plugins/litespeed-cache/assets/js/lazyload.min.js" defer data-deferred="1"></script></body>
+</html>
+
+<!-- Page generated by LiteSpeed Cache 4.4.5 on 2022-01-02 08:30:43 -->
