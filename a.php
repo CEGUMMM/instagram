@@ -1,86 +1,5486 @@
 
-<!DOCTYPE html><html lang="id-ID"><head itemscope="itemscope" itemtype="http://schema.org/WebSite"><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="profile" href="https://gmpg.org/xfn/11"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="followersindo - Beli Followers Instagram Aktif Garansi 30 Hari Gratis"><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /><meta itemprop="name" content="followersindo" /><meta itemprop="url" content="https://followersindo.com/" /><title>Beli Followers Instagram Indonesia Termurah - Followersindo</title><style id="rocket-critical-css">.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;overflow-wrap:normal!important;word-wrap:normal!important;padding:0;position:absolute!important;width:1px}:root{--woocommerce:#a46497;--wc-green:#7ad03a;--wc-red:#a00;--wc-orange:#ffba00;--wc-blue:#2ea2cc;--wc-primary:#a46497;--wc-primary-text:#fff;--wc-secondary:#ebe9eb;--wc-secondary-text:#515151;--wc-highlight:#77a464;--wc-highligh-text:#fff;--wc-content-bg:#fff;--wc-subtext:#767676}:root{--woocommerce:#a46497;--wc-green:#7ad03a;--wc-red:#a00;--wc-orange:#ffba00;--wc-blue:#2ea2cc;--wc-primary:#a46497;--wc-primary-text:#fff;--wc-secondary:#ebe9eb;--wc-secondary-text:#515151;--wc-highlight:#77a464;--wc-highligh-text:#fff;--wc-content-bg:#fff;--wc-subtext:#767676}.screen-reader-text{clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute!important;width:1px;word-wrap:normal!important}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}figure,main,section{display:block}template{display:none}a{background-color:transparent}strong{font-weight:700}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}button{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button{-webkit-appearance:button}button::-moz-focus-inner{border:0;padding:0}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}figure{margin:0}img{vertical-align:middle}h1,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1,h3{margin-top:20px;margin-bottom:10px}h1{font-size:36px}h3{font-size:24px}p{margin:0 0 10px}mark{background-color:#fcf8e3;padding:.2em}.text-left{text-align:left}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.row{margin-left:-15px;margin-right:-15px}.fade{opacity:0}.collapse{display:none}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav&gt;li{position:relative;display:block}.nav&gt;li&gt;a{position:relative;display:block;padding:10px 15px}.navbar-collapse{overflow-x:visible;padding-right:15px;padding-left:15px;border-top:1px solid transparent;-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.1);-webkit-overflow-scrolling:touch}@media (min-width:1200px){.navbar-collapse{width:auto;border-top:0;-webkit-box-shadow:none;box-shadow:none}.navbar-collapse.collapse{display:block;height:auto;padding-bottom:0;overflow:visible}}.container:before,.container:after,.container-fluid:before,.container-fluid:after,.row:before,.row:after,.nav:before,.nav:after,.navbar-collapse:before,.navbar-collapse:after{content:" ";display:table}.container:after,.container-fluid:after,.row:after,.nav:after,.navbar-collapse:after{clear:both}@-ms-viewport{width:device-width}.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}#lqd-gdpr{font-size:0.9em!important}:root{--color-font:#626974;--color-primary:#184341;--color-link:#5b7bfb;--color-link-hover:#181b31;--color-gradient-start:#007fff;--color-gradient-stop:#ff4d54;--lqd-site-width:1140px;--lqd-z-index:20;--lqd-sticky-header-height:0;--lqd-snickersbar-animation-time:1.2s;--lqd-snickersbar-stay-time:4s;--lqd-menu-items-top-padding:10px;--lqd-menu-items-bottom-padding:10px;--lqd-menu-items-left-padding:15px;--lqd-menu-items-right-padding:15px;--lqd-cc-bc:var(--color-primary);--lqd-cc-bg:var(--color-primary);--lqd-cc-size-outer:35px;--lqd-cc-size-inner:7px;--lqd-cc-bw:1px;--lqd-cc-br:calc(var(--lqd-cc-size-outer) / 2);--lqd-cc-active-bc:var(--color-primary);--lqd-cc-active-bg:var(--color-primary);--lqd-cc-active-bw:1px;--lqd-cc-active-circle-color:#fff;--lqd-cc-active-circle-txt:#000;--lqd-cc-active-arrow-color:#fff}.will-change{will-change:transform,opacity}.z-index-2{z-index:2}.round{border-radius:4px!important}.circle{border-radius:50em!important}@media screen and (max-width:479px){#lqd-gdpr{text-align:center;border-radius:4px}.lqd-gdpr-inner{flex-direction:column}}html,body{max-width:100vw}html{font-size:100%;overflow-x:hidden}body{font-family:"Rubik",sans-serif;font-size:18px;line-height:1.7;font-weight:400;color:var(--color-font);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}#wrap,#lqd-site-content{position:relative}#lqd-site-content{z-index:2;background-color:#fff}#lqd-contents-wrap:before,#lqd-contents-wrap:after{content:"";display:table}#lqd-contents-wrap:after{clear:both}#lqd-contents-wrap&gt;p{display:none}#lqd-contents-wrap&gt;p:last-of-type:before,#lqd-contents-wrap&gt;p:last-of-type:after{content:"";display:table}#lqd-contents-wrap&gt;p:last-of-type:after{clear:both}@media screen and (min-width:992px){.vc_col-md-1\/5{width:20%}}a{text-decoration:none;color:var(--color-link)}img{max-width:100%;height:auto}.screen-reader-text{clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute!important;top:0;left:0;width:1px;word-wrap:normal!important}p{margin-bottom:1.5em}h1,h3{font-family:"Manrope",sans-serif;margin:1em 0 .5em;font-weight:600;line-height:1.2em;color:#181b31}h1{margin-top:0;font-size:52px}h3{font-size:32px}.ld-lazyload{opacity:.0001}.ld-lazyload.loaded{opacity:1}.header-module{display:inline-flex;padding-top:10px;padding-bottom:10px;position:relative;flex-direction:column;align-items:center;justify-content:center}.module-primary-nav{padding-top:0;padding-bottom:0}.navbar-collapse{flex:1 auto;padding:0;overflow:visible}.main-nav{flex:1 auto;flex-wrap:nowrap;margin-inline-start:auto;margin-inline-end:auto}.main-nav&gt;li{position:relative;flex-direction:column}.main-nav&gt;li,.main-nav&gt;li&gt;a{display:flex}.main-nav&gt;li&gt;a{flex:1 auto;flex-direction:row;padding:var(--lqd-menu-items-top-padding,10px) var(--lqd-menu-items-right-padding,15px) var(--lqd-menu-items-bottom-padding,10px) var(--lqd-menu-items-left-padding,15px);overflow:hidden;color:#a7a9b8;white-space:nowrap}.main-nav&gt;li.current-menu-item&gt;a{color:#184341}.lqd-mobile-sec .ld-cart-product-name{grid-area:product-name}.lqd-mobile-sec dl.variation,.lqd-mobile-sec .ld-cart-product-extra{grid-area:product-extra}.lqd-mobile-sec .ld-cart-product-price{grid-area:product-price;justify-content:center;align-items:flex-end;line-height:1;text-align:end}.btn{display:inline-flex;padding:0;position:relative;border:1px solid var(--color-primary);border-radius:0;font-size:1em;white-space:nowrap;overflow:hidden;color:var(--color-primary)}.btn&gt;span:not(.btn-icon):not(.btn-txt){display:inline-flex;padding:1.15em 2.1em;border-radius:inherit;border-color:inherit;align-items:center}.btn.round{border-radius:4px}.btn.border-none{border-width:0}.btn.border-none&gt;span:not(.btn-icon):not(.btn-txt){margin:0}.btn-lg&gt;span:not(.btn-icon):not(.btn-txt){padding:1.3em 2.7em}.btn-icon{display:inline-flex;align-items:center;justify-content:center;font-size:1em;letter-spacing:0;background-size:99.99%!important}.btn-icon i{position:relative;z-index:3}.btn-txt+.btn-icon{margin-inline-end:0;margin-inline-start:8px}.btn-icon,.btn-txt{position:relative;z-index:3}.btn-txt span{display:block}.btn-icon-solid .btn-icon{width:2.5em;height:2.5em;margin-inline-start:20px;border:1px solid;margin-top:-5%;margin-bottom:-5%}.btn-icon-circle .btn-icon{border-radius:50%}.btn-icon-solid .btn-icon{border:none;background-color:var(--color-primary);color:#fff}.btn-solid{box-shadow:0 0 0 rgba(0,0,0,0)}.btn-solid{overflow:hidden;background:var(--color-primary);color:#fff}.btn-naked{border:none}.btn-naked&gt;span:not(.btn-icon):not(.btn-txt){padding:0}.btn-naked{overflow:visible}.btn-gradient-bg{display:inline-block;width:100%;height:100%;border-radius:inherit;position:absolute;top:0;left:0;z-index:0;background:linear-gradient(to right,var(--color-gradient-start) 0%,var(--color-gradient-stop) 100%)}.btn-gradient-bg-hover{z-index:1;opacity:0;background:linear-gradient(to right,var(--color-gradient-stop) 0%,var(--color-gradient-start) 100%)}.btn-hover-txt-switch .btn-txt:after{content:attr(data-text);display:inline-block;position:absolute;white-space:nowrap;top:50%}.btn-hover-txt-switch .btn-txt:after{opacity:0}.btn-hover-txt-switch-y .btn-txt:after{left:50%;transform:translate(-50%,100%)}@media all and (max-width:992px){.btn{white-space:normal}.btn-lg&gt;span{padding:1.15em 2.5em}}.iconbox{display:flex;margin-bottom:2em;position:relative;align-items:center;justify-content:center;flex-direction:column;text-align:center}.iconbox .iconbox-icon-container,.iconbox&gt;h3{position:relative;z-index:2}.iconbox h3{display:inline-block;margin:0 0 .7em;font-size:24px;line-height:1.5em}.iconbox .iconbox-icon-container{display:flex;margin-bottom:.5em;border:0 solid #f2f4f7;align-items:center;justify-content:center;font-size:40px;line-height:1em;color:var(--color-primary)}.iconbox .iconbox-icon-container img{height:auto;position:relative;z-index:2}.iconbox-icon-wrap:before,.iconbox-icon-wrap:after{content:"";display:table}.iconbox-icon-wrap:after{clear:both}.iconbox-bubble{padding:0;background:none}.iconbox-heading-sm h3{font-size:20px}.iconbox-sm .iconbox-icon-container img{width:60px}.iconbox-sm .iconbox-icon-container{font-size:25px}@media screen and (max-width:540px){.iconbox-contents-show-onhover.iconbox-bubble{width:100%}}.lqd-tabs-pane{display:none}.carousel-items{display:flex;flex-wrap:nowrap}.carousel-items:before,.carousel-items:after{content:none}.carousel-items:not(.flickity-enabled){overflow:hidden}.carousel-item{display:flex;flex-direction:column;align-items:stretch;justify-content:center;flex:1 0}.carousel-item-content,.carousel-item-inner{width:100%;min-height:inherit;position:relative}.carousel-item-content{white-space:nowrap}.carousel-item-content&gt;*{white-space:normal}@media screen and (max-width:767px){.carousel-item:not([class*=col-xs]){width:100%}}@media screen and (max-width:768px){.carousel-container{max-width:100vw}}.lqd-imggrp-img-container{display:inline-flex;max-width:100%;position:relative;border-radius:inherit;align-items:center;justify-content:center}.lqd-imggrp-single{display:block;position:relative}.lqd-imggrp-single .lqd-imggrp-img-container,.lqd-imggrp-single figure,.lqd-imggrp-single figure img{border-radius:inherit}.lqd-imggrp-single figure{width:100%}.lqd-imggrp-single figure{display:inline-block;margin:0!important}.lqd-imggrp-single[data-float]{--float-animation-ease:ease;--float-animate-from:0%;--float-animate-to:3%;--float-delay:0s;animation:lqdFIFloatOne 1s var(--float-animation-ease) infinite alternate;animation-delay:var(--float-delay)}@media screen and (max-width:991px){.lqd-imggrp-img-container{flex-direction:column}}@media screen and (min-width:768px){.lqd-blog-post-style-3 .lqd-post-media{grid-area:media;margin-bottom:0}.lqd-blog-post-style-3 .lqd-post-header{grid-area:header;display:block;padding-inline-end:25px}.lqd-blog-post-style-3 .entry-meta{grid-area:meta}}.ld-fancy-heading{position:relative}.ld-fancy-heading .ld-fh-element{margin-top:0;margin-bottom:.5em}.ld-fh-element{display:inline-block;position:relative}.split-unit,.split-inner{text-decoration:inherit}.ld-fancy-heading .split-inner{display:block}@media screen and (min-width:480px){.ld-fancy-heading .lqd-lines{white-space:nowrap}}[data-custom-animations=true]:not(.vc_row):not(.ca-initvalues-applied):not(.wpb_wrapper){opacity:0!important}.lity{position:fixed;z-index:999;top:0;right:0;bottom:0;left:0;outline:none!important;opacity:0;visibility:hidden}.lity-wrap{display:grid;place-items:center;position:absolute;z-index:999;top:0;right:0;bottom:0;left:0;outline:none!important}.lity-loader{z-index:9991;color:#fff;position:absolute;top:50%;margin-top:-.8em;width:100%;text-align:center;font-size:14px;font-family:Arial,Helvetica,sans-serif;opacity:0}.lity-container{display:inline-block;position:relative;z-index:9992;max-width:100%;max-height:100%;outline:none!important;white-space:normal;background:#fff}.lity-content{z-index:9993;width:100%;height:100%;overflow-y:auto;overscroll-behavior:contain}.lity-close{z-index:9994;width:35px;height:35px;position:fixed;right:30px;top:30px;text-decoration:none;padding:0;color:#fff;font-style:normal;font-size:35px!important;font-family:Arial,Baskerville,monospace!important;line-height:35px;border:0;background:none;outline:none;box-shadow:none}.lity-backdrop{display:block;width:100vw;height:100vh;position:fixed;top:0;left:0;background-color:rgba(0,0,0,.8)}.lity .lity-close{padding:0!important;border:none!important;background:none!important}.lity[data-modal-type=default]{perspective:1200px}.lity[data-modal-type=default] .lity-container{border-radius:4px;box-shadow:0 20px 65px -5px rgba(0,0,0,.5)}.lity[data-modal-type=default] .lity-content{max-height:90vh}@media (min-width:768px){[data-modal-type=default] .lity-container{width:750px}}@media (min-width:992px){[data-modal-type=default] .lity-container{width:970px}}@media (min-width:1200px){[data-modal-type=default] .lity-container{width:1170px}}.lqd-highlight,.lqd-highlight-txt{background:inherit}.lqd-highlight-txt{position:relative;z-index:1}.lqd-highlight-inner{display:inline-block;width:100%;height:100%;position:absolute;bottom:0;left:0;z-index:0;background-color:var(--color-primary);color:var(--color-primary);opacity:0;transform-origin:left center}.lqd-highlight-inner svg{display:none}.lqd-highlight-underline .lqd-highlight-inner{height:.275em}.lqd-highlight-grow-left .lqd-highlight-inner{opacity:1!important}.lqd-highlight-grow-left .lqd-highlight-inner{transform:scaleX(0)}.is-in-view .lqd-highlight-inner{opacity:1;transform:scale(1,1)!important}.is-in-view .lqd-highlight-inner svg&gt;path{-webkit-clip-path:polygon(0 0,100% 0,100% 100%,0% 100%);clip-path:polygon(0 0,100% 0,100% 100%,0% 100%)}[data-split-text=true] .lqd-highlight-inner{opacity:0}.lqd-highlight{display:inline-block;padding:0 .125em;position:relative;color:inherit}[data-split-text=true] .lqd-highlight .lqd-highlight-inner{opacity:0}.lqd-highlight:only-child{padding:0 .1em}@media screen and (max-width:479px){.wpb_single_image img{max-width:100%!important}}.vc_column_container{display:flex;align-items:flex-start}.container:before,.container:after{content:none}.vc_row{display:flex;flex-wrap:wrap;position:relative}#lqd-contents-wrap&gt;.vc_row{margin-inline-start:0;margin-inline-end:0}.vc_row&gt;.container-fluid{flex-grow:1}.ld-row{display:flex;flex-wrap:wrap}.ld-row:before,.ld-row:after{content:none}.ld-container.container-fluid{width:100%}@media screen and (max-width:767px){.vc_row&gt;.ld-container{flex-grow:1}}@media screen and (max-width:479px){.ld-container{max-width:100%}}@media (min-width:1200px){.justify-content-lg-center{justify-content:center!important}.align-items-lg-stretch{align-items:stretch!important}}.text-left{text-align:start!important}.text-left.wpb_column .wpb_wrapper.vc_figure{justify-content:flex-start}@media (min-width:1200px){.text-lg-right{text-align:end!important}}.pos-stc{position:static!important}@media screen and (max-width:991px){body{overflow-x:hidden}#wrap{overflow:hidden}}@media screen and (max-width:991px){h1{font-size:40px}h3{font-size:24px}}@media screen and (max-width:768px){.woocommerce .woocommerce-cart-form table.shop_table tr.cart_item td.product-img{grid-area:image}.woocommerce .woocommerce-cart-form table.shop_table tr.cart_item td.product-name{padding-inline-start:0;grid-area:info}.woocommerce .woocommerce-cart-form table.shop_table tr.cart_item td.product-quantity{grid-area:qty;margin-top:10px}.woocommerce .woocommerce-cart-form table.shop_table tr.cart_item td.product-subtotal{grid-area:price}.woocommerce .woocommerce-cart-form table.shop_table tr.cart_item td.product-remove{padding:0;background:none;grid-area:remove}}.screen-reader-text{position:absolute;top:-10000em;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}:root{--page-title-display:block}:root{--lqd-color-primary:#097DEA;--lqd-color-primary-rgb:#097dea;--lqd-txt-btn:#000;--lqd-txt-nav:#404040;--lqd-txt-btn-nav:#404040;--lqd-txt-grid:rgba(0,0,0,.85);--lqd-txt-popup-title:#000;--lqd-txt-popup-label-group:rgba(0,0,0,.75);--lqd-txt-popup-label-opt:rgba(0,0,0,.65);--lqd-txt-popup-label-tab:#676767;--lqd-txt-toggle:rgba(0,0,0,.65);--lqd-txt-btnset:#333;--lqd-txt-active:#fff;--lqd-txt-control:#fff;--lqd-txt-inputs:#000;--lqd-txt-panel-title:#000;--lqd-txt-panel-controls:#2f313b;--lqd-txt-css-editor-inputs:rgba(0,0,0,.6);--lqd-txt-responsive-params:rgba(0,0,0,.65);--lqd-txt-templates-filter:#8e8e8e;--lqd-txt-templates-tabs:rgba(0,0,0,.6);--lqd-txt-template-item-title:#000;--lqd-txt-template-item-cat:rgba(0,0,0,.45);--lqd-bg-popup:#f4f4f4;--lqd-bg-popup-header:#f4f4f4;--lqd-bg-grid:rgba(0,0,0,.02);--lqd-bg-nav:#fff;--lqd-bg-btn:#fff;--lqd-bg-nav-hover:rgba(0,0,0,.1);--lqd-bg-popup-dropdown:#fff;--lqd-bg-toggle:#ebebeb;--lqd-bg-toggle-handle:#fff;--lqd-bg-slider-handle:#27292c;--lqd-bg-active:#000;--lqd-bg-control:#27292c;--lqd-bg-css-editor-margin:#f0f0f0;--lqd-bg-css-editor-border:#f7f7f7;--lqd-bg-css-editor-padding:#fff;--lqd-bg-css-editor-inputs:#fff;--lqd-bg-responsive-params:#eee;--lqd-bg-backdrop-panels:rgba(0,0,0,.75);--lqd-bg-backdrop:rgba(255,255,255,.75);--lqd-bg-backdrop-opposite:rgba(0,0,0,.5);--lqd-bg-toggle-nolabel:#e2e2e2;--lqd-bg-templates-header:#fff;--lqd-bg-templates-body:#f4f5f9;--lqd-bg-templates-sidebar:#27292c;--lqd-bg-template-item:#fff;--lqd-bg-desc:rgba(0,0,0,.4);--lqd-bg-btn-save:#313131;--lqd-bg-preloader:rgba(255,255,255,.85);--lqd-outline-nav:#ededed;--lqd-outline-popup-opts:rgba(0,0,0,.21);--lqd-outline-popup-divider:#d3d3d3;--lqd-outline-btnset:rgba(0,0,0,.11);--lqd-outline-css-editor-margin:#f0f0f0;--lqd-outline-css-editor-border:#f7f7f7;--lqd-outline-css-editor-padding:#fff;--lqd-outline-css-editor-inputs:#d8d8d8;--lqd-active-txt-btn:#fff;--lqd-active-txt-grid:#fff;--lqd-active-txt-popup-label-tab:#000;--lqd-active-txt-toggle:#fff;--lqd-active-txt-btnset:#fff;--lqd-active-txt-templates-filter:#fff;--lqd-active-txt-templates-tabs:#000;--lqd-active-bg-btn:#000;--lqd-active-bg-grid:#000;--lqd-active-bg-toggle:#3e3e3e;--lqd-active-bg-toggle-handle:#fff;--lqd-active-bg-btnset:#4A4A4A;--lqd-active-bg-toggle-nolabel:#3b3b3b;--lqd-active-outline-popup-opts:rgba(0,0,0,.5);--lqd-sidebaractive-bg-nav:#27292c;--lqd-sidebaractive-width-navbar:670px;--lqd-dragging-bg-carousel-item:#313131;--lqd-height-navbar:55px;--lqd-sidebar-width:370px;--lqd-shadow-popup:10px 15px 90px rgba(0,0,0,.12);--lqd-radius-popup:4px;--lqd-url-arrow-down:url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M5%206l5%205%205-5%202%201-7%207-7-7%202-1z%22%20fill%3D%22%23555%22%2F%3E%3C%2Fsvg%3E);--lqd-url-nav-logo-color:url(https://followersindo.com/wp-content/plugins/liquid_js_composer/assets/liquid/logo/liquid-logo.svg);--lqd-url-nav-logo:url(https://followersindo.com/wp-content/plugins/liquid_js_composer/assets/liquid/logo/liquid-logo-white.svg);--lqd-url-nav-spinner:url(https://followersindo.com/wp-content/plugins/liquid_js_composer/assets/vc/loaders/spinner.svg);--expo-out:cubic-bezier(.19,1,.22,1)}@media (max-width:767px){.vc_hidden-xs{display:none!important}}@media (min-width:768px) and (max-width:991px){.vc_hidden-sm{display:none!important}}@media (min-width:992px) and (max-width:1199px){.vc_hidden-md{display:none!important}}@media (min-width:1200px){.vc_hidden-lg{display:none!important}}.vc_column_container{width:100%}.vc_col-lg-6,.vc_col-md-9,.vc_col-sm-12,.vc_col-sm-4,.vc_col-sm-6{min-height:1px;padding-left:15px;padding-right:15px;box-sizing:border-box}.vc_col-md-1\/5{position:relative;min-height:1px;padding-left:15px;padding-right:15px;box-sizing:border-box}@media (min-width:768px){.vc_col-sm-12{width:100%}.vc_col-sm-6{width:50%}.vc_col-sm-4{width:33.33333333%}}@media (min-width:992px){.vc_col-md-9{width:75%}.vc_col-md-offset-3{margin-left:25%}.vc_col-md-1\/5{float:left}.vc_col-md-1\/5{width:20%}}@media (min-width:1200px){.vc_col-lg-6{width:50%}}.wpb_content_element{margin-bottom:35px}.vc_inner{margin-inline-start:-15px;margin-inline-end:-15px}.wpb_wrapper{position:relative}.vc_column_container{display:flex}.vc_column-inner{display:flex;width:100%;flex-direction:column;flex-grow:1;position:relative}.vc_row-o-content-middle&gt;.vc_column_container&gt;.vc_column-inner{justify-content:center}.vc_row-o-content-middle:not(.vc_row-o-equal-height)&gt;.vc_column_container{align-items:center}.wpb_single_image{display:flex;margin-bottom:0}.wpb_single_image img{height:auto;max-width:100%;vertical-align:top;border-radius:inherit}.wpb_single_image .vc_single_image-wrapper{margin-bottom:35px;display:inline-flex;flex-direction:column;vertical-align:top;max-width:100%}.wpb_single_image.vc_align_center .vc_figure{justify-content:center}.wpb_single_image .vc_figure{display:inline-flex;vertical-align:top;margin:0;max-width:100%;flex-grow:1}.lqd-gdpr-accept{padding:8px 23px;border:none;border-radius:50em;background:#eff3f5;font-size:14px;line-height:1em;color:#184341}.lqd-gdpr-left{padding-right:16px}.lqd-gdpr-inner{display:flex;align-items:center}#lqd-gdpr{padding:10px 10px 10px 20px;border-radius:50px;position:fixed;bottom:3.5rem;left:50%;z-index:10152;background-color:#fff;font-size:11px;line-height:1.5em;color:rgba(0,0,0,.86);box-shadow:0 20px 60px rgba(92,107,149,.15);opacity:0;visibility:hidden;transform:translate(-50%,50%)}#lqd-gdpr,#lqd-gdpr:before,#lqd-gdpr:after,#lqd-gdpr *,#lqd-gdpr *:before,#lqd-gdpr *:after{box-sizing:border-box}#lqd-gdpr.lqd-gdpr-visible{opacity:1;visibility:visible;transform:translate(-50%,0)}@font-face{font-family:'lqd-essentials';src:url(https://followersindo.com/wp-content/themes/hub/assets/vendors/liquid-icon/lqd-essentials/fonts/lqd-essentials.woff2) format("woff2");font-weight:400;font-style:normal}.lqd-icn-ess{display:inline-block;font:normal normal normal 1em/1 'lqd-essentials';speak:none;text-transform:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-lqd-pen::before{content:"\ea16"}</style><link rel="preload" href="https://fonts.googleapis.com/css?family=Dosis%3Ainherit%2C400%7CNunito%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&subset=" as="style" onload="this.onload=null;this.rel='stylesheet'" /><link rel="preload" href="https://followersindo.com/wp-content/cache/min/1/b3a804d4eece5bc3d48429ccf272f543.css" as="style" onload="this.onload=null;this.rel='stylesheet'" data-minify="1" /><meta name="description" content="Beli Followers Instagram Indonesia Termurah dengan sistem pesananan otomatis 24 jam dan pelayanan CS selama 8 jam penuh." /><link rel="canonical" href="https://followersindo.com/" /><meta property="og:locale" content="id_ID" /><meta property="og:type" content="website" /><meta property="og:title" content="Beli Followers Instagram Indonesia Termurah - Followersindo" /><meta property="og:description" content="Beli Followers Instagram Indonesia Termurah dengan sistem pesananan otomatis 24 jam dan pelayanan CS selama 8 jam penuh." /><meta property="og:url" content="https://followersindo.com/" /><meta property="og:site_name" content="followersindo" /><meta property="article:publisher" content="https://www.facebook.com/Followersindocom/" /><meta property="article:modified_time" content="2021-12-22T02:33:03+00:00" /><meta property="og:image" content="https://followersindo.com/wp-content/uploads/2016/12/fbshare.jpg" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="800" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@Followrsindo" /><meta name="twitter:label1" content="Estimasi waktu membaca" /><meta name="twitter:data1" content="9 menit" /> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://followersindo.com/#website","url":"https://followersindo.com/","name":"followersindo","description":"Beli Followers Instagram Aktif Garansi 30 Hari Gratis","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://followersindo.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"id-ID"},{"@type":"WebPage","@id":"https://followersindo.com/#webpage","url":"https://followersindo.com/","name":"Beli Followers Instagram Indonesia Termurah - Followersindo","isPartOf":{"@id":"https://followersindo.com/#website"},"datePublished":"2019-11-06T11:23:10+00:00","dateModified":"2021-12-22T02:33:03+00:00","description":"Beli Followers Instagram Indonesia Termurah dengan sistem pesananan otomatis 24 jam dan pelayanan CS selama 8 jam penuh.","breadcrumb":{"@id":"https://followersindo.com/#breadcrumb"},"inLanguage":"id-ID","potentialAction":[{"@type":"ReadAction","target":["https://followersindo.com/"]}]},{"@type":"BreadcrumbList","@id":"https://followersindo.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script> <link rel='dns-prefetch' href='//fonts.googleapis.com' /><link rel="alternate" type="application/rss+xml" title="followersindo &raquo; Feed" href="https://followersindo.com/feed/" /><link rel="alternate" type="application/rss+xml" title="followersindo &raquo; Umpan Komentar" href="https://followersindo.com/comments/feed/" /><link rel="preload" href="https://followersindo.com/wp-content/themes/hub/assets/vendors/liquid-icon/lqd-essentials/fonts/lqd-essentials.woff2" as="font" type="font/woff2" crossorigin><style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important}</style><style id='wp-block-library-theme-inline-css' type='text/css'>#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}</style><link rel='preload' id='woocommerce-smallscreen-css'  href='https://followersindo.com/wp-content/cache/busting/1/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen-5.8.0.css' as="style" onload="this.onload=null;this.rel='stylesheet'" type='text/css' media='only screen and (max-width: 768px)' /><style id='woocommerce-inline-inline-css' type='text/css'>.woocommerce form .form-row .required{visibility:visible}</style><style id='elementor-frontend-inline-css' type='text/css'>@font-face{font-family:eicons;src:url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://followersindo.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}.elementor-kit-5{--e-global-color-primary:#7635EE;--e-global-color-secondary:#4A2170;--e-global-color-text:#525F7F;--e-global-color-accent:#2865FA;--e-global-color-beffa05:#112446;--e-global-typography-primary-font-family:"Nunito";--e-global-typography-primary-font-weight:400;--e-global-typography-text-font-family:"Nunito";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:1.8em;--e-global-typography-accent-font-family:"Nunito";--e-global-typography-accent-font-weight:400;color:var(--e-global-color-text);font-family:var(--e-global-typography-text-font-family),Sans-serif;font-size:var(--e-global-typography-text-font-size);font-weight:var(--e-global-typography-text-font-weight);line-height:var(--e-global-typography-text-line-height)}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-size:16px;line-height:1.35em;color:#000;background-color:#1124460A;border-radius:100px 100px 100px 100px}.elementor-kit-5 button:hover,.elementor-kit-5 button:focus,.elementor-kit-5 input[type="button"]:hover,.elementor-kit-5 input[type="button"]:focus,.elementor-kit-5 input[type="submit"]:hover,.elementor-kit-5 input[type="submit"]:focus,.elementor-kit-5 .elementor-button:hover,.elementor-kit-5 .elementor-button:focus{color:#FFF;background-color:var(--e-global-color-primary)}.elementor-section.elementor-section-boxed>.elementor-container{max-width:1140px}.elementor-widget:not(:last-child){margin-bottom:0}{}h1.entry-title{display:var(--page-title-display)}@media(max-width:1199px){.elementor-kit-5{font-size:var(--e-global-typography-text-font-size);line-height:var(--e-global-typography-text-line-height)}.elementor-section.elementor-section-boxed>.elementor-container{max-width:1024px}}@media(max-width:767px){.elementor-kit-5{font-size:var(--e-global-typography-text-font-size);line-height:var(--e-global-typography-text-line-height)}.elementor-section.elementor-section-boxed>.elementor-container{max-width:767px}}</style><style id='rocket-lazyload-inline-css' type='text/css'>.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://followersindo.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}.wp-has-aspect-ratio .rll-youtube-player{position:absolute;padding-bottom:0;width:100%;height:100%;top:0;bottom:0;left:0;right:0;</style> <script type='text/javascript' src='https://followersindo.com/wp-content/cache/busting/1/wp-includes/js/jquery/jquery.min-3.6.0.js' id='jquery-core-js'></script> <script type='text/javascript' id='wc-add-to-cart-js-extra'>/* <![CDATA[ */ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Lihat keranjang","cart_url":"https:\/\/followersindo.com","is_cart":"","cart_redirect_after_add":"no"}; /* ]]> */</script> <link rel="https://api.w.org/" href="https://followersindo.com/wp-json/" /><link rel="alternate" type="application/json" href="https://followersindo.com/wp-json/wp/v2/pages/85139" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://followersindo.com/xmlrpc.php?rsd" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://followersindo.com/wp-includes/wlwmanifest.xml" /><meta name="generator" content="WordPress 5.8.2" /><meta name="generator" content="WooCommerce 5.8.0" /><link rel='shortlink' href='https://followersindo.com/' /><link rel="alternate" type="application/json+oembed" href="https://followersindo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffollowersindo.com%2F" /><link rel="alternate" type="text/xml+oembed" href="https://followersindo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffollowersindo.com%2F&#038;format=xml" />  <script data-no-minify="1" async src="https://followersindo.com/wp-content/cache/busting/1/gtm-7015b8ccfe64c5ecae6c66e3f2b32f29.js"></script> <script>window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<!DOCTYPE html>
+<html lang="id" itemscope itemtype="http://schema.org/Product">
+<head>
+   <title>Harga Followers Permanen Ig Terbaru Januari 2022 | BigGo Indonesia</title>
+<meta charset="UTF-8"><meta name="subject" content="Harga Followers Permanen Ig Terbaru Januari 2022 | BigGo Indonesia"><meta name="copyright" content="BigGo.com"><meta name="robots" content="index, follow"><meta name="referrer" content="origin-when-crossorigin"><link rel="dns-prefetch" href="//img.biggo.com.tw" pr="0.9" crossorigin><link rel="preconnect" href="//img.biggo.com.tw" pr="0.9" crossorigin><link rel="dns-prefetch" href="//www.google-analytics.com"><link rel="dns-prefetch" href="//www.google.com"><link rel="dns-prefetch" href="//cdnjs.cloudflare.com"><meta name="medium" content="mult"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><link rel="canonical" href="https://biggo.id/s/followers+permanen+ig/"><link rel="amphtml" href="https://biggo.id/a/followers+permanen+ig/"><link rel="next" href="https://biggo.id/s/followers+permanen+ig/?p=2">    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta http-equiv="content-language" content="id-id">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta property="fb:app_id" content="547168815470194">
+    <meta property="og:locale" content="id_ID">
+    <meta property="og:type" content="article">
+    <meta itemprop="url" property="og:url" content="https://biggo.id/s/followers+permanen+ig/">
+    <meta itemprop="sku" name="sku" content="followers permanen ig">
+    <meta itemprop="description" name="description" property="og:description" content="Cari harga dan promo terbaik untuk Followers Permanen Ig diantara 182 produk. Cek harga terbaik sekarang hanya di BigGo!">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@BigGo_global">
+    <meta name="twitter:creator" content="@BigGo_global">
+    <meta name="twitter:title" itemprop="name" property="og:title" content="Harga Followers Permanen Ig Terbaru Januari 2022 | BigGo Indonesia">
+    <meta name="twitter:description" content="Cari harga dan promo terbaik untuk Followers Permanen Ig diantara 182 produk. Cek harga terbaik sekarang hanya di BigGo!">
+    <meta property="og:site_name" content="BigGo">
+        <link rel="icon" href="/images/favicon.ico" sizes="any">
+    <link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="/images/favicon-32x32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="manifest" href="/manifest.webmanifest">
+    <meta name="apple-itunes-app" content="app-id=1369893745"/>
+    <meta name="apple-mobile-web-app-title" content="BigGo Indonesia">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">        <meta name="twitter:image" itemprop="image" property="og:image" content="https://img.biggo.com.tw/srrXtcjQxRHzzbWf6k5tNq0cUEtZQpb2LYM2fsVQlcg4/https://filebroker-cdn.lazada.co.id/kf/S79b28452f3174578b0ed55a2c999fa7cf.jpg">    <meta name="twitter:image:alt" property="og:image:alt" content="Followers Permanen Ig"><!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"8NYNn1QolK10fn", domain:"biggo.id",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=8NYNn1QolK10fn" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5TLB34Q');</script>
+<!-- End Google Tag Manager -->
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "9c188a05684d4dd1bf038f79d9e27c5a"}'></script><!-- End Cloudflare Web Analytics -->    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Product",
+      "sku": "followers permanen ig",
+      "name": "Harga Followers Permanen Ig Terbaru Januari 2022 | BigGo Indonesia",
+      "image": "https:\/\/img.biggo.com.tw\/srrXtcjQxRHzzbWf6k5tNq0cUEtZQpb2LYM2fsVQlcg4\/https:\/\/filebroker-cdn.lazada.co.id\/kf\/S79b28452f3174578b0ed55a2c999fa7cf.jpg",
+      "description": "Cari harga dan promo terbaik untuk Followers Permanen Ig diantara 182 produk. Cek harga terbaik sekarang hanya di BigGo!",
+      "offers": {
+        "@type": "AggregateOffer",    
+        "priceCurrency": "IDR",
+        "lowPrice": 99,
+        "highPrice": 595000,
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "offerCount": 182      }
+    }
+    </script>
+    <!-- start css references -->
+            <link rel="stylesheet" href="/css/custom_bootstrap.min.css?v=1.2">
+    
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="/css/font-Google.min.css?v=3" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="/css/font-Google.min.css?v=3"></noscript>
 
-  gtag('config', 'UA-68538756-1');</script>  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-809456240"></script> <script>window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <link rel="stylesheet" href="/css/general.min.css?v=9.4">
 
-  gtag('config', 'AW-809456240');</script> <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=wYi7q1NErb205V" style="display:none" height="1" width="1" alt="" /></noscript><head>  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '1912677362333752'); // Insert your pixel ID here.
-fbq('track', 'PageView');</script> <noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1912677362333752&ev=PageView&noscript=1"
-/></noscript></head><link rel="shortcut icon" href="" /> <noscript><style>.woocommerce-product-gallery{opacity:1!important}</style></noscript><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/><meta name="generator" content="Powered by Slider Revolution 6.5.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." /><link rel="icon" href="https://followersindo.com/wp-content/uploads/2016/12/cropped-logo1-32x32.png" sizes="32x32" /><link rel="icon" href="https://followersindo.com/wp-content/uploads/2016/12/cropped-logo1-192x192.png" sizes="192x192" /><link rel="apple-touch-icon" href="https://followersindo.com/wp-content/uploads/2016/12/cropped-logo1-180x180.png" /><meta name="msapplication-TileImage" content="https://followersindo.com/wp-content/uploads/2016/12/cropped-logo1-270x270.png" /><style id='liquid-stylesheet-inline-css' type='text/css'>@font-face{font-family:"Glacial Indifference";src:;font-weight:;font-display:swap}:root{--lqd-cc-active-bw:1px}@media screen and (min-width:992px){body.has-sidebar #lqd-contents-wrap{padding-top:25px}}@media (min-width:1200px){.is-stuck>.elementor>.elementor-section-wrap>.elementor-section:not(.lqd-stickybar-wrap){background:#FFFFFFF2!important}}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1635239929532{padding-right:25px!important;padding-left:25px!important}.vc_custom_1610628944366{padding-top:55px!important;padding-bottom:30px!important}.vc_custom_1605398700956{padding-bottom:40px!important}.vc_custom_1615552552691{padding-top:80px!important;padding-bottom:40px!important;background-color:#122339!important}.vc_custom_1605398402233{padding-top:60px!important;padding-bottom:20px!important}.vc_custom_1602665216151{margin-top:60px!important;padding-top:100px!important;padding-bottom:100px!important;background-color:#f0f1f7!important}.vc_custom_1614328250330{padding-top:60px!important;background-image:url(http://new.followersindo.com/wp-content/uploads/2019/11/circles.svg?id=51)!important;background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important}.vc_custom_1634809010825{background-color:#34364d!important}.vc_custom_1637388545211{margin-right:8px!important;margin-bottom:10px!important;padding-right:0.75em!important;padding-left:0.75em!important}.vc_custom_1573390155543{margin-bottom:35px!important}.vc_custom_1573390147676{margin-bottom:35px!important}.vc_custom_1573390136561{margin-bottom:35px!important}.vc_custom_1573390164945{margin-bottom:35px!important}.vc_custom_1573390174949{margin-bottom:35px!important}.vc_custom_1637388562879{margin-right:8px!important;margin-bottom:10px!important;padding-right:0.75em!important;padding-left:0.75em!important}.vc_custom_1614328086557{margin-bottom:35px!important}.vc_custom_1614691180474{background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important}.vc_custom_1614691201000{background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important}.vc_custom_1614691213574{background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important}.vc_custom_1614691226593{background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important}.vc_custom_1605398444640{margin-bottom:45px!important}.vc_custom_1573390261312{margin-bottom:45px!important}.vc_custom_1637375832284{padding-right:0.75em!important;padding-left:0.75em!important}.vc_custom_1573118821882{margin-bottom:50px!important}.vc_custom_1573121760798{margin-bottom:50px!important}.vc_custom_1605398055025{margin-bottom:20px!important}.vc_custom_1573123868086{margin-bottom:30px!important}.vc_custom_1634550574274{margin-top:35px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1573390562319{margin-bottom:-50px!important;margin-left:-70px!important}.vc_custom_1590403536897{margin-bottom:45px!important}.vc_custom_1590403736353{margin-bottom:40px!important}</style><noscript><style>.wpb_animate_when_almost_visible{opacity:1}</style></noscript><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player,[data-lazy-src]{display:none!important}</style></noscript><script>/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
-(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
-var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
-return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
-if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
-setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
-var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
-if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
-else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))</script> </head><body class="home page-template-default page page-id-85139 wp-embed-responsive theme-hub woocommerce-no-js sidebar-widgets-outline lazyload-enabled mob-menu-slideout-over wpb-js-composer js-comp-ver-6.6.0 vc_responsive elementor-default elementor-kit-5 elementor-page elementor-page-85139" dir="ltr" itemscope="itemscope" itemtype="http://schema.org/WebPage" data-mobile-nav-breakpoint="1200" data-mobile-nav-style="modern" data-mobile-nav-scheme="dark" data-mobile-nav-trigger-alignment="right" data-mobile-header-scheme="gray" data-mobile-logo-alignment="default" data-mobile-nav-align="center" data-overlay-onmobile="false"><div><div class="screen-reader-text">Skip links</div><ul class="liquid-skip-link screen-reader-text"><li><a href="#primary-nav" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#lqd-site-content" class="screen-reader-shortcut"> Skip to content</a></li></ul></div><div id="wrap"><main class="content" id="lqd-site-content"><div id="lqd-contents-wrap"><p><style>@media (min-width:768px){.liquid-row-responsive-61d28e7b418fc{padding-right:25px!important;padding-left:25px!important}}</style><section class="vc_row liquid-row-responsive-61d28e7b418fc liquid-row-shadowbox-61d28e7b41933"><div class="ld-container container"><div class="row ld-row ld-row-outer"><div class="wpb_column vc_column_container vc_col-sm-4 liquid-column-61d28e7b4ffe4"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_spacer_61d28e7b50136{height:24px}</style><div class="ld-empty-space ld_spacer_61d28e7b50136"></div><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b50d0e"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="112" height="21" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Logo-Followersindo-1.png" data-aspect="" /></div></figure></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 liquid-column-61d28e7b51220"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_header_menu_61d28e7b513b5>li>a{font-size:16px;font-weight:500;letter-spacing:.01em}.ld_header_menu_61d28e7b513b5 .nav-item-children>li>a{font-size:14px}.ld_header_menu_61d28e7b513b5>li>a,.navbar-fullscreen .ld_header_menu_61d28e7b513b5>li>a{color:rgb(0,0,0)}.ld_header_menu_61d28e7b513b5>li:hover>a,.navbar-fullscreen .ld_header_menu_61d28e7b513b5>li>a:hover{color:rgba(0,0,0,.7)}.ld_header_menu_61d28e7b513b5>li.is-active>a,.ld_header_menu_61d28e7b513b5>li.current_page_item>a,.ld_header_menu_61d28e7b513b5>li.current-menu-item>a,.ld_header_menu_61d28e7b513b5>li.current-menu-ancestor>a,.navbar-fullscreen .ld_header_menu_61d28e7b513b5>li.is-active>a,.navbar-fullscreen .ld_header_menu_61d28e7b513b5>li.current_page_item>a,.navbar-fullscreen .ld_header_menu_61d28e7b513b5>li.current-menu-item>a,.navbar-fullscreen .ld_header_menu_61d28e7b513b5>li.current-menu-ancestor>a{color:rgba(0,0,0,.7)}.ld_header_menu_61d28e7b513b5{--lqd-menu-items-top-padding:20px;--lqd-menu-items-right-padding:20px;--lqd-menu-items-bottom-padding:20px;--lqd-menu-items-left-padding:20px}</style><div class="header-module module-primary-nav pos-stc"><div class="collapse navbar-collapse lqd-submenu-cover  " id="main-header-collapse" aria-expanded="false" role="navigation"><ul id="primary-nav" class="main-nav lqd-menu-counter-right ld_header_menu_61d28e7b513b5 main-nav-hover-default nav align-items-lg-stretch justify-content-lg-center" data-submenu-options='{"toggleType":"fade","handler":"mouse-in-out"}' data-localscroll="true" data-localscroll-options='{"itemsSelector": "> li > a", "trackWindowScroll": true}'><li id="menu-item-85260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-85139 current_page_item menu-item-85260"><a href="https://followersindo.com/" aria-current="page">Home</a></li><li id="menu-item-85679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-85679"><a href="https://followersindo.com/iklan-followers-instagram-garansi/">Promo<span class="submenu-expander"></span></a><ul class="nav-item-children"><li id="menu-item-85674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85674"><a href="https://followersindo.com/iklan-followers-gratis-likes/">Promo Followers Gratis Likes</a></li><li id="menu-item-85671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85671"><a href="https://followersindo.com/iklan-followers-instagram-garansi/">Promo Followers Instagram Garansi</a></li><li id="menu-item-85672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85672"><a href="https://followersindo.com/iklan-auto-likes-instagram/">Promo Auto Likes Instagram</a></li><li id="menu-item-85673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85673"><a href="https://followersindo.com/iklan-likes-instagram/">Promo Likes Instagram</a></li></ul></li><li id="menu-item-85356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85356"><a href="https://followersindo.com/service/">Service</a></li><li id="menu-item-85259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85259"><a href="https://followersindo.com/about/">About</a></li><li id="menu-item-85261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85261"><a href="https://followersindo.com/testimoni/">Testimony</a></li></ul></div></div><style>.ld_spacer_61d28e7b55da2{height:24px}</style><div class="ld-empty-space ld_spacer_61d28e7b55da2"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs text-lg-right liquid-column-61d28e7b564be"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div class="header-module module-button"><style>.ld_button_61d28e7b56bc4.btn-icon-solid .btn-icon{background:rgb(117,29,216)}.ld_button_61d28e7b56bc4.btn-icon-circle.btn-icon-ripple .btn-icon:before{border-color:rgb(0,0,0)}.ld_button_61d28e7b56bc4 .btn-icon{color:rgb(255,255,255);width:46px!important;height:46px!important;box-shadow:0 15px 25px 0 rgba(0,0,0,.05)}.ld_button_61d28e7b56bc4:hover .btn-icon{color:rgb(0,0,0)}.ld_button_61d28e7b56bc4.btn-icon-solid:hover .btn-icon{background:rgb(255,255,255)}.ld_button_61d28e7b56bc4{color:rgb(0,0,0)}.ld_button_61d28e7b56bc4{font-size:16px}.ld_button_61d28e7b56bc4{font-size:16px}</style><a href="https://api.whatsapp.com/send/?phone=6282140853171&#038;text&#038;app_absent=0" target="_blank" class="btn btn-naked btn-hover-txt-liquid-x-alt btn-icon-custom-size btn-icon-circle btn-icon-solid btn-has-label ld_header_button_61d28e7b566b0 ld_button_61d28e7b56bc4" > <span> <span class="btn-txt" data-text="Let&#039;s Chat" data-split-text="true"
-data-split-options='{"type": "chars, words"}'>Let's Chat</span> <span class="btn-icon"><i class="lqd-icn-ess icon-lqd-pen"></i></span> </span> </a></div></div></div></div></div></div></section><section class="vc_row vc_custom_1635239929532 liquid-row-shadowbox-61d28e7b57a26"><div class="ld-container container"><div class="row ld-row ld-row-outer"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 liquid-column-61d28e7b57fba"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_fancy_heading_61d28e7b581b3 h3{color:rgb(0,0,0);background:rgb(245,245,245)}.ld_fancy_heading_61d28e7b581b3 h3{font-size:14px}.ld_fancy_heading_61d28e7b581b3 h3{padding-top:0.3em!important;padding-right:1em!important;padding-bottom:0.3em!important;padding-left:1em!important}.ld_fancy_heading_61d28e7b581b3 h3{margin-bottom:1.85em!important}.ld_fancy_heading_61d28e7b581b3 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b581b3 h3{font-size:14px}.ld_fancy_heading_61d28e7b581b3 h3{padding-top:0.3em!important;padding-right:1em!important;padding-bottom:0.3em!important;padding-left:1em!important}.ld_fancy_heading_61d28e7b581b3 h3{margin-bottom:1.85em!important}</style><div class="ld-fancy-heading ld-fh-has-fill ld_fancy_heading_61d28e7b581b3"><h3 class="ld-fh-element circle lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Garansi 30 Hari</span></h3></div><style>.ld_fancy_heading_61d28e7b58e4a h1{font-size:13vw}@media (min-width:768px){.ld_fancy_heading_61d28e7b58e4a h1{font-size:11vw}}@media (min-width:992px){.ld_fancy_heading_61d28e7b58e4a h1{font-size:65px}}.ld_fancy_heading_61d28e7b58e4a h1{line-height:1.1em}.ld_fancy_heading_61d28e7b58e4a h1{--element-line-height:1.1em}.ld_fancy_heading_61d28e7b58e4a h1{margin-bottom:0.2em!important}.ld_fancy_heading_61d28e7b58e4a .lqd-highlight-inner{height:.275em;bottom:5px;background:rgba(98,73,201,.21)}.ld_fancy_heading_61d28e7b58e4a h1{font-size:13vw}@media (min-width:768px){.ld_fancy_heading_61d28e7b58e4a h1{font-size:11vw}}@media (min-width:992px){.ld_fancy_heading_61d28e7b58e4a h1{font-size:65px}}.ld_fancy_heading_61d28e7b58e4a h1{line-height:1.1em}.ld_fancy_heading_61d28e7b58e4a h1{--element-line-height:1.1em}.ld_fancy_heading_61d28e7b58e4a h1{margin-bottom:0.2em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b58e4a"><h1 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left lqd-highlight-reset-onhover text-decoration-default lqd-split-lines" data-inview="true" data-transition-delay="true" data-delay-options='{"elements":".lqd-highlight-inner","delayType":"transition"}'  data-split-text="true" data-split-options='{"type":"lines"}'> Beli Followers Instagram <mark class="lqd-highlight"><span class="lqd-highlight-txt"  >Terbaik</span><span class="lqd-highlight-inner"><svg xmlns="http://www.w3.org/2000/svg" width="235.509" height="13.504" viewBox="0 0 235.509 13.504" aria-hidden="true" preserveAspectRatio="none"><path d="M163,.383a13.044,13.044,0,0,1,1.517-.072,3.528,3.528,0,0,1,1.237-.134q.618.044,1.237.044a.249.249,0,0,1-.1.178.337.337,0,0,0-.1.266q3.092.088,6.184-.044T178.953.4l-.206-.088a12,12,0,0,0,4.123,0,13.467,13.467,0,0,1,5.772,0q1.443-.178,2.68-.266A5.978,5.978,0,0,1,193.8.4,16.707,16.707,0,0,1,198.01.045q2.164.088,4.844.088-.618.088-.824.134L201.412.4a3.893,3.893,0,0,0,2.061,0,5.413,5.413,0,0,1,1.649-.356q.618.088,1.134.178a9.762,9.762,0,0,0,1.544.09,17,17,0,0,1,3.092-.266q1.649,0,3.5.178,2.886.088,5.875.044t5.875-.222q0,.088.206.088h.412a21.975,21.975,0,0,0,2.577.889A12.458,12.458,0,0,1,232.12,2.18a3.962,3.962,0,0,1,1.031.622A3.349,3.349,0,0,1,234.8,3.825a5.079,5.079,0,0,1,.618,1.111q.412.534-1.031.98-1.031.444-.618.98a2.09,2.09,0,0,1,.206.889q0,.444.825.889.618.8-.206,1.245l-1.237.534q-1.443-.088-2.68-.134a17.255,17.255,0,0,1-2.267-.222,3.128,3.128,0,0,0-.928-.044,3.129,3.129,0,0,1-.928-.044q-2.267-.178-4.432-.266T217.7,9.476q-1.649-.088-2.886-.088a17.343,17.343,0,0,1-2.474-.178q-3.916,0-7.73-.088t-7.73-.266l-12.471-.178q-6.287-.088-12.883-.088h-1.958q-.928,0-1.958.088h-2.061q-1.031,0-2.061-.088-2.68-.088-5.256-.134t-5.256.044h-5.462q-2.577,0-5.462.088-4.535.088-8.76.178t-8.554.088q-2.886.088-5.875.088t-5.875.088q-1.443.088-2.886.134t-3.092.044q-4.741.178-9.791.312t-9.791.312q-2.267.088-4.329.088T78.77,10.1q-4.329.266-8.863.49t-9.276.49q-1.237.088-2.68.134a24.356,24.356,0,0,0-2.683.224q-2.68.178-5.462.312t-5.668.4q-2.474.266-4.741.312t-4.741.044q-1.031-.088-1.958-.134a9.684,9.684,0,0,1-1.958-.312,12.5,12.5,0,0,0-1.443-.312q-.825-.134-1.856-.31-2.886.356-6.39.666t-6.8.845a26.709,26.709,0,0,1-2.886.356,20.758,20.758,0,0,1-9.482-.889Q.232,11.962.026,11.25T1.263,9.917q0-.266.825-.266a13.039,13.039,0,0,0,2.886-.444A17.187,17.187,0,0,1,7.86,8.672q3.092-.266,6.184-.8,1.649-.178,3.3-.312t3.5-.312q4.123-.354,8.039-.712t8.039-.622q9.478-.8,18.758-1.338,2.68-.178,5.153-.356t4.741-.356q2.474-.178,5.05-.356T75.88,3.24h1.34a4.829,4.829,0,0,0,1.34-.178q2.267-.178,4.329-.222t4.329-.134a7.256,7.256,0,0,1,2.267,0,3.459,3.459,0,0,0,1.031-.088,6.009,6.009,0,0,1,2.37-.266,14.745,14.745,0,0,0,2.783-.088q1.649,0,2.474.088a1.308,1.308,0,0,1,.185.011,1.226,1.226,0,0,1,.33-.1,3.656,3.656,0,0,0,.515-.088,4.433,4.433,0,0,1,2.886.266q.412-.088,1.031-.178l1.237-.178q.412,0,1.031.044a5.761,5.761,0,0,0,1.237-.044q2.886-.088,5.772-.044a53.829,53.829,0,0,0,5.772-.222,9.505,9.505,0,0,1,1.34-.088h1.34a4.428,4.428,0,0,1,.821-.258l.825-.178a15.178,15.178,0,0,1,1.855.444,3.028,3.028,0,0,1,1.031-.534,4.039,4.039,0,0,1,1.443-.178,6.158,6.158,0,0,1,1.649.178,5.05,5.05,0,0,0,2.267.268q1.855-.088,3.813-.134T138.13,1.2q1.031,0,2.164-.044t2.37-.044q-.206-.088.412-.534h3.092q.412,0,.309.266t.928,0a5.845,5.845,0,0,1,1.443,0,31.833,31.833,0,0,0,5.359.088,21.471,21.471,0,0,1,6.8.178,5.236,5.236,0,0,0,1.031-.4q.412-.222.825-.4a.694.694,0,0,1,.137.07Z" transform="translate(0 0.002)"/></svg></span></mark></h1></div><style>.ld_fancy_heading_61d28e7b59a2c p{font-size:20px}.ld_fancy_heading_61d28e7b59a2c p{line-height:30px}.ld_fancy_heading_61d28e7b59a2c p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d28e7b59a2c p{padding-right:18%!important}}.ld_fancy_heading_61d28e7b59a2c p{margin-bottom:1.35em!important}.ld_fancy_heading_61d28e7b59a2c .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b59a2c p{font-size:20px}.ld_fancy_heading_61d28e7b59a2c p{line-height:30px}.ld_fancy_heading_61d28e7b59a2c p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d28e7b59a2c p{padding-right:18%!important}}.ld_fancy_heading_61d28e7b59a2c p{margin-bottom:1.35em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b59a2c"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default lqd-split-lines"   data-split-text="true" data-split-options='{"type":"lines"}'> <span style="font-weight: 400">Dijamin 100% aman karena <strong>tanpa password</strong>, </span><strong>tidak menambah following </strong>dan simple dengan sistem <strong>fast checkout!</strong></p></div><div data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".wpb_column","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"x":-35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"x":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}' class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7b5c0a8"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d28e7b672ed"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_button_61d28e7b674ad.btn-icon-solid .btn-icon{background:rgb(18,35,57)}.ld_button_61d28e7b674ad.btn-icon-circle.btn-icon-ripple .btn-icon:before{border-color:rgb(18,35,57)}.ld_button_61d28e7b674ad{background-color:rgb(18,35,57);border-color:rgb(18,35,57)}.ld_button_61d28e7b674ad:hover{background-color:rgb(239,75,121);border-color:rgb(239,75,121)}.ld_button_61d28e7b674ad .btn-gradient-bg-hover{background:-webkit-linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%);background:linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%)}.ld_button_61d28e7b674ad .btn-gradient-border defs stop:first-child{stop-color:rgb(18,35,57)}.ld_button_61d28e7b674ad .btn-gradient-border defs stop:last-child{stop-color:rgb(18,35,57)}.ld_button_61d28e7b674ad:hover .btn-gradient-border defs stop:first-child{stop-color:rgb(239,75,121)}.ld_button_61d28e7b674ad:hover .btn-gradient-border defs stop:last-child{stop-color:rgb(198,123,255)}.ld_button_61d28e7b674ad{font-size:15px}.ld_button_61d28e7b674ad{letter-spacing:.02em}.ld_button_61d28e7b674ad{font-size:15px}.ld_button_61d28e7b674ad{letter-spacing:.02em}.ld_button_61d28e7b674ad{font-size:15px}.ld_button_61d28e7b674ad{letter-spacing:.02em}</style><a href="https://order.followersindo.com/shop2.php/dashboard" target="_blank" class="btn btn-solid btn-hover-txt-switch btn-hover-txt-switch-y btn-lg round border-none btn-has-label ld_button_61d28e7b674ad vc_custom_1637388545211" > <span> <span class="btn-txt" data-text="Order Sekarang" data-split-text="true"
-data-split-options='{"type": "chars, words"}'>Order Sekarang</span> <span class="btn-gradient-bg btn-gradient-bg-hover"></span> </span> </a></div></div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 liquid-column-61d28e7b682d6"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>@media (min-width:992px){.ld_images_group_element_61d28e7b6847f{margin-right:-45%!important;margin-left:-15%!important}}@media (min-width:992px){.ld_images_group_element_61d28e7b6847f{margin-right:-45%!important;margin-left:-15%!important}}</style><div id="ld_images_group_element_61d28e7b6847f" class="lqd-imggrp-single ld_images_group_element_61d28e7b6847f"  data-float="ease" ><div class="lqd-imggrp-img-container"    ><figure ><img width="573" height="653" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class=" ld-lazyload" alt="" data-src="https://followersindo.com/wp-content/uploads/2021/10/header-landing-page.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/header-landing-page-263x300.png 263w, https://followersindo.com/wp-content/uploads/2021/10/header-landing-page-899x1024.png 899w, https://followersindo.com/wp-content/uploads/2021/10/header-landing-page.png 1146w" data-aspect="" /></figure></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d28e7b69841{padding-top:55px!important;padding-bottom:55px!important}}</style><section id="features" data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".wpb_column","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}' class="vc_row z-index-2 vc_custom_1610628944366 liquid-row-responsive-61d28e7b69841 liquid-row-shadowbox-61d28e7b69863"><div class="ld-container container"><div class="row ld-row ld-row-outer"><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b69db6>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-1/5 liquid-column-61d28e7b69db3 liquid-column-responsive-61d28e7b69db6"><div class="vc_column-inner  vc_custom_1573390155543" ><div class="wpb_wrapper"  ><style>.ld_icon_box_61d28e7b69fb3 h3{margin-bottom:px}.ld_icon_box_61d28e7b69fb3 .iconbox-icon-container{border-radius:px}.ld_icon_box_61d28e7b69fb3 .iconbox-icon-container img,.ld_icon_box_61d28e7b69fb3 .iconbox-icon-container>svg{width:80px!important}</style><div class="iconbox text-align-default iconbox-sm iconbox-heading-sm iconbox-bubble iconbox-contents-show-onhover ld_icon_box_61d28e7b69fb3" id="ld_icon_box_61d28e7b69fb3"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-instagram.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-instagram.png" class="liquid-image-icon" /></noscript></span></div><h3 class="">Instagram</h3><div class="contents"><h6>INSTAGRAM</h6><hr /><p>Followers Garansi, Likes Garansi, Auto Likes, Comments, Views, Reels &amp; IGTV</p></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b6b273>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-1/5 liquid-column-61d28e7b6b270 liquid-column-responsive-61d28e7b6b273"><div class="vc_column-inner  vc_custom_1573390147676" ><div class="wpb_wrapper"  ><style>.ld_icon_box_61d28e7b6b41c h3{margin-bottom:px}.ld_icon_box_61d28e7b6b41c .iconbox-icon-container{border-radius:px}.ld_icon_box_61d28e7b6b41c .iconbox-icon-container img,.ld_icon_box_61d28e7b6b41c .iconbox-icon-container>svg{width:80px!important}</style><div class="iconbox text-align-default iconbox-sm iconbox-heading-sm iconbox-bubble iconbox-contents-show-onhover ld_icon_box_61d28e7b6b41c" id="ld_icon_box_61d28e7b6b41c"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-tiktok.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-tiktok.png" class="liquid-image-icon" /></noscript></span></div><h3 class="">Tiktok</h3><div class="contents"><h6>TIKTOK</h6><hr /><p>Followers, Likes &amp; Views</p></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b6c601>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-1/5 liquid-column-61d28e7b6c5fe liquid-column-responsive-61d28e7b6c601"><div class="vc_column-inner  vc_custom_1573390136561" ><div class="wpb_wrapper"  ><style>.ld_icon_box_61d28e7b6c7ec h3{margin-bottom:px}.ld_icon_box_61d28e7b6c7ec .iconbox-icon-container{border-radius:px}.ld_icon_box_61d28e7b6c7ec .iconbox-icon-container img,.ld_icon_box_61d28e7b6c7ec .iconbox-icon-container>svg{width:75px!important}</style><div class="iconbox text-align-default iconbox-sm iconbox-heading-sm iconbox-bubble iconbox-contents-show-onhover ld_icon_box_61d28e7b6c7ec" id="ld_icon_box_61d28e7b6c7ec"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-youtube.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-youtube.png" class="liquid-image-icon" /></noscript></span></div><h3 class="">YouTube</h3><div class="contents"><h6>YOUTUBE</h6><hr /><p>Views Video</p></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b6d59b>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-1/5 liquid-column-61d28e7b6d597 liquid-column-responsive-61d28e7b6d59b"><div class="vc_column-inner  vc_custom_1573390164945" ><div class="wpb_wrapper"  ><style>.ld_icon_box_61d28e7b6d74b h3{margin-bottom:px}.ld_icon_box_61d28e7b6d74b .iconbox-icon-container{border-radius:px}.ld_icon_box_61d28e7b6d74b .iconbox-icon-container img,.ld_icon_box_61d28e7b6d74b .iconbox-icon-container>svg{width:75px!important}</style><div class="iconbox text-align-default iconbox-sm iconbox-heading-sm iconbox-bubble iconbox-contents-show-onhover ld_icon_box_61d28e7b6d74b" id="ld_icon_box_61d28e7b6d74b"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-shopee.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-shopee.png" class="liquid-image-icon" /></noscript></span></div><h3 class="">Shopee</h3><div class="contents"><h6>SHOPEE</h6><hr /><p>Followers &amp; Likes</p></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b6e168>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-1/5 liquid-column-61d28e7b6e166 liquid-column-responsive-61d28e7b6e168"><div class="vc_column-inner  vc_custom_1573390174949" ><div class="wpb_wrapper"  ><style>.ld_icon_box_61d28e7b6e35d h3{margin-bottom:px}.ld_icon_box_61d28e7b6e35d .iconbox-icon-container{border-radius:px}.ld_icon_box_61d28e7b6e35d .iconbox-icon-container img,.ld_icon_box_61d28e7b6e35d .iconbox-icon-container>svg{width:75px!important}</style><div class="iconbox text-align-default iconbox-sm iconbox-heading-sm iconbox-bubble iconbox-contents-show-onhover ld_icon_box_61d28e7b6e35d" id="ld_icon_box_61d28e7b6e35d"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-tokopedia.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-tokopedia.png" class="liquid-image-icon" /></noscript></span></div><h3 class="">Tokopedia</h3><div class="contents"><h6>TOKOPEDIA</h6><hr /><p>Maintenance</p></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d28e7b6ed0b{padding-bottom:90px!important}}</style><section class="vc_row vc_custom_1605398700956 liquid-row-responsive-61d28e7b6ed0b liquid-row-shadowbox-61d28e7b6ed2a"><div class="ld-container container"><div class="row ld-row ld-row-outer vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-0 vc_col-md-6 text-center liquid-column-61d28e7b6f28a"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div id="ld_images_group_container_61d28e7b6f3f5" class="lqd-imggrp-container ld_images_group_container_61d28e7b6f3f5"   ><div class="lqd-imggrp-inner"><div id="ld_images_group_element_61d28e7b6f5c7" class="lqd-imggrp-single ld_images_group_element_61d28e7b6f5c7" data-roundness="4"  ><div class="lqd-imggrp-img-container"    ><figure ><img width="329" height="641" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class=" ld-lazyload" alt="Beli Followers Instagram Indonesia" data-src="https://followersindo.com/wp-content/uploads/2021/11/opening-followersindo.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/11/opening-followersindo-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/11/opening-followersindo-526x1024.png 526w, https://followersindo.com/wp-content/uploads/2021/11/opening-followersindo.png 658w" data-aspect="" /></figure></div></div></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b70675>.vc_column-inner{padding-right:7%!important;padding-left:12%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 text-center text-md-left liquid-column-61d28e7b70672 liquid-column-responsive-61d28e7b70675 lqd-column-top-onmobile"><div class="vc_column-inner  " ><div class="wpb_wrapper"  data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1600","delay":"160","ease":"power4.out","direction":"forward","initValues":{"y":30,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'><style>.ld_fancy_heading_61d28e7b708e9 h6{background:rgb(228,230,255)}.ld_fancy_heading_61d28e7b708e9 h6{font-size:13px}.ld_fancy_heading_61d28e7b708e9 h6{letter-spacing:.05em}.ld_fancy_heading_61d28e7b708e9 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d28e7b708e9 h6{margin-bottom:1.75em!important}.ld_fancy_heading_61d28e7b708e9 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b708e9 h6{font-size:13px}.ld_fancy_heading_61d28e7b708e9 h6{letter-spacing:.05em}.ld_fancy_heading_61d28e7b708e9 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d28e7b708e9 h6{margin-bottom:1.75em!important}</style><div class="ld-fancy-heading ld-fh-has-fill text-uppercase ld_fancy_heading_61d28e7b708e9"><h6 class="ld-fh-element circle lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Apa sih</h6></div><style>.ld_fancy_heading_61d28e7b71456 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b71456 h2{font-size:39px}}.ld_fancy_heading_61d28e7b71456 h2{margin-bottom:0.75em!important}.ld_fancy_heading_61d28e7b71456 .lqd-highlight-inner{height:.275em;bottom:8px;background:rgba(71,79,199,.28)}.ld_fancy_heading_61d28e7b71456 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b71456 h2{font-size:39px}}.ld_fancy_heading_61d28e7b71456 h2{margin-bottom:0.75em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b71456"><h2 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-bottom lqd-highlight-reset-onhover text-decoration-default" data-inview="true" data-transition-delay="true" data-delay-options='{"elements":".lqd-highlight-inner","delayType":"transition"}'  > <mark class="lqd-highlight"><span class="lqd-highlight-txt"  >Followersindo</span><span class="lqd-highlight-inner"><svg xmlns="http://www.w3.org/2000/svg" width="235.509" height="13.504" viewBox="0 0 235.509 13.504" aria-hidden="true" preserveAspectRatio="none"><path d="M163,.383a13.044,13.044,0,0,1,1.517-.072,3.528,3.528,0,0,1,1.237-.134q.618.044,1.237.044a.249.249,0,0,1-.1.178.337.337,0,0,0-.1.266q3.092.088,6.184-.044T178.953.4l-.206-.088a12,12,0,0,0,4.123,0,13.467,13.467,0,0,1,5.772,0q1.443-.178,2.68-.266A5.978,5.978,0,0,1,193.8.4,16.707,16.707,0,0,1,198.01.045q2.164.088,4.844.088-.618.088-.824.134L201.412.4a3.893,3.893,0,0,0,2.061,0,5.413,5.413,0,0,1,1.649-.356q.618.088,1.134.178a9.762,9.762,0,0,0,1.544.09,17,17,0,0,1,3.092-.266q1.649,0,3.5.178,2.886.088,5.875.044t5.875-.222q0,.088.206.088h.412a21.975,21.975,0,0,0,2.577.889A12.458,12.458,0,0,1,232.12,2.18a3.962,3.962,0,0,1,1.031.622A3.349,3.349,0,0,1,234.8,3.825a5.079,5.079,0,0,1,.618,1.111q.412.534-1.031.98-1.031.444-.618.98a2.09,2.09,0,0,1,.206.889q0,.444.825.889.618.8-.206,1.245l-1.237.534q-1.443-.088-2.68-.134a17.255,17.255,0,0,1-2.267-.222,3.128,3.128,0,0,0-.928-.044,3.129,3.129,0,0,1-.928-.044q-2.267-.178-4.432-.266T217.7,9.476q-1.649-.088-2.886-.088a17.343,17.343,0,0,1-2.474-.178q-3.916,0-7.73-.088t-7.73-.266l-12.471-.178q-6.287-.088-12.883-.088h-1.958q-.928,0-1.958.088h-2.061q-1.031,0-2.061-.088-2.68-.088-5.256-.134t-5.256.044h-5.462q-2.577,0-5.462.088-4.535.088-8.76.178t-8.554.088q-2.886.088-5.875.088t-5.875.088q-1.443.088-2.886.134t-3.092.044q-4.741.178-9.791.312t-9.791.312q-2.267.088-4.329.088T78.77,10.1q-4.329.266-8.863.49t-9.276.49q-1.237.088-2.68.134a24.356,24.356,0,0,0-2.683.224q-2.68.178-5.462.312t-5.668.4q-2.474.266-4.741.312t-4.741.044q-1.031-.088-1.958-.134a9.684,9.684,0,0,1-1.958-.312,12.5,12.5,0,0,0-1.443-.312q-.825-.134-1.856-.31-2.886.356-6.39.666t-6.8.845a26.709,26.709,0,0,1-2.886.356,20.758,20.758,0,0,1-9.482-.889Q.232,11.962.026,11.25T1.263,9.917q0-.266.825-.266a13.039,13.039,0,0,0,2.886-.444A17.187,17.187,0,0,1,7.86,8.672q3.092-.266,6.184-.8,1.649-.178,3.3-.312t3.5-.312q4.123-.354,8.039-.712t8.039-.622q9.478-.8,18.758-1.338,2.68-.178,5.153-.356t4.741-.356q2.474-.178,5.05-.356T75.88,3.24h1.34a4.829,4.829,0,0,0,1.34-.178q2.267-.178,4.329-.222t4.329-.134a7.256,7.256,0,0,1,2.267,0,3.459,3.459,0,0,0,1.031-.088,6.009,6.009,0,0,1,2.37-.266,14.745,14.745,0,0,0,2.783-.088q1.649,0,2.474.088a1.308,1.308,0,0,1,.185.011,1.226,1.226,0,0,1,.33-.1,3.656,3.656,0,0,0,.515-.088,4.433,4.433,0,0,1,2.886.266q.412-.088,1.031-.178l1.237-.178q.412,0,1.031.044a5.761,5.761,0,0,0,1.237-.044q2.886-.088,5.772-.044a53.829,53.829,0,0,0,5.772-.222,9.505,9.505,0,0,1,1.34-.088h1.34a4.428,4.428,0,0,1,.821-.258l.825-.178a15.178,15.178,0,0,1,1.855.444,3.028,3.028,0,0,1,1.031-.534,4.039,4.039,0,0,1,1.443-.178,6.158,6.158,0,0,1,1.649.178,5.05,5.05,0,0,0,2.267.268q1.855-.088,3.813-.134T138.13,1.2q1.031,0,2.164-.044t2.37-.044q-.206-.088.412-.534h3.092q.412,0,.309.266t.928,0a5.845,5.845,0,0,1,1.443,0,31.833,31.833,0,0,0,5.359.088,21.471,21.471,0,0,1,6.8.178,5.236,5.236,0,0,0,1.031-.4q.412-.222.825-.4a.694.694,0,0,1,.137.07Z" transform="translate(0 0.002)"/></svg></span></mark> itu?</h2></div><style>.ld_fancy_heading_61d28e7b72018 p{font-size:17px}@media (min-width:992px){.ld_fancy_heading_61d28e7b72018 p{font-size:19px}}.ld_fancy_heading_61d28e7b72018 p{line-height:1.5em}.ld_fancy_heading_61d28e7b72018 p{--element-line-height:1.5em}.ld_fancy_heading_61d28e7b72018 p{margin-bottom:2em!important}.ld_fancy_heading_61d28e7b72018 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b72018 p{font-size:17px}@media (min-width:992px){.ld_fancy_heading_61d28e7b72018 p{font-size:19px}}.ld_fancy_heading_61d28e7b72018 p{line-height:1.5em}.ld_fancy_heading_61d28e7b72018 p{--element-line-height:1.5em}.ld_fancy_heading_61d28e7b72018 p{margin-bottom:2em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b72018"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Kami adalah jasa yang bisa meningkatkan social media branding kamu, khususnya di instagram. Kami sudah menemanimu sejak tahun 2012 dan sekarang kami juga bisa bantu meningkatkan tidak hanya di instagram, tetapi juga di tiktok, youtube bahkan di marketplace!</p></div><style>.ld_button_61d28e7b725f0.btn-icon-solid .btn-icon{background:rgb(18,35,57)}.ld_button_61d28e7b725f0.btn-icon-circle.btn-icon-ripple .btn-icon:before{border-color:rgb(18,35,57)}.ld_button_61d28e7b725f0{background-color:rgb(18,35,57);border-color:rgb(18,35,57)}.ld_button_61d28e7b725f0:hover{background-color:rgb(239,75,121);border-color:rgb(239,75,121)}.ld_button_61d28e7b725f0 .btn-gradient-bg-hover{background:-webkit-linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%);background:linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%)}.ld_button_61d28e7b725f0 .btn-gradient-border defs stop:first-child{stop-color:rgb(18,35,57)}.ld_button_61d28e7b725f0 .btn-gradient-border defs stop:last-child{stop-color:rgb(18,35,57)}.ld_button_61d28e7b725f0:hover .btn-gradient-border defs stop:first-child{stop-color:rgb(239,75,121)}.ld_button_61d28e7b725f0:hover .btn-gradient-border defs stop:last-child{stop-color:rgb(198,123,255)}.ld_button_61d28e7b725f0{font-size:15px}.ld_button_61d28e7b725f0{letter-spacing:.02em}.ld_button_61d28e7b725f0{font-size:15px}.ld_button_61d28e7b725f0{letter-spacing:.02em}.ld_button_61d28e7b725f0{font-size:15px}.ld_button_61d28e7b725f0{letter-spacing:.02em}</style><a href="https://order.followersindo.com/shop2.php/dashboard" target="_blank" class="btn btn-solid btn-hover-txt-switch btn-hover-txt-switch-y btn-lg round border-none btn-has-label ld_button_61d28e7b725f0 vc_custom_1637388562879" > <span> <span class="btn-txt" data-text="Kepoin Followersindo" data-split-text="true"
-data-split-options='{"type": "chars, words"}'>Kepoin Followersindo</span> <span class="btn-gradient-bg btn-gradient-bg-hover"></span> </span> </a><style>.ld_spacer_61d28e7b72ce7{height:32px}</style><div class="ld-empty-space ld_spacer_61d28e7b72ce7"></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d28e7b731fc{padding-top:60px!important;padding-bottom:40px!important}}</style><section class="vc_row liquid-row-responsive-61d28e7b731fc liquid-row-shadowbox-61d28e7b7321e"><div class="ld-container container"><div class="row ld-row ld-row-outer vc_row-o-content-middle vc_row-flex"><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b73784>.vc_column-inner{margin-bottom:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 liquid-column-61d28e7b73781 liquid-column-responsive-61d28e7b73784"><div class="vc_column-inner  vc_custom_1614328086557" ><div class="wpb_wrapper"  data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'><style>.ld_fancy_heading_61d28e7b73955 h6{background:rgb(228,230,255)}.ld_fancy_heading_61d28e7b73955 h6{font-size:13px}.ld_fancy_heading_61d28e7b73955 h6{letter-spacing:.05em}.ld_fancy_heading_61d28e7b73955 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d28e7b73955 h6{margin-bottom:1.75em!important}.ld_fancy_heading_61d28e7b73955 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b73955 h6{font-size:13px}.ld_fancy_heading_61d28e7b73955 h6{letter-spacing:.05em}.ld_fancy_heading_61d28e7b73955 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d28e7b73955 h6{margin-bottom:1.75em!important}</style><div class="ld-fancy-heading ld-fh-has-fill text-uppercase ld_fancy_heading_61d28e7b73955"><h6 class="ld-fh-element circle lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Boosting Interaksi Social Media</span></h6></div><style>.ld_fancy_heading_61d28e7b7453b h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b7453b h2{font-size:39px}}@media (min-width:992px){.ld_fancy_heading_61d28e7b7453b h2{padding-right:16%!important}}.ld_fancy_heading_61d28e7b7453b h2{margin-bottom:0.3em!important}.ld_fancy_heading_61d28e7b7453b .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b7453b h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b7453b h2{font-size:39px}}@media (min-width:992px){.ld_fancy_heading_61d28e7b7453b h2{padding-right:16%!important}}.ld_fancy_heading_61d28e7b7453b h2{margin-bottom:0.3em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b7453b"><h2 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Tidak Pernah Semudah Ini!</b></h2></div><style>.ld_fancy_heading_61d28e7b74fbf p{font-size:20px}.ld_fancy_heading_61d28e7b74fbf p{line-height:30px}.ld_fancy_heading_61d28e7b74fbf p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d28e7b74fbf p{padding-right:18%!important}}@media (min-width:992px){.ld_fancy_heading_61d28e7b74fbf p{margin-bottom:3.35em!important}}.ld_fancy_heading_61d28e7b74fbf .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b74fbf p{font-size:20px}.ld_fancy_heading_61d28e7b74fbf p{line-height:30px}.ld_fancy_heading_61d28e7b74fbf p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d28e7b74fbf p{padding-right:18%!important}}@media (min-width:992px){.ld_fancy_heading_61d28e7b74fbf p{margin-bottom:3.35em!important}}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b74fbf"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Nikmati nyaman dan simple nya menambah interaksi semua social media kamu dengan memakai semua benefit yang ada!</span></p></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d28e7b75a23"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style></style><style>.ld_tabs_61d28e7b79830 .lqd-tabs-nav>li>a,.ld_tabs_61d28e7b79830 .lqd-tabs-nav .h3{font-size:18px}</style><div class="lqd-tabs lqd-tabs-style-8 d-flex flex-wrap ld_tabs_61d28e7b79830" data-tabs-options='{"trigger":"hover"}'><nav class="lqd-tabs-nav-wrap"><ul class="reset-ul lqd-tabs-nav d-flex flex-column " role="tablist"><li data-controls="lqd-1596809948239-f44fa49f-7b20" role="presentation" class="ld_tab_section-61d28e7b75ccb active"><a class="d-flex align-items-center py-1 mb-2" href="#lqd-1596809948239-f44fa49f-7b20" aria-expanded="false" aria-controls="lqd-1596809948239-f44fa49f-7b20" role="tab" data-toggle="tab"><span class="lqd-tabs-nav-txt">Garansi Uang Kembali</span></a></li><li data-controls="1573116931246-223ad582-bec1" role="presentation" class="ld_tab_section-61d28e7b76dd5"><a class="d-flex align-items-center py-1 mb-2" href="#1573116931246-223ad582-bec1" aria-expanded="false" aria-controls="1573116931246-223ad582-bec1" role="tab" data-toggle="tab"><span class="lqd-tabs-nav-txt">Garansi Sampai 30 Hari</span></a></li><li data-controls="lqd-1596809947757-075a2f8b-e9f7" role="presentation" class="ld_tab_section-61d28e7b77ca6"><a class="d-flex align-items-center py-1 mb-2" href="#lqd-1596809947757-075a2f8b-e9f7" aria-expanded="false" aria-controls="lqd-1596809947757-075a2f8b-e9f7" role="tab" data-toggle="tab"><span class="lqd-tabs-nav-txt">Diskon Voucher</span></a></li><li data-controls="lqd-1596809947262-c71cef6d-495d" role="presentation" class="ld_tab_section-61d28e7b78a8c"><a class="d-flex align-items-center py-1 mb-2" href="#lqd-1596809947262-c71cef6d-495d" aria-expanded="false" aria-controls="lqd-1596809947262-c71cef6d-495d" role="tab" data-toggle="tab"><span class="lqd-tabs-nav-txt">Aplikasi Android</span></a></li></ul></nav><div class="lqd-tabs-content pl-md-6"><div id="lqd-1596809948239-f44fa49f-7b20" role="tabpanel" class="lqd-tabs-pane fade active in"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7b76026"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b764ed>.vc_column-inner{margin-top:-58%!important}}@media (min-width:1200px){.liquid-column-responsive-61d28e7b764ed>.vc_column-inner{padding-left:100px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-3 vc_col-md-9 text-left liquid-column-61d28e7b764ea liquid-column-responsive-61d28e7b764ed vc_col-has-fill"><div class="vc_column-inner vc_custom_1614691180474" style="background-position:center top !important;"><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b76d1e"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/11/garansi-refund.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/11/garansi-refund.png 658w, https://followersindo.com/wp-content/uploads/2021/11/garansi-refund-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/11/garansi-refund-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div></div></div></div></div><div id="1573116931246-223ad582-bec1" role="tabpanel" class="lqd-tabs-pane fade"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7b77090"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b774d0>.vc_column-inner{margin-top:-58%!important}}@media (min-width:1200px){.liquid-column-responsive-61d28e7b774d0>.vc_column-inner{padding-left:100px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-3 vc_col-md-9 text-left liquid-column-61d28e7b774ce liquid-column-responsive-61d28e7b774d0 vc_col-has-fill"><div class="vc_column-inner vc_custom_1614691201000" style="background-position:center top !important;"><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b77bcf"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan.png 601w, https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div></div></div></div></div><div id="lqd-1596809947757-075a2f8b-e9f7" role="tabpanel" class="lqd-tabs-pane fade"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7b77f40"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b7834b>.vc_column-inner{margin-top:-58%!important}}@media (min-width:1200px){.liquid-column-responsive-61d28e7b7834b>.vc_column-inner{padding-left:100px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-3 vc_col-md-9 text-left liquid-column-61d28e7b78349 liquid-column-responsive-61d28e7b7834b vc_col-has-fill"><div class="vc_column-inner vc_custom_1614691213574" style="background-position:center top !important;"><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b789e6"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia Terbaik" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher.png 601w, https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div></div></div></div></div><div id="lqd-1596809947262-c71cef6d-495d" role="tabpanel" class="lqd-tabs-pane fade"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7b78d32"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b79130>.vc_column-inner{margin-top:-58%!important}}@media (min-width:1200px){.liquid-column-responsive-61d28e7b79130>.vc_column-inner{padding-left:100px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-3 vc_col-md-9 text-left liquid-column-61d28e7b7912e liquid-column-responsive-61d28e7b79130 vc_col-has-fill"><div class="vc_column-inner vc_custom_1614691226593" style="background-position:center top !important;"><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b797b6"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/aplikasi-android-1.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/aplikasi-android-1.png 601w, https://followersindo.com/wp-content/uploads/2021/10/aplikasi-android-1-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/aplikasi-android-1-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d28e7b79da4{margin-top:50px!important;margin-bottom:50px!important;padding-top:110px!important;padding-bottom:0px!important}}</style><section id="explore" style="background:linear-gradient(295deg, rgb(59,65,87) 0.3184713375796178%, rgb(50,51,74) 51.366487733877385%, rgb(64, 74, 99) 99.36305732484077%);" data-bg-image="url" class="vc_row vc_custom_1615552552691 liquid-row-responsive-61d28e7b79da4 liquid-row-shadowbox-61d28e7b79dc8 vc_row-has-fill vc_row-has-bg"><div class="one-row_top_divider " style="height:56px;"><svg width="1440" height="151" viewBox="0 0 1440 151" fill="#ffffff" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"> <path opacity="0.18" d="M0 97.8837H1439.96L1440 67.2712C1440 67.2712 1245.81 74.8642 1058.09 42.8292C832.056 4.26251 655.629 41.2185 630.846 45.4009C570.573 55.5822 479.478 87.5499 177.446 55.1029C64.351 41.2516 0 47.3878 0 47.3878V97.8837Z"/> <path d="M1440 150.004H0.039L0 86.6423C0 86.6423 184.667 102.389 363.176 36.0472C578.117 -43.8091 745.921 32.6886 769.451 41.3864C826.745 62.4698 913.412 128.631 1200.63 61.4617C1308.2 32.7572 1440 36.0421 1440 36.0421V150.004Z"/> </svg></div><div class="one-row_bottom_divider " style="height:54px;"><svg width="1440" fill="#ffffff" height="150" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"  viewBox="0 0 1440 150"> <path d="M 0 26.1978 C 275.76 83.8152 430.707 65.0509 716.279 25.6386 C 930.422 -3.86123 1210.32 -3.98357 1439 9.18045 C 2072.34 45.9691 2201.93 62.4429 2560 26.198 V 172.199 L 0 172.199 V 26.1978 Z"> <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="10s" values="M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z; M0 86.3149C316 86.315 444 159.155 884 51.1554C1324 -56.8446 1320.29 34.1214 1538 70.4063C1814 116.407 2156 188.408 2560 86.315V232.317L0 232.316V86.3149Z; M0 53.6584C158 11.0001 213 0 363 0C513 0 855.555 115.001 1154 115.001C1440 115.001 1626 -38.0004 2560 53.6585V199.66L0 199.66V53.6584Z; M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z"> </animate> </path> </svg></div><div class="ld-container container"><div class="row ld-row ld-row-outer vc_row-o-content-bottom vc_row-flex"><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b7a3a8>.vc_column-inner{margin-bottom:180px!important;padding-right:15px!important;padding-left:15px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4 text-center text-md-left liquid-column-61d28e7b7a3a5 liquid-column-responsive-61d28e7b7a3a8"><div class="vc_column-inner  vc_custom_1605398444640" ><div class="wpb_wrapper"  data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'><style>.ld_fancy_heading_61d28e7b7a60d h6{color:rgb(255,255,255);background:rgba(0,0,0,.11)}.ld_fancy_heading_61d28e7b7a60d h6{font-size:13px}.ld_fancy_heading_61d28e7b7a60d h6{letter-spacing:.05em}.ld_fancy_heading_61d28e7b7a60d h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d28e7b7a60d h6{margin-bottom:1.75em!important}.ld_fancy_heading_61d28e7b7a60d .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b7a60d h6{font-size:13px}.ld_fancy_heading_61d28e7b7a60d h6{letter-spacing:.05em}.ld_fancy_heading_61d28e7b7a60d h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d28e7b7a60d h6{margin-bottom:1.75em!important}</style><div class="ld-fancy-heading ld-fh-has-fill text-uppercase ld_fancy_heading_61d28e7b7a60d"><h6 class="ld-fh-element circle lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Boosting Interaksi Social Media</span></h6></div><style>.ld_fancy_heading_61d28e7b7a909 h2{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b7a909 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b7a909 h2{font-size:39px}}@media (min-width:1200px){.ld_fancy_heading_61d28e7b7a909 h2{padding-right:10%!important}}.ld_fancy_heading_61d28e7b7a909 h2{margin-bottom:0.3em!important}.ld_fancy_heading_61d28e7b7a909 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b7a909 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b7a909 h2{font-size:39px}}@media (min-width:1200px){.ld_fancy_heading_61d28e7b7a909 h2{padding-right:10%!important}}.ld_fancy_heading_61d28e7b7a909 h2{margin-bottom:0.3em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b7a909"><h2 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Lebih Murah, Lebih Mudah</b></h2></div><style>.ld_fancy_heading_61d28e7b7ab6d p{color:rgba(255,255,255,.9)}.ld_fancy_heading_61d28e7b7ab6d p{font-size:20px}.ld_fancy_heading_61d28e7b7ab6d p{line-height:30px}.ld_fancy_heading_61d28e7b7ab6d p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d28e7b7ab6d p{padding-right:18%!important}}.ld_fancy_heading_61d28e7b7ab6d p{margin-bottom:1.5em!important}.ld_fancy_heading_61d28e7b7ab6d .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b7ab6d p{font-size:20px}.ld_fancy_heading_61d28e7b7ab6d p{line-height:30px}.ld_fancy_heading_61d28e7b7ab6d p{--element-line-height:30px}@media (min-width:992px){.ld_fancy_heading_61d28e7b7ab6d p{padding-right:18%!important}}.ld_fancy_heading_61d28e7b7ab6d p{margin-bottom:1.5em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b7ab6d"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Semua yang kamu butuhkan ada disini dengan kualitas terbaik, proses tercepat, harga terjangkau, dan garansi sampai 30 hari!</span></p></div><style>.ld_button_61d28e7b7ada0.btn-icon-solid .btn-icon{background:rgb(255,255,255)}.ld_button_61d28e7b7ada0.btn-icon-circle.btn-icon-ripple .btn-icon:before{border-color:rgb(255,255,255)}.ld_button_61d28e7b7ada0 .btn-icon{color:rgb(18,35,57);margin-inline-start:15px!important}.ld_button_61d28e7b7ada0:hover .btn-icon{color:rgb(255,255,255)}.ld_button_61d28e7b7ada0{background-color:rgb(255,255,255);border-color:rgb(255,255,255);color:rgb(18,35,57)}.ld_button_61d28e7b7ada0:hover{background-color:rgb(239,75,121);border-color:rgb(239,75,121)}.ld_button_61d28e7b7ada0 .btn-gradient-bg-hover{background:-webkit-linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%);background:linear-gradient(to right,rgb(239,75,121) 0%,rgb(198,123,255) 100%)}.ld_button_61d28e7b7ada0 .btn-gradient-border defs stop:first-child{stop-color:rgb(255,255,255)}.ld_button_61d28e7b7ada0 .btn-gradient-border defs stop:last-child{stop-color:rgb(255,255,255)}.ld_button_61d28e7b7ada0:hover .btn-gradient-border defs stop:first-child{stop-color:rgb(239,75,121)}.ld_button_61d28e7b7ada0:hover .btn-gradient-border defs stop:last-child{stop-color:rgb(198,123,255)}.ld_button_61d28e7b7ada0{font-size:16px}</style><a href="https://order.followersindo.com/shop2.php/dashboard" target="_blank" class="btn btn-solid btn-hover-txt-switch btn-hover-txt-switch-y circle border-none btn-hover-reveal btn-has-label ld_button_61d28e7b7ada0 vc_custom_1637375832284" > <span> <span class="btn-txt" data-text="Get started" data-split-text="true"
-data-split-options='{"type": "chars, words"}'>Get started</span> <span class="btn-icon"><i class="lqd-icn-ess icon-md-arrow-forward"></i></span> <span class="btn-gradient-bg btn-gradient-bg-hover"></span> </span> </a></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b7ba1c>.vc_column-inner{margin-bottom:-110px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-5 vc_col-md-offset-0 vc_col-md-4 vc_col-sm-offset-0 vc_col-xs-offset-2 vc_col-xs-8 liquid-column-61d28e7b7ba19 liquid-column-responsive-61d28e7b7ba1c"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.carousel-container.mobile-carousel .carousel-item{width:100%;flex-basis:100%;padding-inline-start:15px;padding-inline-end:15px}.carousel-container.mobile-carousel .carousel-items{margin-inline-start:-15px;margin-inline-end:-15px}.mobile-carousel.carousel-dots{position:relative;top:auto;right:auto;bottom:-25px;left:auto}</style><div id="mobile-carousel" class="carousel-container carousel-nav-left carousel-nav-mobile-center no carousel-nav-md carousel-dots-mobile-center carousel-dots-style1 carousel-dots-mobile-outside disable-cc mobile-carousel"><div class="carousel-items disable-cc"  data-lqd-flickity='{"cellSelector":".carousel-item","cellAlign":"left","prevNextButtons":false,"pageDots":false,"groupCells":false,"wrapAround":true,"autoPlay":4000,"pauseAutoPlayOnHover":false,"buttonsAppendTo":"self","addSlideNumbersToArrows":false,"dotsIndicator":"dots","numbersStyle":"circle","dotsAppendTo":"self"}' data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".flickity-slider > .carousel-item","duration":700,"delay":100,"ease":"power4.out","initValues":{"scale":1},"animations":{"scale":1}}'><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b7c4a1"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/11/garansi-refund.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/11/garansi-refund.png 658w, https://followersindo.com/wp-content/uploads/2021/11/garansi-refund-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/11/garansi-refund-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b7cec6"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/checkout-1.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/checkout-1.png 658w, https://followersindo.com/wp-content/uploads/2021/10/checkout-1-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/checkout-1-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b7d844"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="beli followers Instagram Indonesia termurah" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Customer-Support.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Customer-Support.png 658w, https://followersindo.com/wp-content/uploads/2021/10/Customer-Support-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/Customer-Support-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b7df58"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia Terbaik" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher.png 601w, https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/diskon-voucher-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b7e933"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia murah" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/top-up.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/top-up.png 658w, https://followersindo.com/wp-content/uploads/2021/10/top-up-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/top-up-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b7f39f"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/sistem-24-jam.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/sistem-24-jam.png 658w, https://followersindo.com/wp-content/uploads/2021/10/sistem-24-jam-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/sistem-24-jam-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b7fb0d"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan.png 601w, https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/garansi-layanan-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b80569"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia murah" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/estimasi-kecepatan.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/estimasi-kecepatan.png 658w, https://followersindo.com/wp-content/uploads/2021/10/estimasi-kecepatan-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/estimasi-kecepatan-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b8103c"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="601" height="1171" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/aplikasi-followersindo.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/aplikasi-followersindo.png 601w, https://followersindo.com/wp-content/uploads/2021/10/aplikasi-followersindo-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/aplikasi-followersindo-526x1024.png 526w" data-sizes="(max-width: 601px) 100vw, 601px" data-aspect="" /></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7b81adf"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="beli followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/manual-order.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/manual-order.png 658w, https://followersindo.com/wp-content/uploads/2021/10/manual-order-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/manual-order-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></div></figure></div></div></div></div></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b82d9a>.vc_column-inner{margin-bottom:200px!important;padding-right:15px!important;padding-left:15px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-7 vc_col-md-4 liquid-column-61d28e7b82d96 liquid-column-responsive-61d28e7b82d9a"><div class="vc_column-inner  vc_custom_1573390261312" ><div class="wpb_wrapper"  ><div class="vc_row vc_inner vc_row-fluid vc_custom_1573118821882 liquid-row-shadowbox-61d28e7b831a8"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d28e7b8365d" id="carousel-nav-container"><div class="vc_column-inner " ><div class="wpb_wrapper" ></div></div></div></div></div></div><style>.carousel-container.ld_carousel_tab_61d28e7b8b1a4 .carousel-item{width:100%;flex-basis:100%;padding-inline-start:15px;padding-inline-end:15px}.carousel-container.ld_carousel_tab_61d28e7b8b1a4 .carousel-items{margin-inline-start:-15px;margin-inline-end:-15px}.ld_carousel_tab_61d28e7b8b1a4.carousel-dots-mobile .flickity-page-dots .dot{background-color:rgba(255,255,255,.75)}.ld_carousel_tab_61d28e7b8b1a4.carousel-dots-mobile .flickity-page-dots .dot.is-selected{background-color:rgb(255,255,255)}.ld_carousel_tab_61d28e7b8b1a4.carousel-dots{position:relative;top:auto;right:auto;bottom:-25px;left:auto}@media (min-width:992px){.carousel-container.ld_carousel_tab_61d28e7b8b1a4 .carousel-item{width:100%;flex-basis:100%}}</style><div id="ld_carousel_tab_61d28e7b8b1a4" class="carousel-container carousel-nav-left carousel-nav-mobile-center no carousel-nav-md carousel-dots-mobile-center carousel-dots-style1 carousel-dots-mobile-outside disable-cc ld_carousel_tab_61d28e7b8b1a4"><div class="carousel-items disable-cc"  data-lqd-flickity='{"cellSelector":".carousel-item","cellAlign":"left","prevNextButtons":false,"pageDots":false,"groupCells":false,"wrapAround":true,"autoPlay":4000,"pauseAutoPlayOnHover":false,"buttonsAppendTo":"self","addSlideNumbersToArrows":false,"dotsIndicator":"dots","numbersStyle":"circle","dotsAppendTo":"self"}' data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".flickity-slider > .carousel-item","duration":"1800","startDelay":"600","delay":"80","ease":"power4.out","initValues":{"x":35,"opacity":0},"animations":{"x":0,"opacity":1}}'><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d28e7b854f0 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b854f0 h5{margin-bottom:1.25em!important}.ld_fancy_heading_61d28e7b854f0 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b854f0 h5{margin-bottom:1.25em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b854f0"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Garansi Uang Kembali</b></h5></div><style>.ld_fancy_heading_61d28e7b85c5d p{color:rgba(255,255,255,.7)}.ld_fancy_heading_61d28e7b85c5d p{font-size:16px}.ld_fancy_heading_61d28e7b85c5d p{line-height:28px}.ld_fancy_heading_61d28e7b85c5d p{--element-line-height:28px}.ld_fancy_heading_61d28e7b85c5d .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b85c5d p{font-size:16px}.ld_fancy_heading_61d28e7b85c5d p{line-height:28px}.ld_fancy_heading_61d28e7b85c5d p{--element-line-height:28px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b85c5d"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Jika pesanan kamu tidak masuk selama lebih dari 7 hari, maka dana kamu akan dikembalikan 100% dan ditambahkan ke saldo akun kamu</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d28e7b86527 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b86527 h5{margin-bottom:1.25em!important}.ld_fancy_heading_61d28e7b86527 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b86527 h5{margin-bottom:1.25em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b86527"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Simple, Tanpa Ribet</b></h5></div><style>.ld_fancy_heading_61d28e7b8675e p{color:rgba(255,255,255,.7)}.ld_fancy_heading_61d28e7b8675e p{font-size:16px}.ld_fancy_heading_61d28e7b8675e p{line-height:28px}.ld_fancy_heading_61d28e7b8675e p{--element-line-height:28px}.ld_fancy_heading_61d28e7b8675e .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b8675e p{font-size:16px}.ld_fancy_heading_61d28e7b8675e p{line-height:28px}.ld_fancy_heading_61d28e7b8675e p{--element-line-height:28px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b8675e"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Fast checkout, langsung bayar sesuai nominal. Tanpa biaya pendaftaran membership.</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d28e7b86eca h5{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b86eca h5{margin-bottom:1.25em!important}.ld_fancy_heading_61d28e7b86eca .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b86eca h5{margin-bottom:1.25em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b86eca"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>CS Support</b></h5></div><style>.ld_fancy_heading_61d28e7b870cd p{color:rgba(255,255,255,.7)}.ld_fancy_heading_61d28e7b870cd p{font-size:16px}.ld_fancy_heading_61d28e7b870cd p{line-height:28px}.ld_fancy_heading_61d28e7b870cd p{--element-line-height:28px}.ld_fancy_heading_61d28e7b870cd .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b870cd p{font-size:16px}.ld_fancy_heading_61d28e7b870cd p{line-height:28px}.ld_fancy_heading_61d28e7b870cd p{--element-line-height:28px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b870cd"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Pelayanan terbaik dengan customer service 8 jam yang akan membantu menyelesaikan semua permasalahan kamu.</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d28e7b877f8 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b877f8 h5{margin-bottom:1.25em!important}.ld_fancy_heading_61d28e7b877f8 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b877f8 h5{margin-bottom:1.25em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b877f8"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Kode Voucher</b></h5></div><style>.ld_fancy_heading_61d28e7b879f2 p{color:rgba(255,255,255,.7)}.ld_fancy_heading_61d28e7b879f2 p{font-size:16px}.ld_fancy_heading_61d28e7b879f2 p{line-height:28px}.ld_fancy_heading_61d28e7b879f2 p{--element-line-height:28px}.ld_fancy_heading_61d28e7b879f2 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b879f2 p{font-size:16px}.ld_fancy_heading_61d28e7b879f2 p{line-height:28px}.ld_fancy_heading_61d28e7b879f2 p{--element-line-height:28px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b879f2"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Dapatkan tambahan diskon spesial untuk layanan tertentu setiap bulan!</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d28e7b8812b h5{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b8812b h5{margin-bottom:1.25em!important}.ld_fancy_heading_61d28e7b8812b .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b8812b h5{margin-bottom:1.25em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b8812b"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Sistem Deposit</b></h5></div><style>.ld_fancy_heading_61d28e7b8833f p{color:rgba(255,255,255,.7)}.ld_fancy_heading_61d28e7b8833f p{font-size:16px}.ld_fancy_heading_61d28e7b8833f p{line-height:28px}.ld_fancy_heading_61d28e7b8833f p{--element-line-height:28px}.ld_fancy_heading_61d28e7b8833f .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b8833f p{font-size:16px}.ld_fancy_heading_61d28e7b8833f p{line-height:28px}.ld_fancy_heading_61d28e7b8833f p{--element-line-height:28px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b8833f"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Mau stok saldo dulu? bisa dong! gampang tinggal chat ke admin untuk isi saldo. Order layanan kapan aja sesuka hati dengan menggunakan saldo!</p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d28e7b88a25 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b88a25 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b88a25"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>24 Jam Non-stop</b></h5></div><style>.ld_fancy_heading_61d28e7b88c11 p{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b88c11 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b88c11"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Dilengkapi dengan sistem pemesanan otomatis 24 jam non-stop, bisa dipakai kapanpun dan dimanapun!</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d28e7b893d5 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b893d5 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b893d5"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Garansi 30 Hari</b></h5></div><style>.ld_fancy_heading_61d28e7b895ef p{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b895ef .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b895ef"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Layanan dengan tanda khusus akan dapat jaminan pengisian ulang jika pesanan berkurang lebih dari 40%.</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d28e7b89cc5 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b89cc5 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b89cc5"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Proses Tercepat</b></h5></div><style>.ld_fancy_heading_61d28e7b89ec2 p{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b89ec2 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b89ec2"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Pesanan diproses dengan sistem otomatis, tanpa menunggu respon admin!</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d28e7b8a59a h5{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b8a59a .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b8a59a"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Aplikasi Android</b></h5></div><style>.ld_fancy_heading_61d28e7b8a786 p{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b8a786 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b8a786"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Menambah interaksi social media makin simple dan gampang dengan aplikasi Android.</span></p></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><style>.ld_fancy_heading_61d28e7b8ae55 h5{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b8ae55 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b8ae55"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Manual Order</b></h5></div><style>.ld_fancy_heading_61d28e7b8b038 p{color:rgb(255,255,255)}.ld_fancy_heading_61d28e7b8b038 .lqd-highlight-inner{height:.275em;bottom:0}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b8b038"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <span style="font-weight: 400">Mau makin simple tanpa harus order sendiri? Order manual aja! Hemat waktu, nggak pake ribet!</span></p></div></div></div></div></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d28e7b8bf88{padding-top:120px!important;padding-bottom:80px!important}}</style><section class="vc_row vc_custom_1605398402233 liquid-row-responsive-61d28e7b8bf88 liquid-row-shadowbox-61d28e7b8bfae"><div class="ld-container container"><div class="row ld-row ld-row-outer vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-3 vc_col-md-6 text-center liquid-column-61d28e7b8c6df"><div class="vc_column-inner  vc_custom_1573121760798" ><div class="wpb_wrapper"  data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'><style>.ld_fancy_heading_61d28e7b8c91a h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b8c91a h2{font-size:39px}}@media (min-width:1200px){.ld_fancy_heading_61d28e7b8c91a h2{padding-right:10%!important;padding-left:10%!important}}.ld_fancy_heading_61d28e7b8c91a h2{margin-bottom:0.3em!important}.ld_fancy_heading_61d28e7b8c91a .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b8c91a h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b8c91a h2{font-size:39px}}@media (min-width:1200px){.ld_fancy_heading_61d28e7b8c91a h2{padding-right:10%!important;padding-left:10%!important}}.ld_fancy_heading_61d28e7b8c91a h2{margin-bottom:0.3em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b8c91a"><h2 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <b>Beli Followers Instagram secepat Beli Cilok</b></h2></div><style>.ld_spacer_61d28e7b8d686{height:32px}</style><div class="ld-empty-space ld_spacer_61d28e7b8d686"></div><div class="wpb_video_widget wpb_content_element vc_clearfix   vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-center" ><div class="wpb_wrapper"><div class="wpb_video_wrapper"><div class="rll-youtube-player" data-id="1x8IFInNYaw" data-query="feature=oembed"></div><noscript><iframe title="Tutorial Order di Followersindo" width="780" height="439" src="https://www.youtube.com/embed/1x8IFInNYaw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></noscript></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d28e7b8e83d"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".wpb_column","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":60,"rotationX":-25,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"rotationX":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}' class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7b8ec80"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner vc_row-o-equal-height vc_row-flex"><style>.liquid-column-61d28e7b8f24d{--lqd-move-onhover-val:-5px}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 liquid-column-61d28e7b8f24d lqd-column-move-onhover"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_icon_box_61d28e7b8f484 h3{margin-bottom:15px;font-size:22px}.ld_icon_box_61d28e7b8f484{background:rgb(255,255,255)}.ld_icon_box_61d28e7b8f484 .iconbox-icon-container{border-radius:px}.ld_icon_box_61d28e7b8f484 .iconbox-icon-container img,.ld_icon_box_61d28e7b8f484 .iconbox-icon-container>svg{width:60px!important}</style><div class="iconbox iconbox-side text-align-default iconbox-round iconbox-shadow iconbox-xs iconbox-filled ld_icon_box_61d28e7b8f484" id="ld_icon_box_61d28e7b8f484"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/icon-instagram.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/icon-instagram.png" class="liquid-image-icon" /></noscript></span></div><div class="contents"><h3 class="">Pilih Layanan</h3><p><span style="font-size: 18px">Tersedia banyak layanan dengan kualitas dan harga terjangkau. Pilih dan order layanan yang paling cocok buat kamu!</span></p></div></div></div></div></div><style>.liquid-column-61d28e7b90407{--lqd-move-onhover-val:-5px}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 liquid-column-61d28e7b90407 lqd-column-move-onhover"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_icon_box_61d28e7b905ce h3{margin-bottom:15px;font-size:22px}.ld_icon_box_61d28e7b905ce{background:rgb(255,255,255)}.ld_icon_box_61d28e7b905ce .iconbox-icon-container{border-radius:px}.ld_icon_box_61d28e7b905ce .iconbox-icon-container img,.ld_icon_box_61d28e7b905ce .iconbox-icon-container>svg{width:60px!important}</style><div class="iconbox iconbox-side text-align-default iconbox-round iconbox-shadow iconbox-xs iconbox-filled ld_icon_box_61d28e7b905ce" id="ld_icon_box_61d28e7b905ce"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/login.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/login.png" class="liquid-image-icon" /></noscript></span></div><div class="contents"><h3 class="">Login / Register</h3><p><span style="font-size: 18px">Daftar sekarang dan lengkapi data diri kamu untuk transaksi yang lebih mudah! Bisa deposit juga loh!</span></p></div></div></div></div></div><style>.liquid-column-61d28e7b91a5d{--lqd-move-onhover-val:-5px}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 liquid-column-61d28e7b91a5d lqd-column-move-onhover"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_icon_box_61d28e7b91bff h3{margin-bottom:15px;font-size:22px}.ld_icon_box_61d28e7b91bff{background:rgb(255,255,255)}.ld_icon_box_61d28e7b91bff .iconbox-icon-container{border-radius:px}.ld_icon_box_61d28e7b91bff .iconbox-icon-container img,.ld_icon_box_61d28e7b91bff .iconbox-icon-container>svg{width:60px!important}</style><div class="iconbox iconbox-side text-align-default iconbox-round iconbox-shadow iconbox-xs iconbox-filled ld_icon_box_61d28e7b91bff" id="ld_icon_box_61d28e7b91bff"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/10/checkout.png" class="liquid-image-icon" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/10/checkout.png" class="liquid-image-icon" /></noscript></span></div><div class="contents"><h3 class="">Waktunya Checkout</h3><p><span style="font-size: 18px">Bayar sesuai jumlah pesanan dengan metode pembayaran favorit kamu!</span></p></div></div></div></div></div><style>.liquid-column-61d28e7b92a66{--lqd-move-onhover-val:-5px}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6 liquid-column-61d28e7b92a66 lqd-column-move-onhover"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_icon_box_61d28e7b92c0f h3{margin-bottom:15px;font-size:22px}.ld_icon_box_61d28e7b92c0f{background:rgb(255,255,255)}.ld_icon_box_61d28e7b92c0f .iconbox-icon-container{border-radius:px}.ld_icon_box_61d28e7b92c0f .iconbox-icon-container img,.ld_icon_box_61d28e7b92c0f .iconbox-icon-container>svg{width:60px!important}</style><div class="iconbox iconbox-side text-align-default iconbox-round iconbox-shadow iconbox-xs iconbox-filled ld_icon_box_61d28e7b92c0f" id="ld_icon_box_61d28e7b92c0f"   ><div class="iconbox-icon-wrap"><span class="iconbox-icon-container"><?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer" x="0px" y="0px" width="512" height="512" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"> <polygon fill="#CCE4FF" points="46,42 46,44 36,54 54,54 54,10 46,10 "/> <rect x="16" y="16" fill="#CCE4FF" width="24" height="8"/> <path fill="#007AFF" d="M54,9h-8H10c-0.553,0-1,0.447-1,1v44c0,0.553,0.447,1,1,1h26h18c0.553,0,1-0.447,1-1V10  C55,9.447,54.553,9,54,9z M35.586,53H35V43h5h5v0.586L35.586,53z M11,11h34v30h-5H16c-0.553,0-1,0.447-1,1s0.447,1,1,1h17v4H16  c-0.553,0-1,0.447-1,1s0.447,1,1,1h17v4H11V11z M53,53H38.414l8.293-8.293C46.895,44.52,47,44.266,47,44V11h6V53z"/> <path fill="#007AFF" d="M16,25h24c0.553,0,1-0.447,1-1v-8c0-0.553-0.447-1-1-1H16c-0.553,0-1,0.447-1,1v8C15,24.553,15.447,25,16,25  z M17,17h22v6H17V17z"/> <path fill="#007AFF" d="M16,31h24c0.553,0,1-0.447,1-1s-0.447-1-1-1H16c-0.553,0-1,0.447-1,1S15.447,31,16,31z"/> <path fill="#007AFF" d="M16,37h24c0.553,0,1-0.447,1-1s-0.447-1-1-1H16c-0.553,0-1,0.447-1,1S15.447,37,16,37z"/> </svg> </span></div><div class="contents"><h3 class="">Pesanan Diproses</h3><p><span style="font-size: 18px">Sambil main game atau nyantai di rumah, pesanan kamu akan terproses secara otomatis dan masuk tanpa harus kamu check secara berkala!</span></p></div></div></div></div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d28e7b9a56b"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div class="ld-particles-container lqd-particles-as-bg ld_particles_61d28e7b9a760"><div class="ld-particles-inner" id="lqd-1573116461865-696cc286-8ad9" data-particles="true" data-particles-options='{"particles":{"number":{"value":4},"color":{"value":["#fda44c","#4cfd89","#0fbbb4"]},"shape":{"type":["circle"]},"size":{"value":4},"move":{"enable":true,"direction":"none","speed":1,"random":true,"out_mode":"out"}},"interactivity":[],"retina_detect":true,"asBG":true}'></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d28e7b9b49e{margin-top:60px!important;margin-bottom:60px!important;padding-top:100px!important;padding-bottom:100px!important}}</style><section data-bg-image="url" class="vc_row vc_custom_1602665216151 liquid-row-responsive-61d28e7b9b49e liquid-row-shadowbox-61d28e7b9b4c7 vc_row-has-fill vc_row-has-bg vc_column-gap-0"><div class="ld-container container-fluid"><div class="row ld-row ld-row-outer"><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d28e7b9bb28"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div id="ld_carousel_gallery_61d28e7b9bc92" class="ld-carousel-phone ld-carousel-phone-style-2 ld_carousel_gallery_61d28e7b9bc92"><div class="ld-carousel-phone-inner"><div class="mockup-container"><div class="mockup-inner"><figure class="text-center"> <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/themes/hub/assets/img/mockups/phone/mockup-1.png" alt="Phone"><noscript><img src="https://followersindo.com/wp-content/themes/hub/assets/img/mockups/phone/mockup-1.png" alt="Phone"></noscript></figure></div></div><div class="mockup-content-container"><div class="mockup-content-inner"><div class="carousel-container carousel-nav-floated carousel-nav-middle carousel-nav-bordered carousel-nav-circle carousel-nav-sm"><div class="carousel-items row" data-lqd-flickity='{ "groupCells": false, "wrapAround": true, "cellAlign": "center" }'><div class="carousel-item col-xs-12"><figure><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="attachment-full size-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-4.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-4.png 658w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-4-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-4-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></figure></div><div class="carousel-item col-xs-12"><figure><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="attachment-full size-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/tesimoni-customer-2.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/tesimoni-customer-2.png 658w, https://followersindo.com/wp-content/uploads/2021/10/tesimoni-customer-2-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/tesimoni-customer-2-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></figure></div><div class="carousel-item col-xs-12"><figure><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="attachment-full size-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-1.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-1.png 658w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-1-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-1-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></figure></div><div class="carousel-item col-xs-12"><figure><img width="658" height="1282" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="attachment-full size-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-3.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-3.png 658w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-3-154x300.png 154w, https://followersindo.com/wp-content/uploads/2021/10/testimoni-customer-3-526x1024.png 526w" data-sizes="(max-width: 658px) 100vw, 658px" data-aspect="" /></figure></div></div></div></div></div></div></div></div></div></div></div></div></section><style>@media (min-width:992px){.liquid-row-responsive-61d28e7b9dcfe{padding-top:80px!important;padding-bottom:80px!important}}</style><section id="testimonials" data-row-bg="http://new.followersindo.com/wp-content/uploads/2019/11/circles.svg?id=51" style="background-position:center center !important;" data-bg-image="url" class="vc_row vc_custom_1614328250330 liquid-row-responsive-61d28e7b9dcfe liquid-row-shadowbox-61d28e7b9dd2b vc_row-has-fill vc_row-has-bg lqd-has-bg-markup row-bg-appended"><span class="row-bg-loader"></span><div class="row-bg-wrap"><div class="row-bg-inner"><figure class="row-bg" ></figure></div></div><div class="ld-container container"><div class="row ld-row ld-row-outer"><style>@media (min-width:992px){.liquid-column-responsive-61d28e7b9e3d8>.vc_column-inner{margin-bottom:80px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-2 vc_col-md-8 text-center liquid-column-61d28e7b9e3d5 liquid-column-responsive-61d28e7b9e3d8"><div class="vc_column-inner  vc_custom_1605398055025" ><div class="wpb_wrapper"  data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":"all-childs","duration":"1800","delay":"180","ease":"power4.out","direction":"forward","initValues":{"y":35,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":0},"animations":{"y":0,"transformOriginX":50,"transformOriginY":50,"transformOriginZ":"0px","opacity":1}}'><style>.ld_fancy_heading_61d28e7b9e587 h6{background:rgb(228,230,255)}.ld_fancy_heading_61d28e7b9e587 h6{font-size:13px}.ld_fancy_heading_61d28e7b9e587 h6{letter-spacing:.05em}.ld_fancy_heading_61d28e7b9e587 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d28e7b9e587 h6{margin-bottom:1.75em!important}.ld_fancy_heading_61d28e7b9e587 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7b9e587 h6{font-size:13px}.ld_fancy_heading_61d28e7b9e587 h6{letter-spacing:.05em}.ld_fancy_heading_61d28e7b9e587 h6{padding-top:6px!important;padding-right:13px!important;padding-bottom:6px!important;padding-left:13px!important}.ld_fancy_heading_61d28e7b9e587 h6{margin-bottom:1.75em!important}</style><div class="ld-fancy-heading ld-fh-has-fill text-uppercase ld_fancy_heading_61d28e7b9e587"><h6 class="ld-fh-element circle lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Apa kata mereka</h6></div><style>.ld_fancy_heading_61d28e7b9f284 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b9f284 h2{font-size:39px}}.ld_fancy_heading_61d28e7b9f284 .lqd-highlight-inner svg{height:.275em}.ld_fancy_heading_61d28e7b9f284 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b9f284 h2{font-size:39px}}.ld_fancy_heading_61d28e7b9f284 .lqd-highlight-inner{bottom:0}.ld_fancy_heading_61d28e7b9f284 h2{font-size:32px}@media (min-width:992px){.ld_fancy_heading_61d28e7b9f284 h2{font-size:39px}}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7b9f284"><h2 class="ld-fh-element lqd-highlight-custom-underline lqd-highlight-grow-left text-decoration-default"   > <b>tentang Followersindo</b></h2></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-1 vc_col-md-10 liquid-column-61d28e7ba054f"><div class="vc_column-inner  vc_custom_1573123868086" ><div class="wpb_wrapper"  ><style>.carousel-container.ld_carousel_tab_61d28e7bbced2 .carousel-item{width:100%;flex-basis:100%;padding-inline-start:15px;padding-inline-end:15px}.carousel-container.ld_carousel_tab_61d28e7bbced2 .carousel-items{margin-inline-start:-15px;margin-inline-end:-15px}.ld_carousel_tab_61d28e7bbced2.carousel-nav .flickity-prev-next-button svg{fill:rgb(29,39,78)}.ld_carousel_tab_61d28e7bbced2.carousel-nav .flickity-prev-next-button{color:rgb(29,39,78)}.ld_carousel_tab_61d28e7bbced2.carousel-nav .flickity-prev-next-button.previous:after{background:rgb(29,39,78)}.ld_carousel_tab_61d28e7bbced2.carousel-dots{position:relative;top:auto;right:auto;bottom:-25px;left:auto}</style><div id="ld_carousel_tab_61d28e7bbced2" class="carousel-container carousel-nav-floated carousel-nav-center carousel-nav-mobile-center carousel-nav-middle no carousel-nav-xl carousel-dots-mobile-center carousel-dots-style1 carousel-dots-mobile-outside ld_carousel_tab_61d28e7bbced2"><div class="carousel-items"  data-lqd-flickity='{"cellSelector":".carousel-item","cellAlign":"left","prevNextButtons":true,"pageDots":false,"groupCells":true,"wrapAround":true,"adaptiveHeight":true,"autoPlay":5000,"pauseAutoPlayOnHover":false,"navArrow":"6","buttonsAppendTo":"self","addSlideNumbersToArrows":false,"navOffsets":{"prev":"-10%","next":"-10%"},"dotsIndicator":"dots","numbersStyle":"circle","dotsAppendTo":"self"}' data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".flickity-slider > .carousel-item","duration":"1800","delay":"100","ease":"power4.out","initValues":{"y":35,"opacity":0},"animations":{"y":0,"opacity":1}}'><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7ba2c10"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d28e7ba30bb>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d28e7ba30bb>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d28e7ba30b8 liquid-column-responsive-61d28e7ba30bb"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7ba35c6"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7ba3a4a>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 text-center text-md-left liquid-column-61d28e7ba3a47 liquid-column-responsive-61d28e7ba3a4a"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d28e7ba3c4f p{color:rgb(77,85,116)}.ld_fancy_heading_61d28e7ba3c4f p{font-size:22px}.ld_fancy_heading_61d28e7ba3c4f p{line-height:33px}.ld_fancy_heading_61d28e7ba3c4f p{--element-line-height:33px}.ld_fancy_heading_61d28e7ba3c4f p{margin-bottom:1em!important}.ld_fancy_heading_61d28e7ba3c4f .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7ba3c4f p{font-size:22px}.ld_fancy_heading_61d28e7ba3c4f p{line-height:33px}.ld_fancy_heading_61d28e7ba3c4f p{--element-line-height:33px}.ld_fancy_heading_61d28e7ba3c4f p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7ba3c4f"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Ga nyangka banget! Followers nya masuk dalam hitungan menit! Lebih stabil dan nggak gampang drop juga!! Makasihhh Followersindo!</p></div><style>.ld_fancy_heading_61d28e7ba3ef7 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d28e7ba3ef7 h5{font-size:15px}.ld_fancy_heading_61d28e7ba3ef7 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7ba3ef7 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7ba3ef7"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Maria, Selebgram</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7ba601b"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d28e7ba6504>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d28e7ba6504>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d28e7ba6501 liquid-column-responsive-61d28e7ba6504"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7ba69b8"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-Shopee.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-Shopee.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-Shopee-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7ba6e38>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d28e7ba6e35 liquid-column-responsive-61d28e7ba6e38"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d28e7ba6fff p{color:rgb(77,85,116)}.ld_fancy_heading_61d28e7ba6fff p{font-size:22px}.ld_fancy_heading_61d28e7ba6fff p{line-height:33px}.ld_fancy_heading_61d28e7ba6fff p{--element-line-height:33px}.ld_fancy_heading_61d28e7ba6fff p{margin-bottom:1em!important}.ld_fancy_heading_61d28e7ba6fff .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7ba6fff p{font-size:22px}.ld_fancy_heading_61d28e7ba6fff p{line-height:33px}.ld_fancy_heading_61d28e7ba6fff p{--element-line-height:33px}.ld_fancy_heading_61d28e7ba6fff p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7ba6fff"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Cara ordernya simple! Nggak usah rempong buka laptop, cukup pake HP! Apalagi ada aplikasi apk nya! Makin betah dehh ordernya!</p></div><style>.ld_fancy_heading_61d28e7ba72c2 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d28e7ba72c2 h5{font-size:15px}.ld_fancy_heading_61d28e7ba72c2 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7ba72c2 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7ba72c2"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Clarissa, Owner Olshop</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7ba96c3"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d28e7ba9b7a>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d28e7ba9b7a>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d28e7ba9b77 liquid-column-responsive-61d28e7ba9b7a"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7baa115"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-Tiktok.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-Tiktok.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-Tiktok-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7baa64d>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d28e7baa649 liquid-column-responsive-61d28e7baa64d"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d28e7baa8c9 p{color:rgb(77,85,116)}.ld_fancy_heading_61d28e7baa8c9 p{font-size:22px}.ld_fancy_heading_61d28e7baa8c9 p{line-height:33px}.ld_fancy_heading_61d28e7baa8c9 p{--element-line-height:33px}.ld_fancy_heading_61d28e7baa8c9 p{margin-bottom:1em!important}.ld_fancy_heading_61d28e7baa8c9 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7baa8c9 p{font-size:22px}.ld_fancy_heading_61d28e7baa8c9 p{line-height:33px}.ld_fancy_heading_61d28e7baa8c9 p{--element-line-height:33px}.ld_fancy_heading_61d28e7baa8c9 p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7baa8c9"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Ga rugi udh 2 th langganan di Followersindo! View nya masuk cepet banget! Baru upload langsung masuk wus wuss! Makin gencar nih endorse-an dari tiktok! Makasihh Followersindo!!</p></div><style>.ld_fancy_heading_61d28e7baacd8 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d28e7baacd8 h5{font-size:15px}.ld_fancy_heading_61d28e7baacd8 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7baacd8 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7baacd8"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Annisa, Selebtok</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7bad6dc"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d28e7badcf4>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d28e7badcf4>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d28e7badcf0 liquid-column-responsive-61d28e7badcf4"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7bae218"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-YouTube.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-YouTube.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-YouTube-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7bae6db>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d28e7bae6d8 liquid-column-responsive-61d28e7bae6db"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d28e7bae93f p{color:rgb(77,85,116)}.ld_fancy_heading_61d28e7bae93f p{font-size:22px}.ld_fancy_heading_61d28e7bae93f p{line-height:33px}.ld_fancy_heading_61d28e7bae93f p{--element-line-height:33px}.ld_fancy_heading_61d28e7bae93f p{margin-bottom:1em!important}.ld_fancy_heading_61d28e7bae93f .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bae93f p{font-size:22px}.ld_fancy_heading_61d28e7bae93f p{line-height:33px}.ld_fancy_heading_61d28e7bae93f p{--element-line-height:33px}.ld_fancy_heading_61d28e7bae93f p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bae93f"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Akhirnyaa channel YouTube aku bisa monetise min!! Makasih banyak bantuannya!</p></div><style>.ld_fancy_heading_61d28e7baec97 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d28e7baec97 h5{font-size:15px}.ld_fancy_heading_61d28e7baec97 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7baec97 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7baec97"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Randy, YouTuber</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7bb12b9"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d28e7bb17dd>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d28e7bb17dd>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d28e7bb17d9 liquid-column-responsive-61d28e7bb17dd"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7bb1cde"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/11/testimoni-11.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/11/testimoni-11.png 537w, https://followersindo.com/wp-content/uploads/2021/11/testimoni-11-300x291.png 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7bb217d>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d28e7bb217b liquid-column-responsive-61d28e7bb217d"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d28e7bb2339 p{color:rgb(77,85,116)}.ld_fancy_heading_61d28e7bb2339 p{font-size:22px}.ld_fancy_heading_61d28e7bb2339 p{line-height:33px}.ld_fancy_heading_61d28e7bb2339 p{--element-line-height:33px}.ld_fancy_heading_61d28e7bb2339 p{margin-bottom:1em!important}.ld_fancy_heading_61d28e7bb2339 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bb2339 p{font-size:22px}.ld_fancy_heading_61d28e7bb2339 p{line-height:33px}.ld_fancy_heading_61d28e7bb2339 p{--element-line-height:33px}.ld_fancy_heading_61d28e7bb2339 p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bb2339"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Pelayanan CS nya memuaskan banget, aktif nanya dan bisa ditangani manual! Btw, ada nomor pribadinya nggak mbak CS? hehehe</p></div><style>.ld_fancy_heading_61d28e7bb2630 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d28e7bb2630 h5{font-size:15px}.ld_fancy_heading_61d28e7bb2630 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bb2630 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bb2630"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Arfan, Influencer</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7bb4c8a"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d28e7bb537b>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d28e7bb537b>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d28e7bb5378 liquid-column-responsive-61d28e7bb537b"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7bb59eb"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/11/testimoni-5.png" data-srcset="https://followersindo.com/wp-content/uploads/2021/11/testimoni-5.png 537w, https://followersindo.com/wp-content/uploads/2021/11/testimoni-5-300x291.png 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7bb6027>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d28e7bb6024 liquid-column-responsive-61d28e7bb6027"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d28e7bb625a p{color:rgb(77,85,116)}.ld_fancy_heading_61d28e7bb625a p{font-size:22px}.ld_fancy_heading_61d28e7bb625a p{line-height:33px}.ld_fancy_heading_61d28e7bb625a p{--element-line-height:33px}.ld_fancy_heading_61d28e7bb625a p{margin-bottom:1em!important}.ld_fancy_heading_61d28e7bb625a .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bb625a p{font-size:22px}.ld_fancy_heading_61d28e7bb625a p{line-height:33px}.ld_fancy_heading_61d28e7bb625a p{--element-line-height:33px}.ld_fancy_heading_61d28e7bb625a p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bb625a"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Horee sekarang ada aplikasi Android nya juga! Makin simple dan gampang banget!</p></div><style>.ld_fancy_heading_61d28e7bb65b6 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d28e7bb65b6 h5{font-size:15px}.ld_fancy_heading_61d28e7bb65b6 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bb65b6 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bb65b6"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Vanessa, Influencer</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7bb8740"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d28e7bb8c4a>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d28e7bb8c4a>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d28e7bb8c47 liquid-column-responsive-61d28e7bb8c4a"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7bb917d"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-Tokopedia.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-Tokopedia.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-Tokopedia-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7bb960d>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d28e7bb960b liquid-column-responsive-61d28e7bb960d"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d28e7bb97e3 p{color:rgb(77,85,116)}.ld_fancy_heading_61d28e7bb97e3 p{font-size:22px}.ld_fancy_heading_61d28e7bb97e3 p{line-height:33px}.ld_fancy_heading_61d28e7bb97e3 p{--element-line-height:33px}.ld_fancy_heading_61d28e7bb97e3 p{margin-bottom:1em!important}.ld_fancy_heading_61d28e7bb97e3 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bb97e3 p{font-size:22px}.ld_fancy_heading_61d28e7bb97e3 p{line-height:33px}.ld_fancy_heading_61d28e7bb97e3 p{--element-line-height:33px}.ld_fancy_heading_61d28e7bb97e3 p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bb97e3"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Makasih banget Followersindo! Sekarang olshop aku makin berkembang dan orderan juga makin banyak! Imbang banget sama aku ngiklannya!</p></div><style>.ld_fancy_heading_61d28e7bb9a99 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d28e7bb9a99 h5{font-size:15px}.ld_fancy_heading_61d28e7bb9a99 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bb9a99 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bb9a99"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Vano, Business Owner</h5></div></div></div></div></div></div></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div class="vc_row vc_inner vc_row-fluid liquid-row-shadowbox-61d28e7bbb836"><div class="ld-container container-fluid"><div class="row ld-row ld-row-inner"><style>@media (min-width:768px){.liquid-column-responsive-61d28e7bbbee3>.vc_column-inner{margin-right:75px!important;margin-left:0px!important}}@media (min-width:992px){.liquid-column-responsive-61d28e7bbbee3>.vc_column-inner{margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-xs-offset-3 vc_col-xs-6 liquid-column-61d28e7bbbede liquid-column-responsive-61d28e7bbbee3"><div class="vc_column-inner vc_custom_1573390562319" ><div class="wpb_wrapper" ><div  class="wpb_single_image wpb_content_element vc_align_  liquid_vc_single_image-61d28e7bbc3fa"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   "><img width="537" height="520" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0  &#039;%3E%3C/svg%3E" class="vc_single_image-img attachment-full ld-lazyload" alt="Beli Followers Instagram Indonesia" loading="lazy" data-src="https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram.jpg" data-srcset="https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram.jpg 537w, https://followersindo.com/wp-content/uploads/2021/10/Testi-Instagram-300x291.jpg 300w" data-sizes="(max-width: 537px) 100vw, 537px" data-aspect="" /></div></figure></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7bbc8c4>.vc_column-inner{padding-left:7%!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7 liquid-column-61d28e7bbc8c1 liquid-column-responsive-61d28e7bbc8c4"><div class="vc_column-inner " ><div class="wpb_wrapper" ><style>.ld_fancy_heading_61d28e7bbca59 p{color:rgb(77,85,116)}.ld_fancy_heading_61d28e7bbca59 p{font-size:22px}.ld_fancy_heading_61d28e7bbca59 p{line-height:33px}.ld_fancy_heading_61d28e7bbca59 p{--element-line-height:33px}.ld_fancy_heading_61d28e7bbca59 p{margin-bottom:1em!important}.ld_fancy_heading_61d28e7bbca59 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bbca59 p{font-size:22px}.ld_fancy_heading_61d28e7bbca59 p{line-height:33px}.ld_fancy_heading_61d28e7bbca59 p{--element-line-height:33px}.ld_fancy_heading_61d28e7bbca59 p{margin-bottom:1em!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bbca59"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Bagus banget pelayanan dan layanannya! Cepet banget dan fast respon!</p></div><style>.ld_fancy_heading_61d28e7bbccd7 h5{color:rgb(29,39,78)}.ld_fancy_heading_61d28e7bbccd7 h5{font-size:15px}.ld_fancy_heading_61d28e7bbccd7 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bbccd7 h5{font-size:15px}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bbccd7"><h5 class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Firanisa, Influencer</h5></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><style>@media (min-width:992px){.liquid-column-responsive-61d28e7bbdcb5>.vc_column-inner{margin-top:0px!important}}</style><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_hidden-xs liquid-column-61d28e7bbdcb2 liquid-column-responsive-61d28e7bbdcb5"><div class="vc_column-inner  vc_custom_1634550574274" ><div class="wpb_wrapper"  ><style>.carousel-container.ld_carousel_tab_61d28e7bc2446 .carousel-item{width:33.333333333333%;flex-basis:33.333333333333%;padding-inline-start:20px;padding-inline-end:20px}.carousel-container.ld_carousel_tab_61d28e7bc2446 .carousel-items{margin-inline-start:-20px;margin-inline-end:-20px}.ld_carousel_tab_61d28e7bc2446.carousel-dots{position:relative;top:auto;right:auto;bottom:-25px;left:auto}@media (min-width:768px){.carousel-container.ld_carousel_tab_61d28e7bc2446 .carousel-item{width:25%;flex-basis:25%}}@media (min-width:992px){.carousel-container.ld_carousel_tab_61d28e7bc2446 .carousel-item{width:16.666666666667%;flex-basis:16.666666666667%}}</style><div id="ld_carousel_tab_61d28e7bc2446" class="carousel-container carousel-nav-left carousel-nav-mobile-center no carousel-nav-md carousel-dots-mobile-center carousel-dots-style1 carousel-dots-mobile-outside ld_carousel_tab_61d28e7bc2446"><div class="carousel-items"  data-lqd-flickity='{"cellSelector":".carousel-item","cellAlign":"left","prevNextButtons":false,"pageDots":false,"groupCells":true,"wrapAround":true,"equalHeightCells":true,"middleAlignContent":true,"pauseAutoPlayOnHover":false,"buttonsAppendTo":"self","addSlideNumbersToArrows":false,"dotsIndicator":"dots","numbersStyle":"circle","dotsAppendTo":"self"}' data-custom-animations="true" data-ca-options='{"triggerHandler":"inview","animationTarget":".flickity-slider > .carousel-item","duration":"1800","delay":"180","ease":"power4.out","initValues":{"opacity":0},"animations":{"opacity":1}}'><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d28e7bbeabe"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/dropcam.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/dropcam.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d28e7bbf5f3"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/amazon-4.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/amazon-4.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d28e7bc0181"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/cisco-2-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/cisco-2-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d28e7bc0b0a"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/amd-logo-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/amd-logo-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d28e7bc144a"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/logitech-2-1-3-1.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/logitech-2-1-3-1.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d28e7bc1d31"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/Spotify-2-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/Spotify-2-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div><div class="carousel-item has-width"><div class="carousel-item-inner"><div class="carousel-item-content"><div  class="wpb_single_image wpb_content_element vc_align_center  liquid_vc_single_image-61d28e7bc241e"><figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper    loaded "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2021/01/cisco-2-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2021/01/cisco-2-1-2.svg" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></noscript></div></figure></div></div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs liquid-column-61d28e7bc3a49"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_images_group_container_61d28e7bc3c17{position:absolute}.ld_images_group_container_61d28e7bc3c17{right:-130px!important;bottom:-180px!important}</style><div id="ld_images_group_container_61d28e7bc3c17" class="lqd-imggrp-container ld_images_group_container_61d28e7bc3c17"  data-move-element='{ "target": ".ld-container", "type": "insertBefore" }' ><div class="lqd-imggrp-inner"><div id="ld_images_group_element_61d28e7bc3f32" class="lqd-imggrp-single hidden-xs hidden-sm ld_images_group_element_61d28e7bc3f32"   ><div class="lqd-imggrp-img-container"    ><figure class="loaded"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://followersindo.com/wp-content/uploads/2019/11/illust-3.svg" class="attachment-full size-full" alt="" loading="lazy" /><noscript><img src="https://followersindo.com/wp-content/uploads/2019/11/illust-3.svg" class="attachment-full size-full" alt="" loading="lazy" /></noscript></figure></div></div></div></div></div></div></div></div></div></section><section class="vc_row liquid-row-shadowbox-61d28e7bc5a6e"><div class="ld-container container"><div class="row ld-row ld-row-outer"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs liquid-column-61d28e7bc6369"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><div id="lqd-gdpr" class="lqd-gdpr ld_gdpr_box_61d28e7bc6505"><div class="lqd-gdpr-inner"><div class="lqd-gdpr-left"> We use cookies to provide the best web experience possible .</div><div class="lqd-gdpr-right"> <button class="lqd-gdpr-accept"></button></div></div></div></div></div></div></div></div></section><section style="background:rgb(52, 54, 77);" data-bg-image="url" class="vc_row vc_custom_1634809010825 liquid-row-shadowbox-61d28e7bc6b6e vc_row-has-fill vc_row-has-bg"><div class="ld-container container"><div class="row ld-row ld-row-outer"><div class="wpb_column vc_column_container vc_col-sm-12 liquid-column-61d28e7bc737a"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_spacer_61d28e7bc7527{height:40px}</style><div class="ld-empty-space ld_spacer_61d28e7bc7527"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 text-center liquid-column-61d28e7bc7c4f"><div class="vc_column-inner  vc_custom_1590403536897" ><div class="wpb_wrapper"  ><style>.ld_social_icons_61d28e7bc7e06{font-size:23px}.ld_social_icons_61d28e7bc7e06 a{width:!important;height:!important}.ld_social_icons_61d28e7bc7e06 li a{color:#b5b5b5!important;border-color:!important;background-color:!important}.ld_social_icons_61d28e7bc7e06 li a:hover{border-color:!important;color:#ffffff!important;background-color:!important}</style><ul class="social-icon social-icon-border-none social-icon-md ld_social_icons_61d28e7bc7e06" id=ld_social_icons_61d28e7bc7e06><li><a href="https://www.facebook.com/Followersindocom/" target="_blank"><i class="fab fa-facebook"></i></a></li><li><a href="https://www.instagram.com/cvsbo/" target="_blank"><i class="fab fa-instagram"></i></a></li><li><a href="https://api.whatsapp.com/send/?phone=6282140853171&#038;text&#038;app_absent=0" target="_blank"><i class="fab fa-whatsapp"></i></a></li><li><a href="https://api.whatsapp.com/send/?phone=6287751159902&#038;text&#038;app_absent=0" target="_blank"><i class="fab fa-whatsapp"></i></a></li></ul></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 text-center liquid-column-61d28e7bc85d2"><div class="vc_column-inner  vc_custom_1590403736353" ><div class="wpb_wrapper"  ><style>.ld_custom_menu_61d28e7bc880a>ul>li>a{color:rgba(255,255,255,.7)}.ld_custom_menu_61d28e7bc880a{margin-inline-start:-29px;margin-inline-end:-29px}.ld_custom_menu_61d28e7bc880a li{margin-inline-start:29px;margin-inline-end:29px}.lqd-stickybar>.lqd-head-col>.header-module>.ld_custom_menu_61d28e7bc880a li{margin-top:29px;margin-bottom:29px}.ld_custom_menu_61d28e7bc880a>ul>li>a:hover,.ld_custom_menu_61d28e7bc880a li.is-active>a{color:rgb(255,255,255)}</style><div
-class="lqd-fancy-menu lqd-custom-menu lqd-menu-td-none ld_custom_menu_61d28e7bc880a"
-><ul id="ld_custom_menu_61d28e7bc880a" class="reset-ul inline-nav  " ><li id="menu-item-85339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85339"><a href="https://followersindo.com/service/">Service</a></li><li id="menu-item-85341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85341"><a href="https://followersindo.com/about/">About</a></li><li id="menu-item-85357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85357"><a href="https://followersindo.com/blog-id/">Blog</a></li><li id="menu-item-85511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85511"><a href="https://followersindo.com/followersindo/">followersindo</a></li><li id="menu-item-85566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85566"><a href="https://followersindo.com/iklan-followers-gratis-likes/">Promo Followers Gratis Likes</a></li><li id="menu-item-85612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85612"><a href="https://followersindo.com/iklan-likes-instagram/">Promo Likes Instagram</a></li><li id="menu-item-85630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85630"><a href="https://followersindo.com/iklan-auto-likes-instagram/">Promo Auto Likes Instagram</a></li><li id="menu-item-85647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85647"><a href="https://followersindo.com/iklan-followers-instagram-garansi/">Promo Followers Instagram Garansi</a></li></ul></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 text-center liquid-column-61d28e7bcc4b5"><div class="vc_column-inner  " ><div class="wpb_wrapper"  ><style>.ld_fancy_heading_61d28e7bcc6ef p{margin-bottom:20px!important}.ld_fancy_heading_61d28e7bcc6ef .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bcc6ef p{margin-bottom:20px!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bcc6ef"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Followersindo All Right Served 2021</p></div><style>.ld_fancy_heading_61d28e7bcd327 p{margin-bottom:0px!important}.ld_fancy_heading_61d28e7bcd327 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bcd327 p{margin-bottom:0px!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bcd327"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Jalan Raya Sawojajar 15</p></div><style>.ld_fancy_heading_61d28e7bce37e p{margin-bottom:20px!important}.ld_fancy_heading_61d28e7bce37e .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bce37e p{margin-bottom:20px!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bce37e"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > Kota Malang, Jawa Timur, Indonesia</p></div><style>.ld_fancy_heading_61d28e7bcec81 p{margin-bottom:20px!important}.ld_fancy_heading_61d28e7bcec81 .lqd-highlight-inner{height:.275em;bottom:0}.ld_fancy_heading_61d28e7bcec81 p{margin-bottom:20px!important}</style><div class="ld-fancy-heading ld_fancy_heading_61d28e7bcec81"><p class="ld-fh-element lqd-highlight-underline lqd-highlight-grow-left text-decoration-default"   > <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="492f262525263e2c3b3a20272d262a2624092e24282025672a2624">[email&#160;protected]</a></p></div></div></div></div></div></div></section></div></main><style>.main-footer{background:linear-gradient(120deg,rgb(73,83,121) .9554140127388535%,rgb(59,65,87) 49.32336503533041%,rgb(58,66,95) 99.36305732484077%);color:#fff}.main-footer a:not(.btn){color:#fff}.main-footer a:not(.btn):hover{color:#fff}</style><footer class="main-footer site-footer footer" id="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter"></footer><div id="lqd-gdpr" class="lqd-gdpr"><div class="lqd-gdpr-inner"><div class="lqd-gdpr-left"> 🍪 This website uses cookies to improve your web experience.</div><div class="lqd-gdpr-right"> <button class="lqd-gdpr-accept"> Accept </button></div></div></div></div><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=wYi7q1NErb205V" style="display:none" height="1" width="1" alt="" /></noscript><div class="mobmenu-overlay"></div><div class="mob-menu-header-holder mobmenu"  data-menu-display="mob-menu-slideout-over" data-open-icon="down-open" data-close-icon="up-open"><div  class="mobmenul-container"><a href="#" class="mobmenu-left-bt mobmenu-trigger-action" data-panel-target="mobmenu-left-panel" aria-label="Left Menu Button"><i class="mob-icon-menu mob-menu-icon"></i><i class="mob-icon-cancel-1 mob-cancel-button"></i></a></div><div class="mob-menu-logo-holder"><a href="https://followersindo.com" class="headertext"><span>followersindo</span></a></div><div class="mobmenur-container"></div></div><div class="mobmenu-left-alignment mobmenu-panel mobmenu-left-panel  "> <a href="#" class="mobmenu-left-bt" aria-label="Left Menu Button"><i class="mob-icon-cancel-1 mob-cancel-button"></i></a><div class="mobmenu-content"><div class="menu-menu-container"><ul id="mobmenuleft" role="menubar" aria-label="Main navigation for mobile devices"><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-85139 current_page_item menu-item-85260"><a href="https://followersindo.com/" role="menuitem" class="">Home</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-85679"><a href="https://followersindo.com/iklan-followers-instagram-garansi/" role="menuitem" class="">Promo</a><ul  role='menu' class="sub-menu "><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85674"><a href="https://followersindo.com/iklan-followers-gratis-likes/" role="menuitem" class="">Promo Followers Gratis Likes</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85671"><a href="https://followersindo.com/iklan-followers-instagram-garansi/" role="menuitem" class="">Promo Followers Instagram Garansi</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85672"><a href="https://followersindo.com/iklan-auto-likes-instagram/" role="menuitem" class="">Promo Auto Likes Instagram</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85673"><a href="https://followersindo.com/iklan-likes-instagram/" role="menuitem" class="">Promo Likes Instagram</a></li></ul></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85356"><a href="https://followersindo.com/service/" role="menuitem" class="">Service</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85259"><a href="https://followersindo.com/about/" role="menuitem" class="">About</a></li><li role="none"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85261"><a href="https://followersindo.com/testimoni/" role="menuitem" class="">Testimony</a></li></ul></div></div><div class="mob-menu-left-bg-holder"></div></div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/html" id="wpb-modifications"></script> <style id='rs-plugin-settings-inline-css' type='text/css'></style> <script type='text/javascript' id='contact-form-7-js-extra'>/* <![CDATA[ */ var wpcf7 = {"api":{"root":"https:\/\/followersindo.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"}; /* ]]> */</script> <script type='text/javascript' id='woocommerce-js-extra'>/* <![CDATA[ */ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"}; /* ]]> */</script> <script type='text/javascript' id='wc-cart-fragments-js-extra'>/* <![CDATA[ */ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_a7e161f8dad5566fdd83a6fab869af91","fragment_name":"wc_fragments_a7e161f8dad5566fdd83a6fab869af91","request_timeout":"5000"}; /* ]]> */</script> <script type='text/javascript' id='liquid_filter_ajax-js-extra'>/* <![CDATA[ */ var wcLiquid = {"ajaxUrl":"https:\/\/followersindo.com\/wp-admin\/admin-ajax.php","termId":"","paged":"1","options":{"wcHiddenSidebar":"off","wcAjaxFilter":"off","wcAjaxPagination":"off","wcAjaxPaginationType":"classic","wcAjaxPaginationButtonText":"Load more products"}}; /* ]]> */</script> <script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key' id='google-maps-api-js'></script> <script type='text/javascript' id='liquid-theme-js-extra'>/* <![CDATA[ */ var liquidTheme = {"uris":{"ajax":"\/wp-admin\/admin-ajax.php"}}; /* ]]> */</script> <template id="lqd-snickersbar"><div class="lqd-snickersbar d-flex flex-wrap lqd-snickersbar-in" data-item-id><div class="lqd-snickersbar-inner d-flex flex-wrap align-items-center"><div class="lqd-snickersbar-detail"><p class="hidden lqd-snickersbar-addding-temp my-0">Adding {{itemName}} to cart</p><p class="hidden lqd-snickersbar-added-temp my-0">Added {{itemName}} to cart</p><p class="my-0 lqd-snickersbar-msg d-flex align-items-center my-0"></p><p class="my-0 lqd-snickersbar-msg-done d-flex align-items-center my-0"></p></div><div class="lqd-snickersbar-ext ml-4"></div></div></div> </template><div class="lity" role="dialog" aria-label="Dialog Window (Press escape to close)" tabindex="-1" data-modal-type="default"><div class="lity-backdrop"></div><div class="lity-wrap" data-lity-close role="document"><div class="lity-loader" aria-hidden="true">Loading...</div><div class="lity-container"><div class="lity-content"></div></div> <button class="lity-close" type="button" aria-label="Close (Press escape to close)" data-lity-close>&times;</button></div></div><script>window.lazyLoadOptions = {
-                elements_selector: "img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",
-                data_src: "lazy-src",
-                data_srcset: "lazy-srcset",
-                data_sizes: "lazy-sizes",
-                skip_invisible: false,
-                class_loading: "lazyloading",
-                class_loaded: "lazyloaded",
-                threshold: 300,
-                callback_load: function(element) {
-                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
-                        if (element.classList.contains("lazyloaded") ) {
-                            if (typeof window.jQuery != "undefined") {
-                                if (jQuery.fn.fitVids) {
-                                    jQuery(element).parent().fitVids();
-                                }
-                            }
-                        }
-                    }
+    <style>.nav_biggo_logo{position:relative}.nav_biggo_logo::after{content:'ID';position:absolute;display:inline-block;right:-17px;top:2px;font-size:12px;line-height:1.17;color:#828b91}</style>
+    <link rel="stylesheet" href="/css/header.min.css?v=5.13">
+
+    <link rel="stylesheet" href="/css/util.css?v=10.6">
+
+    
+<!-- end css references -->
+
+<script data-ad-client="ca-pub-1202195292614854" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>   <link rel="stylesheet" href="/css/search.min.css?v=22">
+   <link rel="search" type="application/opensearchdescription+xml" title="BigGo Indonesia" href="https://biggo.id/opensearch.php">
+   <meta id="biggo:pageshare" data-href="https://biggo.id/s/followers+permanen+ig/" data-title="followers permanen ig" data-siteindex="biggo_product" data-id="BigGo" data-price="0" >
+   <style>.history-price-pop-wrap{background-color:rgba(0,0,0,.4)}.history-price-pop{width:740px;border-radius:10px;box-shadow:0 3px 6px 0 rgba(0,0,0,.16);background-color:#fff}.history-price-title{border-bottom:solid 1px #edf0f4;width:100%;background-color:#f9fafb;border-top-left-radius:10px;border-top-right-radius:10px}.history-price-footer{display:flex;justify-content:flex-end;width:100%;border-top:solid 1px #edf0f4;background-color:#f9fafb;border-bottom-left-radius:10px;border-bottom-right-radius:10px;padding-top:12px;padding-bottom:12px;padding-right:27px}.history-price-content{max-height:380px;min-height:380px;position:relative;border-top-left-radius:10px;border-top-right-radius:10px;padding-left:15px;padding-right:15px}.history-price-loading{position:absolute;top:0;left:0;right:0;bottom:0;z-index:999;background-image:url(/images/option_icon/loading.svg)!important;background-repeat:no-repeat;background-position:center;display:none}.history-price-product-name{font-size:16px;color:#24343f;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.history-price-product-name-mobile{font-size:14px;padding:15px 15px 0 15px;display:flex;align-items:center;background-color:#fff}.history-price-Shop-name{font-size:12px;color:grey;padding-right:20px;white-space:nowrap;display:flex}.history-price-list{overflow-y:auto;max-height:337px}.history-price-table{width:100%;text-align:center;color:#24343f}.history-price-table .time{color:#667680;font-size:14px}.history-price-table .price{font-size:16px;font-weight:700;text-align:right;padding-right:2px}.history-price-table .diff{text-align:left;font-size:14px}.history-price-table thead{border-bottom:solid 2px #c3c7ca}.history-price-table tbody tr{border-bottom:solid .5px #f9fafb}.history-price-table tbody td{padding-top:8px;padding-bottom:8px}.history-price-table tbody tr:last-child{border:0}.history-price-chart{height:200px}.history-price-chart canvas{display:block;width:100%;height:200px;background-image:url(/images/biggo/bg-biggo-logo-gray@2x.png);background-position:top 5px right 3px;background-size:auto 22px;background-repeat:no-repeat}.history-price-info{display:flex;justify-content:space-between;width:100%;margin-top:10px;color:#25343f;font-size:13px;white-space:nowrap}.history-price-info .price{font-weight:700}.history-price-info-line{min-width:1px;border-left:solid 1px #c3c7ca;margin-left:15px;margin-right:15px}.history-price-info .w-100 div{display:flex;justify-content:space-between;line-height:26px}.history-mulitple-spec{height:28px;width:0;flex:1;margin-right:10px}.history-sort-wrap{position:relative;display:inline-block;margin-left:auto}.history-sort-btn{height:28px;border-radius:4px;background-color:#edf0f4;font-size:14px;color:#24343f;padding:0 10px;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.history-sort-btn:hover{background-color:#e0e2e5!important}.history-sort-menu{width:170px;border-radius:4px;box-shadow:0 3px 7px 0 rgba(0,0,0,.16);background-color:#fff;z-index:100;top:30px;right:6px;display:none;outline:0}.history-sort-menu-item{cursor:pointer;color:#676d6d;font-size:15px;padding-left:18px;padding-top:12px;padding-bottom:12px;padding-right:12px}.history-sort-menu-item:hover{background-color:#f9fafb}.history-sort-menu hr{margin-top:5px;margin-bottom:5px;border-top:1px solid #e5e9ed}.history-sort-menu .hint{font-size:12px;color:#00717b;padding-left:18px;margin-top:8px;margin-bottom:3px}.dropdownarrow{transform:rotate(0);transition:all .5s}.arrow-up{transform:rotate(180deg);transition:all .5s}.price-diff-up{color:#28a745}.price-diff-down{color:#e64059}#openSortMenu:checked~.history-sort-menu{display:block}#chartjs-tooltip{opacity:1;position:absolute;background-color:#24343f;color:#fff;border-radius:6px;-webkit-transition:all .1s ease;transition:all .1s ease;pointer-events:none;-webkit-transform:translate(-50%,0);transform:translate(-50%,0)}#triangle-top{position:absolute;top:-10px;left:45%;width:0;height:0;border-style:solid;border-width:0 6px 10px 6px;border-color:transparent transparent #24343f transparent}#triangle-left{position:absolute;top:16px;left:-9px;width:0;height:0;border-style:solid;border-width:6px 10px 6px 0;border-color:transparent #24343f transparent transparent}#triangle-right{position:absolute;top:16px;right:-9px;width:0;height:0;border-style:solid;border-width:6px 0 6px 10px;border-color:transparent transparent transparent #24343f}@media (max-width:768px){.history-price-pop{width:calc(100vw - 32px)}.history-price-footer{justify-content:center;padding-right:0}.history-price-footer,.history-price-title{background-color:#fff}.history-price-content{padding-left:0;padding-right:0;background-color:#f9fafb;max-height:460px;min-height:460px;overflow-y:auto;-webkit-overflow-scrolling:touch}.history-price-list{overflow-y:none;max-height:100%;background:#f9fafb;padding:3px 15px 0}.history-price-info{justify-content:flex-start;font-size:12px}.history-price-info .price{font-size:16px;margin-right:40px}.history-price-info-line{min-width:1px;min-height:100%;border-left:solid 1px #edf0f4;margin-left:10px;margin-right:10px}.history-price-table .diff{font-size:12px}.history-price-table tbody tr{border-bottom:solid .5px #d6d8dd}}._extension-btn{border:none;border-radius:6px;background-color:#4285f4;background-image:url(/images/overlay_pop/img-chrome@2x.png);background-repeat:no-repeat;background-size:48px;background-position:bottom -1px left 5px;box-shadow:0 5px 10px 0 rgba(76,153,255,.4);color:#fff;font-size:16px;cursor:pointer;display:inline-block;padding:8px 20px 8px 54px;white-space:nowrap;text-align:center}</style>      <!-- GA classic (analytics.js) -->
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ ga('create', 'UA-80993578-20', 'auto');
+ ga('require', 'displayfeatures');
+ ga('require', 'linkid');
+  ga('send', 'pageview');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H1X5QH68X7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  gtag('config', 'G-H1X5QH68X7');
+  gtag('config', 'G-02M7RM3FVY'); // all-region
+</script>
+
+   <script type="text/javascript" charset="utf-8">
+   (function(g,o){g[o]=g[o]||function(){(g[o]['q']=g[o]['q']||[]).push(
+     arguments)},g[o]['t']=1*new Date})(window,'_googCsa');
+   </script>
+
+   
+
+<script>
+   // 處理搜尋頁沒商品圖片時放大鏡不用出現
+   function errorPImg(dom) {
+      dom.src = "/images/document/img_default_pic_biggo@2x.png";
+      var link = dom.parentNode;
+      // pc
+      if(link.nodeName == "A" && link.dataset.lightbox) {
+         var zoom = link.querySelector(".zoom-img-div");
+         link.removeChild(zoom);
+         link.removeAttribute('data-lightbox');
+         link.href = link.dataset.originhref;
+      // mobile tablet
+      }else if(link.nodeName == "DIV" && link.classList.contains("mobile-list-pimg")){
+         var zoom = link.parentNode.parentNode.querySelector("a[data-lightbox]");
+         link.parentNode.parentNode.removeChild(zoom);
+      }
+   }
+</script>
+
+</head>
+<body>
+   
+   
+       <div class='d-none d-sm-block' id='top-menu'>
+    <div class="container">
+        <div class="row header-tool justify-content-end">
+                                        <a href="/store/overview.php" class='header-tool-item'>
+                    <div class='d-flex align-items-center'>
+                        <img src="/images/menu/header_ic_allstore@2x.png?v=1" height='14' alt="Daftar Toko">
+                        <span>Daftar Toko</span>
+                    </div>
+                </a>
+            
+            
+            <div class='header-tool-item option-menu-wrap-click d-flex align-items-center' aria-expanded="false">
+                <div class='option-menu-btn cursor-pointer'>
+                    <img src="/images/header_ic_global@2x.png" height='14' alt="Chang Language">
+                    <span>Language/Bahasa</span>
+                    <img class="ml3" width="10" height="5" src="/images/ic-menu-arrow-s-gray@2x.png" alt="more">
+                </div>
+                <div class="option-menu" id='header-lang' style='top: 25px;'>
+                    <div class="option-menu-item" onclick="changeLang('en_SG')">English</div><div class="option-menu-item" onclick="changeLang('zh_TW')">中文(繁體)</div><div class="option-menu-item" onclick="changeLang('zh_CN')">中文(簡体)</div><div class="option-menu-item" onclick="changeLang('zh_HK')">中文(香港)</div><div class="option-menu-item" onclick="changeLang('ja_JP')">日本語</div><div class="option-menu-item" onclick="changeLang('id_ID')">Indonesia</div><div class="option-menu-item" onclick="changeLang('ms_MY')">Malay</div><div class="option-menu-item" onclick="changeLang('vi_VN')">Tiếng Việt</div><div class="option-menu-item" onclick="changeLang('th_TH')">ไทย</div><div class="option-menu-item" onclick="changeLang('it_IT')">Italiano</div>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class='navbar-biggo pt-0' style='position: relative; z-index: 601; '>
+        <!-- Navigation -->
+<nav class="navbar navbar-expand-md bg-white" role="navigation" id="navbar-search" style="z-index:999;border-top: 1px solid #F3F4FA!important;">
+    <div class="container py-1">
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse justify-content-between align-items-center" >
+            <div class="navbar-brand d-flex align-items-center mr-auto py-0" id="logo" >
+                                    <a href="https://biggo.id" class="nav_biggo_logo">
+                                            <img src="/images/biggo/header_biggo_logov2@2x.png?v=12" id="biggo:pageshareimg" alt="BigGo Logo" height="34" class="d-inline">
+                                        </a>
+                    <form method="get" action="/s/" id='header-search' class='d-inline-block m0 ml28'>
+                        <div class="input-group d-inline-flex input-group-header position-relative" id="searchbar-option-wrap">
+                            <input id="searchinput" type="text" name='q' value="followers permanen ig" class="form-control" style='border: none' placeholder="Cari..." autocomplete="off" aria-label="Cari...">
+                            <input id='searchimg' type='image' style='border-radius: 0; border-top-right-radius: 8px; border-bottom-right-radius: 8px; width: 42px; height: 40px;' src="/images/btn_search@2x.png" alt='Kirimkan'>
+                                                    </div>
+                    </form>
+                                                    <div class="d-inline-flex align-items-center option-menu-wrap-click position-relative ml8" aria-expanded="false">
+                        <div class='option-menu-btn nav-icon' data-toggle="tooltip" data-placement="bottom" title="Bagikan hasil pencarian ini">
+                            <img src="/images/menu/header_ic_share@2x.png" height='36' alt="Bagikan">
+                        </div>
+                        <div class="option-menu" style='z-index: 603; top:36px;'>
+                            <div class="option-menu-item" onclick='openShare("linepc","biggo:pageshare");'>
+                                <div>
+                                    <img height='32' src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                                    <span>Bagikan ke Line</span>
+                                </div>
+                            </div>
+                            <div class="option-menu-item" onclick='openShare("telegram","biggo:pageshare");'>
+                                <div>
+                                    <img height='32' src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                                    <span>Bagikan ke Telegram</span>
+                                </div>
+                            </div>
+                            <div class="option-menu-item" onclick='openShare("clipboard","biggo:pageshare");'>
+                                <div>
+                                    <img height='32' src="/images/option_icon/btn_more_copy@2x.png" alt="Bagikan Halaman">
+                                    <span>Bagikan Halaman</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                            </div>
+
+                        <div class='d-flex align-items-center'>
+                                    <div class='d-flex justify-content-center align-items-center  nav-icon ismsgbtn'  data-toggle="tooltip" data-placement="bottom" title="Pemberitahuan" onclick="openLoginPop()">
+                        <img class="ismsgbtn" id="msg-icon" src="/images/menu/header_ic_notification@2x.png" alt="notification" width='36'>
+                    </div>
+                    <div class="nav-icon mr4" data-toggle="tooltip" data-placement="bottom" title="Favoritku" onclick="openLoginPop()">
+                        <img src="/images/menu/header_ic_favorite@2x.png" alt="subscribe" width="36">
+                    </div>
+                                <div class='cursor-pointer'>
+                                                                    <a href="javascript:void(0)" style="color:#24343f;" onclick="openLoginPop()">
+                            <div class="d-flex align-items-center  nav-user">
+                                <img src="/images/ic_profile_mug_default@2x.png" height='24' alt="user" class="mr8">
+                                Login/ Daftar                            </div>
+                        </a>
+                                                            </div>
+            </div>
+                </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+<!-- /.navigation -->
+<div class="container ">
+  <div class="row justify-content-between">
+      <div class="col d-flex align-items-center " style='flex: 5;'>
+                    <div class="header-search-tab header-search-tab-act ">
+              <a class="gatrack" data-tab="market" data-id="all" data-href="followers+permanen+ig" href="/s/followers+permanen+ig/" >Semua</a>
+          </div>
+                        <div class="header-search-tab   ">
+                                        <a class="gatrack" rel="nofollow"
+                          data-tab="market" data-id="cp" data-href="followers+permanen+ig" 
+                          href="/s/followers+permanen+ig/?m=cp" >
+                              Toko                      </a>
+                                </div>
+                </div>
+              </div>
+</div></div>
+    <!-- container -->
+    <div class="container fill-height">
+       <div class="row">
+          <div class="col-md-12">
+                          <div itemprop="offers" itemscope itemtype="http://schema.org/AggregateOffer">
+             <meta itemprop="priceCurrency" content="IDR">
+             <meta itemprop="lowPrice" content="99">
+             <meta itemprop="highPrice" content="595000">
+             <meta itemprop="offerCount" content="182">
+             </div>
+                                       <div class="row position-relative pt-sm-3 " id="main-search">
+               <div class="col-md-9 fill-height pr-lg-0 " style='position: relative;z-index: 1;'>
+                                                                           <div class="col-12 p-0">
+                        <div class="col-12 d-sm-flex justify-content-sm-between flex-wrap" style=' margin-bottom: 13px; padding-left: 0; padding-right: 0; '>
+      <div class='d-flex align-items-end font13'>
+      <span class="_text-gray mr10">
+              182 hasildata(0,039s)
+      </span>
+          </div>
+    <div class='d-flex'>
+            <a rel='nofollow' href="/s/followers+permanen+ig/?view=list" class="no-underline">
+        <div class="sort-btn sort-btn-first sort-btn-act ">
+          Urutan Default        </div>
+      </a>
+      <a rel='nofollow' href="/s/followers+permanen+ig/?sort=lp&view=list" class="no-underline">
+        <div class="sort-btn sort-btn-first   ">
+          Urutkan Harga          <i class="sort_arrow"></i>
+        </div>
+      </a>
+
+      <div class="sort-btn _dropdown position-relative" id="pcFilterMenu">
+        <div class="btntext">
+          Pengaturan pencarian          <img src="/images/ic-menu-arrow-s-gray@2x.png" width="10" class="ml3" alt>
+        </div>
+        <div class="_dropdown-menu option-menu p-3  zindex-2" style="top: 38px;right: 0;">
+          <div class="d-flex align-items-center justify-content-between _dropdown-nobubble">
+            <div class="pr6">
+              Sembunyikan Item Habis                              <span class="_text-lightgray">(2)</span>
+                          </div>
+            <span onchange="toggleFilterCookie('offline')" class="line-height0">
+              <label class="switch m-0">
+                  <input type="checkbox"><span class="slider round"></span>
+              </label>
+            </span>
+          </div>
+          <div class="d-flex align-items-center justify-content-between _dropdown-nobubble mt-3">
+            <div class="pr6">
+              Sembunyikan spam                          </div>
+            <span onchange="toggleFilterCookie('spam')" class="line-height0">
+              <label class="switch m-0">
+                  <input type="checkbox" checked><span class="slider round"></span>
+              </label>
+            </span>
+          </div>
+        </div>
+      </div>
+
+            <div class="view-toggle-pc">
+        <a href="/s/followers+permanen+ig/?p=1&view=card" rel='nofollow' class=" gatrack" data-id="search layout" data-tab="gridview">
+          <img src="/images/btn-cardview@2x.png" width='36' height='36' alt="cardview">
+        </a>
+        <div class="midline"></div>
+        <a href="/s/followers+permanen+ig/?p=1&view=list" rel='nofollow' class=" gatrack" data-id="search layout" data-tab="listview">
+          <img src="/images/btn-listview-i@2x.png" width='36' height='36' alt="listview">
+        </a>
+      </div>
+    </div>
+  </div>
+                     </div>
+                                                                                          <div style="overflow-x: auto;width:100%;min-height:280px;">
+                           <div id="adsforshopping"></div>
+                        </div><div class="row m-0 w-100"><div class="col-12 product-row ">
+    <div class="d-flex w100">
+          <img src="/images/tag_spotlight_l_id@2x.png" alt="spotlight" class="zindex-0 position-absolute top-position left-position" height="56" width="56">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_pmall_lazada:5522304470')" data-originhref="/r/?i=id_pmall_lazada&id=5522304470&purl=https%3A%2F%2Fwww.lazada.co.id%2F-i5522304470-s11058692131.html&q=followers+permanen+ig&lb=adquery" target="_blenk">
+        <img id="id_pmall_lazada:5522304470img" src="https://img.biggo.com.tw/190x,srrXtcjQxRHzzbWf6k5tNq0cUEtZQpb2LYM2fsVQlcg4/https://filebroker-cdn.lazada.co.id/kf/S79b28452f3174578b0ed55a2c999fa7cf.jpg" alt="FOLLOWERS INSTAGRAM INDONESIA AKTIF -  Instagram Followers  - Instagram , Followers - Followers Real Permanen - Murah_ Followers Indo, Followers Indonesia aktif -instagram followers aktif, Like Instagram - Like IG - Followers Murah -  Followers ig" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-gallery"><span>8</span></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a onclick="ga('send', 'event', 'promo_ad', 'click', 'id_pmall_lazada');" href="/r/?i=id_pmall_lazada&id=5522304470&purl=https%3A%2F%2Fwww.lazada.co.id%2F-i5522304470-s11058692131.html&q=followers+permanen+ig&lb=adquery" rel="nofollow" id="id_pmall_lazada:5522304470"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="85000"
+                data-title="FOLLOWERS INSTAGRAM INDONESIA AKTIF -  Instagram Followers  - Instagram , Followers - Followers Real" target="_blank"                data-href="https://www.lazada.co.id/-i5522304470-s11058692131.html"
+                data-siteindex="id_pmall_lazada"
+                data-oid="5522304470"
+                data-id="Lazada"
+                data-storeicon="https://img.biggo.com.tw/x16,sj4DoidCQjM38m38DH2OIJNy3hdyEsCkq48W0kCT-jdk/https://biggo.id/images/store/id_pmall_lazada@3x.png"
+                data-historyid="id_pmall_lazada-5522304470-11214512514">
+              FOLLOWERS INSTAGRAM INDONESIA AKTIF -  Instagram Followers  - Instagram , Followers - Followers Real            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_pmall_lazada", "5522304470")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_pmall_lazada:5522304470")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_pmall_lazada&id=5522304470&purl=https%3A%2F%2Fwww.lazada.co.id%2F-i5522304470-s11058692131.html&q=followers+permanen+ig&lb=adquery' target='_blank' class="no-underline">
+              <span class="price">
+                Rp7.000 ~ Rp850.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_pmall_lazada', '5522304470', 'search results', this)">
+                <span class="m_title_spec">20.000+ Followers </span>
+                                <span class="m_title_price">Rp850.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sj4DoidCQjM38m38DH2OIJNy3hdyEsCkq48W0kCT-jdk/https://biggo.id/images/store/id_pmall_lazada@3x.png" alt="Lazada" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_pmall_lazada" target="_blank">                      <span>Lazada</span>OEY.SHOP, Kota Jakarta Barat                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_pmall_lazada:5522304470')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="5522304470" data-nindex="id_pmall_lazada"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_pmall_lazada:5522304470');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_pmall_lazada:5522304470');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_pmall_lazada:5522304470");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_pmall_lazada:5522304470')" data-originhref="/r/?i=id_pmall_lazada&id=5522304470&purl=https%3A%2F%2Fwww.lazada.co.id%2F-i5522304470-s11058692131.html&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_pmall_lazada:5522304470img" src="https://img.biggo.com.tw/190x,srrXtcjQxRHzzbWf6k5tNq0cUEtZQpb2LYM2fsVQlcg4/https://filebroker-cdn.lazada.co.id/kf/S79b28452f3174578b0ed55a2c999fa7cf.jpg" alt="FOLLOWERS INSTAGRAM INDONESIA AKTIF -  Instagram Followers  - Instagram , Followers - Followers Real Permanen - Murah_ Followers Indo, Followers Indonesia aktif -instagram followers aktif, Like Instagram - Like IG - Followers Murah -  Followers ig" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-gallery"><span>8</span></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_pmall_lazada&id=5522304470&purl=https%3A%2F%2Fwww.lazada.co.id%2F-i5522304470-s11058692131.html&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_pmall_lazada:5522304470"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="85000"
+                data-title="FOLLOWERS INSTAGRAM INDONESIA AKTIF -  Instagram Followers  - Instagram , Followers - Followers Real" target="_blank"                data-href="https://www.lazada.co.id/-i5522304470-s11058692131.html"
+                data-siteindex="id_pmall_lazada"
+                data-oid="5522304470"
+                data-id="Lazada"
+                data-storeicon="https://img.biggo.com.tw/x16,sj4DoidCQjM38m38DH2OIJNy3hdyEsCkq48W0kCT-jdk/https://biggo.id/images/store/id_pmall_lazada@3x.png"
+                data-historyid="id_pmall_lazada-5522304470-11214512514">
+              FOLLOWERS INSTAGRAM INDONESIA AKTIF -  Instagram Followers  - Instagram , Followers - Followers Real            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_pmall_lazada", "5522304470")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_pmall_lazada:5522304470")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_pmall_lazada&id=5522304470&purl=https%3A%2F%2Fwww.lazada.co.id%2F-i5522304470-s11058692131.html&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp7.000 ~ Rp850.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_pmall_lazada', '5522304470', 'search results', this)">
+                <span class="m_title_spec">20.000+ Followers </span>
+                                <span class="m_title_price">Rp850.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sj4DoidCQjM38m38DH2OIJNy3hdyEsCkq48W0kCT-jdk/https://biggo.id/images/store/id_pmall_lazada@3x.png" alt="Lazada" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_pmall_lazada" target="_blank">                      <span>Lazada</span>OEY.SHOP, Kota Jakarta Barat                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_pmall_lazada:5522304470')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="5522304470" data-nindex="id_pmall_lazada"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_pmall_lazada:5522304470');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_pmall_lazada:5522304470');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_pmall_lazada:5522304470");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:323432702.9975382030')" data-originhref="/r/?i=id_bid_shopeeid&id=323432702.9975382030&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F323432702%2F9975382030&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:323432702.9975382030img" src="https://cf.shopee.co.id/file/c5b333799bf6c6c440a911399cfc0843" alt="(PROMO) FOLLOWERS IG PERMANEN REAL AKUN IG FOLLOWERS INSTAGRAM PASIF FOLLOWERS IG MURAH WORLDWIDE" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=323432702.9975382030&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F323432702%2F9975382030&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:323432702.9975382030"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="7450"
+                data-title="(PROMO) FOLLOWERS IG PERMANEN REAL AKUN IG FOLLOWERS INSTAGRAM PASIF FOLLOWERS IG MURAH WORLDWIDE" target="_blank"                data-href="https://shopee.co.id/universal-link/product/323432702/9975382030"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="323432702.9975382030"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-323432702.9975382030-77747839237">
+              (PROMO) FOLLOWERS IG PERMANEN REAL AKUN IG FOLLOWERS INSTAGRAM PASIF FOLLOWERS IG MURAH WORLDWIDE            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "323432702.9975382030")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:323432702.9975382030")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=323432702.9975382030&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F323432702%2F9975382030&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp7.450 ~ Rp42.680              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '323432702.9975382030', 'search results', this)">
+                <span class="m_title_spec">1000++ </span>
+                                <span class="m_title_price">Rp42.680</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>skyofficia(2233), PEKALONGAN                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:323432702.9975382030')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="323432702.9975382030" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:323432702.9975382030');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:323432702.9975382030');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:323432702.9975382030");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:331860866.9158724394')" data-originhref="/r/?i=id_bid_shopeeid&id=331860866.9158724394&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F331860866%2F9158724394&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:331860866.9158724394img" src="https://cf.shopee.co.id/file/1afa747e7c0bed9e6606c9c2c120f13f" alt="[PROMO] FOLLOWERS IG TERMURAH REAL AKUN IG FOLLOWERS INSTAGRAM PASIF PERMANEN JASA FOLLOWER IG BULE" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-gallery"><span>2</span></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=331860866.9158724394&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F331860866%2F9158724394&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:331860866.9158724394"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="950"
+                data-title="[PROMO] FOLLOWERS IG TERMURAH REAL AKUN IG FOLLOWERS INSTAGRAM PASIF PERMANEN JASA FOLLOWER IG BULE" target="_blank"                data-href="https://shopee.co.id/universal-link/product/331860866/9158724394"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="331860866.9158724394"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-331860866.9158724394-110341973316">
+              [PROMO] FOLLOWERS IG TERMURAH REAL AKUN IG FOLLOWERS INSTAGRAM PASIF PERMANEN JASA FOLLOWER IG BULE            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "331860866.9158724394")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:331860866.9158724394")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=331860866.9158724394&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F331860866%2F9158724394&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp950 ~ Rp3.500              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '331860866.9158724394', 'search results', this)">
+                <span class="m_title_spec">100 F REAL HQ </span>
+                                <span class="m_title_price">Rp3.500</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>jagoansosm(15297), JAKARTA PUSAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:331860866.9158724394')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="331860866.9158724394" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:331860866.9158724394');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:331860866.9158724394');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:331860866.9158724394");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:101824566.5291630864')" data-originhref="/r/?i=id_bid_shopeeid&id=101824566.5291630864&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F101824566%2F5291630864&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:101824566.5291630864img" src="https://cf.shopee.co.id/file/c76583294b5e32582466e1debf1250b9" alt="Jasa Instagram | Followers IG aktif INDONESIA | TERMURAH PERMANEN" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=101824566.5291630864&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F101824566%2F5291630864&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:101824566.5291630864"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="4000"
+                data-title="Jasa Instagram | Followers IG aktif INDONESIA | TERMURAH PERMANEN" target="_blank"                data-href="https://shopee.co.id/universal-link/product/101824566/5291630864"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="101824566.5291630864"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-101824566.5291630864-55908380656">
+              Jasa Instagram | Followers IG aktif INDONESIA | TERMURAH PERMANEN            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "101824566.5291630864")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:101824566.5291630864")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=101824566.5291630864&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F101824566%2F5291630864&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp4.000 ~ Rp8.900              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '101824566.5291630864', 'search results', this)">
+                <span class="m_title_spec">Followers 100 </span>
+                                <span class="m_title_price">Rp8.900</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>sanshop51(554), BANDUNG                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:101824566.5291630864')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="101824566.5291630864" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:101824566.5291630864');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:101824566.5291630864');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:101824566.5291630864");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:378626535.8374919749')" data-originhref="/r/?i=id_bid_shopeeid&id=378626535.8374919749&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F378626535%2F8374919749&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:378626535.8374919749img" src="https://cf.shopee.co.id/file/9f00e13188f1cb362395d8a338e8cfa7" alt="FOLLOWERS INSTAGRAM REAL AKTIF INDONESIA PERMANEN / FOLLOWER IG INDO AMAN DAN BERGARANSI" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-gallery"><span>9</span></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=378626535.8374919749&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F378626535%2F8374919749&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:378626535.8374919749"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="8000"
+                data-title="FOLLOWERS INSTAGRAM REAL AKTIF INDONESIA PERMANEN / FOLLOWER IG INDO AMAN DAN BERGARANSI" target="_blank"                data-href="https://shopee.co.id/universal-link/product/378626535/8374919749"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="378626535.8374919749"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-378626535.8374919749-36285220841">
+              FOLLOWERS INSTAGRAM REAL AKTIF INDONESIA PERMANEN / FOLLOWER IG INDO AMAN DAN BERGARANSI            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "378626535.8374919749")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:378626535.8374919749")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=378626535.8374919749&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F378626535%2F8374919749&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp8.000 ~ Rp55.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '378626535.8374919749', 'search results', this)">
+                <span class="m_title_spec">1000 F </span>
+                                <span class="m_title_price">Rp55.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>wmpremiuma(879), SIDOARJO                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:378626535.8374919749')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="378626535.8374919749" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:378626535.8374919749');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:378626535.8374919749');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:378626535.8374919749");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:10440323.8877554096')" data-originhref="/r/?i=id_bid_shopeeid&id=10440323.8877554096&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F10440323%2F8877554096&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:10440323.8877554096img" src="https://cf.shopee.co.id/file/ccfb90d7ecf96a2c36b914a240dcb221" alt="1000 FOLLOWERS IG TERMURAH REAL PERMANEN AKUN IG FOLLOWERS INSTAGRAM" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=10440323.8877554096&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F10440323%2F8877554096&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:10440323.8877554096"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="1999"
+                data-title="1000 FOLLOWERS IG TERMURAH REAL PERMANEN AKUN IG FOLLOWERS INSTAGRAM" target="_blank"                data-href="https://shopee.co.id/universal-link/product/10440323/8877554096"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="10440323.8877554096"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-10440323.8877554096-36400823224">
+              1000 FOLLOWERS IG TERMURAH REAL PERMANEN AKUN IG FOLLOWERS INSTAGRAM            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "10440323.8877554096")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:10440323.8877554096")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=10440323.8877554096&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F10440323%2F8877554096&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp1.999 ~ Rp3.999              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '10440323.8877554096', 'search results', this)">
+                <span class="m_title_spec">1000 view story </span>
+                                <span class="m_title_price">Rp3.999</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>bizrycahya(212), BANDAR LAMPUNG                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:10440323.8877554096')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="10440323.8877554096" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:10440323.8877554096');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:10440323.8877554096');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:10440323.8877554096");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row  offline-bg">
+            <div class='offline-tag' data-notify="off" data-id="id_bid_shopeeid:82620538.12301221064">
+        <div>
+          <span offlinetext>Produk Habis</span>
+          <span ontag>Pemberitahuan stok ulang diaktifkan</span>
+        </div>
+        <i data-toggle="tooltip" data-placement="top" title="Aktifkan pemberitahuan ketersediaan barang" data-offset="0 5"></i>
+      </div>
+        <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:82620538.12301221064')" data-originhref="/r/?i=id_bid_shopeeid&id=82620538.12301221064&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F82620538%2F12301221064&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:82620538.12301221064img" src="https://cf.shopee.co.id/file/5fa2993a2f96e5596e08a525286fc149" alt="FOLLOWERS IG INDONESIA || FOLLOWERS IG BERGARANSI || FOLLOWERS IG INDONESIA PERMANEN" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=82620538.12301221064&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F82620538%2F12301221064&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:82620538.12301221064"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="19999"
+                data-title="FOLLOWERS IG INDONESIA || FOLLOWERS IG BERGARANSI || FOLLOWERS IG INDONESIA PERMANEN" target="_blank"                data-href="https://shopee.co.id/universal-link/product/82620538/12301221064"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="82620538.12301221064"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-82620538.12301221064-84648619487">
+              FOLLOWERS IG INDONESIA || FOLLOWERS IG BERGARANSI || FOLLOWERS IG INDONESIA PERMANEN            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "82620538.12301221064")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:82620538.12301221064")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=82620538.12301221064&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F82620538%2F12301221064&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp19.999 ~ Rp28.999              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '82620538.12301221064', 'search results', this)">
+                <span class="m_title_spec">1000+ </span>
+                                <span class="m_title_price">Rp28.999</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>momostore0(5), BENGKULU                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:82620538.12301221064')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="82620538.12301221064" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:82620538.12301221064');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:82620538.12301221064');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:82620538.12301221064");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:409910643.8231412954')" data-originhref="/r/?i=id_bid_shopeeid&id=409910643.8231412954&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F409910643%2F8231412954&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:409910643.8231412954img" src="https://cf.shopee.co.id/file/b12d5d788326ab1777352cb59e5e4c72" alt="Followers instagram aktif permanen - followers aktif - followers ig permanen - follower ig aktif" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=409910643.8231412954&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F409910643%2F8231412954&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:409910643.8231412954"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="5687"
+                data-title="Followers instagram aktif permanen - followers aktif - followers ig permanen - follower ig aktif" target="_blank"                data-href="https://shopee.co.id/universal-link/product/409910643/8231412954"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="409910643.8231412954"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-409910643.8231412954-34384983174">
+              Followers instagram aktif permanen - followers aktif - followers ig permanen - follower ig aktif            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "409910643.8231412954")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:409910643.8231412954")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=409910643.8231412954&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F409910643%2F8231412954&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp5.687 ~ Rp22.450              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '409910643.8231412954', 'search results', this)">
+                <span class="m_title_spec">200+ foll </span>
+                                <span class="m_title_price">Rp22.450</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>hnpstore_(1601), BEKASI                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:409910643.8231412954')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="409910643.8231412954" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:409910643.8231412954');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:409910643.8231412954');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:409910643.8231412954");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:327878308.9311215808')" data-originhref="/r/?i=id_bid_shopeeid&id=327878308.9311215808&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F327878308%2F9311215808&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:327878308.9311215808img" src="https://cf.shopee.co.id/file/76145a9d52456fedcbee795734f3bf55" alt="FOLLOWERS IG PERMANEN" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=327878308.9311215808&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F327878308%2F9311215808&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:327878308.9311215808"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="10800"
+                data-title="FOLLOWERS IG PERMANEN" target="_blank"                data-href="https://shopee.co.id/universal-link/product/327878308/9311215808"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="327878308.9311215808"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-327878308.9311215808-43687385397">
+              FOLLOWERS IG PERMANEN            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "327878308.9311215808")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:327878308.9311215808")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=327878308.9311215808&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F327878308%2F9311215808&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp10.800 ~ Rp32.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '327878308.9311215808', 'search results', this)">
+                <span class="m_title_spec">1000 </span>
+                                <span class="m_title_price">Rp32.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>sha_collec(268), PATI                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:327878308.9311215808')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="327878308.9311215808" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:327878308.9311215808');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:327878308.9311215808');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:327878308.9311215808");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:8431420.2964688976')" data-originhref="/r/?i=id_bid_shopeeid&id=8431420.2964688976&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F8431420%2F2964688976&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:8431420.2964688976img" src="https://cf.shopee.co.id/file/9377c5b8c0e3beb8d724a36a5b9b9fe0" alt="PROMO !! FOLLOWERS IG REAL AKTIF INDONESIA/FOLLOWERS IG PERMANEN/JUAL FOLLOWERS IG/FOLLOWER IG" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=8431420.2964688976&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F8431420%2F2964688976&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:8431420.2964688976"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="5999"
+                data-title="PROMO !! FOLLOWERS IG REAL AKTIF INDONESIA/FOLLOWERS IG PERMANEN/JUAL FOLLOWERS IG/FOLLOWER IG" target="_blank"                data-href="https://shopee.co.id/universal-link/product/8431420/2964688976"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="8431420.2964688976"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-8431420.2964688976-55791679940">
+              PROMO !! FOLLOWERS IG REAL AKTIF INDONESIA/FOLLOWERS IG PERMANEN/JUAL FOLLOWERS IG/FOLLOWER IG            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "8431420.2964688976")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:8431420.2964688976")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=8431420.2964688976&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F8431420%2F2964688976&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp5.999 ~ Rp24.999              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '8431420.2964688976', 'search results', this)">
+                <span class="m_title_spec">Garansi 1000 </span>
+                                <span class="m_title_price">Rp24.999</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>purpleluvi(460), DELI SERDANG                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:8431420.2964688976')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="8431420.2964688976" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:8431420.2964688976');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:8431420.2964688976');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:8431420.2964688976");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:8431420.5790979563')" data-originhref="/r/?i=id_bid_shopeeid&id=8431420.5790979563&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F8431420%2F5790979563&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:8431420.5790979563img" src="https://cf.shopee.co.id/file/a02da87f34459dc4c1369af40150f4b4" alt="PROMO !! FOLLOWERS IG REAL AKTIF INDONESIA/FOLLOWERS IG PERMANEN/JUAL FOLLOWERS IG/FOLLOWER IG MURAH" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=8431420.5790979563&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F8431420%2F5790979563&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:8431420.5790979563"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="910"
+                data-title="PROMO !! FOLLOWERS IG REAL AKTIF INDONESIA/FOLLOWERS IG PERMANEN/JUAL FOLLOWERS IG/FOLLOWER IG MURAH" target="_blank"                data-href="https://shopee.co.id/universal-link/product/8431420/5790979563"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="8431420.5790979563"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-8431420.5790979563-92545013437">
+              PROMO !! FOLLOWERS IG REAL AKTIF INDONESIA/FOLLOWERS IG PERMANEN/JUAL FOLLOWERS IG/FOLLOWER IG MURAH            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "8431420.5790979563")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:8431420.5790979563")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=8431420.5790979563&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F8431420%2F5790979563&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp910 ~ Rp2.999              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '8431420.5790979563', 'search results', this)">
+                <span class="m_title_spec">Garansi(reffil) 100 </span>
+                                <span class="m_title_price">Rp2.999</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>purpleluvi(468), DELI SERDANG                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:8431420.5790979563')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="8431420.5790979563" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:8431420.5790979563');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:8431420.5790979563');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:8431420.5790979563");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row  offline-bg">
+            <div class='offline-tag' data-notify="off" data-id="id_bid_shopeeid:399349179.8779172700">
+        <div>
+          <span offlinetext>Produk Habis</span>
+          <span ontag>Pemberitahuan stok ulang diaktifkan</span>
+        </div>
+        <i data-toggle="tooltip" data-placement="top" title="Aktifkan pemberitahuan ketersediaan barang" data-offset="0 5"></i>
+      </div>
+        <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:399349179.8779172700')" data-originhref="/r/?i=id_bid_shopeeid&id=399349179.8779172700&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F399349179%2F8779172700&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:399349179.8779172700img" src="https://cf.shopee.co.id/file/fb002f4ad05e964f5eef4e18c5448a31" alt="Followers Instagram Permanen Followers Ig Real Aktif Followers Instagram Aktif Permanen Follower Instagram Followers Instagram Murah Follower Ig Folower Ig Follower Instagram" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-gallery"><span>2</span></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=399349179.8779172700&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F399349179%2F8779172700&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:399349179.8779172700"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="5000"
+                data-title="Followers Instagram Permanen Followers Ig Real Aktif Followers Instagram Aktif Permanen Follower Ins" target="_blank"                data-href="https://shopee.co.id/universal-link/product/399349179/8779172700"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="399349179.8779172700"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-399349179.8779172700-103280006626">
+              Followers Instagram Permanen Followers Ig Real Aktif Followers Instagram Aktif Permanen Follower Ins            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "399349179.8779172700")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:399349179.8779172700")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=399349179.8779172700&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F399349179%2F8779172700&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp5.000 ~ Rp20.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '399349179.8779172700', 'search results', this)">
+                <span class="m_title_spec">1000++ Followers </span>
+                                <span class="m_title_price">Rp20.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>mediavan(6312), JAKARTA BARAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:399349179.8779172700')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="399349179.8779172700" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:399349179.8779172700');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:399349179.8779172700');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:399349179.8779172700");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:399349179.12450373587')" data-originhref="/r/?i=id_bid_shopeeid&id=399349179.12450373587&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F399349179%2F12450373587&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:399349179.12450373587img" src="https://cf.shopee.co.id/file/fbfb3b9a9ebd54b57ff44e417df38c4a" alt="Followers Instagram Indonesia Followers Ig Real Aktif Permanen" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=399349179.12450373587&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F399349179%2F12450373587&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:399349179.12450373587"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="15000"
+                data-title="Followers Instagram Indonesia Followers Ig Real Aktif Permanen" target="_blank"                data-href="https://shopee.co.id/universal-link/product/399349179/12450373587"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="399349179.12450373587"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-399349179.12450373587-113894522008">
+              Followers Instagram Indonesia Followers Ig Real Aktif Permanen            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "399349179.12450373587")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:399349179.12450373587")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=399349179.12450373587&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F399349179%2F12450373587&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp15.000 ~ Rp55.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '399349179.12450373587', 'search results', this)">
+                <span class="m_title_spec">500 Followers Indo </span>
+                                <span class="m_title_price">Rp55.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>mediavan(6312), JAKARTA BARAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:399349179.12450373587')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="399349179.12450373587" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:399349179.12450373587');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:399349179.12450373587');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:399349179.12450373587");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:331860866.11913945192')" data-originhref="/r/?i=id_bid_shopeeid&id=331860866.11913945192&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F331860866%2F11913945192&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:331860866.11913945192img" src="https://cf.shopee.co.id/file/f28083145cddf52ff781eba264cd459e" alt="1000 FOLLOWERS IG TERMURAH REAL PERMANEN AKUN IG FOLLOWERS INSTAGRAM NON DROP" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=331860866.11913945192&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F331860866%2F11913945192&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:331860866.11913945192"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="15000"
+                data-title="1000 FOLLOWERS IG TERMURAH REAL PERMANEN AKUN IG FOLLOWERS INSTAGRAM NON DROP" target="_blank"                data-href="https://shopee.co.id/universal-link/product/331860866/11913945192"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="331860866.11913945192"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-331860866.11913945192-66113186247">
+              1000 FOLLOWERS IG TERMURAH REAL PERMANEN AKUN IG FOLLOWERS INSTAGRAM NON DROP            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "331860866.11913945192")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:331860866.11913945192")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=331860866.11913945192&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F331860866%2F11913945192&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp15.000 ~ Rp85.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '331860866.11913945192', 'search results', this)">
+                <span class="m_title_spec">500 PERMANEN </span>
+                                <span class="m_title_price">Rp85.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>jagoansosm(15297), JAKARTA PUSAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:331860866.11913945192')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="331860866.11913945192" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:331860866.11913945192');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:331860866.11913945192');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:331860866.11913945192");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:331860866.10106315133')" data-originhref="/r/?i=id_bid_shopeeid&id=331860866.10106315133&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F331860866%2F10106315133&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:331860866.10106315133img" src="https://cf.shopee.co.id/file/370b669c4d1e04eeb909410012ef0365" alt="FOLLOWERS IG REAL AKTIF INDONESIA AKUN IG INDO FOLLOWERS INSTAGRAM PASIF PERMANEN" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=331860866.10106315133&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F331860866%2F10106315133&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:331860866.10106315133"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="135000"
+                data-title="FOLLOWERS IG REAL AKTIF INDONESIA AKUN IG INDO FOLLOWERS INSTAGRAM PASIF PERMANEN" target="_blank"                data-href="https://shopee.co.id/universal-link/product/331860866/10106315133"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="331860866.10106315133"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-331860866.10106315133-92245717845">
+              FOLLOWERS IG REAL AKTIF INDONESIA AKUN IG INDO FOLLOWERS INSTAGRAM PASIF PERMANEN            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "331860866.10106315133")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:331860866.10106315133")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=331860866.10106315133&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F331860866%2F10106315133&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp135.000 ~ Rp845.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '331860866.10106315133', 'search results', this)">
+                <span class="m_title_spec">20.000++ </span>
+                                <span class="m_title_price">Rp845.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>jagoansosm(15297), JAKARTA PUSAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:331860866.10106315133')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="331860866.10106315133" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:331860866.10106315133');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:331860866.10106315133');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:331860866.10106315133");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row">
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-format="fluid"
+        data-ad-layout-key="-gp+1-n-ep+yc"
+        data-ad-client="ca-pub-1202195292614854"
+        data-ad-slot="1736545894"></ins>
+
+
+</div><div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:384299473.9513992631')" data-originhref="/r/?i=id_bid_shopeeid&id=384299473.9513992631&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F384299473%2F9513992631&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:384299473.9513992631img" src="https://cf.shopee.co.id/file/5fd24eacc0d327f1e1172769995de7a2" alt="FOLLOWERS IG REAL AKTIF INDONESIA AKUN IG INDO FOLLOWERS INSTAGRAM PASIF PERMANEN JASA FOLLOWER IG" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-gallery"><span>3</span></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=384299473.9513992631&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F384299473%2F9513992631&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:384299473.9513992631"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="26100"
+                data-title="FOLLOWERS IG REAL AKTIF INDONESIA AKUN IG INDO FOLLOWERS INSTAGRAM PASIF PERMANEN JASA FOLLOWER IG" target="_blank"                data-href="https://shopee.co.id/universal-link/product/384299473/9513992631"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="384299473.9513992631"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-384299473.9513992631-63663643814">
+              FOLLOWERS IG REAL AKTIF INDONESIA AKUN IG INDO FOLLOWERS INSTAGRAM PASIF PERMANEN JASA FOLLOWER IG            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "384299473.9513992631")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:384299473.9513992631")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+            Diskon Rp2000        </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=384299473.9513992631&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F384299473%2F9513992631&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp26.100 ~ Rp122.500              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '384299473.9513992631', 'search results', this)">
+                <span class="m_title_spec">3000+ INDO AKTIF </span>
+                                <span class="m_title_price">Rp122.500</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>dewinadiaa(2016), JAKARTA PUSAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:384299473.9513992631')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="384299473.9513992631" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:384299473.9513992631');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:384299473.9513992631');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:384299473.9513992631");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:99737353.11631142725')" data-originhref="/r/?i=id_bid_shopeeid&id=99737353.11631142725&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F99737353%2F11631142725&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:99737353.11631142725img" src="https://cf.shopee.co.id/file/3aef56a4e249cf1f03670af3d3e13676" alt="Like Instagram Like Ig Beli Like Instagram Followers Instagram Aktif Permanen Beli Followers Ig IG02" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=99737353.11631142725&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F99737353%2F11631142725&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:99737353.11631142725"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="7000"
+                data-title="Like Instagram Like Ig Beli Like Instagram Followers Instagram Aktif Permanen Beli Followers Ig IG02" target="_blank"                data-href="https://shopee.co.id/universal-link/product/99737353/11631142725"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="99737353.11631142725"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-99737353.11631142725-36998726545">
+              Like Instagram Like Ig Beli Like Instagram Followers Instagram Aktif Permanen Beli Followers Ig IG02            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "99737353.11631142725")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:99737353.11631142725")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=99737353.11631142725&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F99737353%2F11631142725&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp7.000 ~ Rp28.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '99737353.11631142725', 'search results', this)">
+                <span class="m_title_spec">500 Likes </span>
+                                <span class="m_title_price">Rp28.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>tokoonline(335), JAKARTA UTARA                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:99737353.11631142725')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="99737353.11631142725" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:99737353.11631142725');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:99737353.11631142725');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:99737353.11631142725");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:28227908.4269878748')" data-originhref="/r/?i=id_bid_shopeeid&id=28227908.4269878748&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F28227908%2F4269878748&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:28227908.4269878748img" src="https://cf.shopee.co.id/file/94b657025747e29d58675ffbc23fbed0" alt="followers instagram100 ig indo permanen rekomendasi Follower" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=28227908.4269878748&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F28227908%2F4269878748&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:28227908.4269878748"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="8000"
+                data-title="followers instagram100 ig indo permanen rekomendasi Follower" target="_blank"                data-href="https://shopee.co.id/universal-link/product/28227908/4269878748"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="28227908.4269878748"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-28227908.4269878748-46540089183">
+              followers instagram100 ig indo permanen rekomendasi Follower            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "28227908.4269878748")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:28227908.4269878748")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=28227908.4269878748&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F28227908%2F4269878748&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp8.000 ~ Rp55.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '28227908.4269878748', 'search results', this)">
+                <span class="m_title_spec">follow1000 </span>
+                                <span class="m_title_price">Rp55.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>tokoxandri(4450), BOGOR                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:28227908.4269878748')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="28227908.4269878748" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:28227908.4269878748');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:28227908.4269878748');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:28227908.4269878748");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:84082144.8655874004')" data-originhref="/r/?i=id_bid_shopeeid&id=84082144.8655874004&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F84082144%2F8655874004&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:84082144.8655874004img" src="https://cf.shopee.co.id/file/3b130e8e8da11a920c3de824ae6b96f3" alt="[PROMO] FOLLOWERS IG PERMANEN AKTIF PASIF BERGARANSI FOLLOWER INSTAGRAM MURAH REAL AKUN IG INDO" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=84082144.8655874004&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F84082144%2F8655874004&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:84082144.8655874004"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="4000"
+                data-title="[PROMO] FOLLOWERS IG PERMANEN AKTIF PASIF BERGARANSI FOLLOWER INSTAGRAM MURAH REAL AKUN IG INDO" target="_blank"                data-href="https://shopee.co.id/universal-link/product/84082144/8655874004"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="84082144.8655874004"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-84082144.8655874004-114394844285">
+              [PROMO] FOLLOWERS IG PERMANEN AKTIF PASIF BERGARANSI FOLLOWER INSTAGRAM MURAH REAL AKUN IG INDO            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "84082144.8655874004")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:84082144.8655874004")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=84082144.8655874004&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F84082144%2F8655874004&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp4.000 ~ Rp28.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '84082144.8655874004', 'search results', this)">
+                <span class="m_title_spec">1000F </span>
+                                <span class="m_title_price">Rp28.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>nostalgia_(20431), JAKARTA TIMUR                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:84082144.8655874004')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="84082144.8655874004" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:84082144.8655874004');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:84082144.8655874004');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:84082144.8655874004");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:81183963.4269226169')" data-originhref="/r/?i=id_bid_shopeeid&id=81183963.4269226169&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F81183963%2F4269226169&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:81183963.4269226169img" src="https://cf.shopee.co.id/file/2efb9437522cf2a8e79b8dbf6af88e5e" alt="[TERLARIS] AKUN IG MURAH FOLLOWERS INDO AKTIF JASA FOLLOWER PERMANEN INDONESIA" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-gallery"><span>4</span></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=81183963.4269226169&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F81183963%2F4269226169&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:81183963.4269226169"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="1900"
+                data-title="[TERLARIS] AKUN IG MURAH FOLLOWERS INDO AKTIF JASA FOLLOWER PERMANEN INDONESIA" target="_blank"                data-href="https://shopee.co.id/universal-link/product/81183963/4269226169"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="81183963.4269226169"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-81183963.4269226169-72429372164">
+              [TERLARIS] AKUN IG MURAH FOLLOWERS INDO AKTIF JASA FOLLOWER PERMANEN INDONESIA            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "81183963.4269226169")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:81183963.4269226169")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=81183963.4269226169&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F81183963%2F4269226169&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp1.900 ~ Rp11.250              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '81183963.4269226169', 'search results', this)">
+                <span class="m_title_spec">100 INDO AWET </span>
+                                <span class="m_title_price">Rp11.250</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>pinkypeach(1231), SIDOARJO                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:81183963.4269226169')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="81183963.4269226169" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:81183963.4269226169');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:81183963.4269226169');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:81183963.4269226169");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:384299473.9316657709')" data-originhref="/r/?i=id_bid_shopeeid&id=384299473.9316657709&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F384299473%2F9316657709&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:384299473.9316657709img" src="https://cf.shopee.co.id/file/b41ea2d6da10eefb5271628c358cbf74" alt="FOLLOWERS INSTAGRAM IG MIX/CAMPURAN TERMURAH PALING MURAH JUAL JASA FOLLOWER AKTIF PERMANEN" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-gallery"><span>4</span></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=384299473.9316657709&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F384299473%2F9316657709&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:384299473.9316657709"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="480"
+                data-title="FOLLOWERS INSTAGRAM IG MIX/CAMPURAN TERMURAH PALING MURAH JUAL JASA FOLLOWER AKTIF PERMANEN" target="_blank"                data-href="https://shopee.co.id/universal-link/product/384299473/9316657709"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="384299473.9316657709"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-384299473.9316657709">
+              FOLLOWERS INSTAGRAM IG MIX/CAMPURAN TERMURAH PALING MURAH JUAL JASA FOLLOWER AKTIF PERMANEN            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "384299473.9316657709")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:384299473.9316657709")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+            Diskon Rp5000        </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=384299473.9316657709&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F384299473%2F9316657709&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp480              </span>
+            </a>
+
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>dewinadiaa(2015), JAKARTA PUSAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-down i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:384299473.9316657709')"  data-toggle="tooltip" data-placement="top" title="Riwayat Harga">
+                  <span>Harga Turun Rp120</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="384299473.9316657709" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:384299473.9316657709');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:384299473.9316657709');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:384299473.9316657709");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:183089957.5704951461')" data-originhref="/r/?i=id_bid_shopeeid&id=183089957.5704951461&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F183089957%2F5704951461&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:183089957.5704951461img" src="https://cf.shopee.co.id/file/8ef404bf9f01b878943c6f5b9500e91c" alt="TERMURAH !! FOLLOWERS INSTAGRAM AKTIF INDONESIA FOLLOWER IG AKUN REAL INDO GARANSI PERMANEN LAYANAN JASA FOLOWER" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-gallery"><span>4</span></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=183089957.5704951461&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F183089957%2F5704951461&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:183089957.5704951461"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="10000"
+                data-title="TERMURAH !! FOLLOWERS INSTAGRAM AKTIF INDONESIA FOLLOWER IG AKUN REAL INDO GARANSI PERMANEN LAYANAN " target="_blank"                data-href="https://shopee.co.id/universal-link/product/183089957/5704951461"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="183089957.5704951461"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-183089957.5704951461-104103817369">
+              TERMURAH !! FOLLOWERS INSTAGRAM AKTIF INDONESIA FOLLOWER IG AKUN REAL INDO GARANSI PERMANEN LAYANAN             </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "183089957.5704951461")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:183089957.5704951461")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=183089957.5704951461&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F183089957%2F5704951461&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp10.000 ~ Rp55.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '183089957.5704951461', 'search results', this)">
+                <span class="m_title_spec">⚡REAL INDONESIA⚡ 🔥1000++ FOLLS🔥 </span>
+                                <span class="m_title_price">Rp55.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>bubbletees(180), JAKARTA UTARA                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:183089957.5704951461')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="183089957.5704951461" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:183089957.5704951461');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:183089957.5704951461');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:183089957.5704951461");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:34804028.11144733633')" data-originhref="/r/?i=id_bid_shopeeid&id=34804028.11144733633&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F34804028%2F11144733633&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:34804028.11144733633img" src="https://cf.shopee.co.id/file/952969a5af08c274aea7f7f872da0989" alt="Followers Instagram [HQ] Permanen Bergaransi AutoRefil Dunia 1000+ Follow Follower Mix Dunia Aktif Pasif IG Permanent Foll Folls Termurah | GRATIS ONGKIR" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=34804028.11144733633&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F34804028%2F11144733633&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:34804028.11144733633"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="22000"
+                data-title="Followers Instagram [HQ] Permanen Bergaransi AutoRefil Dunia 1000+ Follow Follower Mix Dunia Aktif P" target="_blank"                data-href="https://shopee.co.id/universal-link/product/34804028/11144733633"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="34804028.11144733633"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-34804028.11144733633-67197724467">
+              Followers Instagram [HQ] Permanen Bergaransi AutoRefil Dunia 1000+ Follow Follower Mix Dunia Aktif P            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "34804028.11144733633")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:34804028.11144733633")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=34804028.11144733633&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F34804028%2F11144733633&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp22.000 ~ Rp105.000              </span>
+            </a>
+
+                          <div class="multple_spec_btn _dropdown ml10" onclick="getPriceSpec('id_bid_shopeeid', '34804028.11144733633', 'search results', this)">
+                <span class="m_title_spec">5000+ </span>
+                                <span class="m_title_price">Rp105.000</span>
+              </div>
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>thebest.pa(8010), BANTUL                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:34804028.11144733633')" >
+                  <span>Riwayat Harga</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="34804028.11144733633" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:34804028.11144733633');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:34804028.11144733633');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:34804028.11144733633");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:51657963.12136200613')" data-originhref="/r/?i=id_bid_shopeeid&id=51657963.12136200613&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F51657963%2F12136200613&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:51657963.12136200613img" src="https://cf.shopee.co.id/file/199dae5d8e73d085f7e54cd5255330d0" alt="Followers Instagram Real Permanen Followers Ig Murah Followers Ig" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=51657963.12136200613&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F51657963%2F12136200613&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:51657963.12136200613"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="2000"
+                data-title="Followers Instagram Real Permanen Followers Ig Murah Followers Ig" target="_blank"                data-href="https://shopee.co.id/universal-link/product/51657963/12136200613"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="51657963.12136200613"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-51657963.12136200613">
+              Followers Instagram Real Permanen Followers Ig Murah Followers Ig            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "51657963.12136200613")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:51657963.12136200613")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+            Diskon Rp5000        </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=51657963.12136200613&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F51657963%2F12136200613&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp2.000              </span>
+            </a>
+
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>my_followe(252), JAKARTA BARAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-up i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:51657963.12136200613')"  data-toggle="tooltip" data-placement="top" title="Riwayat Harga">
+                  <span>Harga Naik Rp1.901</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="51657963.12136200613" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:51657963.12136200613');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:51657963.12136200613');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:51657963.12136200613");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:51657963.14425332396')" data-originhref="/r/?i=id_bid_shopeeid&id=51657963.14425332396&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F51657963%2F14425332396&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:51657963.14425332396img" src="https://cf.shopee.co.id/file/7c4221f3dc1ff4dd10e1235989084020" alt="Followers Instagram Real Permanen Followers Ig Murah Followers Ig Bergaransi" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=51657963.14425332396&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F51657963%2F14425332396&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:51657963.14425332396"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="40000"
+                data-title="Followers Instagram Real Permanen Followers Ig Murah Followers Ig Bergaransi" target="_blank"                data-href="https://shopee.co.id/universal-link/product/51657963/14425332396"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="51657963.14425332396"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-51657963.14425332396">
+              Followers Instagram Real Permanen Followers Ig Murah Followers Ig Bergaransi            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "51657963.14425332396")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:51657963.14425332396")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+            Diskon Rp5000        </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=51657963.14425332396&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F51657963%2F14425332396&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp40.000              </span>
+            </a>
+
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>my_followe(252), JAKARTA BARAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:51657963.14425332396')"  data-toggle="tooltip" data-placement="top" title="Riwayat Harga">
+                  <span>Harga Stabil</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="51657963.14425332396" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:51657963.14425332396');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:51657963.14425332396');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:51657963.14425332396");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:439986227.11565510775')" data-originhref="/r/?i=id_bid_shopeeid&id=439986227.11565510775&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F439986227%2F11565510775&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:439986227.11565510775img" src="https://cf.shopee.co.id/file/4e69eeabf9c0cd17e7ef3d75023eaff6" alt="Followers Instagram IG Permanen" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-gallery"><span>2</span></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=439986227.11565510775&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F439986227%2F11565510775&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:439986227.11565510775"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="150"
+                data-title="Followers Instagram IG Permanen" target="_blank"                data-href="https://shopee.co.id/universal-link/product/439986227/11565510775"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="439986227.11565510775"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-439986227.11565510775">
+              Followers Instagram IG Permanen            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "439986227.11565510775")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:439986227.11565510775")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=439986227.11565510775&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F439986227%2F11565510775&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp150              </span>
+            </a>
+
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>pey_gamesh(533), JAKARTA BARAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-up i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:439986227.11565510775')"  data-toggle="tooltip" data-placement="top" title="Riwayat Harga">
+                  <span>Harga Naik Rp50</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="439986227.11565510775" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:439986227.11565510775');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:439986227.11565510775');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:439986227.11565510775");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:59392579.9197591384')" data-originhref="/r/?i=id_bid_shopeeid&id=59392579.9197591384&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F59392579%2F9197591384&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:59392579.9197591384img" src="https://cf.shopee.co.id/file/1257866c821ddcfba41d46281c21039e" alt="Followers IG Permanen Indonesia" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=59392579.9197591384&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F59392579%2F9197591384&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:59392579.9197591384"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="595000"
+                data-title="Followers IG Permanen Indonesia" target="_blank"                data-href="https://shopee.co.id/universal-link/product/59392579/9197591384"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="59392579.9197591384"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-59392579.9197591384">
+              Followers IG Permanen Indonesia            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "59392579.9197591384")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:59392579.9197591384")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=59392579.9197591384&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F59392579%2F9197591384&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp595.000              </span>
+            </a>
+
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>any157(510), LEBAK                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:59392579.9197591384')"  data-toggle="tooltip" data-placement="top" title="Riwayat Harga">
+                  <span>Harga Stabil</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="59392579.9197591384" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:59392579.9197591384');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:59392579.9197591384');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:59392579.9197591384");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:105227913.14422386081')" data-originhref="/r/?i=id_bid_shopeeid&id=105227913.14422386081&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F105227913%2F14422386081&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:105227913.14422386081img" src="https://cf.shopee.co.id/file/821b82856c50c0b3d5b3a890136b29d0" alt="Followers Ig Indonesia permanen" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=105227913.14422386081&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F105227913%2F14422386081&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:105227913.14422386081"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="5000"
+                data-title="Followers Ig Indonesia permanen" target="_blank"                data-href="https://shopee.co.id/universal-link/product/105227913/14422386081"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="105227913.14422386081"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-105227913.14422386081">
+              Followers Ig Indonesia permanen            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "105227913.14422386081")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:105227913.14422386081")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=105227913.14422386081&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F105227913%2F14422386081&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp5.000              </span>
+            </a>
+
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>alfaidasto(14798), SUBANG                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:105227913.14422386081')"  data-toggle="tooltip" data-placement="top" title="Riwayat Harga">
+                  <span>Harga Stabil</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="105227913.14422386081" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:105227913.14422386081');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:105227913.14422386081');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:105227913.14422386081");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:110088823.5579037650')" data-originhref="/r/?i=id_bid_shopeeid&id=110088823.5579037650&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F110088823%2F5579037650&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:110088823.5579037650img" src="https://cf.shopee.co.id/file/f8a314ab842a5e758e6c1a7f9c0305dc" alt="Akun IG Followers Permanen" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=110088823.5579037650&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F110088823%2F5579037650&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:110088823.5579037650"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="10000"
+                data-title="Akun IG Followers Permanen" target="_blank"                data-href="https://shopee.co.id/universal-link/product/110088823/5579037650"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="110088823.5579037650"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-110088823.5579037650">
+              Akun IG Followers Permanen            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "110088823.5579037650")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:110088823.5579037650")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+                    </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=110088823.5579037650&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F110088823%2F5579037650&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp10.000              </span>
+            </a>
+
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>indra.el(1402), BLORA                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:110088823.5579037650')"  data-toggle="tooltip" data-placement="top" title="Riwayat Harga">
+                  <span>Harga Stabil</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="110088823.5579037650" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:110088823.5579037650');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:110088823.5579037650');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:110088823.5579037650");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+<div class="col-12 product-row ">
+    <div class="d-flex w100">
+            <div class='list-img-wrap d-flex justify-content-center align-items-center position-relative lightbox-img-wrap'>
+      <div onclick="openGallery('id_bid_shopeeid:51657963.15425753476')" data-originhref="/r/?i=id_bid_shopeeid&id=51657963.15425753476&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F51657963%2F15425753476&q=followers+permanen+ig&lb=product_searchpage" target="_blenk">
+        <img id="id_bid_shopeeid:51657963.15425753476img" src="https://cf.shopee.co.id/file/f1f4b3e54f1d5691828ab088869d6749" alt="Followers Instagram Real Permanen Followers Ig Murah Followers Ig Folls Ig Follower Instagram Real Permanen Follower Ig Murah Follower Ig Folls Ig" class="pimg" onerror='errorPImg(this)'>
+        <div class="i-zoom"></div>      </div>
+    </div>
+    <div class='d-flex flex-column justify-content-between list-desc'>
+            <div>
+        <div class="d-flex justify-content-center">
+          <div class="list-product-name line-clamp-2">
+            <a  href="/r/?i=id_bid_shopeeid&id=51657963.15425753476&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F51657963%2F15425753476&q=followers+permanen+ig&lb=product_searchpage" rel="nofollow" id="id_bid_shopeeid:51657963.15425753476"
+                class="gaobj"
+                data-symbol="Rp"
+                data-price="199000"
+                data-title="Followers Instagram Real Permanen Followers Ig Murah Followers Ig Folls Ig Follower Instagram Real P" target="_blank"                data-href="https://shopee.co.id/universal-link/product/51657963/15425753476"
+                data-siteindex="id_bid_shopeeid"
+                data-oid="51657963.15425753476"
+                data-id="Shopee"
+                data-storeicon="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png"
+                data-historyid="id_bid_shopeeid-51657963.15425753476">
+              Followers Instagram Real Permanen Followers Ig Murah Followers Ig Folls Ig Follower Instagram Real P            </a>
+          </div>
+                      <div class='option-menu-wrap-click position-relative' aria-expanded="false">
+              <div class="option-menu-btn i-more i-hover line-height0" data-toggle="tooltip" data-placement="top" title="Lebih"></div>
+              <div class="option-menu" style='top: 30px;'>
+                <div class='option-menu-item no-close' onclick='openMltPopup(this, "id_bid_shopeeid", "51657963.15425753476")'>
+                  <div class="d-flex align-items-center no-close">
+                    <div class="i-mlt no-close">&nbsp;</div>
+                    <span class="no-close">Serupa</span>
+                  </div>
+                </div>
+                <div class="option-menu-item" onclick='reportBug("id_bid_shopeeid:51657963.15425753476")'>
+                  <div>
+                    <img src="/images/option_icon/btn_more_report@2x.png?v=1" alt="Laporkan masalah">
+                    <span>Laporkan masalah</span>
+                  </div>
+                </div>
+
+                                              </div>
+            </div>
+                  </div>
+                <div class="font14 mb3 _text-promp-red line-clamp-1">
+            Diskon Rp5000        </div>
+              </div>
+      <div>
+          <div class="d-flex flex-wrap align-items-center">
+            <a  rel='nofollow' href='/r/?i=id_bid_shopeeid&id=51657963.15425753476&purl=https%3A%2F%2Fshopee.co.id%2Funiversal-link%2Fproduct%2F51657963%2F15425753476&q=followers+permanen+ig&lb=product_searchpage' target='_blank' class="no-underline">
+              <span class="price">
+                Rp199.000              </span>
+            </a>
+
+            
+            <span class='cb d-inline-flex align-items-center ml10'>
+              &nbsp;            </span>
+          </div>
+
+          <div class="d-flex justify-content-between">
+            <div class="d-flex align-items-center list-store font14">
+                              <div class="store-name hover">
+                  <img src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="14" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <div class="line-clamp-1">
+                    <a href="/store/?i=id_bid_shopeeid" target="_blank">                      <span>Shopee</span>my_followe(252), JAKARTA BARAT                    </a>                  </div>
+                </div>
+                                        </div>
+            <div class="d-flex align-items-center justify-content-end">
+                              <div class="i-ph-unchanged i-border i-hover" onclick="openHistoryPricePop(this, 'id_bid_shopeeid:51657963.15425753476')"  data-toggle="tooltip" data-placement="top" title="Riwayat Harga">
+                  <span>Harga Stabil</span>
+                </div>
+                                            <div data-toggle="tooltip" data-placement="top" title="Favorit" class="i-hover i-sub" data-pid="51657963.15425753476" data-nindex="id_bid_shopeeid"></div>
+                            <div data-toggle="tooltip" data-placement="top" title="Bagikan" class="option-menu-wrap-click bg-none position-relative line-height0" aria-expanded="false">
+                <div class="option-menu-btn i-share i-hover"></div>
+                <div class="option-menu option-menu-nohover" style='top: 30px; right: 0;'>
+                  <div class="option-menu-item" onclick="openShare('linepc','id_bid_shopeeid:51657963.15425753476');">
+                    <div>
+                      <img src="/images/option_icon/ic-line@2x.png" alt="Bagikan ke Line">
+                      <span>Bagikan ke Line</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick="openShare('telegram','id_bid_shopeeid:51657963.15425753476');">
+                    <div>
+                      <img src="/images/option_icon/ic-telegram@2x.png" alt="Bagikan ke Telegram">
+                      <span>Bagikan ke Telegram</span>
+                    </div>
+                  </div>
+                  <div class="option-menu-item" onclick='openShare("clipboard","id_bid_shopeeid:51657963.15425753476");'>
+                    <div>
+                      <img src="/images/option_icon/btn_more_copy@2x.png" alt="Salin ke papan klip">
+                      <span>Salin ke papan klip</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+      </div>
+    </div>
+      </div>
+
+  </div>
+</div>        <div class="row">
+        <div class="col-12">
+          <div id='afscontainer1'></div>
+        </div>
+      </div>
+      <script type="text/javascript" charset="utf-8">
+        var adblock1 = {
+          "container": "afscontainer1",
+          "linkTarget": "_blank",
+          "width": "870",
+          "number": 3,
+          "fontSizeTitle": 16,
+          "fontSizeAttribution": 16,
+          "fontSizeDescription": 16,
+          "fontSizeDomainLink": 12,
+          "colorTitleLink": "337ab7",
+          "noTitleUnderline": true,
+          "titleBold": true,
+          "colorText": "666",
+          "colorBorder": "#c8e6c9",
+          "borderSelections": "top",
+          "longerHeadlines": true
+        };
+      </script>
+  
+                  
+                                       <div class="row suggest mt20 ml12">
+                        <div class="col-12" style='font-size: 16px; color: #24343f; margin-bottom: 12px; font-weight: bold'>
+                            “<a class='_text-black' rel="nofollow" href='/s/followers permanen ig/'><h1 class="d-inline font16 font-weight-bold">followers permanen ig</h1></a>”                         </div>
+                     </div>
+                  
+                                    </div>
+
+                                 <div class="col-md-12 col-lg-3" style='position: relative'>
+                                         <div class='mb-3'><div class='row'>
+  <div class="col-12">
+    <div class='bg-white position-relative mb18 pb4' style="box-shadow: 0 0 6px 0 rgba(0, 41, 83, 0.16);border: 2px solid #FFD871;" >
+      <div class="bg-white pt15 mb12 pr14 pl14 " >
+        <div class="tool-title mb8 d-flex justify-content-between align-items-center">
+          <span>Rentang harga</span>
+          <span class='align-items-center cursor-pointer font13' style='color:#c67a00;font-weight: 400; display:none;' id="clear-price">
+            Hapus harga <img class="ml2" src='/images/ic_14_clear_yellow@2x.png' alt="clear price" width='14' height='14'>
+          </span>
+        </div>
+        <div class="spam-price-range-input d-flex align-items-center">
+          <input value='' type="number" min='0' id='price_l' placeholder='Harga Min.' class='d-inline-flex' aria-label='Harga Min.'>－
+          <input value='' type="number" min='0' id='price_h' placeholder='Harga Max.' class='d-inline-flex' aria-label='Harga Max.'>
+          <div class='d-flex align-items-center justify-content-center submit-price-btn ml10 text-white' onclick="setCustomSearch()" data-toggle="tooltip" data-placement="right" title='Kirimkan'>
+            Go
+          </div>
+        </div>
+      </div>
+      <div class='pl14 mb4 _text-gray font13 d-none' id='SuggestedPriceTitle'>Kisaran harga yang disarankan：</div>
+      <div class='pl14' id="price-range-wrap">
+              </div>
+    </div>
+    <div class='bg-white position-relative'>
+      <div class="bg-white">
+        <div class='tool-title mb8 pt15 pr14 pl14 d-flex align-items-center justify-content-between'>
+          <div>
+            Filter Toko<span id="cp-count"></span>
+          </div>
+          <div style='font-size: 12px; color: #616c74; font-weight: normal'>
+              2 toko          </div>
+        </div>
+        <div class="pc-store-btn-group pr14 pl14">
+          <div class="pc-store-btn" id='cpd-btn-all'>Semua</div>
+          <div class="pc-store-btn" id='cpd-btn-empty' style='margin-left: 2px; margin-right: 2px;'>Kosongkan</div>
+                  </div>
+        <div class='cp-store-desc position-relative' id="cp-store-wrap" style=''>
+                                <div class="cp-store-item ">
+              <div class='d-flex align-items-center'>
+                <label for="c_id_pmall_lazada" class='d-flex align-items-center m0 cursor-pointer _ckbox'>
+                  <input type='checkbox' class="cp "
+                      style="width:16px; height:16px; margin-right: 8px;" name="c[]"
+                      value="id_pmall_lazada" id="c_id_pmall_lazada" >
+                  <span class="_ckbox-mark mr8"></span>
+                  <img class='mr6' src="https://img.biggo.com.tw/x16,sj4DoidCQjM38m38DH2OIJNy3hdyEsCkq48W0kCT-jdk/https://biggo.id/images/store/id_pmall_lazada@3x.png" alt="Lazada" height="16" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <span class='line-clamp-1 word-break-all font14'>Lazada(1)</span>
+                </label>
+              </div>
+                          </div>
+                      <div class="cp-store-item ">
+              <div class='d-flex align-items-center'>
+                <label for="c_id_bid_shopeeid" class='d-flex align-items-center m0 cursor-pointer _ckbox'>
+                  <input type='checkbox' class="cp "
+                      style="width:16px; height:16px; margin-right: 8px;" name="c[]"
+                      value="id_bid_shopeeid" id="c_id_bid_shopeeid" >
+                  <span class="_ckbox-mark mr8"></span>
+                  <img class='mr6' src="https://img.biggo.com.tw/x16,sB3bSMVWhd72dYPG5JFmTvIxFtpfaKRE6WaYIydRUjmo/https://biggo.id/images/store/id_bid_shopeeid@3x.png" alt="Shopee" height="16" onerror="this.src='/images/biggo/biggo_logo@2x.png'">
+                  <span class='line-clamp-1 word-break-all font14'>Shopee(181)</span>
+                </label>
+              </div>
+                          </div>
+                    <div style="min-height:60px"> </div>
+        </div>
+              </div>
+      <div class="w-100 bg-white d-flex align-items-center position-absolute pl17 pr17" style='height:54px;box-shadow: 0 0 6px 0 rgba(0, 41, 83, 0.16);bottom: 0;left: 0;right: 0;'>
+                <div onclick="setCustomSearch()"
+            class='d-flex justify-content-center align-items-center'
+            style='cursor:pointer ;height: 30px; width: 100%; border-radius: 6px; background-color: #24343f; font-size: 15px; color: #fff'>
+          Kirimkan        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+                     <div class='mb-3'><div style="padding:15px 14px" class='d-flex flex-column bg-white font14 _text-block'>
+  <span class='tool-title mb14'>Pengaturan pencarian</span>
+  <div class="d-flex align-items-center justify-content-between">
+    <div>
+      Sembunyikan Item Habis              <span class="_text-lightgray">(2)</span>
+          </div>
+    <span onchange="toggleFilterCookie('offline')" class="line-height0">
+      <label class="switch m-0">
+          <input type="checkbox"><span class="slider round"></span>
+      </label>
+    </span>
+  </div>
+  <hr style="border-color: #d6d8dd;margin: 10px 0;">
+  <div class="d-flex align-items-center justify-content-between mt8">
+    <div>
+      Sembunyikan spam          </div>
+    <span onchange="toggleFilterCookie('spam')" class="line-height0">
+      <label class="switch m-0">
+          <input type="checkbox" checked><span class="slider round"></span>
+      </label>
+    </span>
+  </div>
+</div>
+</div>
+                                          <div class="mb-3">
+                                           </div>
+                    <div class='mb8'>
+                                                              </div>
+                    <div class='mb8' style="position:-webkit-sticky;position:sticky;top:80px;">
+                     <div id="fixad"><!-- ads by google -->
+
+
+<!-- BigGo -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1202195292614854"
+     data-ad-slot="5701713358"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<!-- /.ads by google -->
+</div>                     </div>
+
+                  </div>
+                           </div>
+
+            <!-- Pagination -->
+                                <div class="row justify-content-center">
+                     <nav class="d-flex justify-content-center">
+                      <ul class="pagination mt-3" >
+                      <li class="glyphicon active page-item "><a class="page-link"  href="/s/followers+permanen+ig/?p=1" rel="nofollow">1</a></li><li class="glyphicon "><a class="page-link"  href="/s/followers+permanen+ig/?p=2" rel="nofollow">2</a></li><li class="glyphicon "><a class="page-link"  href="/s/followers+permanen+ig/?p=3" rel="nofollow">3</a></li><li class="glyphicon "><a class="page-link"  href="/s/followers+permanen+ig/?p=4" rel="nofollow">4</a></li><li class="glyphicon "><a class="page-link"  href="/s/followers+permanen+ig/?p=5" rel="nofollow">5</a></li><li class="glyphicon "><a class="page-link"  href="/s/followers+permanen+ig/?p=6" rel="nofollow">6</a></li><li class="glyphicon "><a class="page-link"  href="/s/followers+permanen+ig/?p=7" rel="nofollow">7</a></li><li class="glyphicon page-item "><a class="page-link" href="/s/followers+permanen+ig/?p=2" style="font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif,'Glyphicons Halflings'" class="glyphicon-chevron-right page-link page-border" rel="nofollow next">Halaman Berikutnya</a></li>                      </ul>
+                      </nav>
+                   </div>
+                                                   <!-- /.pagination -->
+<div class="row mt15 mb15"><div class="col-12 text-center"><!-- ads by google -->
+
+
+<!-- BigGo -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1202195292614854"
+     data-ad-slot="5701713358"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<!-- /.ads by google -->
+</div></div>
+            
+          </div>
+       </div>
+    </div>
+    
+
+   
+       <div id='searchpage_template_wrap'></div>
+    <!-- /.main content -->
+        <hr class="subhr">
+    <script>
+      var backToTopParam = {
+         shareData: {
+            title: "Bagikan Halaman",
+            text: "Ini adalah hasil dari%1$s. Berbagi ini dengan Anda. BigGo",
+            pitemid: 'biggo:pageshare',
+            purl: "https://biggo.id/s/followers+permanen+ig/",
+            title: "followers permanen ig",
+            nindex: "biggo_product",
+            id: "BigGo",
+         }
+      }
+    </script>
+    <!-- footer -->
+<footer class="footer">
+  <div class="container mt10 px-0">
+          <div class="d-flex flex-wrap justify-content-between">
+        <div style='display: flex; align-items: center; flex: 1;'>
+          <div class="d-flex flex-column justify-content-center mr22">
+            <a href="https://biggo.id" aria-label="footer-logo" class="text-center">
+              <div class="footer-logo"></div>
+            </a>
+            <span>© 2022 BigGo</span>
+          </div>
+          <div>
+            <div class="d-flex flex-wrap justify-content-start align-items-center w-100 font14 mb10">
+              <div class='mr27'>
+                <a href="/offical/aboutus.php">Tentang Kami</a>
+              </div>
+              <div class='mr27'>
+                <a href="/offical/careers.php">Karir</a>
+              </div>
+              <div class='mr27'>
+                <a href="/offical/contactus.php">Hubungi Kami</a>
+              </div>
+              <div class='mr27'>
+                <a href="/offical/disclaimers.php?tag=privacy"><span>Penyangkalan</span></a>
+              </div>
+                                        </div>
+            <div class='d-flex align-items-center justify-content-between font12 mt12'>
+              <div class="font14 d-inline-flex align-items-center mr10">
+                <div class="mr10">
+                  <img src="/images/header_ic_global@2x.png" alt="global" height="14">
+                </div>
+                <div>
+                  <a href="https://biggo.com.tw/">台灣</a><span class="ml10 mr10">|</span><a href="https://biggo.co.th/">ประเทศไทย</a><span class="ml10 mr10">|</span><a href="https://biggo.jp/">日本</a><span class="ml10 mr10">|</span><a href="https://biggo.my/">Malaysia</a><span class="ml10 mr10">|</span><a href="https://biggo.sg/">Singapore</a><span class="ml10 mr10">|</span><a href="https://biggo.ph/">Philippines</a><span class="ml10 mr10">|</span><a href="https://biggo.hk/">香港</a><span class="ml10 mr10">|</span><a href="https://biggo.biz.vn/">Việt Nam</a>                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class='d-none d-sm-flex'>
+                      <script>
+              function clickFooterExtension(type) {
+                if(ga) {
+                  if(type == 1) {
+                    ga('send', 'event', 'extension-footer廣告', 'click', '進入extension安裝頁面');
+                  }else{
+                    ga('send', 'event', 'extension-footer廣告', 'click', '進入小幫手頁面');
+                  }
                 }
-            };
-        
-        // Listen to the Initialized event
-        window.addEventListener('LazyLoad::Initialized', function (e) {
-            // Get the instance and puts it in the lazyLoadInstance variable
-            var lazyLoadInstance = e.detail.instance;
-        
-            if (window.MutationObserver) {
-                var observer = new MutationObserver(function(mutations) {
-                    mutations.forEach(function(mutation) {
-                        mutation.addedNodes.forEach(function(node) {
-                            if (typeof node.getElementsByTagName !== 'function') {
-                                return;
-                            }
+              }
+            </script>
 
-                            imgs = node.getElementsByTagName('img');
-                            iframes = node.getElementsByTagName('iframe');
-                            rocket_lazy = node.getElementsByClassName('rocket-lazyload');
+            
+            <div class='d-flex align-items-center mr15'>
+              <div>
+                <div class="mb6 ml4">
+                  <img class="lazyload" data-src="/images/biggo_logo_gray.png" alt="BigGo" height='18'>
+                  <span class="font16 font-weight-bold" style='color: #707070;'>Ekstensi</span>
+                </div>
+                <div class="d-flex align-items-center cursor-pointer">
+                  <a href='https://biggo.com/ext' target='_blank' rel="nofollow noopener noreferrer" class="no-underline w-100" onclick='clickFooterExtension(1)'>
+                    <div style='border-radius: 28px; box-shadow: 0 2px 8px 0 rgba(0, 41, 83,0.25); background-color: #ffaf17; padding: 6px 15px; margin-left:4px; width: fit-content; width: -moz-fit-content; position: relative; z-index:2; display: flex; align-items: center; justify-content: center;'>
+                      <img src="/images/extension/help/btnic_chrome_logo@2x.png" alt="chrome" class="mr5" height="18">
+                      <span style='color: #331200; font-size: 14px'>Instal</span>
+                    </div>
+                  </a>
+                                  </div>
+              </div>
+            </div>
 
-                            if ( 0 === imgs.length && 0 === iframes.length && 0 === rocket_lazy.length ) {
-                                return;
-                            }
+                      <div class="d-flex flex-nowrap">
+              <div class="mr10">
+                <img src="/images/QRcode_install_app.png" alt="QRcode install app" height='65' width='65'>
+              </div>
+              <div>
+                <a class="gatrack" data-tab="ios" data-id="web" data-href="guest" href="https://itunes.apple.com/id/app/id1369893745" target="_blank" rel="nofollow noopener noreferrer" style='display: block; margin-bottom: 9px;' onclick="ga('send', 'event', 'app install footer', 'click', 'iOS下載 from pc')" >
+                  <img class="lazyload" data-src="/images/download_app_badge_ios.png?v=2" alt="Apple Store">
+                </a>
+                <a class="gatrack" data-tab="app" data-id="web" data-href="guest" href="https://play.google.com/store/apps/details?id=com.funmula.biggo.app&utm_campaign=overlap&utm_medium=mobile&utm_source=biggosite&hl=id" target="_blank" rel="nofollow noopener noreferrer" style='display: block' onclick="ga('send', 'event', 'app install footer', 'click', 'Android下載 from pc')" >
+                  <img class="lazyload" data-src="/images/download_app_badge_android.png?v=2" alt="Google Play">
+                </a>
+              </div>
+            </div>
+                  </div>
+      </div>
+      </div>
+</footer>
 
-                            lazyLoadInstance.update();
-                        } );
-                    } );
-                } );
-                
-                var b      = document.getElementsByTagName("body")[0];
-                var config = { childList: true, subtree: true };
-                
-                observer.observe(b, config);
+
+<!-- /.footer -->
+
+
+<script>
+    function openLoginPop() {
+        var nurl = location.pathname+location.search;
+        var configLang = "id_ID", cookieLang = getCookie('lang')
+        var lang = '&lang='+(cookieLang?cookieLang:configLang)
+        setCookie('loginUrl', nurl, 24*60*60*1000)
+        window.location.href='https://account.biggo.com?url='+ encodeURIComponent(location.href) + lang;
+        return;
+    }
+</script>
+
+<script>
+var isCreateNavbar=!1;function setCookie(e,n,o){var t=new Date;o=o||31536e6,t.setTime(t.getTime()+o),document.cookie=e+"="+n+";expires="+t.toGMTString()+"; path=/"}function toggleOption(e){var n=$("#"+e);n.hasClass("d-none")?n.removeClass("d-none"):n.addClass("d-none")}function changeLang(e){setCookie("lang",e);var n=new URL(window.location.href);n.searchParams.delete("lang"),window.location.href=n.href}var header_status=!1;function openHeaderMenu(){header_status=!0,document.querySelector(".header-menu").style.display="flex",document.getElementById("header-block").style.display=""}function closeHeaderMenu(){header_status=!1,document.querySelector(".header-menu").style.display="none",document.getElementById("header-block").style.display="none"}function clickMenuSpan(){if(header_status)return closeHeaderMenu();openHeaderMenu()}if(document.getElementById("searchimg")){var searchimg=document.getElementById("searchimg");searchimg.addEventListener("mouseenter",function(){searchimg.src="/images/btn_search_i@2x.png"}),searchimg.addEventListener("mouseleave",function(){searchimg.src="/images/btn_search@2x.png"})}function openMobileMenuBlack(){document.getElementById("mobile-header-black").classList.remove("d-none")}function closeMobileMenuBlack(){document.getElementById("mobile-header-black").classList.add("d-none")}function openMobileMenu(){if(!isCreateNavbar){var e=document.getElementById("mobile_navbar_template").content.cloneNode(!0);document.getElementById("navbar_template_wrap").appendChild(e),isCreateNavbar=!0}document.getElementById("mobile-header-menu").classList.remove("d-none"),openMobileMenuBlack()}function closeMobileMenu(){document.getElementById("mobile-header-menu").classList.add("d-none"),closeMobileMenuBlack()}function openMobileSettingMenu(){document.getElementById("mobile-header-menu-setting").classList.remove("d-none"),openMobileMenuBlack()}function closeMobileSettingMenu(e){e=e||!1,document.getElementById("mobile-header-menu-setting").classList.add("d-none"),e||closeMobileMenuBlack()}function openMobileLanguageMenu(){document.getElementById("mobile-header-menu-language").classList.remove("d-none"),openMobileMenuBlack()}function closeMobileLanguageMenu(e){e=e||!1,document.getElementById("mobile-header-menu-language").classList.add("d-none"),e||closeMobileMenuBlack()}function closeMobileAllMenu(){closeMobileMenuBlack(),closeMobileSettingMenu(),closeMobileMenu(),closeMobileLanguageMenu()}
+</script>
+
+    <!-- start script references -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>        <script src="/js/form_validator.min.js?v=0.3"></script>
+    <script src="/js/bootstrap4.3.1.min.js?v=4"></script>
+    <script src="/js/biggo_general.min.js?v=7.1"></script>
+    <!-- <script src="/js/jquery.autocomplete.min.js?v=7"></script> -->
+    <script src="/js/storeModal.min.js?v=2.4" async></script>
+    <script src="/js/lazyload.min.js?v=2"></script>
+    <script src="/js/popup_model.min.js?v=4.7" async></script>
+    <script src="/js/addToHomeScreen.js" async></script>
+    <script src="/js/biggo_ext_sdk.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="/js/ie8-responsive-file-warning.js"></script>
+    <![endif]-->
+    <script>
+  function lock_body(){
+    $('html').css("overflow", "hidden")
+    $('body').css("overflow", "hidden")
+  }
+  function unlock_body(){
+    $('html').css("overflow", "")
+    $('body').css("overflow", "")
+  }
+</script>        <!-- end script references -->
+
+<script>
+  var ISO_lang = "id-id";
+  try{
+    lazyload();
+    createBackToTop(window.backToTopParam || null)  //back to top buttom
+    inputClearHandle(searchinput, searchimg);
+  }catch(e){}
+
+  $(function () {
+    $('[data-toggle="tooltip"]').tooltip({delay: { "show": 150, "hide": 100 }});
+  });
+</script>
+
+
+    <script src="/js/jquery-scrolltofixed-min.js"></script>    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js" defer></script>
+    <div class="history-price-pop-wrap zindex-3 justify-content-center align-items-center position-fixed fill-position d-none" onclick="closeHistoryPricePop()"> <!-- onclick="closeHistoryPricePop()"-->
+  <div class="history-price-pop" onclick="notcolsepop(this)">
+        <div class="history-price-title" >
+      <div class="pl15 pr28 pt13 pb13 d-flex align-items-center justify-content-start position-relative">
+          <div class="history-price-Shop-name">
+            <div id="history-price-Shop-icon"><img src="/images/biggo/biggo_logo@2x.png" alt="store icon" width="16" class="mr7" onerror="this.src='/images/biggo/biggo_logo@2x.png'"></div>
+            <div id="history-price-Shop-name"></div>
+          </div>
+          <div class="history-price-product-name" id="history-price-product-name"></div>
+      </div>
+    </div>
+        <div class="history-price-content" id="history-price-scroll">
+      <div class="history-price-loading"></div>
+      <div class="w-100 d-flex flex-row">
+                <div class="w-50  pl15 pr15 bg-white" >
+          <div class='d-flex justify-content-between  align-items-center mt16 mb10'>
+            <div class="history-mulitple-spec multple_spec_btn _dropdown" style="display:none;">
+                <span class="m_title_spec">--</span>
+                <div class="multple_spec_dropdown _dropdown-menu">
+                  <div class="onerow">
+                    <span class="tags">---</span>
+                  </div>
+                </div>
+            </div>
+            <div class="history-sort-wrap _dropdown">
+              <div class="history-sort-btn d-flex justify-content-center align-items-center text-nowrap"><span id="selectTitle">90 hari terakhir</span><img class="dropdownarrow ml8" src="/images/ic_arrow_darkblue@2x.png" alt="arrow" width="12" height="8"></div>
+              <div class="history-sort-menu pt5 pb5 position-absolute _dropdown-menu">
+                <div class="history-sort-menu-item d-flex justify-content-between align-items-center" onclick="selsctSortDay(30)"> <span id="select30text">30 hari terakhir</span> <img src="/images/extension/btnic_check_ok@2x.png" alt="selectDay" width="16" height="16" class="selsctday" id="select30" style="display:none;"></div>
+                <div class="history-sort-menu-item d-flex justify-content-between align-items-center" onclick="selsctSortDay(90)"> <span id="select90text">90 hari terakhir</span> <img src="/images/extension/btnic_check_ok@2x.png" alt="selectDay" width="16" height="16" class="selsctday" id="select90" style="display:none;"></div>
+                <div class="history-sort-menu-item d-flex justify-content-between align-items-center" onclick="selsctSortDay(180)"> <span id="select180text">180 hari terakhir</span> <img src="/images/extension/btnic_check_ok@2x.png" alt="selectDay" width="16" height="16" class="selsctday" id="select180" style="display:none;"></div>
+                                  <hr>
+                  <div class="hint _dropdown-nobubble">*Hanya untuk pengguna aplikasi Asisten Belanja BigGo.</div>
+                  <div class="history-sort-menu-item d-flex align-items-center _dropdown-nobubble" onclick="popPHAppInstall()"> 1 tahun terakhir </div>
+                  <div class="history-sort-menu-item d-flex align-items-center _dropdown-nobubble" onclick="popPHAppInstall()"> <span>2 tahun terakhir</span> <div class="_NewTag position-static">New</div> </div>
+                              </div>
+            </div>
+          </div>
+          <div class="history-price-chart position-relative">
+            <canvas id="historyPriceChart"></canvas>
+          </div>
+          <div class='history-price-info'>
+                          <div class='w-100'>
+                <div> <span>Harga sekarang</span><span class='price' id='hCurrentPrice'>--</span> </div>
+                <div> <span>Harga Max.</span><span class='price' id='hMaxPrice'>--</span></div>
+                <div> <span>Harga Min.</span><span class='price' id='hMinPrice'>--</span></div>
+              </div>
+              <div class='history-price-info-line'></div>
+              <div class='w-100'>
+                <div><span class='price' id='hGoingPrice'>--</span></div>
+                <div> <span><img src="/images/ic_arrow_up_red.png" alt="arrow_up" class="mr5" height="13">Harga Naik</span><span class='price' id='hUpPrice'>--</span> </div>
+                <div> <span><img src="/images/ic_arrow_down_green.png" alt="arrow_down" class="mr5" height="13">Harga Turun</span><span class='price' id='hDownPrice'>--</span></div>
+              </div>
+                      </div>
+        </div>
+        <div class="w-50 mt8 pl15 pr15">
+                    <div class='history-price-list'>
+            <table class="history-price-table">
+              <tbody id="history-price-tbody">
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="history-price-footer">
+      <a rel="nofollow" href="#" class="_blue-btn no-underline" onclick="ga('send', 'event', 'history_price', 'click', 'view product')" id="historyViewProductBTN" target="_blank" style="display:none;">Lihat Produk</a>
+      <div class="_white-btn" onclick='closeHistoryPricePop()'>Tutup</div>
+    </div>
+
+  </div>
+</div>
+    <script>  //歷史價格popup js
+    var priceHistoryData =  []  //### ios時間格式須為 YYYY/M/D ###  {x:moment('2019/1/1', "YYYY/M/D"), y:0}
+    var current_price = 0 //現價
+    var priceHistorySymbol
+    var isCreate_history_price = false;
+    var historyPriceChart, scrollDOM, scrollPcDOM, duplicateMonth, daysInfoArray, daysInfo ,flag180=false, flag365=false, flag730=false
+    var ex_btn, ex_text
+
+    function numFormat(num) {
+      return num.toLocaleString(ISO_lang);
+    }
+
+    var customTooltips = function(tooltip) {   //自定義toolpits
+      // Tooltip Element
+      var tooltipEl = document.getElementById('chartjs-tooltip');
+      if (!tooltipEl) {
+          tooltipEl = document.createElement('div');
+          tooltipEl.id = 'chartjs-tooltip';
+          tooltipEl.innerHTML = '<table></table>';
+          this._chart.canvas.parentNode.appendChild(tooltipEl);
+      }
+      // 如果沒有工具提示則隱藏
+      if (tooltip.opacity === 0) {
+          tooltipEl.style.opacity = 0;
+          return;
+      }
+      //設置插入位置
+      tooltipEl.classList.remove('above', 'below', 'no-transform');
+      if (tooltip.yAlign) {
+          tooltipEl.classList.add(tooltip.yAlign);
+      } else {
+          tooltipEl.classList.add('no-transform');
+      }
+      function getBody(bodyItem) {
+          return bodyItem.lines;
+      }
+      //設置文字
+      if (tooltip.body) {
+          var titleLines = tooltip.title || [];
+          var bodyLines = tooltip.body.map(getBody);
+          var innerHtml = '<thead>';
+          titleLines.forEach(function(title) {
+            innerHtml += '<tr><th>' + '' + '</th></tr>';
+          });
+          innerHtml += '</thead><div class="d-flex flex-column pt7 pb5 pl8 pr10 text-white">';
+          bodyLines.forEach(function(body, i) {
+            var price = numFormat(tooltip.dataPoints[0].yLabel);
+            var date = titleLines[0];
+            var colors = tooltip.labelColors[i];
+            innerHtml += '<span class="font17 font-weight-bold" style="line-height: 1;">'+ priceHistorySymbol + price +'</span>';
+            innerHtml += '<span class="font11 text-nowrap">'+ date +'</span>'
+          });
+          innerHtml += '</div>';
+
+          if(tooltip.xAlign == "left"){        //箭頭向右
+            innerHtml += '<div id="triangle-left"></div>'
+          }else if(tooltip.xAlign == "right"){ //箭頭向左
+            innerHtml += '<div id="triangle-right"></div>'
+          }else{                              //箭頭置中
+            innerHtml += '<div id="triangle-top"></div>'
+          }
+
+          var tableRoot = tooltipEl.querySelector('table');
+          tableRoot.innerHTML = innerHtml;
+      }
+      var positionY = this._chart.canvas.offsetTop;
+      var positionX = this._chart.canvas.offsetLeft;
+      //顯示，定位和設置字體樣式
+      tooltipEl.style.opacity = 1;
+      if(tooltip.xAlign == "left"){          //提示靠右
+          tooltipEl.style.left = positionX + (tooltip.caretX+83) + 'px';
+          tooltipEl.style.top = positionY + (tooltip.caretY-22) + 'px';
+      }else if(tooltip.xAlign == "right"){  //提示靠左
+          tooltipEl.style.left = positionX + (tooltip.caretX-83) + 'px';
+          tooltipEl.style.top = positionY + (tooltip.caretY-22) + 'px';
+      }else{                                //提示置中
+          tooltipEl.style.left = positionX + tooltip.caretX + 'px';
+          tooltipEl.style.top = positionY + (tooltip.caretY+15) + 'px';
+      }
+    };
+
+    function createChart(){
+        var ctx = document.getElementById("historyPriceChart").getContext("2d");
+        var gradientFill = ctx.createLinearGradient(0, 0, 0, 150); //圖表漸層色 藍~白
+        gradientFill.addColorStop(0, "rgba(0, 217, 219, 0.5)");
+        gradientFill.addColorStop(1, "rgba(0, 217, 219, 0)");
+
+        document.getElementById("history-price-scroll").addEventListener("scroll", function() {
+          if(document.getElementById("chartjs-tooltip")){
+            document.getElementById("chartjs-tooltip").style.opacity = 0;
+          }
+        });
+        scrollDOM = document.getElementById('history-price-scroll');
+        scrollPcDOM = document.getElementsByClassName('history-price-list');
+
+        Chart.defaults.LineWithLine = Chart.defaults.line;  //hover垂直線(option type：LineWithLine)
+        Chart.controllers.LineWithLine = Chart.controllers.line.extend({
+          draw: function(ease) {
+              Chart.controllers.line.prototype.draw.call(this, ease);
+              if (this.chart.tooltip._active && this.chart.tooltip._active.length) {
+                var activePoint = this.chart.tooltip._active[0],
+                    ctx = this.chart.ctx,
+                    x = activePoint.tooltipPosition().x,
+                    y = activePoint.tooltipPosition().y,
+                    topY = this.chart.scales['y-axis-0'].top,
+                    bottomY = this.chart.scales['y-axis-0'].bottom;
+                // draw line
+                ctx.save();
+                ctx.beginPath();
+                ctx.moveTo(x, topY-20);
+                ctx.lineTo(x, bottomY);
+                ctx.lineWidth = 2;
+                ctx.strokeStyle = '#f6e1ab';
+                ctx.stroke();
+                ctx.restore();
+                //drow circle
+                ctx.save();
+                ctx.beginPath();
+                ctx.arc(x,y,5,0,2*Math.PI);
+                ctx.fillStyle = '#00c5c7';
+                ctx.fill()
+                ctx.stroke();
+                ctx.restore();
+              }
+          }
+        });
+
+        historyPriceChart = new Chart(ctx, {
+          type: "LineWithLine", // 圖表類型
+          data: {
+              //labels: ['7月', '8月', '9月', '10月', '11月'], // x軸標籤
+              datasets: [{
+                label: '', // 標題
+                //data: [800,950,800,1100,1200], // 資料
+                data: priceHistoryData,
+                borderColor: '#00c5c7',
+                backgroundColor: gradientFill,
+                borderWidth: 2, // 線寬度
+                lineTension: 0, //線曲度
+                pointRadius:0, //點大小
+                //hitRadius:50,
+                pointHoverRadius: 5, //hover點大小
+                pointBackgroundColor: '#00c5c7',
+                pointBorderWidth: 15,
+                pointBorderColor: 'rgba(0, 197, 199, 0.1)'
+              }]
+          },
+          options: {
+              maintainAspectRatio:false, //自動調正長寬比
+              responsive: true, //自適應
+              legend: {
+                display: false //不顯示標題
+              },
+              layout: {
+                padding:{
+                  top:22,
+                }
+              },
+              hover: {
+                mode: 'index', //nearest
+                intersect: false,
+              },
+              tooltips: {  //工具提示
+                enabled: false,
+                mode: 'index',
+                intersect: false,
+                custom: customTooltips //自定外觀
+              },
+              scales: {
+                xAxes: [{
+                    type: 'time',
+                    time: {
+                      unit: 'month',
+                      tooltipFormat:'YYYY-MM-DD HH:mm',
+                      displayFormats: {month: 'M'},
+                      //round: 'month',
+                      // min: moment('2019/6/29', "YYYY-M-D"),
+                      // max: moment('2019/10/23', "YYYY-M-D")
+                    },
+                    gridLines: {
+                      //display: false, //x軸隱藏所有縱線
+                      drawOnChartArea:false,   //x軸只顯示刻度線
+                      color: "#f9fafb"
+                    },
+                    ticks: {
+                      fontColor: '#bfc3c7',
+                      fontSize:13,
+                      callback: function(value, index, values) {
+                          return value + '月';
+                      }
+                    }
+                }],
+                yAxes: [{
+                    position: 'right', //y軸位置
+                    gridLines: {
+                      drawBorder: false, //hide first border line
+                      color: "#f9fafb"
+                    },
+                    ticks: {
+                      // beginAtZero: true,  //0開始
+                      // stepSize:100,
+                      // min:700,
+                      // max:1300,
+                      maxTicksLimit: 7,
+                      fontColor: '#bfc3c7',
+                      fontSize:13,
+                      display: false,
+                      callback: function(value, index, values) {
+                                    if (Math.floor(value) === value) {
+                                      return numFormat(value);
+                                    }
+                                }
+                    }
+                }]
+              }
+          },
+          plugins: [{
+              beforeDraw: function(chart) {
+                chart.scales['y-axis-0'].options.ticks.fontColor = 'transparent'; // hide original tick
+              },
+              afterDraw: function(chart) {  //y軸重疊在圖表上
+                var ctx = chart.ctx;
+                var yAxis = chart.scales['y-axis-0'];
+                var tickGap = yAxis.getPixelForTick(0) - yAxis.getPixelForTick(1);
+                // loop through ticks array
+                Chart.helpers.each(yAxis.ticks, function(tick, index) {
+                    if (index === yAxis.ticks.length ) return;
+                    var xPos = yAxis.right;
+                    var yPos = yAxis.getPixelForTick(index);
+                    var xPadding = 10;
+                    // draw tick
+                    ctx.save();
+                    ctx.textBaseline = 'middle';
+                    ctx.textAlign = 'left';
+                    ctx.fillStyle = '#bfc3c7';
+                    ctx.font='normal 13px Arial';
+                    if(tick){
+                      // ctx.fillText(priceHistorySymbol + tick, xPos-xPadding , yPos + tickGap / 5); //Y軸靠右
+                      ctx.fillText(priceHistorySymbol + tick, 0 , yPos + tickGap / 5); //Y軸靠左
+                    }
+                    ctx.restore();
+                });
+              }
+          }]
+
+      });
+    }
+
+    function timetrans(date){   //時間戳轉時間
+      var date = new Date(date); //如果date時間戳為13位需要乘1000
+      var Y = date.getFullYear() + '/';
+      var M = (date.getMonth()+1 < 10 ? '0'+(date.getMonth()+1) : date.getMonth()+1) + '/';
+      var D = (date.getDate() < 10 ? '0' + (date.getDate()) : date.getDate()) + ' ';
+      var h = (date.getHours() < 10 ? '0' + date.getHours() : date.getHours()) + ':';
+      var m = (date.getMinutes() <10 ? '0' + date.getMinutes() : date.getMinutes()) + ':';
+      var s = (date.getSeconds() <10 ? '0' + date.getSeconds() : date.getSeconds());
+      return Y+M+D+h+m+s;
+    }
+
+    function closeHistoryPricePop() {
+      scrollDOM.scrollTop = 0
+      scrollPcDOM[0].scrollTop = 0
+      document.getElementsByClassName("history-price-pop-wrap")[0].classList.remove('d-flex');
+      document.getElementsByClassName("history-price-pop-wrap")[0].classList.add("d-none");
+      flag180 = false
+      flag365 = false
+      flag730 = false
+      unlock_body()
+      if(typeof(isExtension)!=='undefined') {
+        vm.showHistoryPop = false
+        var eventHeight = "155px";
+        var eventWidth = erew + "px";
+        if(!vm.barStatus) {
+          eventHeight = "190px";
+          eventWidth = "285px";
+        }
+        window.dispatchEvent(createOpenEvent(eventHeight, eventWidth));
+      }
+      if(window.isExtensionV200 && typeof(isExtensionV200)!=="undefined") {
+        // version 2.0.0 extension
+        vm.isPriceHistoryShowing = false
+      }
+
+      // extension btn
+      // if(ex_btn || ex_text) {
+      //   ex_btn.remove();
+      //   ex_text.remove();
+      // }
+    }
+
+      function ajaxPriceHistoryData(target, day){
+        var productName = historyGlobal.title,
+            storeName = historyGlobal.storeName,
+            storeIcon = historyGlobal.storeIcon
+            nowPrice = historyGlobal.nowPrice
+        return new Promise(function(resolve, reject) {
+          if(flag180 && flag365 && flag730) return resolve();
+          var today = new Date()
+          var nowTime = today.getFullYear()+'/'+(today.getMonth()+1)+'/'+today.getDate()+' '+today.getHours()+':'+today.getMinutes()+':'+today.getSeconds()
+          var reqJson = {"item":[historyGlobal.history_id]}
+          if(day) reqJson.days = day;
+          document.querySelector('.history-price-loading').style.display = 'block';
+          jQuery.ajax({
+              type: 'POST',
+              dataType: "json",
+              url: "/api/product_price_history.php",
+              data: JSON.stringify(reqJson),
+              success: function(data) {
+                switch (day) {
+                  case 180:
+                    flag180 = true
+                    break;
+                  case 365:
+                    flag180 = true
+                    flag365 = true
+                    break;
+                  case 730:
+                    flag180 = true
+                    flag365 = true
+                    flag730 = true
+                    break;
+                  default:
+                    break;
+                }
+
+                  if(data.result == false){ //無資料,秀現價
+                    var sortDay = new Date().getTime()-90*24*60*60*1000;
+                    var newArray = [{x: moment(timetrans(sortDay), "YYYY/M/D HH:mm") ,y: Number(nowPrice)}]
+                    current_price = Number(nowPrice)
+                    daysInfoArray = false
+                    priceHistorySymbol = historyGlobal.symbol;
+                    document.getElementById('historyViewProductBTN').style.display = "none"
+                    document.querySelector(".history-mulitple-spec").style.display = 'none'
+                  }else{
+                    var dataValues = Object.values(data);
+                    var currentData = dataValues[0];
+                    priceHistorySymbol = currentData.symbol;
+                    var priceList = [];
+                    for (var i = 0; i < dataValues.length; i++) {
+                      (function(i) {
+                        priceList.push(dataValues[i].price_history);
+                      })(i);
+                    }
+                    var newArray = []
+                    for (var i = 0; i < priceList[0].length; i++) {
+                      (function(i) {
+                        newArray.push({x: moment(timetrans(priceList[0][i].x), "YYYY/M/D HH:mm") , y: priceList[0][i].y})
+                      })(i)
+                    }
+                    daysInfoArray = currentData.statistics
+                    current_price = currentData.current_price
+                    if(target == null){ //沒帶target時 從api拿
+                      productName = currentData.title
+                      storeName = currentData.nindex_name
+                      storeIcon = currentData.icon
+                    }
+                    if(currentData.url){
+                      document.getElementById('historyViewProductBTN').style.display = "";
+                      document.getElementById('historyViewProductBTN').href = currentData.url;
+                    }else{
+                      document.getElementById('historyViewProductBTN').style.display = "none"
+                    }
+
+                    if(currentData.model_id && currentData.multiple_product){ // 有多規格
+                      var drop_title = document.querySelector(".history-mulitple-spec .m_title_spec")
+                      var drop_menu = document.querySelector(".history-mulitple-spec .multple_spec_dropdown")
+                      var C = document.createDocumentFragment();
+                      drop_title.innerText = currentData.multiple_top_title
+                      drop_menu.innerHTML = ''
+                      currentData.multiple_product.forEach(function(item, index){
+                        var ROW = document.createElement('DIV')
+                            ROW.classList.add('onerow')
+                            ROW.addEventListener('click', function(e){
+                              flag180 = flag365 = false
+                              historyGlobal.history_id = item.history_id
+                              ajaxPriceHistoryData(target)
+                              ga('send', 'event', 'history_price', 'click', 'multiple model')
+                            })
+                        if(item.is_offline) ROW.classList.add('modeloffline');
+
+                        var NAME = document.createElement('DIV')
+                            NAME.classList.add('tags')
+                            NAME.innerText = item.name
+
+                        ROW.appendChild(NAME)
+                        C.appendChild(ROW)
+                      })
+                      drop_menu.appendChild(C)
+                      document.querySelector(".history-mulitple-spec").style.display = ''
+                    }else{
+                      document.querySelector(".history-mulitple-spec").style.display = 'none'
+                    }
+                  }
+
+                  priceHistoryData = newArray
+
+                  selsctSortDay(day) //預設90天
+                  setTimeout(function() {
+                    var historyPricePopWrap = document.getElementsByClassName("history-price-pop-wrap")[0]
+                    if(historyPricePopWrap.classList.contains("d-none")) lock_body();
+                    historyPricePopWrap.classList.add('d-flex');
+                    historyPricePopWrap.classList.remove("d-none");
+                    loadIconHandler(target, "loaded");
+                    $("#history-price-product-name").html(productName)
+                    $("#history-price-Shop-icon img").attr("src", storeIcon);
+                    $("#history-price-Shop-name").html(storeName)
+                  }, 200);
+
+                  document.querySelector('.history-price-loading').style.display = '';
+                  resolve()
+                }
+            });
+        });
+    }
+
+    var historyGlobal = {
+      target: null,
+      nindex: null,
+      oid: null,
+      nowPrice: null,
+      title: null,
+      storeName: null,
+      storeIcon: null,
+      history_id: null
+    }
+    function openHistoryPricePop(target, dataID) {
+      if(!isCreate_history_price) return;
+      var data_target = document.getElementById(dataID)
+      historyGlobal.target = target
+      historyGlobal.nindex = data_target.dataset.siteindex
+      historyGlobal.oid = data_target.dataset.oid
+      historyGlobal.symbol = data_target.dataset.symbol
+      historyGlobal.nowPrice = data_target.dataset.price
+      historyGlobal.title = data_target.dataset.title
+      historyGlobal.storeName = data_target.dataset.id
+      historyGlobal.storeIcon = data_target.dataset.storeicon
+      historyGlobal.history_id = data_target.dataset.historyid
+
+      var sortDay = 90;
+      var cookieDay = +getCookie('ph_day');
+      if(cookieDay && [7, 30, 90, 180, 365, 730].indexOf(cookieDay)>-1){
+        sortDay = cookieDay;
+      }
+
+      loadIconHandler(target, "loading");
+      ga('send', 'event', 'history_price', 'click', 'open popup')
+      ajaxPriceHistoryData(target, sortDay)
+
+      ex_btn = document.getElementById('ph_ex_btn');
+      ex_text = document.getElementById('ph_ex_text');
+      if(ex_btn || ex_text) {
+        ga('send', 'event', 'history_price', 'extension button', 'show')
+        // setCookies('ph_ex_btn', 1, 1000*60*60*24);
+      }
+    }
+
+    function notcolsepop() {
+      event.stopPropagation();
+    }
+
+    function getMonthTranslation(month, type) {
+      if(type == 90 && duplicateMonth == month){ return; }  //修正重複出現月份 v2.6.0 issue
+      duplicateMonth = month
+      switch (month) {
+        case '1':
+          return 'Januari';
+          break;
+        case '2':
+          return 'Februari';
+          break;
+        case '3':
+          return 'Maret';
+          break;
+        case '4':
+          return 'April';
+          break;
+        case '5':
+          return 'Mei';
+          break;
+        case '6':
+          return 'Juni';
+          break;
+        case '7':
+          return 'Juli';
+          break;
+        case '8':
+          return 'Agustus';
+          break;
+        case '9':
+          return 'September';
+          break;
+        case '10':
+          return 'Oktober';
+          break;
+        case '11':
+          return 'November';
+          break;
+        case '12':
+          return 'Desember';
+          break;
+        default:
+          break;
+      }
+    }
+
+    function selsctSortDay(day) { //選擇7,30,90,180天
+      day = day || +getCookie('ph_day') || 90;
+      if(!getCookie('extension_installed') && (day==365 || day==730)){
+        day = 90
+      }
+      setCookies('ph_day', day, 'session');
+
+      document.querySelectorAll(".selsctday").forEach(function(item){
+        item.style.display = 'none';
+      })
+      document.getElementById("select"+day).style.display = 'inline';
+
+      document.getElementById("selectTitle").innerText = document.getElementById("select"+day+"text").innerText
+      ga('send', 'event', 'history_price', 'click', 'select '+ day +' days sort');
+
+      if(day==180 && !flag180){
+        ajaxPriceHistoryData(historyGlobal.target, 180)
+        .then(function() {
+          renderPriceHistoryContent(180)
+        })
+      }else if(day==365 && !flag365){
+        ajaxPriceHistoryData(historyGlobal.target, 365)
+        .then(function() {
+          renderPriceHistoryContent(365)
+        })
+      }else if(day==730 && !flag730){
+        ajaxPriceHistoryData(historyGlobal.target, 730)
+        .then(function() {
+          renderPriceHistoryContent(730)
+        })
+      }else{
+        renderPriceHistoryContent(day)
+      }
+    }
+
+    function renderPriceHistoryContent(day) {
+      var sortDay = new Date().getTime()-day*24*60*60*1000;  //前？天時間戳
+      var reArr = priceHistoryData
+      var newArr = []
+      var priceArr = []
+      for (let i = 0; i < priceHistoryData.length; i++) {  //取得前?天array
+          if(Date.parse(reArr[i].x) > sortDay){
+            newArr.push(reArr[i])
+            priceArr.push(reArr[i].y)
+          }
+      }
+
+      if(day == 7){   //7天以日顯示
+          historyPriceChart.options.scales.xAxes[0].time.displayFormats = {day: 'M/D'}
+          historyPriceChart.options.scales.xAxes[0].time.unit = 'day'
+          historyPriceChart.options.scales.xAxes[0].ticks.callback = function(value, index, values) {
+            var dateArr = value.split('/')
+            var mon = dateArr[0]
+            var day = dateArr[1]
+                          return mon + '-' + day ;
+                      }
+      }else if(day == 30){ //30天以周顯示
+          historyPriceChart.options.scales.xAxes[0].time.displayFormats = {week: 'M/D'}
+          historyPriceChart.options.scales.xAxes[0].time.unit = 'week'
+          historyPriceChart.options.scales.xAxes[0].ticks.callback = function(value, index, values) {
+            var dateArr = value.split('/')
+            //var mon = getMonthTranslation(dateArr[0], 30)
+            var mon = dateArr[0]
+            var day = dateArr[1]
+                          return mon + '-' + day ;
+                      }
+      }else{  //90 & 180 & 730天以月顯示
+          historyPriceChart.options.scales.xAxes[0].time.unit = 'month'
+          historyPriceChart.options.scales.xAxes[0].time.displayFormats = {month: 'M'}
+          historyPriceChart.options.scales.xAxes[0].ticks.callback = function(value, index, values) {
+            return getMonthTranslation(value, 90)
+          }
+      }
+      var today = new Date()
+      var nowTime = today.getFullYear()+'/'+(today.getMonth()+1)+'/'+today.getDate()+' '+today.getHours()+':'+today.getMinutes()+':'+today.getSeconds()
+      if(newArr.length>0){
+          newArr.push({x: moment(nowTime, "YYYY/M/D HH:mm") ,y: current_price}) //插入今天
+          historyPriceChart.data.datasets[0].data = newArr // 新陣列
+          historyPriceChart.options.scales.xAxes[0].ticks.min = newArr[0].x  //日期區間
+          historyPriceChart.options.scales.xAxes[0].ticks.max = newArr[newArr.length-1].x
+      }else{ //近幾天都沒有資料，則顯示?天前~現在現價
+          historyPriceChart.data.datasets[0].data = [{x: moment(timetrans(sortDay), "YYYY/M/D HH:mm") ,y: current_price}, {x: moment(nowTime, "YYYY/M/D hh:mm") ,y: current_price}]
+          historyPriceChart.options.scales.xAxes[0].ticks.min =  moment(timetrans(sortDay), "YYYY/M/D HH:mm") //日期區間
+          historyPriceChart.options.scales.xAxes[0].ticks.max =  moment(nowTime, "YYYY/M/D HH:mm") //日期區間
+      }
+
+      historyPriceChart.update();  //更新圖表
+
+      daysInfoArray ? daysInfo = daysInfoArray['days'+day] : daysInfo=false
+      var maxPrice = daysInfo.max_price || current_price
+      var minPrice = daysInfo.min_price || current_price
+      var priceUp = daysInfo.up_times || 0
+      var priceDown  = daysInfo.down_times || 0
+      var priceGoingTime = daysInfo.last_continue_times || 0
+      var priceGoingStatus = !!daysInfo.last_increase_status
+      var priceGoing = ''
+      if(priceGoingTime>1){
+        if(priceGoingStatus){
+          priceGoing = "Pergi Up "+priceGoingTime+" kali"
+        }else{
+          priceGoing =  "Pergi Bawah "+priceGoingTime+" kali"
+        }
+      }else{
+        priceGoing = "Tidak ada perubahan kontinu"
+      }
+      $("#hCurrentPrice").html(priceHistorySymbol + numFormat(current_price))
+      $("#hMaxPrice").html(priceHistorySymbol + numFormat(maxPrice))
+      $("#hMinPrice").html(priceHistorySymbol + numFormat(minPrice))
+      $("#hUpPrice").html(priceUp+' kali')
+      $("#hDownPrice").html(priceDown+' kali')
+      $("#hGoingPrice").html(priceGoing)
+
+      var tr = ''
+      var tableDate = ''
+      var lastPrice = 0;
+      var priceDiff = 0;
+      var diffColor = ''
+      var diffArrow = ''
+      var isGreenUp = false; //漲跌顏色
+      if(newArr.length>0){
+          for (let i = newArr.length-1; i >= 0 ; i--) {  //取得前?天array , 表格需反轉
+            if(i > 0){
+                lastPrice = newArr[i-1].y
+                priceDiff = Number((newArr[i].y - lastPrice).toFixed(2))
+                if(priceDiff>0) {
+                  priceDiff = priceDiff
+                  diffColor = (isGreenUp?'price-diff-up':'price-diff-down')
+                  diffArrow = '<img src="/images/ic_arrow_up_'+ (isGreenUp?'green':'red') +'@2x.png" alt="arrow_up" width="12" class="mr2">';
+                }else if(priceDiff<0){
+                  priceDiff = priceDiff*-1
+                  diffColor = (isGreenUp?'price-diff-down':'price-diff-up')
+                  diffArrow = '<img src="/images/ic_arrow_down_'+ (isGreenUp?'red':'green') +'@2x.png" alt="arrow_down" width="12" class="mr2">';
+                }else{
+                  priceDiff = '';
+                  diffColor = '_text-gray'
+                  diffArrow = '<span class="font-weight-bold mr4 _text-lightgray pl13">&mdash;</span>';
+                }
+            }else{
+                lastPrice = 0;
+                priceDiff = '';
+                diffArrow = '<span class="font-weight-bold mr4 _text-lightgray pl13">&mdash;</span>';
             }
-        }, false);</script><script data-no-minify="1" async src="https://followersindo.com/wp-content/plugins/wp-rocket/assets/js/lazyload/11.0.3/lazyload.min.js"></script> <script src="https://followersindo.com/wp-content/cache/min/1/4481e23db62fbf5946f1d5d4e5f444fb.js" data-minify="1" defer></script><script>fbq('track', 'ViewContent');</script><script>fbq('track', 'Lead');</script><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis%3Ainherit%2C400%7CNunito%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&subset=" /></noscript><noscript><link rel="stylesheet" href="https://followersindo.com/wp-content/cache/min/1/b3a804d4eece5bc3d48429ccf272f543.css" data-minify="1" /></noscript><noscript><link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://followersindo.com/wp-content/cache/busting/1/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen-5.8.0.css' type='text/css' media='only screen and (max-width: 768px)' /></noscript></body></html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1641188987 -->
+            if(i == newArr.length-1){
+              tableDate = 'Sekarang'
+            }else{
+              tableDate = moment(newArr[i].x).format('YYYY-MM-DD HH:mm')
+            }
+            tr += '<tr><td class="time" width="40%">'+ tableDate +'</td><td class="price" width="32%">'+ priceHistorySymbol + numFormat(newArr[i].y) + '</td><td class="diff" width="28%">'+ diffArrow +'<span class="'+ diffColor +'">' + numFormat(priceDiff) + '</span></td></tr>'
+          }
+      }else{  //沒資料時顯示現價
+          tr += '<tr><td class="time" width="40%">'+ 'Sekarang' +'</td><td class="price" width="32%">'+ priceHistorySymbol + numFormat(current_price) + '</td><td class="diff" width="28%"><span class="font-weight-bold _text-gray">&mdash;</span><span class="font13"></span></td></tr>'
+      }
+      document.getElementById("history-price-tbody").innerHTML = tr  //插入表格
+    }
+
+
+    function popPHAppInstall(){
+      _modalize.open({
+        icon:'/images/biggo/notify_icon_biggo.png',
+        title:'Fitur ini khusus untuk pengguna "Asisten Belanja BigGo" saja.',
+        content: 'Untuk memeriksa catatan riwayat harga lebih dari 1 tahun, silakan instal aplikasi Asisten Belanja BigGo terlebih dahulu!',
+        button: [{
+          text: 'Mengerti',
+          styleClass: '_white-btn',
+          callback: function(){
+            _modalize.close()
+          }
+        },{
+          text: 'Install ',
+          styleClass: '_blue-btn',
+          callback: function(){
+            window.open('https://biggo.com/ext');
+          }
+        }]
+      })
+    }
+
+
+    $(function(){
+              createChart()
+        isCreate_history_price = true
+    })
+
+</script>
+    <script>
+function getPriceSpec(nindex, id, source, target){
+    jQuery.ajax({
+      type: 'GET',
+      url: "/api/multiple_price_product.php?nindex="+ nindex +"&id="+ id,
+      success: function(data) {
+        if(data.result == true){
+          // var price_spec_pop_cfg = create_multiple_spec_pop(data)
+          // _popupModel.openpopup(price_spec_pop_cfg);
+          append_drop_down(data, target)
+          ga("send", "event", "multiple_product_spec", source, "open popup")
+        }
+      }
+    });
+
+    function append_drop_down(data){
+      var dropdown = target.querySelector('.multple_spec_dropdown')
+      var dataID = data.nindex + ':' + data.id
+      if(!dropdown) {
+        var dropwrap = document.createElement('div')
+            dropwrap.classList.add('multple_spec_dropdown', 'd-block', '_dropdown-menu')
+            var htmlstr = '';
+            data.models.forEach(function(item, index){
+              var tagstr = '';
+              var pricestr = item.symbol + item.price.toLocaleString(ISO_lang);
+              item.v_index.forEach(function(i, index){
+                tagstr += data.variations[index].options[i] + " "
+              })
+
+              var row = document.createElement('div')
+                  row.classList.add('onerow')
+                  row.addEventListener('click', function(e){
+                    document.getElementById(dataID).dataset.historyid = item.history_id
+                    document.getElementById(dataID).dataset.price = item.price
+                    target.querySelector('.m_title_spec').innerText = tagstr
+                    target.querySelector('.m_title_price').innerText = pricestr
+                    ga("send", "event", "multiple_product_spec", source, "select spec")
+                    if(document.getElementById(dataID+'_price')){ //價格聯動多規格
+                      document.getElementById(dataID+'_price').innerText = pricestr;
+                    }
+                  })
+
+              if(item.is_offline) row.classList.add('modeloffline');
+
+              var t = document.createElement('span')
+                  t.classList.add('tags')
+                  t.innerText = tagstr
+              var p = document.createElement('span')
+                  p.classList.add('m_title_price')
+                  p.innerText = pricestr
+
+                  row.appendChild(t)
+                  row.appendChild(p)
+              dropwrap.appendChild(row)
+            })
+            target.appendChild(dropwrap)
+            window.lastdropdown = target
+      }
+    }
+
+  }
+</script>
+    <script type="text/javascript">
+      window.isSearchPage = true;
+      // lightbox.option({
+      //    'resizeDuration': 10,
+      //    'showImageNumberLabel': false,
+      //    'disableScrolling': true
+      // });
+      // global dom
+      var $gDOM = {
+         body: $("body"),
+         price_l: $("#price_l"),
+         price_h: $("#price_h"),
+         clear_price: $('#clear-price')
+      }
+      // global event
+      var gEvent = {
+         priceEnterHandler: function(e) {
+                           if(document.getElementById('header-search').querySelector("input[name='price']")){
+                  $('#header-search').find("input[name='price']").val($gDOM.price_l.val()+'-'+$gDOM.price_h.val())
+               }else{
+                  var inputPricehidden = document.createElement("INPUT")
+                  inputPricehidden.setAttribute("type", "hidden")
+                  inputPricehidden.setAttribute("name", "price")
+                  document.getElementById("header-search").appendChild(inputPricehidden)
+                  $('#header-search').find("input[name='price']").val($gDOM.price_l.val()+'-'+$gDOM.price_h.val())
+               }
+                        if($gDOM.price_l.val() != '' || $gDOM.price_h.val() != ''){
+               $gDOM.clear_price.css("display","flex");
+               $('#mobilePriceSubBtn').css("display","flex");
+            }else{
+               $gDOM.clear_price.css("display","none");
+               $('#mobilePriceSubBtn').css("display","none");
+            }
+            if (e.which == 13) {
+               return setCustomSearch();
+            }
+         }
+      }
+
+      $gDOM.price_l.change(gEvent.priceEnterHandler);
+      $gDOM.price_h.change(gEvent.priceEnterHandler);
+      $gDOM.price_l.keyup(gEvent.priceEnterHandler);
+      $gDOM.price_h.keyup(gEvent.priceEnterHandler);
+      // enter clear event
+      $gDOM.clear_price.click(function() {
+         $gDOM.price_l.val("");
+         $gDOM.price_h.val("");
+         $gDOM.clear_price.css("display","none");
+         setCustomSearch();
+      })
+
+      function setCustomSearch() {  //submit自選設定
+         var CURL = new URL(location.href)
+         var keyword = document.getElementById('searchinput').value;
+            keyword = encodeURIComponent(keyword)
+            if(keyword === '') {
+               keyword = "followers permanen ig";
+            }
+
+         var arr_store = [];
+         var final_url = '/s/'+ keyword +'/';
+         var custom_url = '';
+
+         var priceH, priceL
+         if(document.getElementById('price_h') && document.getElementById('price_l')){ //價格
+            priceL = document.getElementById('price_l').value.replace(/[^0-9\.]/g, '');
+            priceH = document.getElementById('price_h').value.replace(/[^0-9\.]/g, '');
+         }else{
+            var P = CURL.searchParams.get('price')
+            if(P){
+               priceL = P.split('-', 2)[0] || '';
+               priceH = P.split('-', 2)[1] || '';
+            }
+         }
+         if(priceH || priceL){
+            var l = priceL>0 ? priceL : ''
+            var h = priceH>0 ? priceH : ''
+            custom_url += '&price='+ l +'-'+ h
+         }
+
+         if(document.querySelector('input[name="sort"]')){ //排序
+            sort = document.querySelector('input[name="sort"]').value;
+            custom_url += '&sort='+sort
+         }
+
+         
+         document.querySelectorAll('input.cp:checked').forEach(function(item){
+            arr_store.push('c[]='+item.value);
+         })
+         if(arr_store.length){
+            arr_store = arr_store.join('&');
+            custom_url += '&m=cp&'+arr_store
+                     }
+
+         final_url += (custom_url?'?':'') + custom_url
+         ga('send', 'event', 'price', 'filter', final_url);
+         window.location.href = final_url;
+      }
+
+
+      function cpModal() {
+         if(!isCreate_cp_store){
+            var temp = document.getElementById("cp_store_template")
+            var clon = temp.content.cloneNode(true);
+            document.getElementById('searchpage_template_wrap').appendChild(clon);
+            lazyload()
+            isCreate_cp_store = true
+            bindCheckedEvent()
+         }
+         $("#cp-dialog").show()
+         $gDOM.body.css('overflow', 'hidden')
+         $gDOM.body.css('position', 'fixed')
+      }
+
+      function closeCp() {
+         $("#cp-dialog").hide()
+         $gDOM.body.css('overflow', 'auto')
+         $gDOM.body.css('position', '')
+      }
+
+      function cpBtn(s) {
+         var btn, act;
+         if($(".cpd-btn").length > 0) {
+            btn = $(".cpd-btn");
+            act = 'cpd-btn-act';
+         }else{
+            btn = $(".pc-store-btn");
+            act = 'pc-store-btn-act';
+         }
+         btn.removeClass(act)
+         if(s == 'all') {
+            $("#cpd-btn-all").addClass(act)
+         }else if(s == 'empty') {
+            $("#cpd-btn-empty").addClass(act)
+         }else {
+            $("#cpd-btn-cb").addClass(act)
+         }
+      }
+
+      function cpBtnAll() {
+         cpBtn('all')
+         $(".cp").each(function() {
+            $(this).prop('checked', true)
+         })
+         handleStoreFilter()
+      }
+
+      function cpBtnEmpty(){
+         cpBtn('empty')
+         $(".cp").each(function() {
+            $(this).prop('checked', false)
+         })
+         handleStoreFilter()
+      }
+
+      function cpBtnCb(){
+         cpBtn('cb')
+         $(".cp").each(function() {
+            $(this).prop('checked', false)
+         })
+         $(".cpc-cb").each(function() {
+            $(this).prop('checked', true)
+         })
+         handleStoreFilter()
+      }
+
+      $("#cpd-btn-all").click(cpBtnAll)
+      $("#cpd-btn-empty").click(cpBtnEmpty)
+      $("#cpd-btn-cb").click(cpBtnCb)
+
+      function setCpCount(count) {
+         if($("#cp-count")){
+            if(count > 0){
+               $("#cp-count").html("("+count+")")
+            }else{
+               $("#cp-count").html("")
+            }
+         }
+      }
+
+      function bindCheckedEvent(){
+         document.getElementById("cp-store-wrap").addEventListener('click', function(e){
+            if(e.target.tagName == "INPUT" && e.target.type == "checkbox"){
+               handleStoreFilter()
+            }
+         })
+      }
+               bindCheckedEvent()
+      
+      function handleStoreFilter() { //處理search bar選自選同時送出
+         var checkedCount = 0;
+                  document.getElementById("cp-store-wrap").querySelectorAll('.cp').forEach(function(checkbox){
+            if(checkbox.checked){
+                              checkedCount++;
+            }
+         })
+
+         var inputMethod = document.querySelector('input[name="m"]')
+         if(checkedCount > 0){
+            if(!inputMethod){
+               var inputM = document.createElement('INPUT');
+                  inputM.setAttribute("type", "hidden");
+                  inputM.setAttribute("name", "m");
+                  inputM.value = "cp";
+                  document.getElementById('searchbar-option-wrap').appendChild(inputM);
+            }else{
+               inputMethod.value = "cp"
+            }
+         }else{
+            if(inputMethod){
+               document.getElementById('searchbar-option-wrap').removeChild(inputMethod);
+            }
+         }
+         setCpCount(checkedCount);
+      }
+
+      
+      // search option mobile
+      var soption = {
+         index: null,
+         pid: null,
+         mltid: null,
+         key: null,
+         name: null,
+         purl: null,
+         nowPrice: null
+      }
+      function initMobileOption() {
+         $("#mobile-option-mlt").html("Serupa")
+         $("#search-option-mlt").css('display', 'flex')
+         $("#search-option-report").css('display', 'flex')
+         $("#search-option-copy span").text("Salin ke papan klip")
+         $('#search-option-title #menutitlespan').text("Lebih")
+      }
+
+            function openMobileOption(index, pitemid, pid, key, isGrouping, isHeader, purl, name, nowPrice, diffTitle ,diffClass, phicon, phstore) {
+         isHeader = isHeader || false;
+         isGrouping = isGrouping || false;
+         $("#search-option-mlt").html('<div class="i-mlt mr4 not-bob"></div><div class="mobile-menu-item-desc not-bob"><span id="mobile-option-mlt" class="not-bob">Serupa</span></div>')
+         initMobileOption()
+         // $("#search-option").removeClass('d-none')
+         $("#search-option").addClass('mobile-menu-wrap-show')
+         $("#search-option").removeClass('search-option-item-group')
+         soption.index = index
+         soption.pid = pid
+         soption.dataID = pitemid
+         soption.key = key
+         soption.purl = purl
+         soption.name = name
+         soption.nowPrice = nowPrice
+         // soption.diffImg = diffImg
+         soption.diffTitle = diffTitle
+         if(isGrouping) {
+            $("#search-option").addClass('search-option-item-group')
+            $("#search-option-mlt").hide()
+            $("#search-option-report").hide()
+            $('#search-option-title #menutitlespan').text("Bagikan")
+         }
+         if(isHeader) {
+            $("#search-option-mlt").hide()
+            $("#search-option-report").hide()
+            $("#search-option-copy span").text("Bagikan Halaman")
+            $('#search-option-title #menutitlespan').text("Bagikan")
+         }
+      }
+      $("#search-option").click(function(e) {
+         if(e.target.classList.contains('not-bob')) {
+            return;
+         }
+         // $("#search-option").addClass('d-none')
+         $("#search-option").removeClass('mobile-menu-wrap-show')
+      })
+      $("#search-option-mlt").click(function(e) {
+         // var dom = e.target.parentElement;
+         // var n = e.target.nodeName
+         // if(n == "SPAN") {
+         //    dom = e.target.parentElement.parentElement;
+         // }
+         var dom = this;
+         openMltPopup(dom, soption.index, soption.pid, "mobile-option-mlt")
+      })
+      function getShareFuntion(method) {
+         return function() {
+            openShare(method, soption.dataID)
+         }
+      }
+      $("#search-option-line").click(getShareFuntion('linepc'))
+      $("#search-option-telegram").click(getShareFuntion('telegram'))
+      $("#search-option-whatsapp").click(getShareFuntion('whatsapp'))
+      $("#search-option-messenger").click(getShareFuntion('fbmsg'))
+      // $("#search-option-fb").click(getShareFuntion('fbshare'))
+      $("#search-option-copy").click(getShareFuntion('clipboard'))
+      $("#search-option-report").click(function(e) {
+         reportBug(soption.dataID)
+      })
+                     $('#navbar-search').scrollToFixed({
+            removeOffsets:true,
+            zIndex: 1001,
+            preFixed: function(){
+               $("#navbar-search").addClass('navbar-search-fixed')
+            },
+            postFixed: function() {
+               $("#navbar-search").removeClass('navbar-search-fixed')
+            }
+         });
+            
+      function reportBug(dataID) {
+         var dataDOM = document.getElementById(dataID)
+         var oid = dataDOM.dataset.oid,
+            nindex = dataDOM.dataset.siteindex,
+            title = dataDOM.dataset.title
+         $.ajax({
+            url: '/api/bug_report.php',
+            data: {
+               "index": nindex,
+               "id": oid,
+            },
+            success: function() {
+               alert("Terima kasih atas bantuan Anda, produk '%1$s' telah dilaporkan. BigGo akan memeriksa dan menindaklanjuti.".replace('%1$s', title));
+            }
+         });
+      }
+    </script>
+    <script>
+      function openShare(method, pitemid) {
+         if(typeof pitemid == 'object'){
+            var desc = pitemid.text
+            var url = pitemid.url
+            var copySTR = ''
+            switch (method) {
+               case 'line':
+               case 'linepc':
+                  copySTR = 'http://line.naver.jp/R/msg/text/?' + encodeURIComponent(desc) + "%0D%0A" + encodeURIComponent(url);
+                  break;
+               case 'telegram':
+                  copySTR = 'https://t.me/share/url?url=' + encodeURIComponent(url) + '&text=' + encodeURIComponent(desc);
+                  break;
+               case 'clipboard':
+                  copySTR = desc + ' ' + url
+                  break;
+               default:
+                  break;
+            }
+            if (copySTR != '') {
+               if(method == 'clipboard'){
+                  if (navigator.userAgent.match(/ipad|ipod|iphone/i)) {
+                     document.getElementById('ios_copy_area').innerText = copySTR
+                  }else{
+                     var clipmsg = document.createElement("input");
+                     document.body.appendChild(clipmsg);
+                     clipmsg.setAttribute("id", "clipmsg_id");
+                     document.getElementById("clipmsg_id").value = copySTR;
+                     clipmsg.select();
+                     document.execCommand('copy')
+                     document.body.removeChild(clipmsg);
+                  }
+                  window.setTimeout(function() {
+                     alert('Disalin');
+                  }, 50 );
+               }else{
+                  if(method == 'fbmsg'){
+                     window.location.href = copySTR;
+                  }else{
+                     window.open(copySTR)
+                  }
+               }
+            }
+
+         }else{
+            // producturl, siteindex, siteid, sitename, title, image, desc, price
+            var pitem = document.getElementById(pitemid);
+            var title = pitem.dataset.title;
+            var sitename = pitem.dataset.id;
+            var image = document.getElementById(pitemid+"img").src;
+            var price = pitem.dataset.price;
+            var siteindex = pitem.dataset.siteindex;
+            var siteid = pitemid.split(":",2)[0];
+            var pid = pitemid.split(":",2)[1];
+            var producturl = pitem.dataset.href;
+            var desc = "";
+
+            if (siteid == 'biggo_product' || siteid =='biggo' ) {
+               desc='Ini adalah hasil perbandingan harga untuk %1$s. Dibagikan untuk Anda. BigGo - Mesin Pencari Produk.';
+               desc = desc.replace("%1$s", title);
+            } else {
+               desc='Sekarang, %1$s hanya %2$s di %3$s. Dibagikan untuk Anda. BigGo - Mesin Pencari Produk.';
+               desc = desc.replace("%1$s", title);
+               desc = desc.replace("%2$s", 'Rp' + price);
+               desc = desc.replace("%3$s", sitename);
+            }
+
+            if (siteid != '' && producturl != '') {
+               var tinyurl = '';
+               jQuery.ajax({
+                  type: "POST",
+                  async: false,
+                  url: "/api/shortener_url.php",
+                  data: {rnd:Math.random, req:"shorten", i:siteindex, t:siteid, id:pid, purl:producturl, title:title},
+                  success: function(data) {
+                     if (data.indexOf("http://biggo.tw/") > -1) {
+                        tinyurl = data;
+                        if (tinyurl != '') {
+                           ga('send', 'event', method, 'share', tinyurl);
+                           var url = '';
+                           if (method == 'line') {
+                              //  url = 'line://msg/text/?' + encodeURIComponent(desc) + '%0A' + encodeURIComponent(tinyurl);
+                              url = 'http://line.naver.jp/R/msg/text/?' + encodeURIComponent(desc) + "%0D%0A" + encodeURIComponent(tinyurl);
+                           } else if (method == 'linepc') {
+                              //  url = 'https://lineit.line.me/share/ui?url=' + encodeURIComponent(tinyurl);
+                              url = 'http://line.naver.jp/R/msg/text/?' + encodeURIComponent(desc) + "%0D%0A" + encodeURIComponent(tinyurl);
+                           } else if (method == 'fbmsg') {
+                              url = 'fb-messenger://share?app_id=' + encodeURIComponent(547168815470194) + '&link=' + encodeURIComponent(tinyurl);
+                           } else if (method == 'fbshare') {
+                              url = 'https://www.facebook.com/dialog/share?app_id=' + encodeURIComponent(547168815470194) + '&caption=' + encodeURIComponent(sitename) + '&title=' + encodeURIComponent(title) + '&description=' + encodeURIComponent(desc) + '&picture=' + encodeURIComponent(image) + '&href=' + encodeURIComponent(tinyurl);
+                           } else if (method == 'twitter') {
+                              url = 'https://twitter.com/intent/tweet?text=' + encodeURIComponent(desc) + '&url=' + encodeURIComponent(tinyurl);
+                           } else if (method == 'gplus') {
+                              url = 'https://plus.google.com/share?url=' + encodeURIComponent(tinyurl);
+                           } else if (method == 'whatsapp') {
+                              url = 'https://wa.me/?text=' + encodeURIComponent(tinyurl);
+                           } else if (method == 'telegram') {
+                              url = 'https://t.me/share/url?url=' + encodeURIComponent(tinyurl) + '&text=' + encodeURIComponent(desc);
+                           } else if (method == 'email') {
+                              if (siteid == 'biggo_product' || siteid =='biggo' ) {
+                                 url = 'mailto:?subject=' + encodeURIComponent(" ") + encodeURIComponent("This is a price comparison result for ") + encodeURIComponent(title) + '&body=' + encodeURIComponent("Hi," + "\n\r" + "  I saw ") + encodeURIComponent(title) + encodeURIComponent("'s price comparison results on BigGo ") + tinyurl + "%0A%0D" + encodeURIComponent("  and share it with you. BigGo - Product Search Engine.");
+                              } else {
+                                 url = 'mailto:?subject=' + encodeURIComponent(" Now, ") + encodeURIComponent(title) + encodeURIComponent(" is only S$") + encodeURIComponent(price) + encodeURIComponent(" in ") + encodeURIComponent(sitename) + '&body=' + encodeURIComponent("Hi," + "\n\r") + encodeURIComponent(" Now, ") + encodeURIComponent(title) + encodeURIComponent(" is only S$") + encodeURIComponent(price) + encodeURIComponent(" in ") + encodeURIComponent(sitename) + "%0A%0D" + "  " + tinyurl + "%0A%0D" + encodeURIComponent(" Share this with you. BigGo - Product Search Engine.");
+                              }
+                           } else if (method == 'clipboard') {
+                              url = desc + ' ' + tinyurl;
+                           }
+                           if (url != '' && method != 'clipboard') {
+                              if(method == 'fbmsg'){
+                                 window.location.href = url;
+                              }else{
+                                 window.open(url)
+                              }
+                           }
+                           if (url != '' && method == 'clipboard') {
+                              if (navigator.userAgent.match(/ipad|ipod|iphone/i)) {
+                                 document.getElementById('ios_copy_area').innerText = url
+                              }else{
+                                 var clipmsg = document.createElement("input");
+                                 document.body.appendChild(clipmsg);
+                                 clipmsg.setAttribute("id", "clipmsg_id");
+                                 document.getElementById("clipmsg_id").value = url;
+                                 clipmsg.select();
+                                 document.execCommand('copy')
+                                 document.body.removeChild(clipmsg);
+                              }
+                              window.setTimeout(function() {
+                                 alert('Disalin');
+                              }, 50 );
+                           }
+                        }
+                     }
+                  }
+               });
+            }
+         }
+      }
+
+
+       
+      </script>    <script>
+   $(document).ready(function() {
+      searchautocomplete('#searchinput', {
+         historyData: [],
+         historyType: "hour_hot", //cookie_history or history
+         suggestData: '/api/suggestion.php',
+         suggestType: 'api',
+         onSelect: function(suggestion) {
+            var headerForm = document.getElementById("header-search");
+            var searchForm = document.getElementById("search");
+            var form = headerForm || searchForm;
+            $(form).submit();
+         }
+      });
+   });
+</script>
+    
+<script>
+   document.addEventListener('DOMContentLoaded', function(){
+      document.querySelectorAll('.i-sub').forEach(function(subDOM){
+         subDOM.addEventListener('click',function(e){
+                           openLoginPop();
+               return;
+                        if(e.eventPhase == 2){
+               subscribeHandler(e);
+            }
+         })
+      },false)
+      
+      // 商品上架通知 START
+      var notifyEL = document.querySelectorAll('div[data-notify]');
+      if(!notifyEL) return;
+      notifyEL.forEach(function(item, i){
+         item.addEventListener("click", function(e){
+                           openLoginPop(); return;
+                        if ('Notification' in window  && Notification.permission == 'default' && 'serviceWorker' in navigator) {
+               showNotifyHintOverlay(item)
+            }else{
+               toggleNotificationsHandler(item);
+            }
+         })
+      })
+         })
+
+   </script>
+                <script type="text/javascript">
+      $(function(){
+         $(window).scroll(function(){
+            if($(window).scrollTop() > 100){
+               var footerHeight = $("body").height() - $(window).height() - 130;
+               if($(window).scrollTop() > footerHeight){
+                  $('#search-ad-banner-1').addClass('scroll-footer')
+               }else{
+                  $('#search-ad-banner-1').addClass('scroll-show')
+                  $('#search-ad-banner-1').removeClass('scroll-footer')
+               }
+            }else{
+               $('#search-ad-banner-1').removeClass('scroll-show')
+               $('#search-ad-banner-1').removeClass('scroll-footer')
+            }
+         });
+         $('#close-left-ad-banner').click(function(e){
+            e.preventDefault()
+            $('#search-ad-banner-1').addClass('d-none')
+            setCookies('closebanner_left_flag', '1', 1000*60*60*24);
+         })
+         // if(document.getElementById('search-ad-banner-1')){
+         //    $('#search-ad-banner-1').scrollToFixed({ zIndex: 1, marginTop: 55, removeOffsets:true });
+         // }
+         // if(document.getElementById('search-ad-banner-2')){
+         //    $('#search-ad-banner-2').scrollToFixed({ zIndex: 1000, marginTop: 55, removeOffsets:true });
+         // }
+
+         document.getElementById("pcFilterMenu").addEventListener("click", function(e){
+            if((e.target === this || e.target.classList.contains("btntext")) && this.querySelector("._dropdown-menu.d-block")){
+               ga('send', 'event', 'filter', 'open menu');e.stopPropagation();
+            }
+         })
+      })
+
+      
+       var recent_start = 0;
+       var recent_max = 0;
+       var recent_slide_max = 0;
+       if (recent_max > 5) {
+         function recentslide() {
+            $('#r'+recent_start).slideUp({
+               complete: function(){
+                  $('#r'+recent_start).attr('id','r'+recent_slide_max);
+                  $('#rlog').append($('#r'+recent_slide_max));
+                  $('#r'+recent_slide_max).css("display", "");
+                  recent_slide_max = recent_slide_max + 1;
+                  recent_start = recent_start+1;
+               }
+            });
+         }
+              }
+    </script>
+        
+         <script>
+         function detectIE() {
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf('MSIE ');
+            if (msie > 0) {
+               return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+            }
+            var trident = ua.indexOf('Trident/');
+            if (trident > 0) {
+               var rv = ua.indexOf('rv:');
+               return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+            }
+            var edge = ua.indexOf('Edge/');
+            if (edge > 0) {
+               return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+            }
+            return false;
+         }
+      </script>
+            <script>
+         var isCreate_cp_store = false;
+
+
+               (function loadAD(){
+            var gclidString = window.location.search;
+            var urlParams = new URLSearchParams(gclidString);
+            var gclid = urlParams.get('gclid')
+
+
+            var pageOptions = {  //AFS option
+               "adsafe": "medium",
+               "pubId": "pub-1202195292614854",
+               "styleId": 8256341655,
+               "query": "followers permanen ig",
+               "adPage": 1,
+               "hl": "id",
+               "channel": "2459738382"
+            };
+
+            function load_adsense(){
+               try {
+                  [].forEach.call(document.querySelectorAll('.adsbygoogle'), function(){
+                     (adsbygoogle = window.adsbygoogle || []).push({});
+                  });
+               } catch (err) {
+                  console.log(err.name + ':' + err.message)
+               }
+            }
+
+            function load_AFS(){
+               if(typeof gclid === 'undefined' || gclid === null) {
+               _googCsa('ads', pageOptions , adblock1);               }
+            }
+
+            function load_AFSH(){
+               var adShoppingOptions = {
+                  "pubId" : "vert-pla-funmula-srp",
+                  "query" : "followers permanen ig",
+                                    'linkTarget': '_blank',
+                  "adsafe" : "high",
+                  "adtest" : "off",
+                  "hl" : "id",
+                  "channel" :"2459738382",
+                  'adLoadedCallback': function(containerName, adsLoaded){
+                     if(adsLoaded){
+                        load_AFS()
+                     }else{
+                                                   document.getElementById("adsforshopping").innerHTML = ""
+                           var AFSH_backfill = {
+                              "container": "adsforshopping",
+                              "linkTarget": "_blank",
+                              "number": 2,
+                           };
+                           _googCsa('ads', pageOptions, AFSH_backfill , adblock1);
+                                             }
+                  }
+               };
+               var afshBlock = {
+                  "container" : "adsforshopping",
+                  "width" : 1500,
+                  "height" : 280,
+                                 };
+               _googCsa("plas", adShoppingOptions, afshBlock);
+            }
+
+            function scrolled(){
+               if(window.scrollY > 60){
+                  window.removeEventListener('scroll', scrolled)
+                  load_adsense()
+                  load_AFS();               }
+            }
+            load_AFSH();            window.addEventListener('scroll', scrolled)
+         })()
+      
+         $(window).on('load',function(){
+                     var googleAds = document.createElement('script');
+            googleAds.async = true;
+            googleAds.src = 'https://www.google.com/adsense/search/ads.js';
+            document.head.appendChild(googleAds);
+         
+        getPriceRange()
+         }) //window onload end
+
+         function getPriceRange() {
+            jQuery.ajax({
+               type: 'POST',
+               dataType: "json",
+               url: "/api/product_price_range.php?query=followers+permanen+ig&m=308ba4c4a97efe7681661a22c1e80d4e",
+               success: function(data) {
+                  var arr_price = data.item
+                  var symbol = data.symbol
+                  if(arr_price.length){
+                     arr_price.forEach(function(item, i){
+                        if(item.min+'-'+item.max != ""){
+                           var BTN = document.createElement("DIV")
+                           BTN.classList.add('price-range-btn')
+                           BTN.dataset.min = item.min
+                           BTN.dataset.max = item.max
+                           BTN.innerText = symbol+item.min.toLocaleString(ISO_lang)+' - '+symbol+item.max.toLocaleString(ISO_lang)
+                           BTN.addEventListener('click', selectPriceRange)
+                           document.getElementById('price-range-wrap').appendChild(BTN)
+                        }
+                     })
+                  }
+               }
+            });
+         }
+
+         function selectPriceRange(e) {
+            e = e.target
+            var price_l = e.dataset.min
+            var price_h = e.dataset.max
+            ga('send', 'event', 'price_suggestion', 'click', '$'+price_l+' - $'+ price_h);
+                        if (price_l != '' && price_h != '') {
+               if (parseInt(price_l) > 0 && parseInt(price_h) > 0 && parseInt(price_l) < parseInt(price_h)) {
+                  var price = price_l + "-" + price_h;
+                  ga('send', 'event', 'price', 'filter', '/s/followers+permanen+ig/?view=list&price=' + price);
+                  window.location.href = '/s/followers+permanen+ig/?view=list&price=' + price;
+               } else {
+                  window.location.href = '/s/followers+permanen+ig/?view=list&';
+               }
+            }else {
+               window.location.href = '/s/followers+permanen+ig/?view=list&';
+            }
+         }
+
+         window.translate = {
+            shareLine: 'Bagikan ke Line',
+            shareTelegram: 'Bagikan ke Telegram',
+            clipboard: 'Salin alamat gambar',
+            close: 'Tutup',
+            viewProduct: 'Lihat Produk',
+            keyboardHint: "🌟 Gunakan ↑ ↓ ← → (tombol panah) untuk memilih gambar. Gunakan Esc untuk menutup gambar.",
+            offline: "Produk Habis",
+         }
+
+         // Gallery START
+         function openGallery(pitemid){
+            if(!pitemid) return void(0);
+            nindex = pitemid.split(":",2)[0];
+            oid = pitemid.split(":",2)[1];
+            jQuery.ajax({
+               type: 'GET',
+               url: "/api/get_product.php?nindex="+ nindex +"&oid="+ oid,
+               success: function(data) {
+                  data.pageFrom = "product";
+                  data.url = document.getElementById(pitemid).href;
+                  data.link_target = (document.getElementById(pitemid).dataset.id=="biggo_product")?'_self':'_blank';
+                  if(data.result){
+                     openGallerypop(data)
+                  }else{ //result false default data
+                     data = {
+                        nindex: nindex,
+                        oid: oid,
+                        title: document.getElementById(pitemid).dataset.title || '',
+                        images: [document.getElementById(pitemid+'img').src],
+                        videos: []
+                     }
+                     openGallerypop(data)
+                  }
+               }
+            });
+         }
+
+         function openGallerypop(data){
+                           _galleryPOP(data)
+                     }
+
+         // Gallery END
+
+         
+         
+         
+         
+         
+         
+         
+         function toggleFilterCookie(type){
+            var ga_event
+            var newURL = new URL(location.href)
+            newURL.searchParams.delete('p')
+            switch (type) {
+               case "offline":
+                  if(getCookie("antioffline")){
+                     rmCookie("antioffline")
+                     ga_event = "showoffline"
+                  }else{
+                     setCookies("antioffline", "1")
+                     ga_event = "antioffline"
+                  }
+                  break;
+               case "spam":
+                  if(getCookie("antispam")){
+                     rmCookie("antispam")
+                     ga_event = "antispam"
+                  }else{
+                     setCookies("antispam", "0")
+                     ga_event = "showspam"
+                  }
+                  break;
+            }
+
+            ga('send', 'event', 'filter', ga_event, "followers+permanen+ig");
+            if(ga_event.indexOf('spam') == -1){
+               location.href = newURL.href;
+            }else{
+               $.ajax({
+                  url: '/member/setfilter.php?req=setfilter&set='+ga_event,
+                  success: function() {location.href = newURL.href;}
+               });
+            }
+         }
+      </script>
+   </body>
+</html>
