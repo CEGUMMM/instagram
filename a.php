@@ -1,305 +1,1265 @@
 
 <!DOCTYPE html>
-<html lang="en">
-  
+<html>
+	<head><meta charset="windows-1252"> 
+        
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Jasa Tambah Followers, Likes, Views Instagram - GoSocial</title>
+		<link rel="shortcut icon" href="https://gosocial.co.id/assets/customer/images/logo/favicon.png">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<meta name="title" content="Jasa Tambah Followers, Likes, Views Instagram - GoSocial">
+		<meta name="description" content="Tingkatkan interaksi akun Instagram anda secara cepat dengan Beli Followers Instagram, Auto Likes Instagram, hingga Views dari akun Aktif Indonesia / Mix">
+		<meta name="keywords" content="beli followers instagram, jual followers instagram, auto followers instagram, auto likes instagram, likes instagram, beli likes instagram, views instagram, cara menambah followers instagram">
+		<meta name="csrf-token" content="Jds8cqC18SEA7SoQa5oDpX8W47z7YoCLpH6z1zcI">
+		<meta name="copyright" content="GoSocial Indonesia">
+		<meta name="language" content="id">
+		<meta name="robots" content="index,follow" />
+		<meta name="ahrefs-site-verification" content="966b79264c1ad1ac0aad281236c463a0d466b553bbf8b30ed4bd7a3b5665d42b">
+		<meta property='og:image' content='/assets/landing/image/metaimage.jpg'/>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WVTV3D3');</script>
+		<!-- End Google Tag Manager -->
+		<!-- Start Alexa Certify Javascript -->
+		<script type="text/javascript">
+		_atrk_opts = { atrk_acct:"lhMKu1O7kI20L7", domain:"gosocial.co.id",dynamic: true};
+		(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+		</script>
+		<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=lhMKu1O7kI20L7" style="display:none" height="1" width="1" alt="" /></noscript>
+		<!-- End Alexa Certify Javascript -->  
+		<!-- Global site tag (gtag.js) - Google Ads: 716449069 --> 
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-716449069"></script> 
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-716449069'); </script>
+		<link rel="icon" href="https://gosocial.co.id/assets/customer/images/logo/favicon.png" sizes="32x32"/>
+		<link rel="canonical" href="https://gosocial.co.id/service/social-media-engagement/instagram" />
+        <link href="https://gosocial.co.id/assets/landing/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/owl.carousel.min.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/themify-icon/themify-icons.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/elagent-icon/style.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/flaticon/flaticon.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/language_select.css" rel="stylesheet" >
+<link href="https://gosocial.co.id/assets/landing/vendors/magnific-popup/magnific-popup.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/linear-icon/style.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/animate.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/public.min.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/unittest.css" rel="stylesheet">
+<link href="https://gosocial.co.id/assets/landing/css/style.css" type="text/css" rel="stylesheet"/>
+<link href="https://gosocial.co.id/assets/landing/css/main.css" type="text/css" rel="stylesheet"/>
+<link href="https://gosocial.co.id/assets/landing/css/responsive.css" type="text/css" rel="stylesheet"/>
 
-<head>
-    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MH86X8L');</script>
-<!-- End Google Tag Manager -->
-    
-    <meta charset="utf-8">
-    <title>Real Pengikut - Termurah dan Terpercaya</title>
-    <link rel="icon" href="assets/icons/favicon.png" type="image/png" sizes="16x16">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Buy many more service for your Social Media business with most cheapest price with Realpengikut.com">
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900%7COpen+Sans:300,400,500" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/animate.css"> <!-- Resource style -->
-    <link rel="stylesheet" href="assets/css/owl.carousel.css">
-    <link rel="stylesheet" href="assets/css/A.owl.theme.css.pagespeed.cf.l8joiPZMDs.css">
-    <link rel="stylesheet" href="assets/css/ionicons.min.css"> <!-- Resource style -->
-    <link href="assets/css/stylesheet.css" rel="stylesheet" type="text/css" media="all"/>
-  </head>
-  <body class="boxed-layout">
-      <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MH86X8L" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<link rel="stylesheet" href="https://gosocial.co.id/assets/landing/css/nouislider.min.css" type="text/css" />
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        
+        ga('create', 'UA-84936033-5', 'auto');
+        ga('send', 'pageview');
+		</script>
+		
+		<!-- Facebook Pixel Code -->
+		<script>
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window, document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '757811421495361');
+		fbq('track', 'PageView');
+		</script>
+		<noscript><img height="1" width="1" style="display:none"
+		src="https://www.facebook.com/tr?id=757811421495361&ev=PageView&noscript=1"
+		/></noscript>
+		<!-- End Facebook Pixel Code -->
+	</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVTV3D3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-    <div class="wrapper">
-      <!-- Navbar Section -->
-      <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top wt-border">
-        <div class="container">
-          <a class="navbar-brand" href="index.html">Real Pengikut</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-           <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto navbar-right">
-              <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#main">Product</a></li>
-              <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#reviews">Reviews</a></li>
-              <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#pricing">Pricing</a></li>
+<header class="header_top fixed header_ab ">
+         <div id="header-scroll" class="header_top_bar">
+      <div class="container">
+         <div class="row">
+
+            <div class="col-xs-6">
+               <div class="h_contact_info">
+                  <a href="mailto:hello@gosocial.co.id"><i class="fa fa-envelope"></i>hello@gosocial.co.id</a>
+                  <a href="javascript:void(0);"><i class="fa fa-clock-o"></i>09:00 s/d 17:00 <small class="text-muted">(Jam Kerja)</small></a>
+               </div>
+            </div>
+            <div class="col-xs-6">
+               <div class="header_social_top">
+                  <div class="header_social">
+                     <h6>Ikuti Kami</h6>
+                     <a href="https://www.facebook.com/gosocialid/" target="_blank"><i class="fa fa-facebook"></i></a>
+                     <a href="https://www.linkedin.com/company/gosocialid" target="_blank"><i class="fa fa-linkedin"></i></a>
+                     <a href="https://instagram.com/gosocial.id" target="_blank"><i class="fa fa-instagram"></i></a>
+                  </div>
+                  <a href="#" onclick="document.getElementById('myModal').style.display='block'" class="header_btn">Butuh Bantuan?</a>
+               </div>
+            </div>
+            
+         </div>
+      </div>
+   </div>
+         <nav class="navbar">
+      <div class="container">
+         <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <i class="lnr lnr-menu"></i>
+            <i class="lnr lnr-cross"></i>
+            </button>
+            <a class="navbar-brand" href="https://gosocial.co.id">
+            <img src="https://gosocial.co.id/assets/landing/image/logo.png" alt="Logo GoSocial" />
+            </a>
+         </div>
+         <div class="collapse navbar-right navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul id="nav" class="nav navbar-nav menu_two">
+               <li class="home_sub menu-item dropdown submenudropdown">
+                  <a href="https://gosocial.co.id" class="dropdown-toggle">Home</a>
+               </li>
+               <li class="services_sub menu-item dropdown submenudropdown btndrop current_page_item current-menu-item active">
+                  <a title="Services" href="#" data-toggle="dropdown" class="dropdown-toggle">Service</a>
+                  <ul class="dropdown-menu submenu">
+                                                                                     <li class="menu-item dropdown current_page_item active submenudropdown">
+                        <a title="Social Media Engagement" href="https://gosocial.co.id/service/social-media-engagement">Social Media Engagement </a>
+                                                <ul class="dropdown-menu submenu">
+                                                                                 <li class="menu-item dropdown submenudropdown activepage_item"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/instagram">Instagram</a></li>
+                                                                                                            <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/facebook">Facebook</a></li>
+                                                                                                            <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/youtube">Youtube</a></li>
+                                                                                                            <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/social-media-engagement/twitter">Twitter</a></li>
+                                                                              </ul>
+                                             </li>
+                                                                                                          <li class="menu-item dropdown submenudropdown">
+                        <a title="Branding &amp; Design" href="https://gosocial.co.id/service/branding-design">Branding &amp; Design </a>
+                                                                        <ul class="dropdown-menu submenu dropindex">
+                           <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-foto-produk">Jasa Foto Produk</a></li>
+                           <li class="menu-item dropdown submenudropdown btndropindex"><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis">Jasa Desain Grafis</a>
+                                                            <ul class="dropdown-menu submenu dropindex">
+                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/social-media">Social Media</a>
+                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/logo">Logo</a>
+                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/stationery">Stationery</a>
+                                 <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-desain-grafis/custom">Custom</a>
+                              </ul>
+                              
+                           </li>
+                           <li class="menu-item dropdown submenudropdown "><a class="txtmenu" href="https://gosocial.co.id/service/branding-design/jasa-video-animasi">Jasa Video Animasi</a></li>
+                        </ul>
+                                                                     </li>
+                                                                                                          <li class="menu-item dropdown ">
+                        <a title="Digital Campaign" href="https://gosocial.co.id/service/digital-campaign">Digital Campaign </a>
+                                                                                             </li>
+                                                                                                          <li class="menu-item dropdown ">
+                        <a title="Social Media Management" href="https://gosocial.co.id/service/social-media-management">Social Media Management </a>
+                                                                                             </li>
+                                                               <li class="menu-item dropdown"><a title="Pembuatan Website" href="https://gosocial.co.id/service/website">Website Solution <span class="badge badge-header-new">* new</span></a>
+                     <ul class="dropdown-menu submenu">
+                           <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/website/jasa-pembuatan-website">Pembuatan Website</a></li>
+                           <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/website/penulisan-artikel">Penulisan Artikel</a></li>
+                           <li class="menu-item dropdown submenudropdown"><a class="txtmenu" href="https://gosocial.co.id/service/website/jasa-seo">Search Engine Optimization</a></li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+               <li class="menu-item dropdown submenudropdown">
+                  <a title="How to" href="https://gosocial.co.id/knowledge-base" class="dropdown-toggle">How to</a>
+               </li>
+               <li class="menu-item dropdown submenudropdown">
+                  <a title="About Us" href="https://gosocial.co.id/about-us" class="dropdown-toggle">About</a>
+               </li>
+               <li class="menu-item dropdown submenudropdown">
+                  <a title="Pages" href="https://gosocial.co.id/contact-us" class="dropdown-toggle">Contact</a>
+               </li>
             </ul>
-          </div>
-        </div>
-      </nav><!-- Navbar End -->
-
-
-      <div id="main" class="main">
-        <div class="home">
-          <div class="container">
-            <div class="hero-content wow fadeIn">
-              <div class="flex-split">
-                <div class="container">
-                  <div class="flex-inner flex-inverted align-center">
-                    <div class="f-image f-image-inverted">
-                      <img class="img-fluid" src="assets/images/real.svg" alt="Feature">
-                    </div>
-                    <div class="f-text">
-                      <div class="left-content">
-                        <h4>Real Aktif Indonesia, Real Session, Real Traffic/Insight</h4>
-                        <h2>Connect better with interactive stream.</h2>
-                      </div>
-                      <p class="condition_txt">Ramaikan sosmed dan olshop mu dengan Realpengikut.com. Saatnya beralih ke strategi pemasaran terkini di Internet! Tingkatkan popularitas & kepercayaan audience anda di media sosial! </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
+            <div class="menu_btn">
+               <ul class="menu_action">
+                  <li class="action_menu">
+                                          <a class="banner_btn btn-getnow" href="https://gosocial.co.id/login"><i class="fa fa-sign-in"></i> Login</a>
+                                       </li>
+                                 </ul>
             </div>
-          </div>
-        </div><!-- Hero End -->
-
-
-        <!-- Pricing Tables -->
-        <div id="pricing" class="pricing-section text-center">
-          <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                <div class="pricing-intro">
-                  <h1>Our Pricing Plans.</h1>
-                  <p>
-                    Our plans are designed to meet the requirements of both beginners <br class="hidden-xs"> and players.
-                    Get the right plan that suits you.
-                  </p>
-                </div>
+         </div>
+      </div>
+   </nav>
+</header>
+<section class="new_breadcrumb_area">
+   <div id="particles-js"></div>
+   <div class="container">
+      <h1>Instagram - SME Services</h1>
+      <ol id="breadcrumbs" class="breadcrumb ">
+         <li class="item-home"><a class="bread-link bread-home" href="https://gosocial.co.id" title="Home">Home</a></li>
+         <li class="item-home"><a class="bread-link bread-home" href="https://gosocial.co.id/service/social-media-engagement" title="Social Media Engagement">Social Media Engagement</a>
+         </li>
+         <li class="item-current item-2670"><span class="bread-current bread-2670">Instagram</span></li>
+      </ol>
+   </div>
+</section>
+<section class="subscribe_area_new subscribe_news_details">
+      <div class="container">
+            <div class="range-content wow fadeInUp" data-wow-delay="150ms">
                 <div class="row">
-                <!--Pricing Column-->
-                <article class="pricing-column col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="inner-box fadeIn animated wow" data-wow-delay=".1s">
-                        <div class="plan-header text-center">
-                        <img src="assets/images/harga/menu1.png" alt="gambar 4" style="width:240px;height:450px;">    
+                    <div class="col-md-12 text-center">
+                    <iframe class="frame-rounded" width="560" height="315" src="https://www.youtube.com/embed/_s43umxrG2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <div class="seo-rang-heading-wrapper wow fadeInUp">
+                            <h2 class="title">Apa itu layanan Social Media Engagement?</h2>
                         </div>
-                        <div class="text-center">
-                            <a href="https://api.whatsapp.com/send?phone=6285959516242&text=Hallo%20kak,%20aku%20liat%20iklan%20di%20Realpengikut.com.%20gimana%20cara%20ordernya?" class="btn btn-primary btn-shadow w-md btn-rounded">Buy Now</a>
-                        </div>
+                        <br/>
+                        <a href="#price" style="border: 2px solid white;" target="_self" class="btn thm-btn pro_btn blue_btn">Pilih Paket Sekarang!</a>
                     </div>
-                </article>
-
-                <!--Pricing Column-->
-                <article class="pricing-column col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="inner-box fadeIn animated wow" data-wow-delay=".2s">
-                        <div class="plan-header text-center">
-                        <img src="assets/images/harga/menu7.png" alt="gambar 4" style="width:240px;height:450px;">    
-                        </div>
-                        <div class="text-center">
-                            <a href="https://api.whatsapp.com/send?phone=6285959516242&text=Hallo%20kak,%20aku%20liat%20iklan%20di%20Realpengikut.com.%20gimana%20cara%20ordernya?" class="btn btn-primary btn-shadow w-md btn-rounded">Buy Now</a>
-                        </div>
-                    </div>
-                </article>
-				
-                <!--Pricing Column-->
-                <article class="pricing-column col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="inner-box fadeIn animated wow" data-wow-delay=".2s">
-                        <div class="plan-header text-center">
-                        <img src="assets/images/harga/menu8.png" alt="gambar 4" style="width:240px;height:450px;">    
-                        </div>
-                        <div class="text-center">
-                            <a href="https://api.whatsapp.com/send?phone=6285959516242&text=Hallo%20kak,%20aku%20liat%20iklan%20di%20Realpengikut.com.%20gimana%20cara%20ordernya?" class="btn btn-primary btn-shadow w-md btn-rounded">Buy Now</a>
-                        </div>
-                    </div>
-                </article>				
-
-                <!--Pricing Column-->
-                <article class="pricing-column col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="inner-box fadeIn animated wow" data-wow-delay=".3s">
-                        <div class="plan-header text-center">
-                        <img src="assets/images/harga/menu4.png" alt="gambar 4" style="width:240px;height:450px;">    
-                        </div>
-                        <div class="text-center">
-                            <a href="https://api.whatsapp.com/send?phone=6285959516242&text=Hallo%20kak,%20aku%20liat%20iklan%20di%20Realpengikut.com.%20gimana%20cara%20ordernya?" class="btn btn-primary btn-shadow w-md btn-rounded">Buy Now</a>
-                        </div>
-                    </div>
-                </article>
-
-                <!--Pricing Column-->
-                <article class="pricing-column col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="inner-box fadeIn animated wow" data-wow-delay=".4s">
-                        <div class="plan-header text-center">
-                        <img src="assets/images/harga/menu6.png" alt="gambar 4" style="width:240px;height:450px;">    
-                        </div>
-                        <div class="text-center">
-                            <a href="https://api.whatsapp.com/send?phone=6285959516242&text=Hallo%20kak,%20aku%20liat%20iklan%20di%20Realpengikut.com.%20gimana%20cara%20ordernya?" class="btn btn-primary btn-shadow w-md btn-rounded">Buy Now</a>
-                        </div>
-                    </div>
-                </article>
-
-
-                <!--Pricing Column-->
-                <article class="pricing-column col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="inner-box fadeIn animated wow" data-wow-delay=".4s">
-                        <div class="plan-header text-center">
-                        <img src="assets/images/harga/menu2.png" alt="gambar 4" style="width:240px;height:450px;">    
-                        </div>
-                        <div class="text-center">
-                            <a href="https://api.whatsapp.com/send?phone=6285959516242&text=Hallo%20kak,%20aku%20liat%20iklan%20di%20Realpengikut.com.%20gimana%20cara%20ordernya?" class="btn btn-primary btn-shadow w-md btn-rounded">Buy Now</a>
-                        </div>
-                    </div>
-                </article>                
-
-                <!--Pricing Column-->
-                <article class="pricing-column col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="inner-box fadeIn animated wow" data-wow-delay=".4s">
-                        <div class="plan-header text-center">
-                        <img src="assets/images/harga/menu3.png" alt="gambar 4" style="width:240px;height:450px;">    
-                        </div>
-                        <div class="text-center">
-                            <a href="https://api.whatsapp.com/send?phone=6285959516242&text=Hallo%20kak,%20aku%20liat%20iklan%20di%20Realpengikut.com.%20gimana%20cara%20ordernya?" class="btn btn-primary btn-shadow w-md btn-rounded">Buy Now</a>
-                        </div>
-                    </div>
-                </article>              
-
-
-                <!--Pricing Column-->
-                <article class="pricing-column col-lg-3 col-md-6 p-lg-0 mt-4 pt-2">
-                    <div class="inner-box fadeIn animated wow" data-wow-delay=".4s">
-                        <div class="plan-header text-center">
-                        <img src="assets/images/harga/menu5.png" alt="gambar 4" style="width:240px;height:450px;">    
-                        </div>
-                        <div class="text-center">
-                            <a href="https://api.whatsapp.com/send?phone=6285959516242&text=Hallo%20kak,%20aku%20liat%20iklan%20di%20Realpengikut.com.%20gimana%20cara%20ordernya?" class="btn btn-primary btn-shadow w-md btn-rounded">Buy Now</a>
-                        </div>
-                    </div>
-                </article>              
-
+                </div>
             </div>
-                        <!-- end row -->
-
         </div>
-        </div>
-        </div>  
-        </div>              
-        <!-- end container -->
-
-
-        <!-- YD Flex Grid Section -->
-        <div id="reviews" class="yd_reviews">
-          <div class="container">
-            <div class="yd_rev_inner">
-              <div class="row">
-                <div class="col-md-5">
-                  <div class="rev-intro">
-                    <h2>Stories from our customers</h2>
+    </section>
+<section class="seo-features new-seo-features c2a_5 bg_white" style="padding: 70px; 0px;">
+   <div class="container">
+      <div class="row d_flex">
+         <div class="col-sm-6 col-xs-12 wow fadeInLeft">
+            <div class="feature-shape"><img class="img-responsive" src="https://gosocial.co.id/assets/landing/image/sme_followers_left.png" alt="Image"></div>
+         </div>
+         <div class="col-sm-6 col-xs-12 d_flex wow fadeInRight">
+            <div class="features-content flex">
+               <h2 class="title">Beli Followers Instagram</h2>
+               <p>Layanan jual / jasa followers merupakan <strong>cara terbaru menambah jumlah followers / pengikut di Instagram</strong>, yang berasal dari akun aktif Indonesia maupun dari akun aktif Worldwide (Seluruh Dunia), secara instant, murah, tanpa password, aman dan berkualitas.</p>
+               <br/>
+               <p>Jumlah Followers bermanfaat untuk meningkatkan reputasi bisnis dan kepercayaan calon pembeli / klien ketika melihat akun Instagram Anda.</p>
+               <br/>
+               <p>Layanan ini biasa disebut dengan <b>Jasa Tambah / Beli Followers Instagram.</b></p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="seo-features new-seo-features c2a_5 bg_white" style="padding: 70px; 0px;">
+   <div class="container">
+      <div class="row d_flex row_reverse">
+         <div class="col-sm-6 col-md-7 col-xs-12 wow fadeInRight">
+            <div class="s_business_img">
+               <div class="feature-shape"><img src="https://gosocial.co.id/assets/landing/image/sme_likes_right.png" alt="Image"></div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-md-5 col-xs-12 d_flex wow fadeInLeft">
+            <div class="s_business_content flex">
+               <h2 class="title">Auto Likes Instagram</h2>
+               <p>Layanan tambah / jual / beli likes Instagram sangat penting untuk menunjang konten / post, dikarenakan algoritma Instagram saat ini yang menilai suatu konten 
+                  layak ditampilkan kepada Followers / orang lain jika interaksi yang didapatkan banyak (menarik).
+               </p>
+               <br/>
+               <p>
+                  Layanan jasa tambah likes otomatis for Instagram / autolikes akan segera hadir!</b>.
+               </p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="seo-features new-seo-features c2a_5 bg_white" style="padding: 70px; 0px;">
+   <div class="container">
+      <div class="row d_flex">
+         <div class="col-sm-6 col-xs-12 wow fadeInLeft">
+            <div class="feature-shape"><img class="img-responsive" src="https://gosocial.co.id/assets/landing/image/sme_views_left.png" alt="Image"></div>
+         </div>
+         <div class="col-sm-6 col-xs-12 d_flex wow fadeInRight">
+            <div class="features-content flex">
+               <h2 class="title">Beli Viewers Instagram</h2>
+               <p>Layanan tambah viewers untuk video di Instagram berguna dalam bersaing di lautan konten Instagram untuk meraih atensi dari user merupakan hal yang sulit, 
+                  apalagi jangkauan yang didapat tidak sesuai dengan harapan dan biaya pembuatan konten.
+               </p>
+               <br/>
+               <p>Jumlah Views bermanfaat sebagai bukti interaksi yang dapat meningkatkan jangkauan video Anda karena algoritma Instagram yang sangat selektif dalam menampilkan konten.</p>
+               <br/>
+               <p>Hal ini merupakan cara terbaru untuk <b>menambah viewers Instagram!</b></p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section><section class="easy_steps_new sec-pad ">
+   <div class="container">
+      <div class="section-title wow fadeInUp new_section_title">
+         <p>Layanan kami dibuat khusus untuk bisnis!</p>
+         <h2 class="title">Langkah Order</h2>
+      </div>
+      <div class="row">
+         <div class="easy_slider owl-carousel owl-loaded owl-drag">
+            <div class="item wow fadeInLeft">
+               <div class="service_item">
+                  <img src="https://gosocial.co.id/assets/landing/image/service_how1.png" alt="Image" />
+                  <div class="text">
+                     <h2>1. Pilih Paket</h2>
+                     <p>Pilih paket & pesan layanan yang sesuai dengan kebutuhan anda.</p>
                   </div>
-                </div>
-                <div class="col-md-7">
-                  <div class="rev-list owl-carousel owl-theme">
-                    <div class="rev-block">
-                      <img src="assets/icons/quote.svg" width="60" alt="Quote">
-                      <h2>Udah order kesekian kalinya, hasilnya selalu memuaskan. Terimakasih Realpengikut.</h2>
-                      <div class="rev-client">
-                        <div class="rev-icon">
-                          <div class="rev-img">
-                            <img class="rounded-circle" src="assets/icons/rea.jpg" width="60" alt="Feature">
-                          </div>
-                        </div>
-                        <div class="rev-text">
-                          <h3>Rea Madjit</h3>
-                          <p>Mahasiswa</p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="rev-block">
-                      <img src="assets/icons/quote.svg" width="60" alt="Quote">
-                      <h2>Selalu langganan disini, beneran real human indonesia, bukan abal-abal.</h2>
-                      <div class="rev-client">
-                        <div class="rev-icon">
-                          <div class="rev-img">
-                            <img class="rounded-circle" src="assets/icons/arif.jpg" width="60" alt="Feature">
-                          </div>
-                        </div>
-                        <div class="rev-text">
-                          <h3>Arif Wibowo</h3>
-                          <p>Mahasiswa</p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="rev-block">
-                      <img src="assets/icons/quote.svg" width="60" alt="Quote">
-                      <h2>Aku suka banget pelayanannya, fast respon dan baik.</h2>
-                      <div class="rev-client">
-                        <div class="rev-icon">
-                          <div class="rev-img">
-                            <img class="rounded-circle" src="assets/icons/calvin.jpg" width="60" alt="Feature">
-                          </div>
-                        </div>
-                        <div class="rev-text">
-                          <h3>Calvin</h3>
-                          <p>Mahasiswa</p>
-                        </div>
-                      </div>
-                    </div>
+               </div>
+            </div>
+            <div class="item wow fadeInLeft">
+               <div class="service_item">
+                  <img src="https://gosocial.co.id/assets/landing/image/service_how2.png" alt="Image" />
+                  <div class="text">
+                     <h2>2. Isi Data</h2>
+                     <p>Masukkan data yang dibutuhkan pada form pemesanan untuk memulai.</p>
                   </div>
-                </div>
-              </div>
+               </div>
             </div>
-          </div>
-        </div>
-
-<br/>
-<br/>
-
-        <!-- Footer -->
-        <div class="footer">
-          <div class="container">
-            <div class="row text-center">
-              <div class="col-lg-2 col-md-3 col-sm-12">
-                <div class="footer-logo">
-                  <h2>Real pengikut</h2>
-                </div>
-              </div>
-              <div class="col-lg-6 col-md-6 col-sm-12">
-              </div>
-              <div class="col-lg-4 col-md-3 col-sm-12">
-                <div class="footer-links">
-                </div>
-              </div>
+            <div class="item wow fadeInLeft">
+               <div class="service_item">
+                  <img src="https://gosocial.co.id/assets/landing/image/service_how3.png" alt="Image" />
+                  <div class="text">
+                     <h2>3. Bayar</h2>
+                     <p>Lakukan checkout pembayaran dengan berbagai pilihan metode pembayaran.</p>
+                  </div>
+               </div>
             </div>
-            <!-- Scroll To Top -->
-              <a id="back-top" class="back-to-top js-scroll-trigger" href="#main"></a>
-          <!-- Scroll To Top Ends-->
-          </div>
+            <div class="item wow fadeInLeft">
+               <div class="service_item">
+                  <img src="https://gosocial.co.id/assets/landing/image/service_how4.png" alt="Image" />
+                  <div class="text">
+                     <h2>4. Tracking Progress</h2>
+                     <p>Anda dapat melakukan tracking progress order melalui dashboard user.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="item wow fadeInLeft">
+               <div class="service_item">
+                  <img src="https://gosocial.co.id/assets/landing/image/service_how5.png" alt="Image" />
+                  <div class="text">
+                     <h2>5. Selesai</h2>
+                     <p>Tunggu pesanan sesuai dengan timeline dan order anda selesai.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section id="price" class="sm_new_service_area">
+   <div class="container">
+      <div class="sme_ig_service_tab_info">
+         <div class="new_section_title_two new_section_title_three text-center">
+            <h6 style=" ">Pricing for every need</h6>
+            <h2 class="title">Paket Harga Instagram</h2>
+            <div class="line"><span class="one"></span><span class="two"></span></div>
+         </div>
+         <div class="row">
+            <div class="col-md-12 items-align-center">
+               <div class="text-center m-t-30 m-b-40">
+                                         
+                  <a class="service-menu-group selected" href="javascript:void(0);" data-card="tab-24c714ccb3857346b52bfe17e287d210">
+                     <div class="media align-items-center">
+                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
+                           <i class="anticon anticon-user-add font-size-30"></i>
+                        </div>
+                        <span class="text-service mb-0">Followers</span>
+                     </div>
+                  </a>
+                       
+                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-9a58cd04b44f059473246a8e5c0ebb4b">
+                     <div class="media align-items-center">
+                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
+                           <i class="anticon anticon-plus-circle font-size-30"></i>
+                        </div>
+                        <span class="text-service mb-0">Future Post Likes</span>
+                     </div>
+                  </a>
+                       
+                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-4dc08a3361d5cb9c87822dbd8495ac4e">
+                     <div class="media align-items-center">
+                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
+                           <i class="anticon anticon-info-circle font-size-30"></i>
+                        </div>
+                        <span class="text-service mb-0">Instagram Reels</span>
+                     </div>
+                  </a>
+                       
+                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-02f6764170a227c14779d7b9af488b70">
+                     <div class="media align-items-center">
+                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
+                           <i class="anticon anticon-heart font-size-30"></i>
+                        </div>
+                        <span class="text-service mb-0">Post Likes</span>
+                     </div>
+                  </a>
+                       
+                  <a class="service-menu-group" href="javascript:void(0);" data-card="tab-2b6878c42c03e731668a0a8c2cc8bf3c">
+                     <div class="media align-items-center">
+                        <div class="avatar avatar-icon avatar-blue avatar-menu rounded m-r-10 m-l-20">
+                           <i class="anticon anticon-eye font-size-30"></i>
+                        </div>
+                        <span class="text-service mb-0">Post Views</span>
+                     </div>
+                  </a>
+                                                   </div>
+            </div>
+            <div class="col-md-12">
+               <div class="tab-content new_service_content">
+                           
+                  <div class="card-service active" id="tab-24c714ccb3857346b52bfe17e287d210" sub-id="1">                                    
+                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
+                        <div class="btn-group btn-group-social">
+                                                      <button type="button" social-id="2" class="social-attr btn btn-default btn-lg biru active">
+                           <span>Followers Mix</span>
+                           </button>
+                                                      <button type="button" social-id="1" class="social-attr btn btn-default btn-lg biru">
+                           <span>Followers Indonesia</span>
+                           </button>
+                                                   </div>
+                     </div>
+                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
+                     <div class="row field-blank" style="display:none;">
+                        <div class="col-12">
+                           <div class="m-t-20 text-center">
+                              <h4 class="m-t-30 field-blank-text">Services</h4>
+                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row field-loading" style="display:none;">
+                        <div class="col-md-12 text-center">
+                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
+                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
+                           </div>
+                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
+                        </div>
+                     </div>
+                     <div class="row new_price_info field-service" style="display:none;">
+                        <div class="col-sm-12">
+                           <div class="new_price_item2">
+                              <div class="row flex-display">
+                                 <div class="col-md-12 card-head2 bg-wrapper">
+                                    <div class="col-md-6 bg-price">
+                                       <div class="row" style="display:flex;">
+                                          <div class="col-md-2 col-xs-2">
+                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
+                                                <div class="vertical-default font-slider" id="slider-24c714ccb3857346b52bfe17e287d210"></div>
+                                             </div>
+                                          </div>
+                                          <div class="col-md-10 col-xs-10 deskripsi">
+                                             <h1><span class="package-name"></span></h1>
+                                             <h4 class="package-detail"></h4>
+                                             <ul class="desk-price">
+                                             </ul>                               
+                                             <div class="price">
+                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
+                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
+                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
+                                    </div>
+                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                           
+                  <div class="card-service" style="display:none;"" id="tab-9a58cd04b44f059473246a8e5c0ebb4b" sub-id="21">                                    
+                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
+                        <div class="btn-group btn-group-social">
+                                                      <button type="button" social-id="17" class="social-attr btn btn-default btn-lg biru active">
+                           <span>10 Kuota Autolikes Post</span>
+                           </button>
+                                                      <button type="button" social-id="18" class="social-attr btn btn-default btn-lg biru">
+                           <span>20 Kuota Autolikes Post</span>
+                           </button>
+                                                   </div>
+                     </div>
+                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
+                     <div class="row field-blank" style="display:none;">
+                        <div class="col-12">
+                           <div class="m-t-20 text-center">
+                              <h4 class="m-t-30 field-blank-text">Services</h4>
+                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row field-loading" style="display:none;">
+                        <div class="col-md-12 text-center">
+                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
+                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
+                           </div>
+                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
+                        </div>
+                     </div>
+                     <div class="row new_price_info field-service" style="display:none;">
+                        <div class="col-sm-12">
+                           <div class="new_price_item2">
+                              <div class="row flex-display">
+                                 <div class="col-md-12 card-head2 bg-wrapper">
+                                    <div class="col-md-6 bg-price">
+                                       <div class="row" style="display:flex;">
+                                          <div class="col-md-2 col-xs-2">
+                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
+                                                <div class="vertical-default font-slider" id="slider-9a58cd04b44f059473246a8e5c0ebb4b"></div>
+                                             </div>
+                                          </div>
+                                          <div class="col-md-10 col-xs-10 deskripsi">
+                                             <h1><span class="package-name"></span></h1>
+                                             <h4 class="package-detail"></h4>
+                                             <ul class="desk-price">
+                                             </ul>                               
+                                             <div class="price">
+                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
+                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
+                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
+                                    </div>
+                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                           
+                  <div class="card-service" style="display:none;"" id="tab-4dc08a3361d5cb9c87822dbd8495ac4e" sub-id="22">                                    
+                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
+                        <div class="btn-group btn-group-social">
+                                                      <button type="button" social-id="20" class="social-attr btn btn-default btn-lg biru active">
+                           <span>Reels Views</span>
+                           </button>
+                                                      <button type="button" social-id="21" class="social-attr btn btn-default btn-lg biru">
+                           <span>Reels Likes</span>
+                           </button>
+                                                   </div>
+                     </div>
+                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
+                     <div class="row field-blank" style="display:none;">
+                        <div class="col-12">
+                           <div class="m-t-20 text-center">
+                              <h4 class="m-t-30 field-blank-text">Services</h4>
+                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row field-loading" style="display:none;">
+                        <div class="col-md-12 text-center">
+                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
+                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
+                           </div>
+                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
+                        </div>
+                     </div>
+                     <div class="row new_price_info field-service" style="display:none;">
+                        <div class="col-sm-12">
+                           <div class="new_price_item2">
+                              <div class="row flex-display">
+                                 <div class="col-md-12 card-head2 bg-wrapper">
+                                    <div class="col-md-6 bg-price">
+                                       <div class="row" style="display:flex;">
+                                          <div class="col-md-2 col-xs-2">
+                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
+                                                <div class="vertical-default font-slider" id="slider-4dc08a3361d5cb9c87822dbd8495ac4e"></div>
+                                             </div>
+                                          </div>
+                                          <div class="col-md-10 col-xs-10 deskripsi">
+                                             <h1><span class="package-name"></span></h1>
+                                             <h4 class="package-detail"></h4>
+                                             <ul class="desk-price">
+                                             </ul>                               
+                                             <div class="price">
+                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
+                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
+                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
+                                    </div>
+                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                           
+                  <div class="card-service" style="display:none;"" id="tab-02f6764170a227c14779d7b9af488b70" sub-id="2">                                    
+                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
+                        <div class="btn-group btn-group-social">
+                                                      <button type="button" social-id="3" class="social-attr btn btn-default btn-lg biru active">
+                           <span>Likes Indonesia</span>
+                           </button>
+                                                   </div>
+                     </div>
+                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
+                     <div class="row field-blank" style="display:none;">
+                        <div class="col-12">
+                           <div class="m-t-20 text-center">
+                              <h4 class="m-t-30 field-blank-text">Services</h4>
+                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row field-loading" style="display:none;">
+                        <div class="col-md-12 text-center">
+                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
+                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
+                           </div>
+                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
+                        </div>
+                     </div>
+                     <div class="row new_price_info field-service" style="display:none;">
+                        <div class="col-sm-12">
+                           <div class="new_price_item2">
+                              <div class="row flex-display">
+                                 <div class="col-md-12 card-head2 bg-wrapper">
+                                    <div class="col-md-6 bg-price">
+                                       <div class="row" style="display:flex;">
+                                          <div class="col-md-2 col-xs-2">
+                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
+                                                <div class="vertical-default font-slider" id="slider-02f6764170a227c14779d7b9af488b70"></div>
+                                             </div>
+                                          </div>
+                                          <div class="col-md-10 col-xs-10 deskripsi">
+                                             <h1><span class="package-name"></span></h1>
+                                             <h4 class="package-detail"></h4>
+                                             <ul class="desk-price">
+                                             </ul>                               
+                                             <div class="price">
+                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
+                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
+                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
+                                    </div>
+                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                           
+                  <div class="card-service" style="display:none;"" id="tab-2b6878c42c03e731668a0a8c2cc8bf3c" sub-id="3">                                    
+                     <div class="text-center justify-content-between align-items-center card-head m-b-30 modcard">
+                        <div class="btn-group btn-group-social">
+                                                      <button type="button" social-id="5" class="social-attr btn btn-default btn-lg biru active">
+                           <span>Views Indonesia</span>
+                           </button>
+                                                   </div>
+                     </div>
+                     <p class="toggleswitchlaptop" style="color: #39F;font-size:10pt">*Geser Toggle Switch Untuk Mengganti Paket</p>
+                     <div class="row field-blank" style="display:none;">
+                        <div class="col-12">
+                           <div class="m-t-20 text-center">
+                              <h4 class="m-t-30 field-blank-text">Services</h4>
+                              <p class="font-size-13">Maaf layanan ini belum tersedia untuk saat ini</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row field-loading" style="display:none;">
+                        <div class="col-md-12 text-center">
+                           <div class="avatar avatar-blue avatar-icon " style="margin-top:20px; height: 80px;width: 80px;">
+                              <i class="anticon anticon-loading" style="line-height: 80px;font-size: 50px !important"></i>
+                           </div>
+                           <h4 style="margin-top:30px; font-weight:700">Memproses..</h4>
+                        </div>
+                     </div>
+                     <div class="row new_price_info field-service" style="display:none;">
+                        <div class="col-sm-12">
+                           <div class="new_price_item2">
+                              <div class="row flex-display">
+                                 <div class="col-md-12 card-head2 bg-wrapper">
+                                    <div class="col-md-6 bg-price">
+                                       <div class="row" style="display:flex;">
+                                          <div class="col-md-2 col-xs-2">
+                                             <div class="d-inline-block" style="height: 83%;margin-top:50px;">
+                                                <div class="vertical-default font-slider" id="slider-2b6878c42c03e731668a0a8c2cc8bf3c"></div>
+                                             </div>
+                                          </div>
+                                          <div class="col-md-10 col-xs-10 deskripsi">
+                                             <h1><span class="package-name"></span></h1>
+                                             <h4 class="package-detail"></h4>
+                                             <ul class="desk-price">
+                                             </ul>                               
+                                             <div class="price">
+                                                <sub>IDR&nbsp;</sub><span class="package-price">0</span>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="col-md-6 package-avatar-nest hidden-xs hidden-sm">
+                                       <img class="package-avatar" alt="Silver Plan" class="image-price">
+                                       <a href="javascript:" onclick="document.getElementById('myModalPetunjuk').style.display='block'"><button class="btn-hint">Cara Pilih Paket?</button></a>
+                                    </div>
+                                    <div class="bottom text-center"><a href="javascript:void(0);" class="btn btn-lg btn-info uppercase btn-order btn-redir"><i class="anticon anticon-shopping"></i> Order Sekarang</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                                 </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   
+</section>
+<section class="chose_service_area">
+   <div class="container">
+      <div class="section-title wow fadeInUp">
+         <p>Service Features</p>
+         <h2 class="title">Keunggulan SME GoSocial</h2>
+      </div>
+      <div class="row">
+      <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_platform.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Platform Otomatis</h3>
+                     <p>Didukung sistem order dan tracking project otomatis yang online 24 jam, memungkinkan order kapanpun & dimanapun.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_pay.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Berbagai Metode Pembayaran</h3>
+                     <p>Didukung berbagai pilihan metode pembayaran otomatis yang memudahkan dan mempercepat transaksi.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_moneyback.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Garansi 30 Hari</h3>
+                     <p>Semua layanan SME bergaransi hingga 30 hari (FREE REFILL / REFUND).<br/>Terjamin untuk bisnis & profesional!.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_quality.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Quality #1 for Business</h3>
+                     <p>Layanan dari GoSocial dijamin berkualitas Enterprise, karena layanan telah melewati riset dan pengembangan yang matang.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_save.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Akun 100% Aman</h3>
+                     <p>Diproses dengan metode legal dan tanpa E-mail maupun Password menjamin keamanan akun anda dari resiko Hack / Banned.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4 col-xs-6 chose-item">
+            <div class="perfect-item">
+               <div class="media">
+                  <div class="media-left">
+                     <img src="https://gosocial.co.id/assets/landing/image/sme_notif.svg" alt="Image">
+                  </div>
+                  <div class="media-body">
+                     <h3>Fitur Notifikasi</h3>
+                     <p>Dapatkan pemberitahuan terkini mengenai status order / project yang berjalan saat ini melalui E-mail & SMS.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="chose_service_area">
+   <div class="container">
+      <div class="section-title wow fadeInUp">
+         <p>Social Media Lainnya</p>
+         <h2 class="title">Tersedia Juga Untuk Social Media Lainnya</h2>
+      </div>
+      <div class="row">
+         <div class="containcard">
+                  <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <div class="icon facebookcon">
+                        <i class="fa fa-facebook-square" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <h3>
+                        <a href="https://gosocial.co.id/service/social-media-engagement/facebook" class="titlesosial">Facebook</a>
+                    </h3>
+                    <p>Likes Fanpage Facebook | Likes Status / Post Facebook</p>
+                </div>
+            </div>
+         </div>
+         <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <div class="icon youtubecon">
+                        <i class="fa fa-youtube" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <h3>
+                        <a href="https://gosocial.co.id/service/social-media-engagement/youtube" class="titlesosial">Youtube</a>
+                    </h3>
+                    <p>Subscribers Youtube | Viewers Youtube | Likes Youtube</p>
+                </div>
+            </div>
+         </div>
+         <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <div class="icon twittercon">
+                        <i class="fa fa-twitter-square" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <h3>
+                        <a href="https://gosocial.co.id/service/social-media-engagement/twitter" class="titlesosial">Twitter</a>
+                    </h3>
+                    <p>Followers Twitter | Retweets Twitter | Likes Twitter</p>
+                </div>
+            </div>
+         </div>
+               </div>
+      </div>
+   </div>
+</section>
+<section class="faq_area sec-pad ">
+   <div class="container">
+       <div class="section-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+           <p>FAQ</p>
+           <h2 class="title">Pertanyaan Umum SME</h2>
+       </div>
+       <div class="row">
+           <div class="col-md-5 col-md-offset-1 faq_img">
+                <div class="panel-group faq-inner-accordion-left" id="accordion" role="tablist">
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse1" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apa keuntungan membeli Followers, dsb?</strong>
+                           </a>
+                        </h4>
+                     </div>
+                     <div id="collapse1" class="panel-collapse collapse" aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Membeli followers / interaksi secara instant dapat membuat akun lebih kredibel dan terpercaya terutama bagi bisnis,
+                           serta dapat meningkatkan jangkauan post secara luas.
+                           <br/><br/>Ditambah algoritma Social Media sekarang sangat selektif
+                           menampilkan konten yang relevan untuk pengguna dengan cara mensortir berdasarkan interaksi terbanyak.
+                           <br /><br /><b>Membeli Followers bukan untuk membuatnya menjadi pembeli atau
+                           mendatangkan pembeli melainkan untuk meningkatkan kepercayaan calon customer
+                           anda!</b>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse2" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apa perbedaan layanan dari GoSocial?</strong></a>
+                        </h4>
+                     </div>
+                     <div id="collapse2" class="panel-collapse collapse" aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">GoSocial hadir untuk memberikan kualitas layanan yang lebih baik dan ekslusif
+                           untuk keperluan profesional / bisnis dibanding penyedia lain yang sudah ada diluar sana.
+                           <br/><br/>
+                           Kami memberikan garansi hingga 30 hari yang tidak mungkin didapatkan di penyedia lainnya.
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse3" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Berapa lama proses pengerjaan?</strong>
+                           </a>
+                        </h4>
+                     </div>
+                     <div id="collapse3" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Kami menghadirkan layanan berkualitas dengan metode yang aman untuk
+                           akun anda.
+                           <br /><br />Lama proses tergantung dari jumlah, update metode dari pihak Social Media, dan antrian di server. Namun kami sudah membuat estimasi pengerjaan
+                           yang dapat dilacak pada dashboard user anda setelah
+                           checkout.
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse4" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apakah perlu
+                           E-mail & Password? </strong> </a>
+                        </h4>
+                     </div>
+                     <div id="collapse4" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Layanan ini <b>dijamin 100% Aman</b> karena kami selalu melakukan
+                           update metode proses yang legal dan sesuai dengan ketentuan dari pihak Social Media.
+                           <br /><br />Anda juga <b>tidak perlu mengirimkan E-mail maupun Password</b> karena kami
+                           hanya membutuhkan link/username target saja.
+                        </div>
+                     </div>
+                  </div>
+               </div>
+           </div>
+           
+           <div class="col-md-5">
+               <div class="panel-group faq-inner-accordion-right" id="accordion" role="tablist">
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse5" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apakah legal membeli Followers, dsb?
+                           </strong> </a>
+                        </h4>
+                     </div>
+                     <div id="collapse5" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Membeli Followers dsb adalah tindakan legal dan tidak melanggar hukum,
+                           meskipun bertentangan dengan panduan pengguna Social Media yang bersangkutan terkait "Dishonest Behaviour".
+                           <br /><br />Tentunya memiliki resiko seperti penangguhan akun / blokir sementara dsb, namun hal tersebut dapat dihindari
+                           dengan memesan dari penyedia terpercaya seperti GoSocial.
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse6" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apakah jumlah Followers atau interaksi bisa turun? </strong> </a>
+                        </h4>
+                     </div>
+                     <div id="collapse6" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Kami hanya menyediakan layanan yang berkualitas dan terjamin!
+                           Meskipun Followers dapat unfollow dikarenakan faktor dari user yang memang ingin
+                           un-follow maupun dari Instagram yang menghapus akun yang tidak aktif lagi / interaksi dianggap SPAM.
+                           <br /><br /> Oleh karena itu kami akan memantau order anda dalam 1 minggu setelahnya
+                           untuk memastikan jumlah followers / interaksi yang didapat sesuai dan tidak berkurang.
+                           <br/><br/><b>FREE REFILL / Garansi jika berkurang selama durasi tersebut.</b>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse7" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apakah beresiko di Banned oleh  Instagram? </strong> </a>
+                        </h4>
+                     </div>
+                     <div id="collapse7" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Tentunya resiko seperti penangguhan akun / blokir sementara dsb, dapat terjadi jika menyalahi panduan komunitas di Social Media yang bersangkutan.
+                           <br/><br/>Namun hal tersebut dapat dihindari dengan memesan dari penyedia terpercaya seperti GoSocial.
+                           Tidak ada resiko jika anda menggunakan layanan kami! Anda aman dari
+                           resiko Banned, Hacking, dsb.
+                           <br /><br /> Kami juga memberikan jaminan 7 Hari <b>Money-Back Guarantee</b> jika yang
+                           anda dapatkan tidak sesuai dengan yang diharapkan / ketentuan kami.
+                        </div>
+                     </div>
+                  </div>
+                  <div class="panel panel-default">
+                     <div class="panel-heading" role="tab">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" data-target="#collapse8" href="#"
+                           class="btn-accordion collapsed" aria-expanded="false" role="button"><i
+                           class="lnr lnr-chevron-up"></i><i
+                           class="lnr lnr-chevron-down"></i><strong>Apa semua dapat membeli Followers / interaksi?</strong> </a>
+                        </h4>
+                     </div>
+                     <div id="collapse8" class="panel-collapse collapse " aria-expanded="false" role="tabpanel">
+                        <div class="panel-body">Tidak, sistem akan mendeteksi dan tidak akan menerima order dari akun yang memuat konten atau keperluan
+                           seperti Pornografi, Judi, Menjual barang ilegal, Pemenangan perlombaan / kontes, dan tindakan ilegal lainnya.
+                           <br/><br/>GoSocial sama sekali tidak mendukung tindakan yang mengarah kepada perilaku tidak jujur (Dishonest Behaviour),
+                           layanan ini dibuat untuk meningkatkan jangkauan dan kredibilitas akun bisnis untuk keperluan Social Media Marketing.
+                           <br/><br/><b>Layanan ini bukan dimaksudkan untuk "Fake Review" dan sebagainya!</b>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</section>
+<section>
+        <div class="container repuso">
+            <div class="section-title wow fadeInUp new_section_title">
+               <p>Apa kata mereka?</p>
+            </div>
+                <!-- Begin widget code -->
+<div data-rw-inline="15111" data-website-id="1083"></div>
+<script type="text/javascript" src="https://repuso.com/widgets/inline.js"></script>
+<!-- End widget code -->
         </div>
-      </div> <!-- Main -->
-    </div><!-- Wrapper -->
-
-
-    <!-- Jquery and Js Plugins -->
-    <script src="assets/js/jquery-2.1.1.js"></script>
-    <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/jquery.validate.min.js"></script>
-    <script src="assets/js/plugins.js"></script>
-    <script src="assets/js/custom.js"></script>
-  <script data-pagespeed-no-defer>(function(){function f(b){var a=window;if(a.addEventListener)a.addEventListener("load",b,!1);else if(a.attachEvent)a.attachEvent("onload",b);else{var c=a.onload;a.onload=function(){b.call(this);c&&c.call(this)}}};window.pagespeed=window.pagespeed||{};var k=window.pagespeed;function l(b,a,c,g,h){this.h=b;this.i=a;this.l=c;this.j=g;this.b=h;this.c=[];this.a=0}l.prototype.f=function(b){for(var a=0;250>a&&this.a<this.b.length;++a,++this.a)try{document.querySelector(this.b[this.a])&&this.c.push(this.b[this.a])}catch(c){}this.a<this.b.length?window.setTimeout(this.f.bind(this),0,b):b()};
-k.g=function(b,a,c,g,h){if(document.querySelector&&Function.prototype.bind){var d=new l(b,a,c,g,h);f(function(){window.setTimeout(function(){d.f(function(){for(var a="oh="+d.l+"&n="+d.j,a=a+"&cs=",b=0;b<d.c.length;++b){var c=0<b?",":"",c=c+encodeURIComponent(d.c[b]);if(131072<a.length+c.length)break;a+=c}k.criticalCssBeaconData=a;var b=d.h,c=d.i,e;if(window.XMLHttpRequest)e=new XMLHttpRequest;else if(window.ActiveXObject)try{e=new ActiveXObject("Msxml2.XMLHTTP")}catch(m){try{e=new ActiveXObject("Microsoft.XMLHTTP")}catch(n){}}e&&
-(e.open("POST",b+(-1==b.indexOf("?")?"?":"&")+"url="+encodeURIComponent(c)),e.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),e.send(a))})},0)})}};k.criticalCssBeaconInit=k.g;})();
-pagespeed.selectors=["*",".active.carousel-item-left",".active.carousel-item-right",".alert",".alert-danger",".alert-danger .alert-link",".alert-danger hr",".alert-dark",".alert-dark .alert-link",".alert-dark hr",".alert-dismissible",".alert-dismissible .close",".alert-heading",".alert-info",".alert-info .alert-link",".alert-info hr",".alert-light",".alert-light .alert-link",".alert-light hr",".alert-link",".alert-primary",".alert-primary .alert-link",".alert-primary hr",".alert-secondary",".alert-secondary .alert-link",".alert-secondary hr",".alert-success",".alert-success .alert-link",".alert-success hr",".alert-warning",".alert-warning .alert-link",".alert-warning hr",".align-baseline",".align-bottom",".align-content-around",".align-content-between",".align-content-center",".align-content-end",".align-content-lg-around",".align-content-lg-between",".align-content-lg-center",".align-content-lg-end",".align-content-lg-start",".align-content-lg-stretch",".align-content-md-around",".align-content-md-between",".align-content-md-center",".align-content-md-end",".align-content-md-start",".align-content-md-stretch",".align-content-sm-around",".align-content-sm-between",".align-content-sm-center",".align-content-sm-end",".align-content-sm-start",".align-content-sm-stretch",".align-content-start",".align-content-stretch",".align-content-xl-around",".align-content-xl-between",".align-content-xl-center",".align-content-xl-end",".align-content-xl-start",".align-content-xl-stretch",".align-items-baseline",".align-items-center",".align-items-end",".align-items-lg-baseline",".align-items-lg-center",".align-items-lg-end",".align-items-lg-start",".align-items-lg-stretch",".align-items-md-baseline",".align-items-md-center",".align-items-md-end",".align-items-md-start",".align-items-md-stretch",".align-items-sm-baseline",".align-items-sm-center",".align-items-sm-end",".align-items-sm-start",".align-items-sm-stretch",".align-items-start",".align-items-stretch",".align-items-xl-baseline",".align-items-xl-center",".align-items-xl-end",".align-items-xl-start",".align-items-xl-stretch",".align-middle",".align-self-auto",".align-self-baseline",".align-self-center",".align-self-end",".align-self-lg-auto",".align-self-lg-baseline",".align-self-lg-center",".align-self-lg-end",".align-self-lg-start",".align-self-lg-stretch",".align-self-md-auto",".align-self-md-baseline",".align-self-md-center",".align-self-md-end",".align-self-md-start",".align-self-md-stretch",".align-self-sm-auto",".align-self-sm-baseline",".align-self-sm-center",".align-self-sm-end",".align-self-sm-start",".align-self-sm-stretch",".align-self-start",".align-self-stretch",".align-self-xl-auto",".align-self-xl-baseline",".align-self-xl-center",".align-self-xl-end",".align-self-xl-start",".align-self-xl-stretch",".align-text-bottom",".align-text-top",".align-top",".badge",".badge-danger",".badge-danger[href]",".badge-dark",".badge-dark[href]",".badge-info",".badge-info[href]",".badge-light",".badge-light[href]",".badge-pill",".badge-primary",".badge-primary[href]",".badge-secondary",".badge-secondary[href]",".badge-success",".badge-success[href]",".badge-warning",".badge-warning[href]",".bg-danger",".bg-dark",".bg-info",".bg-light",".bg-primary",".bg-secondary",".bg-success",".bg-transparent",".bg-warning",".bg-white",".blockquote",".blockquote-footer",".border",".border-0",".border-bottom",".border-bottom-0",".border-danger",".border-dark",".border-info",".border-left",".border-left-0",".border-light",".border-primary",".border-right",".border-right-0",".border-secondary",".border-success",".border-top",".border-top-0",".border-warning",".border-white",".breadcrumb",".breadcrumb-item + .breadcrumb-item",".breadcrumb-item.active",".bs-popover-auto[x-placement^=\"bottom\"]",".bs-popover-auto[x-placement^=\"bottom\"] .arrow",".bs-popover-auto[x-placement^=\"bottom\"] .popover-header",".bs-popover-auto[x-placement^=\"left\"]",".bs-popover-auto[x-placement^=\"left\"] .arrow",".bs-popover-auto[x-placement^=\"right\"]",".bs-popover-auto[x-placement^=\"right\"] .arrow",".bs-popover-auto[x-placement^=\"top\"]",".bs-popover-auto[x-placement^=\"top\"] .arrow",".bs-popover-bottom",".bs-popover-bottom .arrow",".bs-popover-bottom .popover-header",".bs-popover-left",".bs-popover-left .arrow",".bs-popover-right",".bs-popover-right .arrow",".bs-popover-top",".bs-popover-top .arrow",".bs-tooltip-auto[x-placement^=\"bottom\"]",".bs-tooltip-auto[x-placement^=\"bottom\"] .arrow",".bs-tooltip-auto[x-placement^=\"left\"]",".bs-tooltip-auto[x-placement^=\"left\"] .arrow",".bs-tooltip-auto[x-placement^=\"right\"]",".bs-tooltip-auto[x-placement^=\"right\"] .arrow",".bs-tooltip-auto[x-placement^=\"top\"]",".bs-tooltip-auto[x-placement^=\"top\"] .arrow",".bs-tooltip-bottom",".bs-tooltip-bottom .arrow",".bs-tooltip-left",".bs-tooltip-left .arrow",".bs-tooltip-right",".bs-tooltip-right .arrow",".bs-tooltip-top",".bs-tooltip-top .arrow",".btn",".btn .badge",".btn-block",".btn-block + .btn-block",".btn-danger",".btn-danger.disabled",".btn-danger.focus",".btn-dark",".btn-dark.disabled",".btn-dark.focus",".btn-group",".btn-group .btn + .btn",".btn-group .btn + .btn-group",".btn-group .btn-group + .btn",".btn-group .btn-group + .btn-group",".btn-group > .btn",".btn-group > .btn.active",".btn-group-lg > .btn",".btn-group-lg > .btn + .dropdown-toggle-split",".btn-group-sm > .btn",".btn-group-sm > .btn + .dropdown-toggle-split",".btn-group-toggle > .btn",".btn-group-toggle > .btn input[type=\"checkbox\"]",".btn-group-toggle > .btn input[type=\"radio\"]",".btn-group-toggle > .btn-group > .btn",".btn-group-toggle > .btn-group > .btn input[type=\"checkbox\"]",".btn-group-toggle > .btn-group > .btn input[type=\"radio\"]",".btn-group-vertical",".btn-group-vertical .btn",".btn-group-vertical .btn + .btn",".btn-group-vertical .btn + .btn-group",".btn-group-vertical .btn-group",".btn-group-vertical .btn-group + .btn",".btn-group-vertical .btn-group + .btn-group",".btn-group-vertical > .btn",".btn-group-vertical > .btn + .btn",".btn-group-vertical > .btn + .btn-group",".btn-group-vertical > .btn-group + .btn",".btn-group-vertical > .btn-group + .btn-group",".btn-group-vertical > .btn.active",".btn-info",".btn-info.disabled",".btn-info.focus",".btn-lg",".btn-lg + .dropdown-toggle-split",".btn-light",".btn-light.disabled",".btn-light.focus",".btn-link",".btn-link.disabled",".btn-link.focus",".btn-outline-danger",".btn-outline-danger.disabled",".btn-outline-danger.focus",".btn-outline-dark",".btn-outline-dark.disabled",".btn-outline-dark.focus",".btn-outline-info",".btn-outline-info.disabled",".btn-outline-info.focus",".btn-outline-light",".btn-outline-light.disabled",".btn-outline-light.focus",".btn-outline-primary",".btn-outline-primary.disabled",".btn-outline-primary.focus",".btn-outline-secondary",".btn-outline-secondary.disabled",".btn-outline-secondary.focus",".btn-outline-success",".btn-outline-success.disabled",".btn-outline-success.focus",".btn-outline-warning",".btn-outline-warning.disabled",".btn-outline-warning.focus",".btn-primary",".btn-primary.disabled",".btn-primary.focus",".btn-secondary",".btn-secondary.disabled",".btn-secondary.focus",".btn-sm",".btn-sm + .dropdown-toggle-split",".btn-success",".btn-success.disabled",".btn-success.focus",".btn-toolbar",".btn-toolbar .input-group",".btn-warning",".btn-warning.disabled",".btn-warning.focus",".btn.disabled",".btn.focus",".card",".card > .list-group .list-group-item",".card > hr",".card-body",".card-columns",".card-columns .card",".card-deck",".card-deck .card",".card-footer",".card-group",".card-group > .card",".card-group > .card + .card",".card-group > .card .card-footer",".card-group > .card .card-header",".card-group > .card .card-img-bottom",".card-group > .card .card-img-top",".card-header",".card-header + .list-group .list-group-item",".card-header-pills",".card-header-tabs",".card-img",".card-img-bottom",".card-img-overlay",".card-img-top",".card-link",".card-link + .card-link",".card-subtitle",".card-text",".card-title",".carousel",".carousel-caption",".carousel-control-next",".carousel-control-next-icon",".carousel-control-prev",".carousel-control-prev-icon",".carousel-indicators",".carousel-indicators .active",".carousel-indicators li",".carousel-inner",".carousel-item",".carousel-item-next",".carousel-item-next.carousel-item-left",".carousel-item-prev",".carousel-item-prev.carousel-item-right",".carousel-item.active",".clearfix",".close",".col",".col-1",".col-10",".col-11",".col-12",".col-2",".col-3",".col-4",".col-5",".col-6",".col-7",".col-8",".col-9",".col-auto",".col-form-label",".col-form-label-lg",".col-form-label-sm",".col-lg",".col-lg-1",".col-lg-10",".col-lg-11",".col-lg-12",".col-lg-2",".col-lg-3",".col-lg-4",".col-lg-5",".col-lg-6",".col-lg-7",".col-lg-8",".col-lg-9",".col-lg-auto",".col-md",".col-md-1",".col-md-10",".col-md-11",".col-md-12",".col-md-2",".col-md-3",".col-md-4",".col-md-5",".col-md-6",".col-md-7",".col-md-8",".col-md-9",".col-md-auto",".col-sm",".col-sm-1",".col-sm-10",".col-sm-11",".col-sm-12",".col-sm-2",".col-sm-3",".col-sm-4",".col-sm-5",".col-sm-6",".col-sm-7",".col-sm-8",".col-sm-9",".col-sm-auto",".col-xl",".col-xl-1",".col-xl-10",".col-xl-11",".col-xl-12",".col-xl-2",".col-xl-3",".col-xl-4",".col-xl-5",".col-xl-6",".col-xl-7",".col-xl-8",".col-xl-9",".col-xl-auto",".collapse",".collapse.show",".collapsing",".container",".container-fluid",".custom-checkbox .custom-control-label",".custom-control",".custom-control-inline",".custom-control-input",".custom-control-label",".custom-file",".custom-file-input",".custom-file-label",".custom-radio .custom-control-label",".custom-select",".custom-select-lg",".custom-select-sm",".custom-select.is-invalid",".custom-select.is-valid",".d-block",".d-flex",".d-inline",".d-inline-block",".d-inline-flex",".d-lg-block",".d-lg-flex",".d-lg-inline",".d-lg-inline-block",".d-lg-inline-flex",".d-lg-none",".d-lg-table",".d-lg-table-cell",".d-lg-table-row",".d-md-block",".d-md-flex",".d-md-inline",".d-md-inline-block",".d-md-inline-flex",".d-md-none",".d-md-table",".d-md-table-cell",".d-md-table-row",".d-none",".d-sm-block",".d-sm-flex",".d-sm-inline",".d-sm-inline-block",".d-sm-inline-flex",".d-sm-none",".d-sm-table",".d-sm-table-cell",".d-sm-table-row",".d-table",".d-table-cell",".d-table-row",".d-xl-block",".d-xl-flex",".d-xl-inline",".d-xl-inline-block",".d-xl-inline-flex",".d-xl-none",".d-xl-table",".d-xl-table-cell",".d-xl-table-row",".display-1",".display-2",".display-3",".display-4",".dropdown",".dropdown-divider",".dropdown-header",".dropdown-item",".dropdown-item.active",".dropdown-item.disabled",".dropdown-menu",".dropdown-menu.show",".dropdown-toggle",".dropdown-toggle-split",".dropleft .dropdown-menu",".dropleft .dropdown-toggle",".dropright .dropdown-menu",".dropright .dropdown-toggle",".dropup",".dropup .dropdown-menu",".dropup .dropdown-toggle",".embed-responsive",".embed-responsive .embed-responsive-item",".embed-responsive embed",".embed-responsive iframe",".embed-responsive object",".embed-responsive video",".embed-responsive-16by9",".embed-responsive-1by1",".embed-responsive-21by9",".embed-responsive-4by3",".fade",".fade.show",".figure",".figure-caption",".figure-img",".fixed-bottom",".fixed-top",".flex-column",".flex-column-reverse",".flex-lg-column",".flex-lg-column-reverse",".flex-lg-nowrap",".flex-lg-row",".flex-lg-row-reverse",".flex-lg-wrap",".flex-lg-wrap-reverse",".flex-md-column",".flex-md-column-reverse",".flex-md-nowrap",".flex-md-row",".flex-md-row-reverse",".flex-md-wrap",".flex-md-wrap-reverse",".flex-nowrap",".flex-row",".flex-row-reverse",".flex-sm-column",".flex-sm-column-reverse",".flex-sm-nowrap",".flex-sm-row",".flex-sm-row-reverse",".flex-sm-wrap",".flex-sm-wrap-reverse",".flex-wrap",".flex-wrap-reverse",".flex-xl-column",".flex-xl-column-reverse",".flex-xl-nowrap",".flex-xl-row",".flex-xl-row-reverse",".flex-xl-wrap",".flex-xl-wrap-reverse",".float-left",".float-lg-left",".float-lg-none",".float-lg-right",".float-md-left",".float-md-none",".float-md-right",".float-none",".float-right",".float-sm-left",".float-sm-none",".float-sm-right",".float-xl-left",".float-xl-none",".float-xl-right",".font-italic",".font-weight-bold",".font-weight-light",".font-weight-normal",".form-check",".form-check-inline",".form-check-inline .form-check-input",".form-check-input",".form-check-label",".form-control",".form-control-file",".form-control-lg",".form-control-plaintext",".form-control-plaintext.form-control-lg",".form-control-plaintext.form-control-sm",".form-control-range",".form-control-sm",".form-control.is-invalid",".form-control.is-valid",".form-control[readonly]",".form-group",".form-inline",".form-inline .custom-control",".form-inline .custom-control-label",".form-inline .form-check",".form-inline .form-check-input",".form-inline .form-control",".form-inline .form-control-plaintext",".form-inline .form-group",".form-inline .input-group",".form-inline label",".form-row",".form-row > .col",".form-row > [class*=\"col-\"]",".form-text",".h-100",".h-25",".h-50",".h-75",".h1",".h2",".h3",".h4",".h5",".h6",".img-fluid",".img-thumbnail",".initialism",".input-group",".input-group > .custom-file",".input-group > .custom-file + .custom-file",".input-group > .custom-file + .custom-select",".input-group > .custom-file + .form-control",".input-group > .custom-select",".input-group > .custom-select + .custom-file",".input-group > .custom-select + .custom-select",".input-group > .custom-select + .form-control",".input-group > .form-control",".input-group > .form-control + .custom-file",".input-group > .form-control + .custom-select",".input-group > .form-control + .form-control",".input-group-append",".input-group-append .btn",".input-group-append .btn + .btn",".input-group-append .btn + .input-group-text",".input-group-append .input-group-text + .btn",".input-group-append .input-group-text + .input-group-text",".input-group-lg > .form-control",".input-group-lg > .form-control-plaintext.form-control",".input-group-lg > .input-group-append > .btn",".input-group-lg > .input-group-append > .form-control-plaintext.btn",".input-group-lg > .input-group-append > .form-control-plaintext.input-group-text",".input-group-lg > .input-group-append > .input-group-text",".input-group-lg > .input-group-prepend > .btn",".input-group-lg > .input-group-prepend > .form-control-plaintext.btn",".input-group-lg > .input-group-prepend > .form-control-plaintext.input-group-text",".input-group-lg > .input-group-prepend > .input-group-text",".input-group-prepend",".input-group-prepend .btn",".input-group-prepend .btn + .btn",".input-group-prepend .btn + .input-group-text",".input-group-prepend .input-group-text + .btn",".input-group-prepend .input-group-text + .input-group-text",".input-group-sm > .form-control",".input-group-sm > .form-control-plaintext.form-control",".input-group-sm > .input-group-append > .btn",".input-group-sm > .input-group-append > .form-control-plaintext.btn",".input-group-sm > .input-group-append > .form-control-plaintext.input-group-text",".input-group-sm > .input-group-append > .input-group-text",".input-group-sm > .input-group-prepend > .btn",".input-group-sm > .input-group-prepend > .form-control-plaintext.btn",".input-group-sm > .input-group-prepend > .form-control-plaintext.input-group-text",".input-group-sm > .input-group-prepend > .input-group-text",".input-group-text",".input-group-text input[type=\"checkbox\"]",".input-group-text input[type=\"radio\"]",".invalid-feedback",".invalid-tooltip",".invisible",".jumbotron",".jumbotron-fluid",".justify-content-around",".justify-content-between",".justify-content-center",".justify-content-end",".justify-content-lg-around",".justify-content-lg-between",".justify-content-lg-center",".justify-content-lg-end",".justify-content-lg-start",".justify-content-md-around",".justify-content-md-between",".justify-content-md-center",".justify-content-md-end",".justify-content-md-start",".justify-content-sm-around",".justify-content-sm-between",".justify-content-sm-center",".justify-content-sm-end",".justify-content-sm-start",".justify-content-start",".justify-content-xl-around",".justify-content-xl-between",".justify-content-xl-center",".justify-content-xl-end",".justify-content-xl-start",".lead",".list-group",".list-group-flush .list-group-item",".list-group-item",".list-group-item-action",".list-group-item-danger",".list-group-item-danger.list-group-item-action",".list-group-item-danger.list-group-item-action.active",".list-group-item-dark",".list-group-item-dark.list-group-item-action",".list-group-item-dark.list-group-item-action.active",".list-group-item-info",".list-group-item-info.list-group-item-action",".list-group-item-info.list-group-item-action.active",".list-group-item-light",".list-group-item-light.list-group-item-action",".list-group-item-light.list-group-item-action.active",".list-group-item-primary",".list-group-item-primary.list-group-item-action",".list-group-item-primary.list-group-item-action.active",".list-group-item-secondary",".list-group-item-secondary.list-group-item-action",".list-group-item-secondary.list-group-item-action.active",".list-group-item-success",".list-group-item-success.list-group-item-action",".list-group-item-success.list-group-item-action.active",".list-group-item-warning",".list-group-item-warning.list-group-item-action",".list-group-item-warning.list-group-item-action.active",".list-group-item.active",".list-group-item.disabled",".list-inline",".list-inline-item",".list-unstyled",".m-0",".m-1",".m-2",".m-3",".m-4",".m-5",".m-auto",".m-lg-0",".m-lg-1",".m-lg-2",".m-lg-3",".m-lg-4",".m-lg-5",".m-lg-auto",".m-md-0",".m-md-1",".m-md-2",".m-md-3",".m-md-4",".m-md-5",".m-md-auto",".m-sm-0",".m-sm-1",".m-sm-2",".m-sm-3",".m-sm-4",".m-sm-5",".m-sm-auto",".m-xl-0",".m-xl-1",".m-xl-2",".m-xl-3",".m-xl-4",".m-xl-5",".m-xl-auto",".mark",".mb-0",".mb-1",".mb-2",".mb-3",".mb-4",".mb-5",".mb-auto",".mb-lg-0",".mb-lg-1",".mb-lg-2",".mb-lg-3",".mb-lg-4",".mb-lg-5",".mb-lg-auto",".mb-md-0",".mb-md-1",".mb-md-2",".mb-md-3",".mb-md-4",".mb-md-5",".mb-md-auto",".mb-sm-0",".mb-sm-1",".mb-sm-2",".mb-sm-3",".mb-sm-4",".mb-sm-5",".mb-sm-auto",".mb-xl-0",".mb-xl-1",".mb-xl-2",".mb-xl-3",".mb-xl-4",".mb-xl-5",".mb-xl-auto",".media",".media-body",".mh-100",".ml-0",".ml-1",".ml-2",".ml-3",".ml-4",".ml-5",".ml-auto",".ml-lg-0",".ml-lg-1",".ml-lg-2",".ml-lg-3",".ml-lg-4",".ml-lg-5",".ml-lg-auto",".ml-md-0",".ml-md-1",".ml-md-2",".ml-md-3",".ml-md-4",".ml-md-5",".ml-md-auto",".ml-sm-0",".ml-sm-1",".ml-sm-2",".ml-sm-3",".ml-sm-4",".ml-sm-5",".ml-sm-auto",".ml-xl-0",".ml-xl-1",".ml-xl-2",".ml-xl-3",".ml-xl-4",".ml-xl-5",".ml-xl-auto",".modal",".modal-backdrop",".modal-backdrop.fade",".modal-backdrop.show",".modal-body",".modal-content",".modal-dialog",".modal-dialog-centered",".modal-footer",".modal-header",".modal-header .close",".modal-lg",".modal-open",".modal-open .modal",".modal-scrollbar-measure",".modal-sm",".modal-title",".modal.fade .modal-dialog",".modal.show .modal-dialog",".mr-0",".mr-1",".mr-2",".mr-3",".mr-4",".mr-5",".mr-auto",".mr-lg-0",".mr-lg-1",".mr-lg-2",".mr-lg-3",".mr-lg-4",".mr-lg-5",".mr-lg-auto",".mr-md-0",".mr-md-1",".mr-md-2",".mr-md-3",".mr-md-4",".mr-md-5",".mr-md-auto",".mr-sm-0",".mr-sm-1",".mr-sm-2",".mr-sm-3",".mr-sm-4",".mr-sm-5",".mr-sm-auto",".mr-xl-0",".mr-xl-1",".mr-xl-2",".mr-xl-3",".mr-xl-4",".mr-xl-5",".mr-xl-auto",".mt-0",".mt-1",".mt-2",".mt-3",".mt-4",".mt-5",".mt-auto",".mt-lg-0",".mt-lg-1",".mt-lg-2",".mt-lg-3",".mt-lg-4",".mt-lg-5",".mt-lg-auto",".mt-md-0",".mt-md-1",".mt-md-2",".mt-md-3",".mt-md-4",".mt-md-5",".mt-md-auto",".mt-sm-0",".mt-sm-1",".mt-sm-2",".mt-sm-3",".mt-sm-4",".mt-sm-5",".mt-sm-auto",".mt-xl-0",".mt-xl-1",".mt-xl-2",".mt-xl-3",".mt-xl-4",".mt-xl-5",".mt-xl-auto",".mw-100",".mx-0",".mx-1",".mx-2",".mx-3",".mx-4",".mx-5",".mx-auto",".mx-lg-0",".mx-lg-1",".mx-lg-2",".mx-lg-3",".mx-lg-4",".mx-lg-5",".mx-lg-auto",".mx-md-0",".mx-md-1",".mx-md-2",".mx-md-3",".mx-md-4",".mx-md-5",".mx-md-auto",".mx-sm-0",".mx-sm-1",".mx-sm-2",".mx-sm-3",".mx-sm-4",".mx-sm-5",".mx-sm-auto",".mx-xl-0",".mx-xl-1",".mx-xl-2",".mx-xl-3",".mx-xl-4",".mx-xl-5",".mx-xl-auto",".my-0",".my-1",".my-2",".my-3",".my-4",".my-5",".my-auto",".my-lg-0",".my-lg-1",".my-lg-2",".my-lg-3",".my-lg-4",".my-lg-5",".my-lg-auto",".my-md-0",".my-md-1",".my-md-2",".my-md-3",".my-md-4",".my-md-5",".my-md-auto",".my-sm-0",".my-sm-1",".my-sm-2",".my-sm-3",".my-sm-4",".my-sm-5",".my-sm-auto",".my-xl-0",".my-xl-1",".my-xl-2",".my-xl-3",".my-xl-4",".my-xl-5",".my-xl-auto",".nav",".nav-fill .nav-item",".nav-justified .nav-item",".nav-link",".nav-link.disabled",".nav-pills .nav-link",".nav-pills .nav-link.active",".nav-pills .show > .nav-link",".nav-tabs",".nav-tabs .dropdown-menu",".nav-tabs .nav-item",".nav-tabs .nav-item.show .nav-link",".nav-tabs .nav-link",".nav-tabs .nav-link.active",".nav-tabs .nav-link.disabled",".navbar",".navbar > .container",".navbar > .container-fluid",".navbar-brand",".navbar-collapse",".navbar-dark .navbar-brand",".navbar-dark .navbar-nav .active > .nav-link",".navbar-dark .navbar-nav .nav-link",".navbar-dark .navbar-nav .nav-link.active",".navbar-dark .navbar-nav .nav-link.disabled",".navbar-dark .navbar-nav .nav-link.show",".navbar-dark .navbar-nav .show > .nav-link",".navbar-dark .navbar-text",".navbar-dark .navbar-text a",".navbar-dark .navbar-toggler",".navbar-dark .navbar-toggler-icon",".navbar-expand",".navbar-expand .dropup .dropdown-menu",".navbar-expand .navbar-collapse",".navbar-expand .navbar-nav",".navbar-expand .navbar-nav .dropdown-menu",".navbar-expand .navbar-nav .dropdown-menu-right",".navbar-expand .navbar-nav .nav-link",".navbar-expand .navbar-toggler",".navbar-expand > .container",".navbar-expand > .container-fluid",".navbar-expand-lg",".navbar-expand-lg .dropup .dropdown-menu",".navbar-expand-lg .navbar-collapse",".navbar-expand-lg .navbar-nav",".navbar-expand-lg .navbar-nav .dropdown-menu",".navbar-expand-lg .navbar-nav .dropdown-menu-right",".navbar-expand-lg .navbar-nav .nav-link",".navbar-expand-lg .navbar-toggler",".navbar-expand-lg > .container",".navbar-expand-lg > .container-fluid",".navbar-expand-md",".navbar-expand-md .dropup .dropdown-menu",".navbar-expand-md .navbar-collapse",".navbar-expand-md .navbar-nav",".navbar-expand-md .navbar-nav .dropdown-menu",".navbar-expand-md .navbar-nav .dropdown-menu-right",".navbar-expand-md .navbar-nav .nav-link",".navbar-expand-md .navbar-toggler",".navbar-expand-md > .container",".navbar-expand-md > .container-fluid",".navbar-expand-sm",".navbar-expand-sm .dropup .dropdown-menu",".navbar-expand-sm .navbar-collapse",".navbar-expand-sm .navbar-nav",".navbar-expand-sm .navbar-nav .dropdown-menu",".navbar-expand-sm .navbar-nav .dropdown-menu-right",".navbar-expand-sm .navbar-nav .nav-link",".navbar-expand-sm .navbar-toggler",".navbar-expand-sm > .container",".navbar-expand-sm > .container-fluid",".navbar-expand-xl",".navbar-expand-xl .dropup .dropdown-menu",".navbar-expand-xl .navbar-collapse",".navbar-expand-xl .navbar-nav",".navbar-expand-xl .navbar-nav .dropdown-menu",".navbar-expand-xl .navbar-nav .dropdown-menu-right",".navbar-expand-xl .navbar-nav .nav-link",".navbar-expand-xl .navbar-toggler",".navbar-expand-xl > .container",".navbar-expand-xl > .container-fluid",".navbar-light .navbar-brand",".navbar-light .navbar-nav .active > .nav-link",".navbar-light .navbar-nav .nav-link",".navbar-light .navbar-nav .nav-link.active",".navbar-light .navbar-nav .nav-link.disabled",".navbar-light .navbar-nav .nav-link.show",".navbar-light .navbar-nav .show > .nav-link",".navbar-light .navbar-text",".navbar-light .navbar-text a",".navbar-light .navbar-toggler",".navbar-light .navbar-toggler-icon",".navbar-nav",".navbar-nav .dropdown-menu",".navbar-nav .nav-link",".navbar-text",".navbar-toggler",".navbar-toggler-icon",".no-gutters",".no-gutters > .col",".no-gutters > [class*=\"col-\"]",".offset-1",".offset-10",".offset-11",".offset-2",".offset-3",".offset-4",".offset-5",".offset-6",".offset-7",".offset-8",".offset-9",".offset-lg-0",".offset-lg-1",".offset-lg-10",".offset-lg-11",".offset-lg-2",".offset-lg-3",".offset-lg-4",".offset-lg-5",".offset-lg-6",".offset-lg-7",".offset-lg-8",".offset-lg-9",".offset-md-0",".offset-md-1",".offset-md-10",".offset-md-11",".offset-md-2",".offset-md-3",".offset-md-4",".offset-md-5",".offset-md-6",".offset-md-7",".offset-md-8",".offset-md-9",".offset-sm-0",".offset-sm-1",".offset-sm-10",".offset-sm-11",".offset-sm-2",".offset-sm-3",".offset-sm-4",".offset-sm-5",".offset-sm-6",".offset-sm-7",".offset-sm-8",".offset-sm-9",".offset-xl-0",".offset-xl-1",".offset-xl-10",".offset-xl-11",".offset-xl-2",".offset-xl-3",".offset-xl-4",".offset-xl-5",".offset-xl-6",".offset-xl-7",".offset-xl-8",".offset-xl-9",".order-0",".order-1",".order-10",".order-11",".order-12",".order-2",".order-3",".order-4",".order-5",".order-6",".order-7",".order-8",".order-9",".order-first",".order-last",".order-lg-0",".order-lg-1",".order-lg-10",".order-lg-11",".order-lg-12",".order-lg-2",".order-lg-3",".order-lg-4",".order-lg-5",".order-lg-6",".order-lg-7",".order-lg-8",".order-lg-9",".order-lg-first",".order-lg-last",".order-md-0",".order-md-1",".order-md-10",".order-md-11",".order-md-12",".order-md-2",".order-md-3",".order-md-4",".order-md-5",".order-md-6",".order-md-7",".order-md-8",".order-md-9",".order-md-first",".order-md-last",".order-sm-0",".order-sm-1",".order-sm-10",".order-sm-11",".order-sm-12",".order-sm-2",".order-sm-3",".order-sm-4",".order-sm-5",".order-sm-6",".order-sm-7",".order-sm-8",".order-sm-9",".order-sm-first",".order-sm-last",".order-xl-0",".order-xl-1",".order-xl-10",".order-xl-11",".order-xl-12",".order-xl-2",".order-xl-3",".order-xl-4",".order-xl-5",".order-xl-6",".order-xl-7",".order-xl-8",".order-xl-9",".order-xl-first",".order-xl-last",".owl-item.loading",".owl-theme .owl-controls",".owl-theme .owl-controls .owl-buttons div",".owl-theme .owl-controls .owl-page",".owl-theme .owl-controls .owl-page span",".owl-theme .owl-controls .owl-page span.owl-numbers",".owl-theme .owl-controls .owl-page.active span",".owl-theme .owl-controls.clickable .owl-buttons div",".owl-theme .owl-controls.clickable .owl-page span",".p-0",".p-1",".p-2",".p-3",".p-4",".p-5",".p-lg-0",".p-lg-1",".p-lg-2",".p-lg-3",".p-lg-4",".p-lg-5",".p-md-0",".p-md-1",".p-md-2",".p-md-3",".p-md-4",".p-md-5",".p-sm-0",".p-sm-1",".p-sm-2",".p-sm-3",".p-sm-4",".p-sm-5",".p-xl-0",".p-xl-1",".p-xl-2",".p-xl-3",".p-xl-4",".p-xl-5",".page-item .page-link",".page-item.active .page-link",".page-item.disabled .page-link",".page-link",".pagination",".pagination-lg .page-item .page-link",".pagination-lg .page-link",".pagination-sm .page-item .page-link",".pagination-sm .page-link",".pb-0",".pb-1",".pb-2",".pb-3",".pb-4",".pb-5",".pb-lg-0",".pb-lg-1",".pb-lg-2",".pb-lg-3",".pb-lg-4",".pb-lg-5",".pb-md-0",".pb-md-1",".pb-md-2",".pb-md-3",".pb-md-4",".pb-md-5",".pb-sm-0",".pb-sm-1",".pb-sm-2",".pb-sm-3",".pb-sm-4",".pb-sm-5",".pb-xl-0",".pb-xl-1",".pb-xl-2",".pb-xl-3",".pb-xl-4",".pb-xl-5",".pl-0",".pl-1",".pl-2",".pl-3",".pl-4",".pl-5",".pl-lg-0",".pl-lg-1",".pl-lg-2",".pl-lg-3",".pl-lg-4",".pl-lg-5",".pl-md-0",".pl-md-1",".pl-md-2",".pl-md-3",".pl-md-4",".pl-md-5",".pl-sm-0",".pl-sm-1",".pl-sm-2",".pl-sm-3",".pl-sm-4",".pl-sm-5",".pl-xl-0",".pl-xl-1",".pl-xl-2",".pl-xl-3",".pl-xl-4",".pl-xl-5",".popover",".popover .arrow",".popover-body",".popover-header",".position-absolute",".position-fixed",".position-relative",".position-static",".position-sticky",".pr-0",".pr-1",".pr-2",".pr-3",".pr-4",".pr-5",".pr-lg-0",".pr-lg-1",".pr-lg-2",".pr-lg-3",".pr-lg-4",".pr-lg-5",".pr-md-0",".pr-md-1",".pr-md-2",".pr-md-3",".pr-md-4",".pr-md-5",".pr-sm-0",".pr-sm-1",".pr-sm-2",".pr-sm-3",".pr-sm-4",".pr-sm-5",".pr-xl-0",".pr-xl-1",".pr-xl-2",".pr-xl-3",".pr-xl-4",".pr-xl-5",".pre-scrollable",".progress",".progress-bar",".progress-bar-animated",".progress-bar-striped",".pt-0",".pt-1",".pt-2",".pt-3",".pt-4",".pt-5",".pt-lg-0",".pt-lg-1",".pt-lg-2",".pt-lg-3",".pt-lg-4",".pt-lg-5",".pt-md-0",".pt-md-1",".pt-md-2",".pt-md-3",".pt-md-4",".pt-md-5",".pt-sm-0",".pt-sm-1",".pt-sm-2",".pt-sm-3",".pt-sm-4",".pt-sm-5",".pt-xl-0",".pt-xl-1",".pt-xl-2",".pt-xl-3",".pt-xl-4",".pt-xl-5",".px-0",".px-1",".px-2",".px-3",".px-4",".px-5",".px-lg-0",".px-lg-1",".px-lg-2",".px-lg-3",".px-lg-4",".px-lg-5",".px-md-0",".px-md-1",".px-md-2",".px-md-3",".px-md-4",".px-md-5",".px-sm-0",".px-sm-1",".px-sm-2",".px-sm-3",".px-sm-4",".px-sm-5",".px-xl-0",".px-xl-1",".px-xl-2",".px-xl-3",".px-xl-4",".px-xl-5",".py-0",".py-1",".py-2",".py-3",".py-4",".py-5",".py-lg-0",".py-lg-1",".py-lg-2",".py-lg-3",".py-lg-4",".py-lg-5",".py-md-0",".py-md-1",".py-md-2",".py-md-3",".py-md-4",".py-md-5",".py-sm-0",".py-sm-1",".py-sm-2",".py-sm-3",".py-sm-4",".py-sm-5",".py-xl-0",".py-xl-1",".py-xl-2",".py-xl-3",".py-xl-4",".py-xl-5",".rounded",".rounded-0",".rounded-bottom",".rounded-circle",".rounded-left",".rounded-right",".rounded-top",".row",".small",".sr-only",".sr-only-focusable",".tab-content > .active",".tab-content > .tab-pane",".table",".table .table",".table .thead-dark th",".table .thead-light th",".table tbody + tbody",".table td",".table th",".table thead th",".table-active",".table-active > td",".table-active > th",".table-bordered",".table-bordered td",".table-bordered th",".table-bordered thead td",".table-bordered thead th",".table-danger",".table-danger > td",".table-danger > th",".table-dark",".table-dark > td",".table-dark > th",".table-dark td",".table-dark th",".table-dark thead th",".table-dark.table-bordered",".table-dark.table-hover tbody tr",".table-hover .table-active",".table-hover .table-active > td",".table-hover .table-active > th",".table-hover .table-danger",".table-hover .table-danger > td",".table-hover .table-danger > th",".table-hover .table-dark",".table-hover .table-dark > td",".table-hover .table-dark > th",".table-hover .table-info",".table-hover .table-info > td",".table-hover .table-info > th",".table-hover .table-light",".table-hover .table-light > td",".table-hover .table-light > th",".table-hover .table-primary",".table-hover .table-primary > td",".table-hover .table-primary > th",".table-hover .table-secondary",".table-hover .table-secondary > td",".table-hover .table-secondary > th",".table-hover .table-success",".table-hover .table-success > td",".table-hover .table-success > th",".table-hover .table-warning",".table-hover .table-warning > td",".table-hover .table-warning > th",".table-hover tbody tr",".table-info",".table-info > td",".table-info > th",".table-light",".table-light > td",".table-light > th",".table-primary",".table-primary > td",".table-primary > th",".table-responsive",".table-responsive > .table-bordered",".table-responsive-lg",".table-responsive-lg > .table-bordered",".table-responsive-md",".table-responsive-md > .table-bordered",".table-responsive-sm",".table-responsive-sm > .table-bordered",".table-responsive-xl",".table-responsive-xl > .table-bordered",".table-secondary",".table-secondary > td",".table-secondary > th",".table-sm td",".table-sm th",".table-success",".table-success > td",".table-success > th",".table-warning",".table-warning > td",".table-warning > th",".text-capitalize",".text-center",".text-danger",".text-dark",".text-hide",".text-info",".text-justify",".text-left",".text-lg-center",".text-lg-left",".text-lg-right",".text-light",".text-lowercase",".text-md-center",".text-md-left",".text-md-right",".text-muted",".text-nowrap",".text-primary",".text-right",".text-secondary",".text-sm-center",".text-sm-left",".text-sm-right",".text-success",".text-truncate",".text-uppercase",".text-warning",".text-white",".text-xl-center",".text-xl-left",".text-xl-right",".tooltip",".tooltip .arrow",".tooltip-inner",".tooltip.show",".valid-feedback",".valid-tooltip",".visible",".w-100",".w-25",".w-50",".w-75",".was-validated .custom-select",".was-validated .form-control","[hidden]","[tabindex=\"-1\"]","[type=\"button\"]","[type=\"number\"]","[type=\"reset\"]","[type=\"search\"]","[type=\"submit\"]","a","a > code","a.bg-danger","a.bg-dark","a.bg-info","a.bg-light","a.bg-primary","a.bg-secondary","a.bg-success","a.bg-warning","a.btn.disabled","a.text-danger","a.text-dark","a.text-info","a.text-light","a.text-primary","a.text-secondary","a.text-success","a.text-warning","abbr[data-original-title]","abbr[title]","address","article","aside","b","blockquote","body","button","button.bg-danger","button.bg-dark","button.bg-info","button.bg-light","button.bg-primary","button.bg-secondary","button.bg-success","button.bg-warning","button.close","caption","code","dd","dfn","dialog","dl","dt","fieldset","fieldset a.btn","figcaption","figure","footer","h1","h2","h3","h4","h5","h6","header","hgroup","hr","html","html [type=\"button\"]","img","input","input[type=\"button\"].btn-block","input[type=\"checkbox\"]","input[type=\"date\"]","input[type=\"datetime-local\"]","input[type=\"month\"]","input[type=\"radio\"]","input[type=\"reset\"].btn-block","input[type=\"submit\"].btn-block","input[type=\"time\"]","kbd","kbd kbd","label","legend","main","mark","nav","ol","ol ol","ol ul","optgroup","output","p","pre","pre code","progress","samp","section","select","select.form-control","small","strong","sub","summary","sup","table","tbody.collapse.show","template","textarea","th","tr.collapse.show","ul","ul ol","ul ul"];pagespeed.criticalCssBeaconInit('/ngx_pagespeed_beacon','https://realpengikut.com/buy.html?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ex0vV5l_yTi6b6wOEPeMfhzDnnQPzZE6gXHygKIrb0VAPqN18ehMN8aAmOyEALw_wcB','c_DGtnzDvR','b2Nxs0M37SQ',pagespeed.selectors);</script></body>
-
-
+</section>
+<section class="sm_subscribe_area">
+    <div class="sub_illustration_bg"></div>
+    <img class="man_img wow fadeInLeft" src="https://gosocial.co.id/assets/landing/image/sme_man.png" alt="img">
+    <img class="cup_img wow fadeInUp" src="https://gosocial.co.id/assets/landing/image/2019/03/cup2.png" alt="img">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="sm_subscribe_text">
+                    <h6>Newsletter</h6>
+                    <h2>Love Offers And Discounts ? Subscribe And Save</h2>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div id="subscribe_load" style="position: absolute;z-index: 9999;display: none;">
+                    <img src="https://my.sendinblue.com/public/theme/version4/assets/images/loader_sblue.gif" style="display: block;margin-left: auto;margin-right: auto;position: relative;top: 40%;">
+                </div>
+                <div class="view-messages" style=" margin:5px 0;"> </div>
+                <form class="sm_subscribe_form noauto"><input name="email" type="email" placeholder="Alamat Email"><button type="submit" class="subscribe_btn">Subscribe</button></form>
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="footer_area_two">
+   <div class="footer_top">
+      <div class="illustration_bg"></div>
+      <div class="container">
+         <div class="row d_flex">
+            <div class="col-md-3 col-xs-6 lang_container">
+               <div class="widget widget1 about_us_widget">
+                  <a href="#" class="f_logo">
+                  <img src="https://gosocial.co.id/assets/landing/image/logo.png" alt="f-logo">
+                  </a>
+                  <p>
+                     GoSocial merupakan creative digital agency yang membantu dalam melakukan Social Media Activation, Social Media Management, Social Media Marketing, Social Media Optimization, hingga berbagai kebutuhan Digital Marketing lainnya.                  </p>
+               </div>
+               <div class="lang-dropdown">
+                  <div class="dropbtn">
+                                          <img src="https://cdn.wpml.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/id.png"
+                        alt="Bahasa" class="flag-language">
+                     Bahasa
+                     <i class="fa fa-caret-down" id="lang-arrow"></i>
+                                       </div>
+                  <div id="myDropdown" class="dropdown-content">
+                     <a href="https://gosocial.co.id/lang/id" active>
+                     <img src="https://cdn.wpml.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/id.png"
+                        alt="Bahasa" class="flag-language"> Bahasa
+                     </a>
+                     
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-3 col-xs-6">
+               <div class="service_wedget">
+                  <h3 class="f_title">Layanan Kami</h3>
+                  <div class="menu-service-menu-container">
+                     <ul id="menu-service-menu">
+                                                <li class="menu-item"><a title="Social Media Engagement" href="https://gosocial.co.id/service/social-media-engagement">Social Media Engagement</a></li>
+                                                <li class="menu-item"><a title="Branding &amp; Design" href="https://gosocial.co.id/service/branding-design">Branding &amp; Design</a></li>
+                                                <li class="menu-item"><a title="Digital Campaign" href="https://gosocial.co.id/service/digital-campaign">Digital Campaign</a></li>
+                                                <li class="menu-item"><a title="Social Media Management" href="https://gosocial.co.id/service/social-media-management">Social Media Management</a></li>
+                                             </ul>
+                  </div>
+               </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-md-3 col-xs-6">
+               <div class="service_wedget">
+                  <h3 class="f_title">Tautan</h3>
+                  <div class="menu-helpful-links-container">
+                     <ul id="menu-helpful-links" class="">
+                        <li class="menu-item"><a href="https://gosocial.co.id/about-us">Tentang Kami</a></li>
+                        <li class="menu-item"><a href="https://gosocial.co.id/contact-us">Hubungi Kami</a></li>
+                        <li class="menu-item"><a href="https://gosocial.co.id/knowledge-base">Pusat Bantuan</a></li>
+                        <li class="menu-item"><a href="https://gosocial.co.id/blog">Blog</a></li>
+                        <li class="menu-item"><a href="https://gosocial.co.id/case-study">Studi Kasus</a></li>
+                        <li class="menu-item"><a href="https://gosocial.co.id/portofolio">Portofolio</a></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-3 col-xs-6">
+               <div class="service_wedget">
+                  <h3 class="f_title">Lokasi</h3>
+                  <div class="menu-support-container">
+                     <p><b>Office:</b><br/>
+                        Bumi Mandiri Tower 2, 12th Floor<br/>Jl. Panglima Sudirman Kav. 66-68 Surabaya - 60271
+                        <br/>
+                        <br/><b>Studio:</b><br/>
+                        Jl. Puri Sukolilo Utara II No. 507 Surabaya - 60111
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="footer_bottom_two">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-12 bottom_line">
+               <hr />
+            </div>
+            <div class="col-xs-6">
+               <p>GoSocial adalah merek milik PT Nusa Digital Media © 2020 GoSocial<br/><small>Terdaftar pada Direktorat Jendral Kekayaan Intelektual Republik Indonesia.</small></p>
+            </div>
+            <div class="col-xs-6 text-right">
+               <div class="social_footer">
+                  <ul>
+                     <li class="follow_text">Ikuti Kami</li>
+                     <li><a href="https://www.facebook.com/gosocialid/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                     <li><a href="https://www.linkedin.com/company/gosocialid" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                     <li><a href="https://instagram.com/gosocial.id" target="_blank"><i class="fa fa-instagram"></i></a></li>
+               </ul>
+                 <small><a href="https://gosocial.co.id/privacy">Kebijakan Privasi</a> - 
+                  <a href="https://gosocial.co.id/terms">Ketentuan Layanan</a></small>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+   <div id="myModalPetunjuk" class="modal">
+      <div class="modal-content">
+         <span class="close petunjuk">&times;</span>
+         <h4 class="modal-title text-center" id="myModalLabel">Petunjuk Pilih Paket</h4>
+         <div class="modal-body">
+            <div class="row">
+               <div class="col-md-4 text-center">
+                  <a>
+                     <img class="helpimg2" src="https://gosocial.co.id/assets/landing/image/step1.png" alt="">
+                     <div id='mylink'></div>
+                  </a>
+                  <h3>Tahap 1</h3>
+                  <p style="line-height:20px;"><small>Geser Toggle switch atau tombol lingkaran keatas dan kebawah untuk memilih paket dan harga yang anda inginkan.</small></p>
+               </div>
+               <div class="col-md-4 text-center">
+                  <a><img class="helpimg2" src="https://gosocial.co.id/assets/landing/image/step2.png" alt=""></a>
+                  <h3>Tahap 2</h3>
+                  <p style="line-height:20px;"><small>Setelah selesai pilih paket, kemudian klik tombol order sekarang untuk pesan.</small></p>
+               </div>
+               <div class="col-md-4 text-center">
+                  <a><img class="helpimg" src="https://gosocial.co.id/assets/landing/image/step3.png" alt=""></a>
+                  <h3>Tahap 3</h3>
+                  <p style="line-height:20px;"><small>Jika anda belum login, maka anda diarahkan terlebih dahulu ke halaman login. Jika sudah login, anda diarahkan ke halaman order</small></p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div id="myModal" class="modal">
+      <div class="modal-content">
+         <span class="close">&times;</span>
+         <h4 class="modal-title text-center" id="myModalLabel">Pilih cara kami untuk membantu:</h4>
+         <div class="modal-body">
+            <div class="row">
+               <div class="col-md-4 text-center">
+                  <a class="chat-button chatbtn">
+                     <img class="helpimg" src="https://gosocial.co.id/assets/landing/image/live-chat.png" alt="Livechat">
+                     <div id='mylink'></div>
+                  </a>
+                  <h3>Live Chat</h3>
+                  <p><small>Bantuan secara real-time mulai pk 09.00 s/d 21.00 W.I.B</small></p>
+               </div>
+               <div class="col-md-4 text-center">
+                  <a href="https://gosocial.co.id/contact-us"><img class="helpimg" src="https://gosocial.co.id/assets/landing/image/mail.png" alt="Penawaran Digital Marketing"></a>
+                  <h3>Contact Us</h3>
+                  <p><small>Bantuan melalui E-mail untuk inquiry / penawaran</small></p>
+               </div>
+               <div class="col-md-4 text-center">
+                  <a href="https://gosocial.co.id/knowledge-base"><img class="helpimg" src="https://gosocial.co.id/assets/landing/image/book.png" alt="Knowledge Base"></a>
+                  <h3>Knowledge Base</h3>
+                  <p><small>Layanan pusat bantuan yang disediakan pihak GoSocial</small></p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <script>
+      $(".btndrop").click(function(){
+      $(".btndrop").addClass("open");
+      });
+    </script>
+<script>
+  window.intercomSettings = {
+    app_id: "xex4cmbc"
+      };
+</script>
+<script>
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/xex4cmbc';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>
+<script src="https://gosocial.co.id/assets/landing/js/jquery-2.x-git.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/bootstrap.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/owl.carousel.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/wow.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/parallax.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/jquery.counterup.min.js"></script>    
+<script src="https://gosocial.co.id/assets/landing/js/jquery.waypoints.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/vendors/particles/particles.js"></script>
+<script src="https://gosocial.co.id/assets/landing/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/custom.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/BeerSlider.js"></script>
+<script src="https://gosocial.co.id/route-group"></script>
+<script src="https://gosocial.co.id/assets/landing/js/page/subscribe_email.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/nouislider.min.js"></script>
+<script src="https://gosocial.co.id/assets/landing/js/page/sub-project.js"></script>
+<script type="text/javascript">
+$.ajaxSetup({
+    headers: {
+        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+    }
+});
+</script>
+<script src="https://gosocial.co.id/assets/js/main.js"></script></body>
 </html>
